@@ -10,7 +10,7 @@ This is a package of utility functions that parse incoming KAICIID Excel data in
 ## To Run from Command-line
 1.	Requires separation of IRD data from IRD support worksheets and some amount of manual typo editing.	
 2.	Open terminal and navigate to python subfolder in application folder.
-3	Run ```python main.py path/to/file/<input filename> path/to/file/<target filename>(optional)``` (**Note: target file will be a json-ized version of input file if the second argument is left blank**)
+3.	Run ```python main.py path/to/file/<input filename> path/to/file/<target filename>(optional)``` (**Note: target file will be a json-ized version of input file if the second argument is left blank**)
 4.	Terminal will prompt for MongoDB username, password, target database and target collection
 5.	The package will write documents to target collection, raw JSON file and will verify with the number of documents inserted.
 
