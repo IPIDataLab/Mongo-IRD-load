@@ -62,6 +62,10 @@ def parse(sheet, data):
 		# contact established
 		a = get_cell(sheet,'ContactEstablished',row_index,lkey)
 		if a:
+			if a == 'Yes':
+				a = True
+			elif a  == 'No':
+				a = False
 			data[-1]['contacted'] = a
 
 		# contact person
@@ -78,6 +82,10 @@ def parse(sheet, data):
 		# international
 		a = get_cell(sheet,'International',row_index,lkey)
 		if a:
+			if a == 'Yes':
+				a = True
+			elif a  == 'No':
+				a = False
 			data[-1]['international'] = a
 
 		# type
