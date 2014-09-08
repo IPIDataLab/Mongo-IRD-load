@@ -4,6 +4,16 @@ from xlrd import cellname
 from geopy.geocoders import GoogleV3
 import re, json
 
+#############################
+#############################
+# This file contains a number
+# of utility functions used by
+# excell_parse.py for data
+# validation and error catching
+#############################
+#############################
+
+
 ###UTILITY FUNCTIONS FOR MONGO INIT PACKAGE
 #checks for na and blank values
 

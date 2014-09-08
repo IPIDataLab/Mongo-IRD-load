@@ -1,9 +1,19 @@
 #!/usr/bin/python
+
 from xlrd import cellname
 import re
 from datetime import datetime
 
 from utils import na_check, split_str_array, get_cell, geocode
+
+#############################
+#############################
+# This file parses incoming 
+# excell workbooks to convert
+# to JSON object array for input
+# into MongoDB.
+#############################
+#############################
 
 
 def parse(sheet, data):
