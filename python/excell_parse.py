@@ -8,7 +8,7 @@ from utils import na_check, split_str_array, get_cell, geocode
 
 def parse(sheet, data):
 
-	# creat ojbece where key = header name and value = columnm number
+	# creat object where key = header name and value = columnm number
 	labels = sheet.row(0)
 	lkey = { str(labels[i]).replace("text:u","").replace("'","").lower(): i for i in range(0, len(labels)) }
 

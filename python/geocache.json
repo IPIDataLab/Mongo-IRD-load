@@ -1,6 +1,5 @@
 {
     "1-6 Essex Street, London WC2R 3HY, UK": {
-        "address": "1-6 Essex Street, London WC2R 3HY, UK", 
         "lat": 51.5127783, 
         "lon": -0.113308
     }, 
@@ -9,22 +8,18 @@
         "lon": -77.01114
     }, 
     "1009 General Kennedy Ave., San Francisco, CA 94129, USA": {
-        "address": "1009 General Kennedy Ave., San Francisco, CA 94129, USA", 
         "lat": 37.8005663, 
         "lon": -122.4513534
     }, 
     "102 Church Rd, Steep, BU32 2DD, Petersfield, UK": {
-        "address": "102 Church Rd, Steep, BU32 2DD, Petersfield, UK", 
         "lat": 51.007591, 
         "lon": -0.93899
     }, 
     "1054 31st Street NW, Suite 330, Washington, DC 20007, USA": {
-        "address": "1054 31st Street NW, Suite 330, Washington, DC 20007, USA", 
         "lat": 38.9046452, 
         "lon": -77.0618952
     }, 
     "10767 Gateway West Blvd. Suite: 610 , El Paso, TX 79935, USA": {
-        "address": "10767 Gateway West Blvd. Suite: 610 , El Paso, TX 79935, USA", 
         "lat": 31.756135, 
         "lon": -106.3503507
     }, 
@@ -37,17 +32,14 @@
         "lon": -87.5986018
     }, 
     "1101 New York Avenue, NW, Suite 901, Washington, DC 20005, USA": {
-        "address": "1101 New York Avenue, NW, Suite 901, Washington, DC 20005, USA", 
         "lat": 38.90160789999999, 
         "lon": -77.02757679999999
     }, 
     "112 Grant Street, Madison, WI 53711, USA": {
-        "address": "112 Grant Street, Madison, WI 53711, USA", 
         "lat": 43.0638042, 
         "lon": -89.41435489999999
     }, 
     "1200 17th Street NW, Suite 200, 20036, Washington DC, USA": {
-        "address": "1200 17th Street NW, Suite 200, 20036, Washington DC, USA", 
         "lat": 38.9057498, 
         "lon": -77.03870549999999
     }, 
@@ -56,17 +48,14 @@
         "lon": -77.0581251
     }, 
     "121 Steuart St, San Francisco, CA 94105, USA": {
-        "address": "121 Steuart St, San Francisco, CA 94105, USA", 
         "lat": 37.7932018, 
         "lon": -122.3924432
     }, 
     "12400 Amherst Dr. #108, Austin, TX 78727, USA": {
-        "address": "12400 Amherst Dr. #108, Austin, TX 78727, USA", 
         "lat": 30.4211909, 
         "lon": -97.71683310000002
     }, 
     "125 Salusbury Rd, London, NW6 6RG, UK": {
-        "address": "125 Salusbury Rd, London, NW6 6RG, UK", 
         "lat": 51.5380495, 
         "lon": -0.2072601
     }, 
@@ -79,12 +68,10 @@
         "lon": -122.4618982
     }, 
     "131 MMRB, Rose Street, Lexington, KY 40506-0107, USA": {
-        "address": "131 MMRB, Rose Street, Lexington, KY 40506-0107, USA", 
         "lat": 38.0371606, 
         "lon": -84.50074210000001
     }, 
     "1426 9th Street NW, 2nd Floor, Washington, DC 20001-3330, USA": {
-        "address": "1426 9th Street NW, 2nd Floor, Washington, DC 20001-3330, USA", 
         "lat": 38.9093738, 
         "lon": -77.02419619999999
     }, 
@@ -97,7 +84,6 @@
         "lon": -122.328173
     }, 
     "145 W 28th St., 11th Fl., New York, NY, USA": {
-        "address": "145 W 28th St., 11th Fl., New York, NY, USA", 
         "lat": 40.7127837, 
         "lon": -74.0059413
     }, 
@@ -110,7 +96,6 @@
         "lon": -71.192544
     }, 
     "16 Tavistock Crescent, London, W11 1AP, UK": {
-        "address": "16 Tavistock Crescent, London, W11 1AP, UK", 
         "lat": 51.5204912, 
         "lon": -0.2018281
     }, 
@@ -119,22 +104,18 @@
         "lon": -77.044052
     }, 
     "1601 Connecticut Avenue NW, Washington, DC 20009, USA": {
-        "address": "1601 Connecticut Avenue NW, Washington, DC 20009, USA", 
         "lat": 38.9113694, 
         "lon": -77.044052
     }, 
     "165 E 56th St, New York, NY 10022, USA": {
-        "address": "165 E 56th St, New York, NY 10022, USA", 
         "lat": 40.7598618, 
         "lon": -73.9683343
     }, 
     "17 Courtiers Green, Clifton Hampden, OX14 3EN, Abingdon, UK": {
-        "address": "17 Courtiers Green, Clifton Hampden, OX14 3EN, Abingdon, UK", 
         "lat": 51.6592817, 
         "lon": -1.2110836
     }, 
     "1900 Camden Ave., Suite 201-E, San Jose, CA 95124, USA": {
-        "address": "1900 Camden Ave., Suite 201-E, San Jose, CA 95124, USA", 
         "lat": 37.2614485, 
         "lon": -121.9236729
     }, 
@@ -143,12 +124,10 @@
         "lon": -122.1101353
     }, 
     "199, Preston Road, Brighton, East Sussex, BN1 6SA United Kingdom": {
-        "address": "199, Preston Road, Brighton, East Sussex, BN1 6SA United Kingdom", 
         "lat": 50.8430089, 
         "lon": -0.1513487
     }, 
     "2 Arrow Street, 4th floor, Cambridge, MA 02138, USA": {
-        "address": "2 Arrow Street, 4th floor, Cambridge, MA 02138, USA", 
         "lat": 42.3707477, 
         "lon": -71.1145251
     }, 
@@ -161,7 +140,6 @@
         "lon": -118.2428934
     }, 
     "200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA": {
-        "address": "200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA", 
         "lat": 41.0762077, 
         "lon": -73.85874609999999
     }, 
@@ -178,17 +156,14 @@
         "lon": -73.9559736
     }, 
     "2226 31 ST Astoria, NY 11105, USA": {
-        "address": "2226 31 ST Astoria, NY 11105, USA", 
         "lat": 40.7744567, 
         "lon": -73.912683
     }, 
     "230 N. Washington St. Suite 300, Rockville, MD 20850, USA": {
-        "address": "230 N. Washington St. Suite 300, Rockville, MD 20850, USA", 
         "lat": 39.086606, 
         "lon": -77.153533
     }, 
     "236 Zhongshan Road, Section 1, Floor 7, Yonghe, China": {
-        "address": "236 Zhongshan Road, Section 1, Floor 7, Yonghe, China", 
         "lat": 25.009028, 
         "lon": 121.5088258
     }, 
@@ -197,7 +172,6 @@
         "lon": -75.50957129999999
     }, 
     "26 boulevard Malesherbes, 3eme \u00e9tage, F-75008, Paris, France": {
-        "address": "26 boulevard Malesherbes, 3eme \u00e9tage, F-75008, Paris, France", 
         "lat": 48.8718722, 
         "lon": 2.3176432
     }, 
@@ -214,7 +188,6 @@
         "lon": -121.9475774
     }, 
     "3101 Wisconsin Ave. NW, Washington, DC 20016-5098, USA": {
-        "address": "3101 Wisconsin Ave. NW, Washington, DC 20016-5098, USA", 
         "lat": 38.930649, 
         "lon": -77.0727598
     }, 
@@ -223,7 +196,6 @@
         "lon": -71.1350575
     }, 
     "32 rue des Grottes, 1201 Geneva, Switzerland": {
-        "address": "32 rue des Grottes, 1201 Geneva, Switzerland", 
         "lat": 46.2116485, 
         "lon": 6.1386211
     }, 
@@ -236,27 +208,22 @@
         "lon": -77.0667244
     }, 
     "3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA": {
-        "address": "3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA", 
         "lat": 38.9170185, 
         "lon": -76.95500779999999
     }, 
     "409 Prospect Street, New Haven, CT 06511, USA": {
-        "address": "409 Prospect Street, New Haven, CT 06511, USA", 
         "lat": 41.32365069999999, 
         "lon": -72.922218
     }, 
     "42-09 47th Avenue, Suite 4K, Sunnyside, NY 11104, USA": {
-        "address": "42-09 47th Avenue, Suite 4K, Sunnyside, NY 11104, USA", 
         "lat": 40.7418041, 
         "lon": -73.922322
     }, 
     "4245 East Avenue, Rochester, NY 14618, USA": {
-        "address": "4245 East Avenue, Rochester, NY 14618, USA", 
         "lat": 43.1014561, 
         "lon": -77.51657809999999
     }, 
     "43a Emek Refaim St., PO Box 8771, The German Colony, Jerusalem 91086, Israel": {
-        "address": "43a Emek Refaim St., PO Box 8771, The German Colony, Jerusalem 91086, Israel", 
         "lat": 31.7625152, 
         "lon": 35.2182388
     }, 
@@ -269,12 +236,10 @@
         "lon": -77.0070167
     }, 
     "46-60 156th Street, Flushing, NY 11355, USA": {
-        "address": "46-60 156th Street, Flushing, NY 11355, USA", 
         "lat": 40.7524793, 
         "lon": -73.810723
     }, 
     "475 Riverside Drive, Suite 248, New York, NY 10115, USA": {
-        "address": "475 Riverside Drive, Suite 248, New York, NY 10115, USA", 
         "lat": 40.8108221, 
         "lon": -73.9639856
     }, 
@@ -283,27 +248,22 @@
         "lon": -73.9639856
     }, 
     "5 Clermont Ganneau, Jerusalem, Israel": {
-        "address": "5 Clermont Ganneau, Jerusalem, Israel", 
         "lat": 31.7959303, 
         "lon": 35.2330962
     }, 
     "5 Trading Post Lane, Putnam Valley, NY 10579, USA": {
-        "address": "5 Trading Post Lane, Putnam Valley, NY 10579, USA", 
         "lat": 41.405061, 
         "lon": -73.850268
     }, 
     "50 Harwood Dr. East, Glen Cove, NY 11542, USA": {
-        "address": "50 Harwood Dr. East, Glen Cove, NY 11542, USA", 
         "lat": 40.872186, 
         "lon": -73.643973
     }, 
     "500 North Washington Street, Alexandria, VA 22314, USA": {
-        "address": "500 North Washington Street, Alexandria, VA 22314, USA", 
         "lat": 38.809811, 
         "lon": -77.0462258
     }, 
     "505 Alexander Ave, Durham, NC 27705, USA": {
-        "address": "505 Alexander Ave, Durham, NC 27705, USA", 
         "lat": 36.001635, 
         "lon": -78.9266632
     }, 
@@ -316,7 +276,6 @@
         "lon": -4.276027399999999
     }, 
     "55 avenue Kl\u00e9ber, F-75784 CEDEX 16, Paris, France": {
-        "address": "55 avenue Kl\u00e9ber, F-75784 CEDEX 16, Paris, France", 
         "lat": 48.8671079, 
         "lon": 2.2902397
     }, 
@@ -325,22 +284,18 @@
         "lon": -121.6420739
     }, 
     "6446 211th St, Oakland Gdns, NY 11364-2121, USA": {
-        "address": "6446 211th St, Oakland Gdns, NY 11364-2121, USA", 
         "lat": 40.743403, 
         "lon": -73.7648959
     }, 
     "7 Grange Road, Bushey, WD2 2LQ, Watford, UK": {
-        "address": "7 Grange Road, Bushey, WD2 2LQ, Watford, UK", 
         "lat": 51.656489, 
         "lon": -0.39032
     }, 
     "7 place de Fontenoy, 75352 07SP, Paris, France": {
-        "address": "7 place de Fontenoy, 75352 07SP, Paris, France", 
         "lat": 48.856614, 
         "lon": 2.3522219
     }, 
     "70 East Lake Street, Suite 205, Chicago, IL 60601, USA": {
-        "address": "70 East Lake Street, Suite 205, Chicago, IL 60601, USA", 
         "lat": 41.8861277, 
         "lon": -87.62555979999999
     }, 
@@ -349,17 +304,14 @@
         "lon": -157.6848453
     }, 
     "733 Third Avenue, Suite 1700, New York, NY 10017, USA": {
-        "address": "733 Third Avenue, Suite 1700, New York, NY 10017, USA", 
         "lat": 40.7528385, 
         "lon": -73.9721412
     }, 
     "7422 Villanova Dr.; Dallas; TX 75225; USA": {
-        "address": "7422 Villanova Dr.; Dallas; TX 75225; USA", 
         "lat": 32.863966, 
         "lon": -96.77933999999999
     }, 
     "750 1st St. N.E., Suite 1120, Washington, DC 20002, USA": {
-        "address": "750 1st St. N.E., Suite 1120, Washington, DC 20002, USA", 
         "lat": 38.89988839999999, 
         "lon": -77.00758060000001
     }, 
@@ -368,27 +320,22 @@
         "lon": -74.0629629
     }, 
     "777 United Nations Plaza, 9th Floor, New York, NY, USA": {
-        "address": "777 United Nations Plaza, 9th Floor, New York, NY, USA", 
         "lat": 40.7501387, 
         "lon": -73.96924980000001
     }, 
     "777 United Nations Plaza, Office 3E, New York, NY 10017, USA": {
-        "address": "777 United Nations Plaza, Office 3E, New York, NY 10017, USA", 
         "lat": 40.7501387, 
         "lon": -73.96924980000001
     }, 
     "866 United Nations Plaza, Suite 529 , New York, NY 10017, USA": {
-        "address": "866 United Nations Plaza, Suite 529 , New York, NY 10017, USA", 
         "lat": 40.7524048, 
         "lon": -73.9660299
     }, 
     "90 Long Acre, Covent Garden, London, WC2E9RZ, UK": {
-        "address": "90 Long Acre, Covent Garden, London, WC2E9RZ, UK", 
         "lat": 51.5146518, 
         "lon": -0.1222661
     }, 
     "9301 W. Bellfort Ave., Houston, TX 77031, USA": {
-        "address": "9301 W. Bellfort Ave., Houston, TX 77031, USA", 
         "lat": 29.6551608, 
         "lon": -95.5465995
     }, 
@@ -397,47 +344,38 @@
         "lon": -76.60112
     }, 
     "At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France": {
-        "address": "At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France", 
         "lat": 48.8460512, 
         "lon": 2.3234011
     }, 
     "Av de l'Europe, F-67075 CEDEX, Strasbourg, France": {
-        "address": "Av de l'Europe, F-67075 CEDEX, Strasbourg, France", 
         "lat": 48.5948369, 
         "lon": 7.773352000000001
     }, 
     "Avenue de l'Yser 11, 1040, Brussels, Belgium": {
-        "address": "Avenue de l'Yser 11, 1040, Brussels, Belgium", 
         "lat": 50.8407304, 
         "lon": 4.3972875
     }, 
     "Avenue des F.A.R , Hay Ryad, PO Box 2275, PC Code 10104, Rabat, Morocco": {
-        "address": "Avenue des F.A.R , Hay Ryad, PO Box 2275, PC Code 10104, Rabat, Morocco", 
         "lat": 33.9715904, 
         "lon": -6.8498129
     }, 
     "Avenue des nerviens 85, B-1040, Brussels, Belgium": {
-        "address": "Avenue des nerviens 85, B-1040, Brussels, Belgium", 
         "lat": 50.83849379999999, 
         "lon": 4.3899607
     }, 
     "Bad Sch\u00f6nbrunn, 6313 Edlibach-Zug, Switzerland": {
-        "address": "Bad Sch\u00f6nbrunn, 6313 Edlibach-Zug, Switzerland", 
         "lat": 47.1751157, 
         "lon": 8.5652191
     }, 
     "Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA": {
-        "address": "Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA", 
         "lat": 38.9156487, 
         "lon": -77.0737149
     }, 
     "Biblioteca Alexandrina, El Chatby, 21526, Alexandria, Egypt": {
-        "address": "Biblioteca Alexandrina, El Chatby, 21526, Alexandria, Egypt", 
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
     "Carl-Bertelsmann-Str. 256, 33311 G\u00fctersloh, Germany": {
-        "address": "Carl-Bertelsmann-Str. 256, 33311 G\u00fctersloh, Germany", 
         "lat": 51.90829, 
         "lon": 8.419089999999999
     }, 
@@ -450,47 +388,38 @@
         "lon": 0.108053
     }, 
     "Faculty of Religious Studies; McGill University; 3520 University St.; Montreal; Qebec; H3A 2A7; Canada": {
-        "address": "Faculty of Religious Studies; McGill University; 3520 University St.; Montreal; Qebec; H3A 2A7; Canada", 
         "lat": 45.5056166, 
         "lon": -73.5752899
     }, 
     "Finance Office, 3300 Chimney Rock, Suite 301, Houston, TX 77056, USA": {
-        "address": "Finance Office, 3300 Chimney Rock, Suite 301, Houston, TX 77056, USA", 
         "lat": 29.7484861, 
         "lon": -95.4699173
     }, 
     "Global Cooperation House, 65-69 Pound Lane, NW10 2HH, London, UK": {
-        "address": "Global Cooperation House, 65-69 Pound Lane, NW10 2HH, London, UK", 
         "lat": 51.5445615, 
         "lon": -0.2366707
     }, 
     "ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA": {
-        "address": "ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA", 
         "lat": 38.8915059, 
         "lon": -77.00511139999999
     }, 
     "Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin , Germany": {
-        "address": "Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin , Germany", 
         "lat": 52.50810999999999, 
         "lon": 13.35232
     }, 
     "Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany": {
-        "address": "Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany", 
         "lat": 52.5155098, 
         "lon": 13.3847539
     }, 
     "Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon": {
-        "address": "Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon", 
         "lat": 33.8886289, 
         "lon": 35.4954794
     }, 
     "Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany": {
-        "address": "Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany", 
         "lat": 49.6403, 
         "lon": 8.64481
     }, 
     "Mittelweg 177, 20148 Hamburg, Germany": {
-        "address": "Mittelweg 177, 20148 Hamburg, Germany", 
         "lat": 53.56446, 
         "lon": 9.994919999999999
     }, 
@@ -503,17 +432,14 @@
         "lon": 121.9131761
     }, 
     "Old City, PO Box 14359, 91142 Jerusalem, Israel": {
-        "address": "Old City, PO Box 14359, 91142 Jerusalem, Israel", 
         "lat": 31.7776563, 
         "lon": 35.2324593
     }, 
     "Orlanda Brugnola, 521 Fifth Ave, Suite 1730, New York, NY 10175 USA": {
-        "address": "Orlanda Brugnola, 521 Fifth Ave, Suite 1730, New York, NY 10175 USA", 
         "lat": 40.7542123, 
         "lon": -73.9800242
     }, 
     "PO Box 12205, Arlington, VA 22219-2205, USA": {
-        "address": "PO Box 12205, Arlington, VA 22219-2205, USA", 
         "lat": 38.89, 
         "lon": -77.0699999
     }, 
@@ -526,107 +452,86 @@
         "lon": 144.970625
     }, 
     "PO Box 19309, Doha, Qatar": {
-        "address": "PO Box 19309, Doha, Qatar", 
         "lat": 25.286667, 
         "lon": 51.533333
     }, 
     "PO Box 1976, Frederick, MD 21702, USA": {
-        "address": "PO Box 1976, Frederick, MD 21702, USA", 
         "lat": 39.4839351, 
         "lon": -77.4472495
     }, 
     "PO Box 2238, El Horriya, Heliopolis, Cairo, Egypt": {
-        "address": "PO Box 2238, El Horriya, Heliopolis, Cairo, Egypt", 
         "lat": 30.0875531, 
         "lon": 31.34153809999999
     }, 
     "PO Box 24, Besiktas, 34354, Istanbul, Turkey": {
-        "address": "PO Box 24, Besiktas, 34354, Istanbul, Turkey", 
         "lat": 41.043313, 
         "lon": 29.0130721
     }, 
     "PO Box 271, Nyack, NY 10960, USA": {
-        "address": "PO Box 271, Nyack, NY 10960, USA", 
         "lat": 41.0938791, 
         "lon": -73.9065883
     }, 
     "PO Box 288, Jalan Sultan, 46730, Petaling Jaya, Malaysia": {
-        "address": "PO Box 288, Jalan Sultan, 46730, Petaling Jaya, Malaysia", 
         "lat": 3.1002358, 
         "lon": 101.6446573
     }, 
     "PO Box 316, Yorktown Heights, NY 10598, USA": {
-        "address": "PO Box 316, Yorktown Heights, NY 10598, USA", 
         "lat": 41.2868678, 
         "lon": -73.78308609999999
     }, 
     "PO Box 34128, 21468, Jeddah, Saudi Arabia": {
-        "address": "PO Box 34128, 21468, Jeddah, Saudi Arabia", 
         "lat": 27.0079152, 
         "lon": 49.5891819
     }, 
     "PO Box 38, Plainfield, IN 46168, USA": {
-        "address": "PO Box 38, Plainfield, IN 46168, USA", 
         "lat": 39.6886583, 
         "lon": -86.3883506
     }, 
     "PO Box 3814, Jerusalem 91037, Israel": {
-        "address": "PO Box 3814, Jerusalem 91037, Israel", 
         "lat": 31.768319, 
         "lon": 35.21371
     }, 
     "PO Box 4036, Ramle 72140, Israel": {
-        "address": "PO Box 4036, Ramle 72140, Israel", 
         "lat": 31.931566, 
         "lon": 34.872938
     }, 
     "PO Box 4069, Chopin St., Jerusalem 91040, Israel": {
-        "address": "PO Box 4069, Chopin St., Jerusalem 91040, Israel", 
         "lat": 31.7685734, 
         "lon": 35.21502
     }, 
     "PO Box 477, N. Grosvenordale, CT 06255, USA": {
-        "address": "PO Box 477, N. Grosvenordale, CT 06255, USA", 
         "lat": 41.9856437, 
         "lon": -71.8986875
     }, 
     "PO Box 49411, Jerusalem 91491, Israel": {
-        "address": "PO Box 49411, Jerusalem 91491, Israel", 
         "lat": 31.768319, 
         "lon": 35.21371
     }, 
     "PO Box 5376, Beirut, Lebanon": {
-        "address": "PO Box 5376, Beirut, Lebanon", 
         "lat": 33.8886289, 
         "lon": 35.4954794
     }, 
     "PO Box 54259, 3722 Limassol, Cyprus": {
-        "address": "PO Box 54259, 3722 Limassol, Cyprus", 
         "lat": 35.1489362, 
         "lon": 33.3741699
     }, 
     "PO Box 60519, London W2 7JU, UK": {
-        "address": "PO Box 60519, London W2 7JU, UK", 
         "lat": 51.5163752, 
         "lon": -0.1752507
     }, 
     "PO Box 732 El Mansheia, 21111, Alexandria, Egypt": {
-        "address": "PO Box 732 El Mansheia, 21111, Alexandria, Egypt", 
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
     "PO Box 830562, Amman 11183, Jordan": {
-        "address": "PO Box 830562, Amman 11183, Jordan", 
         "lat": 31.98344, 
         "lon": 35.92783
     }, 
     "Palais Wilson, 52 rue des P\u00e2quis, 1201 Geneva, Switzerland": {
-        "address": "Palais Wilson, 52 rue des P\u00e2quis, 1201 Geneva, Switzerland", 
         "lat": 46.2149241, 
         "lon": 6.1509196
     }, 
     "Pandav Bhavan, Post Box No 2, Rajasthan, 307501, Mount Abu, India": {
-        "address": "Pandav Bhavan, Post Box No 2, Rajasthan, 307501, Mount Abu, India", 
         "lat": 24.5925909, 
         "lon": 72.7156274
     }, 
@@ -635,112 +540,90 @@
         "lon": 32.5406563
     }, 
     "Rathausallee 12, 53757, St Augustin, Germany": {
-        "address": "Rathausallee 12, 53757, St Augustin, Germany", 
         "lat": 50.77598, 
         "lon": 7.18601
     }, 
     "Rue Belliard 205 bte 13, Brussels 1040, Belgium": {
-        "address": "Rue Belliard 205 bte 13, Brussels 1040, Belgium", 
         "lat": 50.83323180000001, 
         "lon": 4.396965799999999
     }, 
     "R\u00e9sidence Palace, Rue de la Loi 155, 1040 Brussels, Belgium": {
-        "address": "R\u00e9sidence Palace, Rue de la Loi 155, 1040 Brussels, Belgium", 
         "lat": 50.83323180000001, 
         "lon": 4.396965799999999
     }, 
     "Saint Procopius Abbey, 5601 College Road, Lisle, IL 60532-2500, USA": {
-        "address": "Saint Procopius Abbey, 5601 College Road, Lisle, IL 60532-2500, USA", 
         "lat": 41.7804305, 
         "lon": -88.09107379999999
     }, 
     "Schottenring 21, 1010 Vienna, Austria": {
-        "address": "Schottenring 21, 1010 Vienna, Austria", 
         "lat": 48.2164325, 
         "lon": 16.3671679
     }, 
     "Secretariat: Voltastr. 27, 8044 Zurich, Switzerland": {
-        "address": "Secretariat: Voltastr. 27, 8044 Zurich, Switzerland", 
         "lat": 47.3779086, 
         "lon": 8.5541042
     }, 
     "Spoorstraat 38, 1815 BK Alkmaar, Netherlands": {
-        "address": "Spoorstraat 38, 1815 BK Alkmaar, Netherlands", 
         "lat": 52.6364972, 
         "lon": 4.743029300000001
     }, 
     "Star House, 104 Grafton Road, London NW5 4BA, UK": {
-        "address": "Star House, 104 Grafton Road, London NW5 4BA, UK", 
         "lat": 51.5497656, 
         "lon": -0.1483709
     }, 
     "Swedish Institute Alexandria, PO Box 1261, Mansheya Corniche, 12111, Alexandria, Egypt": {
-        "address": "Swedish Institute Alexandria, PO Box 1261, Mansheya Corniche, 12111, Alexandria, Egypt", 
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
     "The Chrysler Building, 405 Lexington Avenue, 5th floor, New York, NY 10174, USA": {
-        "address": "The Chrysler Building, 405 Lexington Avenue, 5th floor, New York, NY 10174, USA", 
         "lat": 40.7517, 
         "lon": -73.97529999999999
     }, 
     "The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia": {
-        "address": "The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia", 
         "lat": 11.5363324, 
         "lon": 104.9287294
     }, 
     "United Nations Headquarters New York, NY 10017, United States": {
-        "address": "United Nations Headquarters New York, NY 10017, United States", 
         "lat": 40.7488758, 
         "lon": -73.9680091
     }, 
     "Via Zara 20, 28813 Albagnano di Bee, Italy": {
-        "address": "Via Zara 20, 28813 Albagnano di Bee, Italy", 
         "lat": 45.965665, 
         "lon": 8.589967
     }, 
     "Via della Conciliazione 5-7, 00120 Rome, Italy": {
-        "address": "Via della Conciliazione 5-7, 00120 Rome, Italy", 
         "lat": 41.9021848, 
         "lon": 12.462564
     }, 
     "Waaggasse, 1040 Vienna": {
-        "address": "Waaggasse, 1040 Vienna", 
         "lat": 48.1951683, 
         "lon": 16.3655048
     }, 
     "Waldhaeuserstrasse 23, 72076 Tuebingen, Germany": {
-        "address": "Waldhaeuserstrasse 23, 72076 Tuebingen, Germany", 
         "lat": 48.53214999999999, 
         "lon": 9.05294
     }, 
     "Wallnerstrasse 6, 1010, Vienna, Austria": {
-        "address": "Wallnerstrasse 6, 1010, Vienna, Austria", 
         "lat": 48.2100495, 
         "lon": 16.3669631
     }, 
     "Wellesley College, 106 Central Street, Wellesley, MA 02482, USA;": {
-        "address": "Wellesley College, 106 Central Street, Wellesley, MA 02482, USA;", 
         "lat": 42.2935733, 
         "lon": -71.30592779999999
     }, 
     "Werdertorgasse 7, Vienna 1010, Austria": {
-        "address": "Werdertorgasse 7, Vienna 1010, Austria", 
         "lat": 48.2149307, 
         "lon": 16.369677
     }, 
     "Wesley House, Jesus Lane, Cambridge CB5 8BJ, UK": {
-        "address": "Wesley House, Jesus Lane, Cambridge CB5 8BJ, UK", 
         "lat": 52.2087159, 
         "lon": 0.1217738
     }, 
     "World Bank, 1818 H Street, NW, Washington, DC 20433, USA": {
-        "address": "World Bank, 1818 H Street, NW, Washington, DC 20433, USA", 
         "lat": 38.8989707, 
         "lon": -77.0424139
     }, 
     "Wytske Dijkstra, Meidoornpad 95, 3732 VS De Bilt; Netherlands": {
-        "address": "Wytske Dijkstra, Meidoornpad 95, 3732 VS De Bilt; Netherlands", 
         "lat": 52.10694909999999, 
         "lon": 5.1848184
     }
