@@ -2,7 +2,7 @@
 
 from xlrd import cellname
 from geopy.geocoders import GoogleV3
-
+import re, json
 
 ###UTILITY FUNCTIONS FOR MONGO INIT PACKAGE
 #checks for na and blank values
@@ -37,36 +37,40 @@ def get_cell(sheet, field, row_index, lkey, str_split = False):
 		a = [ i.strip(';').strip(' ') for i in a if i.strip(';').strip(' ') ]
 	return a
 
-def geocode():
-	# define geolatcaor scheme. GoogleV3 is open streetmaps but can also choose a number of other schemes. See docs.
+def geocode(address):
+	## load geocoding cache
 	geolocator = GoogleV3()
+	try:
+		geocache = json.load(open('geocache.json'))
+	except Exception as e:
+		geocache = {}
 
+	address = address.decode("utf8")
 
-		# ### ADD ADDRESS AND GEOLOCATION
-		# ###
-		# # main address, skip if NA
-		# # if IOsheet.cell(row_index,5).value.encode('utf8') != 'n.a.':
-		# # 	address = IOsheet.cell(row_index,5).value.encode('utf8')
-		# # 	data[-1]["address"] = address
+	try:
+		return geocache[address]
+	except KeyError:
+		pass
 
-		# # 	# error handling for particularly problematic addresses
-		# # 	if address =='':
-		# # 		pass
-		# # 	elif address == '43a Emek Refaim St., PO Box 8771, The German Colony, Jerusalem 91086, Israel ':
-		# # 		location = geolocator.geocode('Emek Refaim St 43 Jerusalem, 93141')
-		# # 	elif address == 'The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia':
-		# # 		location = geolocator.geocode('University of Cambodia, Northbridge Road, Sangkat Toek Thla, Khan Sen Sok, Phnom Penh, Kingdom of Cambodia')
-		# # 	else:
-		# # 		location = geolocator.geocode(address)
-		# # 	if not location:
-		# # 		print IOsheet.cell(row_index,0).value.encode('utf8')
-		# # 		print type(location)
+	try:
+		address1 = address
+		address1 = re.sub(r'PO Box [0-9]+, ', '', address1)
+		address1 = re.sub(r'The German Colony, ', '', address1)
+		address1 = re.sub(r'The University of Cambodia, ', '', address1)
+		address1 = re.sub(r'New Taipei City 228, China', 'New Taipei City 228, Taiwan', address1)
+		address1 = re.sub(r'DB3 9BS', 'CB3 9BS', address1)
+		print address1
+		location = geolocator.geocode(address1)
+		res = { 'lat': location[1][0], 'lon': location[1][1] }
+		geocache[address] = res
+		with open('geocache.json', 'w') as outfile:
+			json.dump(geocache, outfile, sort_keys = True, indent = 4, ensure_ascii=True)
+			#import ipdb; ipdb.set_trace()#
+		return res
 
-		# # 	data[-1]['loc'] = {'x':location.latitude, 'y':location.longitude}
-		# # print data[-1]['name_en']
+	except Exception as e:
+		print e
+		print u"Couldn't geocode %s" % address
+		#import ipdb; ipdb.set_trace()
+		return {}
 
-		# ######################
-		# ### NEED TO HANDLE ARRAY
-		# ### OF ALTERNATE ADDRESSES
-		# ### SEPARATED BY COLUMN
-		# ######################

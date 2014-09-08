@@ -1,6 +1,13 @@
 [
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":48.2164325,
+                "lon":16.3671679,
+                "address":"Schottenring 21, 1010 Vienna, Austria"
+            }
+        },
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
         "staff":"No information",
         "IO_relations":"No information",
@@ -72,6 +79,13 @@
             "United Nations"
         ],
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7517,
+                "lon":-73.97529999999999,
+                "address":"The Chrysler Building, 405 Lexington Avenue, 5th floor, New York, NY 10174, USA"
+            }
+        },
         "aim_URL":"http://www.unaoc.org/about/",
         "staff":"No information",
         "IO_relations":[
@@ -201,6 +215,13 @@
         "main_names":[
             "Congr\u00e8s international des religions"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":41.8861277,
+                "lon":-87.62555979999999,
+                "address":"70 East Lake Street, Suite 205, Chicago, IL 60601, USA"
+            }
+        },
         "aim_URL":"http://www.parliamentofreligions.org/index.cfm?n=1",
         "staff":[
             "Director",
@@ -420,6 +441,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":32.863966,
+                "lon":-96.77933999999999,
+                "address":"7422 Villanova Dr.; Dallas; TX 75225; USA"
+            },
+            "AddressMain":{
+                "lat":31.7685734,
+                "lon":35.21502,
+                "address":"PO Box 4069, Chopin St., Jerusalem 91040, Israel"
+            },
+            "Address3AndMore":{
+                "lat":45.5056166,
+                "lon":-73.5752899,
+                "address":"Faculty of Religious Studies; McGill University; 3520 University St.; Montreal; Qebec; H3A 2A7; Canada"
+            }
+        },
         "aim_URL":"http://www.elijah-interfaith.org",
         "staff":[
             "Executive Director",
@@ -521,6 +559,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":47.3779086,
+                "lon":8.5541042,
+                "address":"Secretariat: Voltastr. 27, 8044 Zurich, Switzerland"
+            }
+        },
         "aim_URL":"http://www.epil.ch/EPIL_welcome.html",
         "staff":"No information",
         "IO_relations":[
@@ -580,6 +625,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":31.768319,
+                "lon":35.21371,
+                "address":"PO Box 3814, Jerusalem 91037, Israel"
+            }
+        },
         "aim_URL":"http://interfaithencounter.wordpress.com/about/our-history/",
         "staff":"No information",
         "IO_relations":[
@@ -711,6 +763,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":49.6403,
+                "lon":8.64481,
+                "address":"Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany"
+            }
+        },
         "aim_URL":"http://www.iccj.org/About-us.2.0.html",
         "staff":"No information",
         "IO_relations":[
@@ -811,6 +870,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9093738,
+                "lon":-77.02419619999999,
+                "address":"1426 9th Street NW, 2nd Floor, Washington, DC 20001-3330, USA"
+            }
+        },
         "aim_URL":"http://nain.org/about-us/mission-history/",
         "staff":"No information",
         "IO_relations":[
@@ -948,6 +1014,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":51.5497656,
+                "lon":-0.1483709,
+                "address":"Star House, 104 Grafton Road, London NW5 4BA, UK"
+            }
+        },
         "aim_URL":"http://www.3ff.org.uk/about-us/",
         "staff":"No information",
         "IO_relations":"No information",
@@ -1047,6 +1120,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":31.98344,
+                "lon":35.92783,
+                "address":"PO Box 830562, Amman 11183, Jordan"
+            }
+        },
         "aim_URL":"http://www.riifs.org/about-riifs.html",
         "staff":"No information",
         "IO_relations":[
@@ -1155,6 +1235,18 @@
             "The Hommes de Parole Foundation"
         ],
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":31.7776563,
+                "lon":35.2324593,
+                "address":"Old City, PO Box 14359, 91142 Jerusalem, Israel"
+            },
+            "AddressMain":{
+                "lat":46.2116485,
+                "lon":6.1386211,
+                "address":"32 rue des Grottes, 1201 Geneva, Switzerland"
+            }
+        },
         "aim_URL":"http://www.imamsetrabbins.org",
         "staff":"No information",
         "IO_relations":[
@@ -1240,6 +1332,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":41.2868678,
+                "lon":-73.78308609999999,
+                "address":"PO Box 316, Yorktown Heights, NY 10598, USA"
+            }
+        },
         "aim_URL":"http://www.globalpeaceworks.org/about/",
         "staff":"No information",
         "IO_relations":[
@@ -1297,6 +1396,18 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":51.656489,
+                "lon":-0.39032,
+                "address":"7 Grange Road, Bushey, WD2 2LQ, Watford, UK"
+            },
+            "AddressMain":{
+                "lat":40.7501387,
+                "lon":-73.96924980000001,
+                "address":"777 United Nations Plaza, 9th Floor, New York, NY, USA"
+            }
+        },
         "aim_URL":"http://www.rfp.org/vision-history/mission",
         "staff":"No information",
         "IO_relations":[
@@ -1444,6 +1555,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7127837,
+                "lon":-74.0059413,
+                "address":"145 W 28th St., 11th Fl., New York, NY, USA"
+            }
+        },
         "aim_URL":"http://www.intersectionsinternational.org/about-us/history-logo",
         "staff":[
             "15 employees"
@@ -1539,6 +1657,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.8005663,
+                "lon":-122.4513534,
+                "address":"1009 General Kennedy Ave., San Francisco, CA 94129, USA"
+            }
+        },
         "aim_URL":"http://www.uri.org/about_uri",
         "staff":[
             "32 employees"
@@ -1702,6 +1827,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":39.4839351,
+                "lon":-77.4472495,
+                "address":"PO Box 1976, Frederick, MD 21702, USA"
+            }
+        },
         "aim_URL":"http://www.clergybeyondborders.org",
         "staff":"No information",
         "IO_relations":"No information",
@@ -1770,6 +1902,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.89,
+                "lon":-77.0699999,
+                "address":"PO Box 12205, Arlington, VA 22219-2205, USA"
+            }
+        },
         "aim_URL":"http://globalengage.org/about/endorsements",
         "staff":[
             "14 employees"
@@ -1879,6 +2018,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.930649,
+                "lon":-77.0727598,
+                "address":"3101 Wisconsin Ave. NW, Washington, DC 20016-5098, USA"
+            }
+        },
         "aim_URL":"http://www.nationalcathedral.org/learn/summit2010/faq.shtml",
         "staff":[
             "13 employees"
@@ -1966,6 +2112,18 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":51.5146518,
+                "lon":-0.1222661,
+                "address":"90 Long Acre, Covent Garden, London, WC2E9RZ, UK"
+            },
+            "AddressMain":{
+                "lat":38.9046452,
+                "lon":-77.0618952,
+                "address":"1054 31st Street NW, Suite 330, Washington, DC 20007, USA"
+            }
+        },
         "aim_URL":"http://coexistfoundation.org/about/",
         "staff":[
             "11 employees"
@@ -2103,6 +2261,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":33.8886289,
+                "lon":35.4954794,
+                "address":"Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon"
+            }
+        },
         "aim_URL":"http://www.adyanvillage.net/Profile",
         "staff":"No information",
         "IO_relations":[
@@ -2279,6 +2444,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7528385,
+                "lon":-73.9721412,
+                "address":"733 Third Avenue, Suite 1700, New York, NY 10017, USA"
+            }
+        },
         "aim_URL":"http://www.afsv.org/about-us/overview/#.U2C0bcZMBaU",
         "staff":"No information",
         "IO_relations":[
@@ -2376,6 +2548,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9156487,
+                "lon":-77.0737149,
+                "address":"Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA"
+            }
+        },
         "aim_URL":"http://berkleycenter.georgetown.edu/wfdd/about",
         "staff":"No information",
         "IO_relations":[
@@ -2538,6 +2717,13 @@
             "Georgetown University"
         ],
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9156487,
+                "lon":-77.0737149,
+                "address":"Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA"
+            }
+        },
         "aim_URL":"http://berkleycenter.georgetown.edu/about",
         "staff":"No information",
         "IO_relations":[
@@ -2909,6 +3095,13 @@
             "University of Hamburg"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":53.56446,
+                "lon":9.994919999999999,
+                "address":"Mittelweg 177, 20148 Hamburg, Germany"
+            }
+        },
         "aim_URL":"http://www.awr.uni-hamburg.de/de/ueber-awr/profil.html",
         "staff":"No information",
         "IO_relations":[
@@ -3059,6 +3252,23 @@
         "main_names":[
             "Bertelsmann Stiftung"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":38.90160789999999,
+                "lon":-77.02757679999999,
+                "address":"1101 New York Avenue, NW, Suite 901, Washington, DC 20005, USA"
+            },
+            "AddressMain":{
+                "lat":51.90829,
+                "lon":8.419089999999999,
+                "address":"Carl-Bertelsmann-Str. 256, 33311 G\u00fctersloh, Germany"
+            },
+            "Address3AndMore":{
+                "lat":50.83323180000001,
+                "lon":4.396965799999999,
+                "address":"R\u00e9sidence Palace, Rue de la Loi 155, 1040 Brussels, Belgium"
+            }
+        },
         "aim_URL":"http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-A3A1B9DF-0D8D5A25/bst_engl/hs.xsl/269.htm",
         "staff":"No information",
         "IO_relations":[
@@ -3246,6 +3456,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":40.7542123,
+                "lon":-73.9800242,
+                "address":"Orlanda Brugnola, 521 Fifth Ave, Suite 1730, New York, NY 10175 USA"
+            },
+            "AddressMain":{
+                "lat":51.5127783,
+                "lon":-0.113308,
+                "address":"1-6 Essex Street, London WC2R 3HY, UK"
+            },
+            "Address3AndMore":{
+                "lat":52.10694909999999,
+                "lon":5.1848184,
+                "address":"Wytske Dijkstra, Meidoornpad 95, 3732 VS De Bilt; Netherlands"
+            }
+        },
         "aim_URL":"https://iarf.net/wp-content/uploads/2012/03/IARF-Tri-fold-Pamphlet-2012.pdf",
         "staff":"No information",
         "IO_relations":[
@@ -3366,6 +3593,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.872186,
+                "lon":-73.643973,
+                "address":"50 Harwood Dr. East, Glen Cove, NY 11542, USA"
+            }
+        },
         "aim_URL":"http://www.ialrw.org",
         "staff":"No information",
         "IO_relations":[
@@ -3439,6 +3673,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":36.001635,
+                "lon":-78.9266632,
+                "address":"505 Alexander Ave, Durham, NC 27705, USA"
+            },
+            "AddressMain":{
+                "lat":31.7959303,
+                "lon":35.2330962,
+                "address":"5 Clermont Ganneau, Jerusalem, Israel"
+            },
+            "Address3AndMore":{
+                "lat":29.7484861,
+                "lon":-95.4699173,
+                "address":"Finance Office, 3300 Chimney Rock, Suite 301, Houston, TX 77056, USA"
+            }
+        },
         "aim_URL":"http://www.k4p.org/mission/",
         "staff":"No information",
         "IO_relations":[
@@ -3503,6 +3754,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7501387,
+                "lon":-73.96924980000001,
+                "address":"777 United Nations Plaza, Office 3E, New York, NY 10017, USA"
+            }
+        },
         "aim_URL":"http://templeofunderstanding.org/who-we-are/",
         "staff":[
             "4 full-time employees"
@@ -3626,6 +3884,18 @@
             "The Office of the High Commissioner for Human Rights"
         ],
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":40.7488758,
+                "lon":-73.9680091,
+                "address":"United Nations Headquarters New York, NY 10017, United States"
+            },
+            "AddressMain":{
+                "lat":46.2149241,
+                "lon":6.1509196,
+                "address":"Palais Wilson, 52 rue des P\u00e2quis, 1201 Geneva, Switzerland"
+            }
+        },
         "aim_URL":"http://www.tandemproject.com/program/introduction.htm",
         "staff":"No information",
         "IO_relations":[
@@ -3691,6 +3961,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.809811,
+                "lon":-77.0462258,
+                "address":"500 North Washington Street, Alexandria, VA 22314, USA"
+            }
+        },
         "aim_URL":"http://www.religionandpolicy.org/about-the-institute/",
         "staff":[
             "5 full-time employees"
@@ -3783,6 +4060,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":31.768319,
+                "lon":35.21371,
+                "address":"PO Box 49411, Jerusalem 91491, Israel"
+            }
+        },
         "aim_URL":"http://www.crihl.org/content/crihl-history",
         "staff":[
             "2 employee"
@@ -3866,6 +4150,18 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":50.83323180000001,
+                "lon":4.396965799999999,
+                "address":"Rue Belliard 205 bte 13, Brussels 1040, Belgium"
+            },
+            "AddressMain":{
+                "lat":38.9113694,
+                "lon":-77.044052,
+                "address":"1601 Connecticut Avenue NW, Washington, DC 20009, USA"
+            }
+        },
         "aim_URL":"http://www.sfcg.org/sfcg/sfcg_home.html",
         "staff":[
             "More than 500 employees."
@@ -4253,6 +4549,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":30.4211909,
+                "lon":-97.71683310000002,
+                "address":"12400 Amherst Dr. #108, Austin, TX 78727, USA"
+            },
+            "AddressMain":{
+                "lat":29.6551608,
+                "lon":-95.5465995,
+                "address":"9301 W. Bellfort Ave., Houston, TX 77031, USA"
+            },
+            "Address3AndMore":{
+                "lat":31.756135,
+                "lon":-106.3503507,
+                "address":"10767 Gateway West Blvd. Suite: 610 , El Paso, TX 79935, USA"
+            }
+        },
         "aim_URL":"http://www.interfaithdialog.org",
         "staff":"No information",
         "IO_relations":[
@@ -4360,6 +4673,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":25.286667,
+                "lon":51.533333,
+                "address":"PO Box 19309, Doha, Qatar"
+            }
+        },
         "aim_URL":"http://dicid.org/english/aboutus.php",
         "staff":"No information",
         "IO_relations":"No information",
@@ -4468,6 +4788,18 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":48.8718722,
+                "lon":2.3176432,
+                "address":"26 boulevard Malesherbes, 3eme \u00e9tage, F-75008, Paris, France"
+            },
+            "AddressMain":{
+                "lat":50.8430089,
+                "lon":-0.1513487,
+                "address":"199, Preston Road, Brighton, East Sussex, BN1 6SA United Kingdom"
+            }
+        },
         "aim_URL":"http://www.ghfp.org/about.aspx",
         "staff":"No information",
         "IO_relations":[
@@ -4597,6 +4929,18 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":51.6592817,
+                "lon":-1.2110836,
+                "address":"17 Courtiers Green, Clifton Hampden, OX14 3EN, Abingdon, UK"
+            },
+            "AddressMain":{
+                "lat":51.007591,
+                "lon":-0.93899,
+                "address":"102 Church Rd, Steep, BU32 2DD, Petersfield, UK"
+            }
+        },
         "aim_URL":"http://interfaith-centre.org/about-iic/history-newsletter/",
         "staff":"No information",
         "IO_relations":[
@@ -4696,6 +5040,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":27.0079152,
+                "lon":49.5891819,
+                "address":"PO Box 34128, 21468, Jeddah, Saudi Arabia"
+            }
+        },
         "aim_URL":"http://dialogueonline.org/top.htm",
         "staff":"No information",
         "IO_relations":[
@@ -4786,6 +5137,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":3.1002358,
+                "lon":101.6446573,
+                "address":"PO Box 288, Jalan Sultan, 46730, Petaling Jaya, Malaysia"
+            }
+        },
         "aim_URL":"http://www.just-international.org/objectives/",
         "staff":"No information",
         "IO_relations":[
@@ -4874,6 +5232,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7418041,
+                "lon":-73.922322,
+                "address":"42-09 47th Avenue, Suite 4K, Sunnyside, NY 11104, USA"
+            }
+        },
         "aim_URL":"http://www.irfwp.org/wp/index.php/about-us/",
         "staff":"No information",
         "IO_relations":[
@@ -4961,6 +5326,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":45.965665,
+                "lon":8.589967,
+                "address":"Via Zara 20, 28813 Albagnano di Bee, Italy"
+            }
+        },
         "aim_URL":"http://www.lgpt.net/lama_found.htm",
         "staff":"No information",
         "IO_relations":[
@@ -5064,6 +5436,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":30.0875531,
+                "lon":31.34153809999999,
+                "address":"PO Box 2238, El Horriya, Heliopolis, Cairo, Egypt"
+            },
+            "AddressMain":{
+                "lat":33.8886289,
+                "lon":35.4954794,
+                "address":"PO Box 5376, Beirut, Lebanon"
+            },
+            "Address3AndMore":{
+                "lat":35.1489362,
+                "lon":33.3741699,
+                "address":"PO Box 54259, 3722 Limassol, Cyprus"
+            }
+        },
         "aim_URL":"http://www.mec-churches.org/about/council_five_themes.htm",
         "staff":"No information",
         "IO_relations":[
@@ -5195,6 +5584,13 @@
         "main_names":[
             "Dialogue Interreligieux Monastique"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":41.7804305,
+                "lon":-88.09107379999999,
+                "address":"Saint Procopius Abbey, 5601 College Road, Lisle, IL 60532-2500, USA"
+            }
+        },
         "aim_URL":"http://www.dimmid.org/index.asp?Type=B_BASIC&SEC=%7B7AC675FA-BCCD-4E41-9E1F-6A7A01C910E9%7D&DE=%7B2F990FEA-A2BE-4269-8044-76777001FD2A%7D",
         "staff":"No information",
         "IO_relations":[
@@ -5338,6 +5734,13 @@
             "Anglican Communion"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":51.5204912,
+                "lon":-0.2018281,
+                "address":"16 Tavistock Crescent, London, W11 1AP, UK"
+            }
+        },
         "aim_URL":"http://nifcon.anglicancommunion.org/index.cfm",
         "staff":[
             "2 part-time employees"
@@ -5484,6 +5887,18 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":41.9856437,
+                "lon":-71.8986875,
+                "address":"PO Box 477, N. Grosvenordale, CT 06255, USA"
+            },
+            "AddressMain":{
+                "lat":31.931566,
+                "lon":34.872938,
+                "address":"PO Box 4036, Ramle 72140, Israel"
+            }
+        },
         "aim_URL":"http://www.friendsofopenhouse.co.il/story-of-the-house/",
         "staff":"No information",
         "IO_relations":[
@@ -5624,6 +6039,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":43.0638042,
+                "lon":-89.41435489999999,
+                "address":"112 Grant Street, Madison, WI 53711, USA"
+            }
+        },
         "aim_URL":"http://www.peacecouncil.org/About/Mission",
         "staff":[
             "3 full-time employees"
@@ -5768,6 +6190,13 @@
             "Pontificio Consiglio per il Dialogo Interreligioso",
             "Pontificium Consilium pro Dialogo inter Religiones"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":41.9021848,
+                "lon":12.462564,
+                "address":"Via della Conciliazione 5-7, 00120 Rome, Italy"
+            }
+        },
         "aim_URL":"http://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_pro_20051996_en.html",
         "staff":"No information",
         "IO_relations":[
@@ -5873,6 +6302,23 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":39.086606,
+                "lon":-77.153533,
+                "address":"230 N. Washington St. Suite 300, Rockville, MD 20850, USA"
+            },
+            "AddressMain":{
+                "lat":38.89988839999999,
+                "lon":-77.00758060000001,
+                "address":"750 1st St. N.E., Suite 1120, Washington, DC 20002, USA"
+            },
+            "Address3AndMore":{
+                "lat":38.0371606,
+                "lon":-84.50074210000001,
+                "address":"131 MMRB, Rose Street, Lexington, KY 40506-0107, USA"
+            }
+        },
         "aim_URL":"http://www.rumiforum.org/about/about-rumi-forum.html",
         "staff":"No information",
         "IO_relations":[
@@ -6027,6 +6473,23 @@
             "Stiftung Weltethos",
             "Fundaci\u00f3n Etica Mundial"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":48.2149307,
+                "lon":16.369677,
+                "address":"Werdertorgasse 7, Vienna 1010, Austria"
+            },
+            "AddressMain":{
+                "lat":48.53214999999999,
+                "lon":9.05294,
+                "address":"Waldhaeuserstrasse 23, 72076 Tuebingen, Germany"
+            },
+            "Address3AndMore":{
+                "lat":47.1751157,
+                "lon":8.5652191,
+                "address":"Bad Sch\u00f6nbrunn, 6313 Edlibach-Zug, Switzerland"
+            }
+        },
         "aim_URL":"https://www.weltethos.org/data-en/c-10-stiftung/11-die-stiftung.php",
         "staff":"No information",
         "IO_relations":[
@@ -6162,6 +6625,13 @@
             "Nazareth College"
         ],
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":43.1014561,
+                "lon":-77.51657809999999,
+                "address":"4245 East Avenue, Rochester, NY 14618, USA"
+            }
+        },
         "aim_URL":"http://www.naz.edu/interfaith-studies-and-dialogue",
         "staff":"No information",
         "IO_relations":[
@@ -6288,6 +6758,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":31.7625152,
+                "lon":35.2182388,
+                "address":"43a Emek Refaim St., PO Box 8771, The German Colony, Jerusalem 91086, Israel"
+            }
+        },
         "aim_URL":"http://icci.org.il/about-us/",
         "staff":[
             "Director",
@@ -6454,6 +6931,13 @@
             "Sparknews"
         ],
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":48.8460512,
+                "lon":2.3234011,
+                "address":"At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France"
+            }
+        },
         "aim_URL":"http://www.interfaithtour.com/en/projects-presentation/",
         "staff":[
             "5 volunteers"
@@ -6549,6 +7033,13 @@
             "Harvard University"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":42.3707477,
+                "lon":-71.1145251,
+                "address":"2 Arrow Street, 4th floor, Cambridge, MA 02138, USA"
+            }
+        },
         "aim_URL":"http://www.pluralism.org/international/",
         "staff":"No information",
         "IO_relations":[
@@ -6679,6 +7170,18 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":41.32365069999999,
+                "lon":-72.922218,
+                "address":"409 Prospect Street, New Haven, CT 06511, USA"
+            },
+            "AddressMain":{
+                "lat":51.5163752,
+                "lon":-0.1752507,
+                "address":"PO Box 60519, London W2 7JU, UK"
+            }
+        },
         "aim_URL":"http://www.tonyblairfaithfoundation.org/page/about-us",
         "staff":"No information",
         "IO_relations":[
@@ -6753,6 +7256,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":52.2087159,
+                "lon":0.1217738,
+                "address":"Wesley House, Jesus Lane, Cambridge CB5 8BJ, UK"
+            }
+        },
         "aim_URL":"http://www.woolfinstitute.cam.ac.uk/about/",
         "staff":"No information",
         "IO_relations":[
@@ -6849,6 +7359,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":51.5380495,
+                "lon":-0.2072601,
+                "address":"125 Salusbury Rd, London, NW6 6RG, UK"
+            }
+        },
         "aim_URL":"http://www.worldfaiths.org/about.php",
         "staff":[
             "1 part-time employee"
@@ -6964,6 +7481,23 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":40.7524048,
+                "lon":-73.9660299,
+                "address":"866 United Nations Plaza, Suite 529 , New York, NY 10017, USA"
+            },
+            "AddressMain":{
+                "lat":41.0762077,
+                "lon":-73.85874609999999,
+                "address":"200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA"
+            },
+            "Address3AndMore":{
+                "lat":38.9170185,
+                "lon":-76.95500779999999,
+                "address":"3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA"
+            }
+        },
         "aim_URL":"http://www.upf.org/about",
         "staff":[
             "8 full-time, paid",
@@ -7182,6 +7716,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.2614485,
+                "lon":-121.9236729,
+                "address":"1900 Camden Ave., Suite 201-E, San Jose, CA 95124, USA"
+            }
+        },
         "aim_URL":"https://www.abrahamicalliance.org/aai/about",
         "staff":"No information",
         "IO_relations":"No information",
@@ -7279,6 +7820,13 @@
             "World Bank"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.8989707,
+                "lon":-77.0424139,
+                "address":"World Bank, 1818 H Street, NW, Washington, DC 20433, USA"
+            }
+        },
         "aim_URL":"http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/PARTNERS/EXTDEVDIALOGUE/0,,contentMDK:21966758~menuPK:5554943~pagePK:64192523~piPK:64192458~theSitePK:537298,00.html",
         "staff":"No information",
         "IO_relations":[
@@ -7345,6 +7893,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.8108221,
+                "lon":-73.9639856,
+                "address":"475 Riverside Drive, Suite 248, New York, NY 10115, USA"
+            }
+        },
         "aim_URL":"http://www.cordobainitiative.org/about-us/",
         "staff":"No information",
         "IO_relations":"No information",
@@ -7419,6 +7974,18 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":52.6364972,
+                "lon":4.743029300000001,
+                "address":"Spoorstraat 38, 1815 BK Alkmaar, Netherlands"
+            },
+            "AddressMain":{
+                "lat":41.0938791,
+                "lon":-73.9065883,
+                "address":"PO Box 271, Nyack, NY 10960, USA"
+            }
+        },
         "aim_URL":"http://forusa.org/about/sop",
         "staff":"No information",
         "IO_relations":[
@@ -7632,6 +8199,18 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "Address2":{
+                "lat":38.8915059,
+                "lon":-77.00511139999999,
+                "address":"ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA"
+            },
+            "AddressMain":{
+                "lat":39.6886583,
+                "lon":-86.3883506,
+                "address":"PO Box 38, Plainfield, IN 46168, USA"
+            }
+        },
         "aim_URL":"http://www.isna.net/mission-and-vision.html",
         "staff":"No information",
         "IO_relations":[
@@ -7826,6 +8405,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9057498,
+                "lon":-77.03870549999999,
+                "address":"1200 17th Street NW, Suite 200, 20036, Washington DC, USA"
+            }
+        },
         "aim_URL":"http://www.usip.org/vision-mission-core-principles",
         "staff":"No information",
         "IO_relations":[
@@ -8006,6 +8592,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7744567,
+                "lon":-73.912683,
+                "address":"2226 31 ST Astoria, NY 11105, USA"
+            }
+        },
         "aim_URL":"http://worldfaith.org/about-world-faith/",
         "staff":"No information",
         "IO_relations":"No information",
@@ -8094,6 +8687,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":11.5363324,
+                "lon":104.9287294,
+                "address":"The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia"
+            }
+        },
         "aim_URL":"http://afdd.org.kh",
         "staff":"No information",
         "IO_relations":[
@@ -8177,6 +8777,13 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.7524793,
+                "lon":-73.810723,
+                "address":"46-60 156th Street, Flushing, NY 11355, USA"
+            }
+        },
         "aim_URL":"http://www.gflp.org",
         "staff":"No information",
         "IO_relations":[
@@ -8252,6 +8859,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":52.5155098,
+                "lon":13.3847539,
+                "address":"Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany"
+            },
+            "AddressMain":{
+                "lat":40.7598618,
+                "lon":-73.9683343,
+                "address":"165 E 56th St, New York, NY 10022, USA"
+            },
+            "Address3AndMore":{
+                "lat":37.7932018,
+                "lon":-122.3924432,
+                "address":"121 Steuart St, San Francisco, CA 94105, USA"
+            }
+        },
         "aim_URL":"http://www.ajc.org/site/c.7oJILSPwFfJSG/b.8449641/k.BD8F/Home.htm",
         "staff":"No information",
         "IO_relations":[
@@ -8437,6 +9061,23 @@
         "main_names":[
             "Konrad-Adenauer Stiftung"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":50.77598,
+                "lon":7.18601,
+                "address":"Rathausallee 12, 53757, St Augustin, Germany"
+            },
+            "AddressMain":{
+                "lat":52.50810999999999,
+                "lon":13.35232,
+                "address":"Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin , Germany"
+            },
+            "Address3AndMore":{
+                "lat":50.8407304,
+                "lon":4.3972875,
+                "address":"Avenue de l'Yser 11, 1040, Brussels, Belgium"
+            }
+        },
         "aim_URL":"http://www.kas.de/wf/en/71.3628/",
         "staff":"No information",
         "IO_relations":[
@@ -8602,6 +9243,23 @@
             "Consejo de Europa",
             "Europarat"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":48.8671079,
+                "lon":2.2902397,
+                "address":"55 avenue Kl\u00e9ber, F-75784 CEDEX 16, Paris, France"
+            },
+            "AddressMain":{
+                "lat":48.5948369,
+                "lon":7.773352000000001,
+                "address":"Av de l'Europe, F-67075 CEDEX, Strasbourg, France"
+            },
+            "Address3AndMore":{
+                "lat":50.83849379999999,
+                "lon":4.3899607,
+                "address":"Avenue des nerviens 85, B-1040, Brussels, Belgium"
+            }
+        },
         "aim_URL":"http://www.coe.int/en/web/about-us/who-we-are",
         "staff":[
             "About 1,800 civil servants, drawn from member states."
@@ -9249,6 +9907,23 @@
             "Fondation euro-m\u00e9diterran\u00e9enne Anna Lindh pour le dialogue entre les cultures",
             "Anna Lindh Foundation"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":31.2000924,
+                "lon":29.9187387,
+                "address":"Biblioteca Alexandrina, El Chatby, 21526, Alexandria, Egypt"
+            },
+            "AddressMain":{
+                "lat":31.2000924,
+                "lon":29.9187387,
+                "address":"PO Box 732 El Mansheia, 21111, Alexandria, Egypt"
+            },
+            "Address3AndMore":{
+                "lat":31.2000924,
+                "lon":29.9187387,
+                "address":"Swedish Institute Alexandria, PO Box 1261, Mansheya Corniche, 12111, Alexandria, Egypt"
+            }
+        },
         "aim_URL":"http://www.annalindhfoundation.org/mandate-and-founders",
         "staff":[
             "26 permanent",
@@ -9428,6 +10103,13 @@
         "main_names":[
             "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0644\u0644\u062a\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u0629\u200e"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":33.9715904,
+                "lon":-6.8498129,
+                "address":"Avenue des F.A.R , Hay Ryad, PO Box 2275, PC Code 10104, Rabat, Morocco"
+            }
+        },
         "aim_URL":"http://www.isesco.org.ma/index.php?option=com_k2&view=item&layout=item&id=3&Itemid=58&lang=en",
         "staff":"No information",
         "IO_relations":[
@@ -9725,6 +10407,13 @@
             "Organisation de la s\u00e9curit\u00e9 et la coop\u00e9ration en Europe",
             "Organisation fuer Sicherheit und Zusammenarbeit in Europa"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":48.2100495,
+                "lon":16.3669631,
+                "address":"Wallnerstrasse 6, 1010, Vienna, Austria"
+            }
+        },
         "aim_URL":"http://www.osce.org/secretariat/24704?download=true",
         "staff":[
             "Secretariat and Institutions - about 550. Field Operations - about 2,330."
@@ -9904,6 +10593,13 @@
     },
     {
         "contacted":"Yes",
+        "adresses":{
+            "AddressMain":{
+                "lat":48.1951683,
+                "lon":16.3655048,
+                "address":"Waaggasse, 1040 Vienna"
+            }
+        },
         "aim_URL":"http://www.mjconference.de/about/muslim-jewish-conference/",
         "staff":[
             "35 team members"
@@ -10004,6 +10700,13 @@
         "main_names":[
             "Centre de recherches sur l'histoire, l'art et la culture islamiques"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":41.043313,
+                "lon":29.0130721,
+                "address":"PO Box 24, Besiktas, 34354, Istanbul, Turkey"
+            }
+        },
         "aim_URL":"http://www.ircica.org/about-us/irc380.aspx",
         "staff":[
             "55 paid employees."
@@ -10159,6 +10862,13 @@
             "Organisation des Nations Unies pour l'\u00e9ducation, la science et la culture",
             "Organizaci\u00f3n de las Naciones Unidas para la Educaci\u00f3n, la Ciencia y la Cultura"
         ],
+        "adresses":{
+            "AddressMain":{
+                "lat":48.856614,
+                "lon":2.3522219,
+                "address":"7 place de Fontenoy, 75352 07SP, Paris, France"
+            }
+        },
         "aim_URL":"http://www.unesco.org/new/en/unesco/about-us/who-we-are/introducing-unesco/",
         "staff":[
             "2008: 2,038 civil servants"
@@ -10817,6 +11527,18 @@
             "Brahma Kumaris Universidad Espiritual Mundial",
             "Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya"
         ],
+        "adresses":{
+            "Address2":{
+                "lat":51.5445615,
+                "lon":-0.2366707,
+                "address":"Global Cooperation House, 65-69 Pound Lane, NW10 2HH, London, UK"
+            },
+            "AddressMain":{
+                "lat":24.5925909,
+                "lon":72.7156274,
+                "address":"Pandav Bhavan, Post Box No 2, Rajasthan, 307501, Mount Abu, India"
+            }
+        },
         "aim_URL":"http://www.brahmakumaris.org/whoweare/faq",
         "staff":[
             "Voluntary teachers (4,250) in 110 countries"
@@ -10936,6 +11658,18 @@
             "Wellesley College"
         ],
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":41.405061,
+                "lon":-73.850268,
+                "address":"5 Trading Post Lane, Putnam Valley, NY 10579, USA"
+            },
+            "AddressMain":{
+                "lat":42.2935733,
+                "lon":-71.30592779999999,
+                "address":"Wellesley College, 106 Central Street, Wellesley, MA 02482, USA;"
+            }
+        },
         "aim_URL":"http://www.wellesley.edu/religiouslife/resources/east/",
         "staff":"No information",
         "IO_relations":[
@@ -11031,6 +11765,23 @@
     },
     {
         "contacted":"No",
+        "adresses":{
+            "Address2":{
+                "lat":25.009028,
+                "lon":121.5088258,
+                "address":"236 Zhongshan Road, Section 1, Floor 7, Yonghe, China"
+            },
+            "AddressMain":{
+                "lat":25.0178293,
+                "lon":121.9131761,
+                "address":"No.7-1, Xianglan St., Fulian Village, Gongliao Dist., New Taipei City 228, China"
+            },
+            "Address3AndMore":{
+                "lat":40.743403,
+                "lon":-73.7648959,
+                "address":"6446 211th St, Oakland Gdns, NY 11364-2121, USA"
+            }
+        },
         "aim_URL":"http://www.093ljm.org",
         "staff":"No information",
         "IO_relations":"No information",
@@ -11114,6 +11865,13 @@
             "Universal Peace Federation"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":41.063418,
+                "lon":-73.85191019999999,
+                "address":"200 White Plains Road. Floor 1, Tarrytown, NY 10591, USA"
+            }
+        },
         "aim_URL":"http://www.religiousyouthservice.org/about/goals.htm",
         "staff":"No information",
         "IO_relations":[
@@ -11202,6 +11960,13 @@
             "TRACK TWO: An Institute for Citizen Diplomacy"
         ],
         "contacted":"No",
+        "adresses":{
+            "AddressMain":{
+                "lat":36.1280182,
+                "lon":-121.6420739,
+                "address":"55000 Highway 1, Big Sur, CA 93920, USA"
+            }
+        },
         "aim_URL":"http://abrahamicfamilyreunion.org/mission-program-overview/",
         "staff":"No information",
         "IO_relations":[
@@ -11332,6 +12097,13 @@
         "website":"http://www.bostontheological.org",
         "international":"No",
         "name_en":"The Boston Theological Institute",
+        "adresses":{
+            "AddressMain":{
+                "lat":42.327437,
+                "lon":-71.192544,
+                "address":"157 Herrick Road, Newton, MA 02459, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11341,6 +12113,13 @@
         "website":"http://www.interreligiousleadership.org",
         "international":"No",
         "name_en":"Center for Interreligious and Communal Leadership Education",
+        "adresses":{
+            "AddressMain":{
+                "lat":42.3248522,
+                "lon":-71.1889839,
+                "address":"210 Herrick Road, Newton, MA 02459, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11351,17 +12130,31 @@
         "parent_org":[
             "Merrimack College"
         ],
-        "name_en":"Center for the Study of Jewish-Christian-Muslim Relations",
+        "international":"No",
         "entry":{
             "date":"20140402",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"Center for the Study of Jewish-Christian-Muslim Relations",
+        "adresses":{
+            "AddressMain":{
+                "lat":42.69870239999999,
+                "lon":-71.1350575,
+                "address":"315 Turnpike Street, GL-55, North Andover, MA 01845, USA"
+            }
+        }
     },
     {
         "website":"http://centers.lstc.edu/ccme/",
         "international":"No",
         "name_en":"A Center of Christian-Muslim Engagement for Peace and Justice",
+        "adresses":{
+            "AddressMain":{
+                "lat":41.79538489999999,
+                "lon":-87.5986018,
+                "address":"1100 East 55th Street, Chicago, IL 60615, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11371,6 +12164,13 @@
         "website":"http://www.ifyc.org",
         "international":"No",
         "name_en":"Interfaith Youth Core",
+        "adresses":{
+            "AddressMain":{
+                "lat":41.8880844,
+                "lon":-87.6322098,
+                "address":"325 N. LaSalle St., Suite 775, Chicago, IL 60654, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11380,6 +12180,13 @@
         "website":"http://lisar.lss.wisc.edu",
         "international":"No",
         "name_en":"Lubar Institute for the Study of the Abrahamic Religions",
+        "adresses":{
+            "AddressMain":{
+                "lat":43.0738097,
+                "lon":-89.4000006,
+                "address":"5225 Mosse Humanities Building, 455 N. Park St., Madison, WI 53706, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11389,6 +12196,13 @@
         "website":"http://www.muslimjewishnewground.org",
         "international":"No",
         "name_en":"New Ground: A Muslim-Jewish Partnership for Change",
+        "adresses":{
+            "AddressMain":{
+                "lat":34.0534768,
+                "lon":-118.2428934,
+                "address":"200 North Spring Street, Suite 2111 Los Angeles, CA 90012, USA"
+            }
+        },
         "entry":{
             "date":"20140402",
             "author":"CT"
@@ -11398,6 +12212,13 @@
         "website":"http://www.faithhousemanhattan.org",
         "international":"No",
         "name_en":"Faith House Manhattan",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.8030984,
+                "lon":-73.9559736,
+                "address":"2110 Frederick Douglass Blvd. Suite 3C, New York, NY 10026, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11408,29 +12229,50 @@
         "parent_org":[
             "Saint Mary's College"
         ],
-        "name_en":"Center for Engaged Religious Pluralism",
+        "international":"No",
         "entry":{
             "date":"20140403",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"Center for Engaged Religious Pluralism",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.8413472,
+                "lon":-122.1101353,
+                "address":"1928 Saint Mary's Road, Moraga, CA 94575, USA"
+            }
+        }
     },
     {
         "website":"http://gtu.edu/centersandaffiliates/islamicstudies",
         "parent_org":[
             "Graduate Theological Union"
         ],
-        "name_en":"Center for Islamic Studies",
+        "international":"No",
         "entry":{
             "date":"20140403",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"Center for Islamic Studies",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.8756063,
+                "lon":-122.2618405,
+                "address":"Center for Islamic Studies, 2400 Ridge Road, Berkeley, CA 94709, USA"
+            }
+        }
     },
     {
         "website":"http://chaplaincyinstitute.org",
         "international":"No",
         "name_en":"The Chaplaincy Institute",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.8807215,
+                "lon":-122.268246,
+                "address":"1442-A Walnut St. #285, Berkeley, CA 94709, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11440,6 +12282,13 @@
         "website":"http://traubman.igc.org/dg-prog.htm",
         "international":"No",
         "name_en":"Jewish-Palestinian Living Room Dialogue Group",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.52776100000001,
+                "lon":-122.328173,
+                "address":"1448 Cedarwood Drive, San Mateo, CA 94403, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11449,6 +12298,13 @@
         "website":"https://www.marinifc.org",
         "international":"No",
         "name_en":"Marin Interfaith Council",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.9749824,
+                "lon":-122.5336847,
+                "address":"1510 Fifth Ave. San Rafael, CA 94901, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11458,6 +12314,13 @@
         "website":"http://www.interfaith-presidio.org/index.html",
         "international":"No",
         "name_en":"Interfaith Center at the Presidio",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.7992679,
+                "lon":-122.4618982,
+                "address":"130 Fisher Loop, Presidio, San Francisco, CA 94129, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11467,6 +12330,13 @@
         "website":"http://www.ing.org",
         "international":"No",
         "name_en":"Islamic Networks Group",
+        "adresses":{
+            "AddressMain":{
+                "lat":37.3175017,
+                "lon":-121.9475774,
+                "address":"3031 Tisch Way #950, San Jose, CA 95128, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11476,6 +12346,13 @@
         "website":"http://ifcmw.org",
         "international":"No",
         "name_en":"InterFaith Conference of Metropolitan Washington",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.94468699999999,
+                "lon":-77.01114,
+                "address":"100 Allison Street NW, Washington, DC 20011, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11485,6 +12362,13 @@
         "website":"http://washtheocon.org",
         "international":"No",
         "name_en":"Washington Theological Consortium",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9268138,
+                "lon":-77.000449,
+                "address":"3025 4th St. NE, Suite 120, Washington, DC 20017"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11494,6 +12378,13 @@
         "website":"http://www.rumiforum.org",
         "international":"No",
         "name_en":"Rumi Forum",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.89988839999999,
+                "lon":-77.00758060000001,
+                "address":"750 1st St. N.E., Suite 1120, Washington, DC 20002, USA"
+            }
+        },
         "entry":{
             "date":"20140403",
             "author":"CT"
@@ -11504,29 +12395,50 @@
         "parent_org":[
             "Georgetown University"
         ],
-        "name_en":"The Berkeley Center for Religion; Peace and World Affairs",
+        "international":"No",
         "entry":{
             "date":"20140403",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"The Berkeley Center for Religion; Peace and World Affairs",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9053721,
+                "lon":-77.0667244,
+                "address":"3307 M Street, Suite 200, Washington, DC 20007, USA"
+            }
+        }
     },
     {
         "website":"http://www.muhlenberg.edu/cultural/ijcu/",
         "parent_org":[
             "Muhlenberg College"
         ],
-        "name_en":"Institute for Jewish-Christian Understanding",
+        "international":"No",
         "entry":{
             "date":"20140403",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"Institute for Jewish-Christian Understanding",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.5961591,
+                "lon":-75.50957129999999,
+                "address":"2400 Chew St., Allentown, PA 18104-5586, USA"
+            }
+        }
     },
     {
         "website":"http://www.allbelievers.net/index.htm",
         "international":"No",
         "name_en":"All Believers Network",
+        "adresses":{
+            "AddressMain":{
+                "lat":21.3015015,
+                "lon":-157.6848453,
+                "address":"7081 Eleele Place, Honolulu, HI 96825-2711, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11536,6 +12448,13 @@
         "website":"http://www.interfaithcongregations.org",
         "international":"No",
         "name_en":"Council of Interfaith Communities of the United States and World Council of Interfaith Communities",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9394597,
+                "lon":-77.08806659999999,
+                "address":"4410 Massachusetts Ave., N.W., Suite 166, Washington, D.C. 20016, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11545,6 +12464,13 @@
         "website":"http://www.icjs.org",
         "international":"No",
         "name_en":"Institute for Christian and Jewish Studies",
+        "adresses":{
+            "AddressMain":{
+                "lat":39.4079079,
+                "lon":-76.60112,
+                "address":"956 Dulaney Valley Road, Baltimore, MD 21204, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11554,6 +12480,13 @@
         "website":"http://www.iid.org.ir",
         "international":"No",
         "name_en":"Institute for Interreligious Dialogue",
+        "adresses":{
+            "AddressMain":{
+                "lat":35.696111,
+                "lon":51.423056,
+                "address":"No. 38, Tahery Street Valieasr Avenue, Tehran, Iran"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11563,6 +12496,13 @@
         "website":"http://interfaithcenter.org/",
         "international":"No",
         "name_en":"Interfaith Center of New York",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.8108221,
+                "lon":-73.9639856,
+                "address":"475 Riverside Drive, Suite 540, New York, NY 10115, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11572,6 +12512,13 @@
         "website":"http://www.interfaithscotland.org",
         "international":"No",
         "name_en":"Interfaith Scotland",
+        "adresses":{
+            "AddressMain":{
+                "lat":55.8433371,
+                "lon":-4.276027399999999,
+                "address":"523 Shields Road, Glasgow, G41 2RF, UK"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11581,6 +12528,13 @@
         "website":"http://www.ifyc.org/",
         "international":"No",
         "name_en":"Interfaith Youth Core",
+        "adresses":{
+            "AddressMain":{
+                "lat":41.8880844,
+                "lon":-87.6322098,
+                "address":"325 N. LaSalle St., Suite 775, Chicago, IL 60654, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11590,6 +12544,13 @@
         "website":"http://www.ircu.or.ug",
         "international":"No",
         "name_en":"Inter-Religious Council of Uganda",
+        "adresses":{
+            "AddressMain":{
+                "lat":0.3478438,
+                "lon":32.5406563,
+                "address":"Plot 884, Centenary Road, Namirembe Hill, Kampala, Uganda"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11599,6 +12560,13 @@
         "website":"http://peaceislands.org",
         "international":"No",
         "name_en":"Peace Islands Institute",
+        "adresses":{
+            "AddressMain":{
+                "lat":40.8725326,
+                "lon":-74.0629629,
+                "address":"777 Terrace Ave., Hasbrouck Heights, NJ 07604, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11608,6 +12576,13 @@
         "website":"http://www.interfaith.cam.ac.uk",
         "international":"No",
         "name_en":"The Cambridge Inter-Faith Programme",
+        "adresses":{
+            "AddressMain":{
+                "lat":52.201957,
+                "lon":0.108053,
+                "address":"Faculty of Divinity, West Road, Cambridge DB3 9BS, UK"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11617,6 +12592,13 @@
         "website":"http://www.interfaithalliance.org",
         "international":"No",
         "name_en":"The Interfaith Alliance",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9065056,
+                "lon":-77.05182599999999,
+                "address":"1250 24th St, NW, Suite 300, Washington, DC 20037, USA"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11626,6 +12608,13 @@
         "website":"http://www.interfaithcentre.org.au",
         "international":"No",
         "name_en":"The Interfaith Centre of Melbourne",
+        "adresses":{
+            "AddressMain":{
+                "lat":-37.814492,
+                "lon":144.970625,
+                "address":"PO Box 18335, Collins Street, East Melbourne, 8003 Victoria, Australia"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11635,6 +12624,13 @@
         "website":"http://www.interfaith.org.uk/",
         "international":"No",
         "name_en":"The Inter Faith Network for the UK",
+        "adresses":{
+            "AddressMain":{
+                "lat":51.4977696,
+                "lon":-0.1481548,
+                "address":"2 Grosvenor Gardens, London SW1W 0DH, UK"
+            }
+        },
         "entry":{
             "date":"20140529",
             "author":"CT"
@@ -11644,6 +12640,13 @@
         "website":"http://www.cair.com",
         "international":"No",
         "name_en":"Council on American-Islamic Relations",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.8833981,
+                "lon":-77.0070167,
+                "address":"453 New Jersey Avenue, SE Washington, DC 20003, USA"
+            }
+        },
         "entry":{
             "date":"20140603",
             "author":"CT"
@@ -11653,6 +12656,13 @@
         "website":"http://www.mpac.org/",
         "international":"No",
         "name_en":"Muslim Public Affairs Council",
+        "adresses":{
+            "AddressMain":{
+                "lat":34.0615361,
+                "lon":-118.2870323,
+                "address":"3010 Wilshire Blvd. #217. Los Angeles, CA 90010, USA"
+            }
+        },
         "entry":{
             "date":"20140605",
             "author":"CT"
@@ -11663,17 +12673,31 @@
         "parent_org":[
             "National Council of Churches"
         ],
-        "name_en":"Interfaith Relations Commission",
+        "international":"No",
         "entry":{
             "date":"20140605",
             "author":"CT"
         },
-        "international":"No"
+        "name_en":"Interfaith Relations Commission",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.8915059,
+                "lon":-77.00511139999999,
+                "address":"110 Maryland Avenue NE, Suite 108, Washington, DC 20002-5603, USA"
+            }
+        }
     },
     {
         "website":"http://www.umcforum.org/",
         "international":"No",
         "name_en":"United Muslim Christian Forum",
+        "adresses":{
+            "AddressMain":{
+                "lat":42.1017651,
+                "lon":-75.90657829999999,
+                "address":"PO Box 1491, Binghamton, NY 13902, USA"
+            }
+        },
         "entry":{
             "date":"20140605",
             "author":"CT"
@@ -11683,6 +12707,13 @@
         "website":"http://www.usmuslimengagement.org/",
         "international":"No",
         "name_en":"U.S.-Muslim Engagement Initiative",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.9113694,
+                "lon":-77.044052,
+                "address":"1601 Connecticut Ave. NW Suite 200, Washington, DC 20009, USA; or 238 Main Street, Suite 400, Cambridge, MA 02142, USA"
+            }
+        },
         "entry":{
             "date":"20140605",
             "author":"CT"
@@ -11692,6 +12723,13 @@
         "website":"http://www.20000dialogues.org",
         "international":"No",
         "name_en":"20,000 Dialogues",
+        "adresses":{
+            "AddressMain":{
+                "lat":38.90525909999999,
+                "lon":-77.0581251,
+                "address":"1200 29th St. NW, Washington, DC 20007, USA"
+            }
+        },
         "entry":{
             "date":"20140609",
             "author":"CT"

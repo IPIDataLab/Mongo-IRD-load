@@ -229,6 +229,22 @@ def parse(sheet, data):
 		if a:
 			data[-1]['other_relations'] = a
 
+		# geocoding
+		addr = {}
+		geo = {}
+		for i in 'AddressMain Address1 Address2 Address3 Address4 Address5 Address3AndMore'.split(' '):
+			try:
+				a = get_cell(sheet, i, row_index,lkey)
+				#import ipdb; ipdb.set_trace()#
+				if a:
+					geo = geocode(a)
+					geo['address'] = a
+					addr[i] = geo
+			except KeyError:
+				pass
+		if addr:
+			data[-1]['adresses'] = addr
+
 		### ADD ENTRY STAMP DETAILs
 		###
 		a = get_cell(sheet,'Entry',row_index,lkey)
