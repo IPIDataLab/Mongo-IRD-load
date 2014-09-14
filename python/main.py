@@ -25,10 +25,11 @@ def main(argv):
 
 	arguments = len(argv)
 
-	username = raw_input('Enter your MongoDB username:')
-	password = raw_input('Enter your MongoDB password:')
-	db = raw_input('Enter MongoDB you want to insert into: ')
-	collection = raw_input('Enter ' + db + 'collection you want to insert into: ')
+	username = raw_input('Enter your MongoDB username [empty for no db]: ')
+	if username != '':
+		password = raw_input('Enter your MongoDB password: ')
+		db = raw_input('Enter MongoDB you want to insert into: ')
+		collection = raw_input('Enter ' + db + '.collection you want to insert into: ')
 
 	data = []
 	####ADD ERROR HANDLING TO CHECK FOR EXCEL
@@ -49,11 +50,11 @@ def main(argv):
 		print_out.close()
 
 	# laod into mongo i
-	if len(username) < 1 or len(password) < 1:
-		print "You must enter a username and password"
-		sys.exit()
-	else:
+	if username != '':
 		mongo_load(data,db,collection,username,password)
+		print "output stored in %s and MongoDB" %  argv[0]+".json"
+	else:
+		print "output stored in %s" % argv[0]+".json"
 
 if __name__ == '__main__':
 	main(argv[1:])

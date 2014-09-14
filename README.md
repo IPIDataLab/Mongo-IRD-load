@@ -5,7 +5,7 @@ This is a package of utility functions that parse incoming KAICIID Excel data in
 ## Dependencies
 -	[XLRD](http://www.python-excel.org/) - Python to Excel parsing library
 -	[GeoPy](https://github.com/geopy/geopy) - Python client for geocoding web-services
--	json, datetime and re modules
+-	python mondules: `json`, `datetime`, `re`, `pymongo`
  
 ## To Run from Command-line
 1.	Requires separation of IRD data from IRD support worksheets and some amount of manual typo editing.	
@@ -16,3 +16,40 @@ This is a package of utility functions that parse incoming KAICIID Excel data in
 
 ## TODO
 
+
+
+
+## Mac OS X (local) install notes
+
+Install mongodb:
+`brew install mongodb`
+
+On the command line create a database directory:
+`mkdir -p ~/IRD/db/`
+
+Launch the server:
+`mongod --dbpath ~/IRD/db/ &`
+
+Then launch a client and create a user for the ird database:
+`mongo`
+
+```
+use ird
+db.createUser(
+    {
+      user: "ird",
+      pwd: "12345678",
+      roles: [
+         { role: "readWrite", db: "ird" }
+      ]
+    }
+)
+```
+
+Now you can run `python main.py IRD` and load the excel data into mongodb. This script is cumulative, so you can add several xls files one after the other (make sure that there are no doubles).
+
+Then check the number of items:
+```
+use ird
+db.ird.find().count()
+```
