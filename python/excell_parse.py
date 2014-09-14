@@ -108,10 +108,13 @@ def parse(sheet, data):
 				org_type_array.append(char)
 			data[-1]["org_type"] = org_type_array
 
-		# thematic area of foucus
+		# thematic area of focus
 		a = get_cell(sheet,'Subject',row_index,lkey,str_split=True)
 		if a:
 			data[-1]['subject'] = a
+			for i in a:
+				if not re.match(r"\d+(\.\d)?[a-z]$", i):
+					print "please correct subject: '%s' in %s" % (i, get_cell(sheet,'MainNameEn',row_index,lkey))
 
 		# structure
 		a = get_cell(sheet,'Structure',row_index,lkey)
