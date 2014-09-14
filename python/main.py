@@ -49,7 +49,7 @@ def main(argv):
 		print_out.write(json.dumps(data, indent=4, separators=(',', ':')))
 		print_out.close()
 
-	# laod into mongo i
+	# load into mongo i
 	if username != '':
 		mongo_load(data,db,collection,username,password)
 		print "output stored in %s and MongoDB" %  argv[0]+".json"

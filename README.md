@@ -5,7 +5,7 @@ This is a package of utility functions that parse incoming KAICIID Excel data in
 ## Dependencies
 -	[XLRD](http://www.python-excel.org/) - Python to Excel parsing library
 -	[GeoPy](https://github.com/geopy/geopy) - Python client for geocoding web-services
--	python mondules: `json`, `datetime`, `re`, `pymongo`
+-	python modules: `json`, `datetime`, `re`, `pymongo`
  
 ## To Run from Command-line
 1.	Requires separation of IRD data from IRD support worksheets and some amount of manual typo editing.	
