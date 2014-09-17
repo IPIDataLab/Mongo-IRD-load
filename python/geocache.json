@@ -1,4 +1,16 @@
 {
+    "1 East 93rd Street, Suite 1C \n New York, NY, 10128 , USA": {
+        "lat": 40.78595, 
+        "lon": -73.956526
+    }, 
+    "1, rue de Varemb\u00e9, 1202 Geneva, Switzerland": {
+        "lat": 46.22112930000001, 
+        "lon": 6.1397034
+    }, 
+    "1-2-13 Shibasakicho, Tachikawa, Tokyo, Japan": {
+        "lat": 35.6962854, 
+        "lon": 139.4048828
+    }, 
     "1-6 Essex Street, London WC2R 3HY, UK": {
         "lat": 51.5127783, 
         "lon": -0.113308
@@ -20,8 +32,12 @@
         "lon": -77.0618952
     }, 
     "10767 Gateway West Blvd. Suite: 610 , El Paso, TX 79935, USA": {
-        "lat": 31.756135, 
-        "lon": -106.3503507
+        "lat": 31.7497645, 
+        "lon": -106.3391698
+    }, 
+    "11 rue de Cornavin, CH-1201, Geneva, Switzerland": {
+        "lat": 46.2078875, 
+        "lon": 6.142183699999999
     }, 
     "110 Maryland Avenue NE, Suite 108, Washington, DC 20002-5603, USA": {
         "lat": 38.8915059, 
@@ -63,6 +79,10 @@
         "lat": 38.9065056, 
         "lon": -77.05182599999999
     }, 
+    "13-15 Bryan St, Launceston, TAS 7248, Australia": {
+        "lat": -41.420767, 
+        "lon": 147.137179
+    }, 
     "130 Fisher Loop, Presidio, San Francisco, CA 94129, USA": {
         "lat": 37.7992679, 
         "lon": -122.4618982
@@ -71,9 +91,13 @@
         "lat": 38.0371606, 
         "lon": -84.50074210000001
     }, 
+    "140 Commonwealth Avenue, Chestnut Hill, MA 02467, USA": {
+        "lat": 42.3367183, 
+        "lon": -71.1713553
+    }, 
     "1426 9th Street NW, 2nd Floor, Washington, DC 20001-3330, USA": {
-        "lat": 38.9093738, 
-        "lon": -77.02419619999999
+        "lat": 38.90943, 
+        "lon": -77.0242971
     }, 
     "1442-A Walnut St. #285, Berkeley, CA 94709, USA": {
         "lat": 37.8807215, 
@@ -115,9 +139,13 @@
         "lat": 51.6592817, 
         "lon": -1.2110836
     }, 
+    "1776 I Street NW, 9th Floor\n Washington DC, 20006 USA": {
+        "lat": 38.900936, 
+        "lon": -77.041229
+    }, 
     "1900 Camden Ave., Suite 201-E, San Jose, CA 95124, USA": {
-        "lat": 37.2614485, 
-        "lon": -121.9236729
+        "lat": 37.2614142, 
+        "lon": -121.9236889
     }, 
     "1928 Saint Mary's Road, Moraga, CA 94575, USA": {
         "lat": 37.8413472, 
@@ -132,8 +160,12 @@
         "lon": -71.1145251
     }, 
     "2 Grosvenor Gardens, London SW1W 0DH, UK": {
-        "lat": 51.4977696, 
-        "lon": -0.1481548
+        "lat": 51.497635, 
+        "lon": -0.1466241
+    }, 
+    "2-11-1 Wada, Suginami-ku, Tokyo 166-8537, Japan": {
+        "lat": 35.6900394, 
+        "lon": 139.6566281
     }, 
     "200 North Spring Street, Suite 2111 Los Angeles, CA 90012, USA": {
         "lat": 34.0534768, 
@@ -147,6 +179,14 @@
         "lat": 41.063418, 
         "lon": -73.85191019999999
     }, 
+    "201 Mission Street, Suite 2230, San Francisco, CA 94105, USA": {
+        "lat": 37.7914374, 
+        "lon": -122.3950694
+    }, 
+    "201A Church Road, BN3 2AH, Hove, Sussex, UK": {
+        "lat": 50.8288638, 
+        "lon": -0.1783968
+    }, 
     "210 Herrick Road, Newton, MA 02459, USA": {
         "lat": 42.3248522, 
         "lon": -71.1889839
@@ -155,13 +195,29 @@
         "lat": 40.8030984, 
         "lon": -73.9559736
     }, 
+    "2175 Santiago Ave\nSan Jose, CA 95122, USA": {
+        "lat": 37.329019, 
+        "lon": -121.822646
+    }, 
     "2226 31 ST Astoria, NY 11105, USA": {
         "lat": 40.7744567, 
         "lon": -73.912683
     }, 
+    "228 W Lexington Street, 21201-3413, Baltimore MD, USA": {
+        "lat": 39.291933, 
+        "lon": -76.619162
+    }, 
     "230 N. Washington St. Suite 300, Rockville, MD 20850, USA": {
         "lat": 39.086606, 
         "lon": -77.153533
+    }, 
+    "2330 W University Dr, Suite #5, Tempe AZ 85281, USA": {
+        "lat": 33.4221259, 
+        "lon": -111.8830042
+    }, 
+    "2348 S. Beretania Street, Honolulu, HI 96826, USA": {
+        "lat": 21.2953105, 
+        "lon": -157.8251343
     }, 
     "236 Zhongshan Road, Section 1, Floor 7, Yonghe, China": {
         "lat": 25.009028, 
@@ -175,6 +231,26 @@
         "lat": 48.8718722, 
         "lon": 2.3176432
     }, 
+    "2685 Kingston Rd., Scarborough, ON, Canada": {
+        "lat": 43.7180257, 
+        "lon": -79.2404742
+    }, 
+    "27 E Monroe St Ste 400, Chicago, IL 60603, USA": {
+        "lat": 41.8807321, 
+        "lon": -87.6265962
+    }, 
+    "2841 N. Campbell Ave. Tucson, AZ 85719, USA": {
+        "lat": 32.2585269, 
+        "lon": -110.9446053
+    }, 
+    "29/15 Soi Ramkumheng 21, Ramkunhend Rd., \nA. Wangthonglang, Bangkok 10310": {
+        "lat": 13.7720394, 
+        "lon": 100.5915072
+    }, 
+    "3, Lane 85, Linsen N. Road, Taipei 104, Taiwan, R.O.C.": {
+        "lat": 25.056298, 
+        "lon": 121.5240592
+    }, 
     "3010 Wilshire Blvd. #217. Los Angeles, CA 90010, USA": {
         "lat": 34.0615361, 
         "lon": -118.2870323
@@ -186,6 +262,10 @@
     "3031 Tisch Way #950, San Jose, CA 95128, USA": {
         "lat": 37.3175017, 
         "lon": -121.9475774
+    }, 
+    "31 Heng Mui Keng Terrace, 119595, Singapore, Singapore": {
+        "lat": 1.2912829, 
+        "lon": 103.7783163
     }, 
     "3101 Wisconsin Ave. NW, Washington, DC 20016-5098, USA": {
         "lat": 38.930649, 
@@ -203,13 +283,29 @@
         "lat": 41.8880844, 
         "lon": -87.6322098
     }, 
-    "3307 M Street, Suite 200, Washington, DC 20007, USA": {
-        "lat": 38.9053721, 
-        "lon": -77.0667244
+    "33 Tao Fong Shan Road, Shatin, Hong Kong, China, Hong Kong Special Administrative Region": {
+        "lat": 22.396428, 
+        "lon": 114.109497
     }, 
     "3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA": {
         "lat": 38.9170185, 
         "lon": -76.95500779999999
+    }, 
+    "3708 Chestnut Street, Philadelphia, PA 19104 - 6188, USA": {
+        "lat": 39.95459, 
+        "lon": -75.1972289
+    }, 
+    "390 Speedvale Ave E., Guelph, ON, Canada": {
+        "lat": 43.5675428, 
+        "lon": -80.2561418
+    }, 
+    "4 Vicarage Road, Edgbaston Birmingham B15 3ES, UK": {
+        "lat": 52.471027, 
+        "lon": -1.9308809
+    }, 
+    "402 Holloway Road, London N7 6PZ, UK": {
+        "lat": 51.5568483, 
+        "lon": -0.1176467
     }, 
     "409 Prospect Street, New Haven, CT 06511, USA": {
         "lat": 41.32365069999999, 
@@ -228,8 +324,12 @@
         "lon": 35.2182388
     }, 
     "4410 Massachusetts Ave., N.W., Suite 166, Washington, D.C. 20016, USA": {
-        "lat": 38.9394597, 
-        "lon": -77.08806659999999
+        "lat": 38.9383156, 
+        "lon": -77.0863304
+    }, 
+    "447 West Street\nAmherst, MA 01002, USA": {
+        "lat": 42.3413479, 
+        "lon": -72.519984
     }, 
     "453 New Jersey Avenue, SE Washington, DC 20003, USA": {
         "lat": 38.8833981, 
@@ -239,6 +339,10 @@
         "lat": 40.7524793, 
         "lon": -73.810723
     }, 
+    "475 Riverside Drive - \nSuite 248\n New York, NY 10115, USA": {
+        "lat": 40.8108221, 
+        "lon": -73.9639856
+    }, 
     "475 Riverside Drive, Suite 248, New York, NY 10115, USA": {
         "lat": 40.8108221, 
         "lon": -73.9639856
@@ -246,6 +350,14 @@
     "475 Riverside Drive, Suite 540, New York, NY 10115, USA": {
         "lat": 40.8108221, 
         "lon": -73.9639856
+    }, 
+    "48, Jalan Kemuja, Bangsar Utama, 59000 Kuala Lumpur, Malaysia": {
+        "lat": 3.1286573, 
+        "lon": 101.67886
+    }, 
+    "481 University Ave, Suite 711, Toronto, ON M5G 2E9, Canada": {
+        "lat": 43.6548654, 
+        "lon": -79.3879201
     }, 
     "5 Clermont Ganneau, Jerusalem, Israel": {
         "lat": 31.7959303, 
@@ -267,6 +379,10 @@
         "lat": 36.001635, 
         "lon": -78.9266632
     }, 
+    "515 Broadway, Dobbs Ferry, NY 20633, USA": {
+        "lat": 41.018894, 
+        "lon": -73.870474
+    }, 
     "5225 Mosse Humanities Building, 455 N. Park St., Madison, WI 53706, USA": {
         "lat": 43.0738097, 
         "lon": -89.4000006
@@ -280,8 +396,16 @@
         "lon": 2.2902397
     }, 
     "55000 Highway 1, Big Sur, CA 93920, USA": {
-        "lat": 36.1280182, 
-        "lon": -121.6420739
+        "lat": 36.125392, 
+        "lon": -121.639377
+    }, 
+    "6 Bloomsbury Square, London WC1A 2LP, London": {
+        "lat": 51.5183531, 
+        "lon": -0.1230436
+    }, 
+    "6218 Beacon Ave S, Seattle, WA 98108, USA": {
+        "lat": 47.5469316, 
+        "lon": -122.3004642
     }, 
     "6446 211th St, Oakland Gdns, NY 11364-2121, USA": {
         "lat": 40.743403, 
@@ -327,6 +451,14 @@
         "lat": 40.7501387, 
         "lon": -73.96924980000001
     }, 
+    "78 Bishopsgate, London, EC2N 4AG, UK": {
+        "lat": 51.515694, 
+        "lon": -0.0818395
+    }, 
+    "866 UN Plaza, Ste. 307, New York, NY 10017, USA": {
+        "lat": 40.7531486, 
+        "lon": -73.9679041
+    }, 
     "866 United Nations Plaza, Suite 529 , New York, NY 10017, USA": {
         "lat": 40.7524048, 
         "lon": -73.9660299
@@ -342,6 +474,18 @@
     "956 Dulaney Valley Road, Baltimore, MD 21204, USA": {
         "lat": 39.4079079, 
         "lon": -76.60112
+    }, 
+    "A NETWORK FOR GRATEFUL LIVING \n P.O. BOX 6748\n Ithaca, NY 14851-6748, USA": {
+        "lat": 42.440893, 
+        "lon": -76.4962498
+    }, 
+    "Akademieweg 11, 73087 Boll, Germany": {
+        "lat": 48.63852, 
+        "lon": 9.60089
+    }, 
+    "Al-Lazarieh Building # 27, 4th floor\nLebanese University Street (Faculty of Arts)\nFurn al-Shuback, Beirut, Lebanon": {
+        "lat": 33.8886289, 
+        "lon": 35.4954794
     }, 
     "At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France": {
         "lat": 48.8460512, 
@@ -363,25 +507,65 @@
         "lat": 50.83849379999999, 
         "lon": 4.3899607
     }, 
-    "Bad Sch\u00f6nbrunn, 6313 Edlibach-Zug, Switzerland": {
+    "BP. 01-3304 R.P.": {
+        "lat": -22.2085689, 
+        "lon": -49.6475021
+    }, 
+    "Babangxiang, Dege, Garze, Sichuan,  627253, China": {
+        "lat": 31.441711, 
+        "lon": 98.83416799999999
+    }, 
+    "Bad Schoenbrunn, 6313 Edlibach-Zug, Switzerland": {
         "lat": 47.1751157, 
         "lon": 8.5652191
+    }, 
+    "Benin": {
+        "lat": 9.30769, 
+        "lon": 2.315834
     }, 
     "Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA": {
         "lat": 38.9156487, 
         "lon": -77.0737149
     }, 
+    "Bernhard Getz' gate 3, 0165 Oslo, Norway": {
+        "lat": 59.9172752, 
+        "lon": 10.742447
+    }, 
     "Biblioteca Alexandrina, El Chatby, 21526, Alexandria, Egypt": {
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
-    "Carl-Bertelsmann-Str. 256, 33311 G\u00fctersloh, Germany": {
+    "Carl-Bertelsmann-Str. 256, 33311 Guetersloh, Germany": {
         "lat": 51.90829, 
         "lon": 8.419089999999999
     }, 
     "Center for Islamic Studies, 2400 Ridge Road, Berkeley, CA 94709, USA": {
         "lat": 37.8756063, 
         "lon": -122.2618405
+    }, 
+    "Christian Muslim Forum\nSecond Floor,305 Cambridge Heath Road, London, E2 9LH, UK": {
+        "lat": 51.52852439999999, 
+        "lon": -0.0557691
+    }, 
+    "Clonliffe Rd, Dublin 3, Ireland": {
+        "lat": 53.3625856, 
+        "lon": -6.2504126
+    }, 
+    "Cotonou": {
+        "lat": 6.366667, 
+        "lon": 2.433333
+    }, 
+    "Dr. Andrea Blanch\n520 Ralph Street,\nSarasota, FL 34242, USA": {
+        "lat": 27.285193, 
+        "lon": -82.560208
+    }, 
+    "El Saydeh Street, Mardelli Bldg, Achrafieh, Beirut, Lebanon": {
+        "lat": 33.8848675, 
+        "lon": 35.5178952
+    }, 
+    "Euphrates Institute, Principia College, 1 Maybeck Place, Elsah, IL 62028, USA": {
+        "lat": 38.9491966, 
+        "lon": -90.3478718
     }, 
     "Faculty of Divinity, West Road, Cambridge DB3 9BS, UK": {
         "lat": 52.201957, 
@@ -399,17 +583,69 @@
         "lat": 51.5445615, 
         "lon": -0.2366707
     }, 
+    "Hamilton House, Mabledon Place, London WC1H 9BB, UK": {
+        "lat": 51.527783, 
+        "lon": -0.127158
+    }, 
+    "Heilmannstrasse 11c, 81479 Munich, Germany": {
+        "lat": 48.08291, 
+        "lon": 11.53876
+    }, 
+    "Hochkreuzallee 246, 53175 Bonn, Germany": {
+        "lat": 50.69119999999999, 
+        "lon": 7.12928
+    }, 
     "ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA": {
         "lat": 38.8915059, 
         "lon": -77.00511139999999
     }, 
-    "Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin , Germany": {
+    "International Office \nWorld Communion of Reformed Churches (WCRC)\n Knochenhauerstr. 42\n 30159 Hannover\n Germany": {
+        "lat": 52.3719182, 
+        "lon": 9.7339332
+    }, 
+    "Kedleston Road, Derby, Derbyshire, DE22 1GB, UK": {
+        "lat": 52.9318478, 
+        "lon": -1.4901421
+    }, 
+    "Klingelhoeferstra\u00dfe 23, 10785 Berlin , Germany": {
         "lat": 52.50810999999999, 
         "lon": 13.35232
+    }, 
+    "Konrad-Adenauer-Stiftung e.V \nKlingelh\u00f6ferstra\u00dfe 23 \n10785 Berlin \nGermany": {
+        "lat": 52.50810999999999, 
+        "lon": 13.35232
+    }, 
+    "Konrad-Adenauer-Stiftung e.V \nRathausallee 12 \n53757 Sankt Augustin \nGermany": {
+        "lat": 50.77598, 
+        "lon": 7.18601
+    }, 
+    "Konrad-Adenauer-Stiftung,\nRegional Programme Political Dialogue Asia/Singapore\n34-36 Bukit Pasoh Rd. \nSingapore 089848": {
+        "lat": 1.2794757, 
+        "lon": 103.8408522
+    }, 
+    "Konrad-Adenauer-Stiftung,\nRegionalprogramm Politischer Dialog Westafrika\nLes Cocotiers \nBP. 01-3304 R.P. \nCotonou \nBenin": {
+        "lat": 6.366667, 
+        "lon": 2.433333
+    }, 
+    "Konrad-Adenauer-Stiftung, \nAuslandsb\u00fcro Washington\n2005 Massachusetts Avenue NW\nWashington, D.C. 20036\nUSA": {
+        "lat": 38.910607, 
+        "lon": -77.045183
     }, 
     "Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany": {
         "lat": 52.5155098, 
         "lon": 13.3847539
+    }, 
+    "Les Cocotiers": {
+        "lat": -20.279401, 
+        "lon": 57.37449449999999
+    }, 
+    "Level 1, 436 St Kilda Road, Melbourne, VIC 3004, Australia": {
+        "lat": -37.837972, 
+        "lon": 144.97537
+    }, 
+    "Loyola College,Nungambakkam, Chennai 600 034, India": {
+        "lat": 13.0629659, 
+        "lon": 80.2330846
     }, 
     "Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon": {
         "lat": 33.8886289, 
@@ -423,9 +659,61 @@
         "lat": 53.56446, 
         "lon": 9.994919999999999
     }, 
+    "Network for Inter Faith Concerns, St Andrew's House, 16 Tavistock Crescent, London, W11 1AP, UK": {
+        "lat": 51.5204912, 
+        "lon": -0.2018281
+    }, 
+    "No information": {
+        "lat": 34.439804, 
+        "lon": 132.9195927
+    }, 
+    "No. 123, Jalan Berhala, Brickfields, 50470 Kuala Lumpur, Malaysia.": {
+        "lat": 3.1279119, 
+        "lon": 101.6873461
+    }, 
+    "No. 33, Tao Fong Shan Road, Shatin, N.T., Hong Kong": {
+        "lat": 22.396428, 
+        "lon": 114.109497
+    }, 
     "No. 38, Tahery Street Valieasr Avenue, Tehran, Iran": {
         "lat": 35.696111, 
         "lon": 51.423056
+    }, 
+    "No.103, Nanheng West Street, Xicheng District, Beijing,100053": {
+        "lat": 39.8881208, 
+        "lon": 116.3624496
+    }, 
+    "No.11, Ln. 51, Daxue Rd., East Dist., Hsinchu City 300, Taiwan (R.O.C.)": {
+        "lat": 24.7874831, 
+        "lon": 121.0041073
+    }, 
+    "No.12, jingshiyi Road, Jinan, Shandong, P.R.China, 250014": {
+        "lat": 36.6515, 
+        "lon": 117.06743
+    }, 
+    "No.153-159, Sec. 2, Beixin Rd., Xindian Dist., New Taipei City 23143, Taiwan (R.O.C.)": {
+        "lat": 43.127995, 
+        "lon": -77.66609799999999
+    }, 
+    "No.22, Sec. 1, Xinhai Rd., Da\u2019an Dist., Taipei City 106, Taiwan": {
+        "lat": 25.0199145, 
+        "lon": 121.529135
+    }, 
+    "No.25, Ln. 150, Sec. 5, Roosevelt Rd., Wenshan Dist., Taipei City 11677, Taiwan (R.O.C.)": {
+        "lat": 25.0051826, 
+        "lon": 121.5388094
+    }, 
+    "No.39, Anju St., Da\u2019an Dist., Taipei City 10672, Taiwan (R.O.C.)": {
+        "lat": 43.127995, 
+        "lon": -77.66609799999999
+    }, 
+    "No.44, Houhai Beiyan, Xicheng District, Beijing,100009": {
+        "lat": 39.9289675, 
+        "lon": 116.3944444
+    }, 
+    "No.510, Zhongzheng Rd., Xinzhuang Dist., New Taipei City 242, 24205, Taiwan": {
+        "lat": 25.035196, 
+        "lon": 121.432019
     }, 
     "No.7-1, Xianglan St., Fulian Village, Gongliao Dist., New Taipei City 228, China": {
         "lat": 25.0178293, 
@@ -438,6 +726,22 @@
     "Orlanda Brugnola, 521 Fifth Ave, Suite 1730, New York, NY 10175 USA": {
         "lat": 40.7542123, 
         "lon": -73.9800242
+    }, 
+    "P. O. Box: 811633 Amman 11181 Jordan": {
+        "lat": 31.9551425, 
+        "lon": 35.9305618
+    }, 
+    "P.O Box 6929 Kampala, Uganda": {
+        "lat": 0.313611, 
+        "lon": 32.581111
+    }, 
+    "P.O. Box 2022, Venice, FL  34284-2022, USA": {
+        "lat": 27.0999424, 
+        "lon": -82.44890219999999
+    }, 
+    "PO Box 11339, Jerusalem 9111202, Israel": {
+        "lat": 32.0809718, 
+        "lon": 34.9027817
     }, 
     "PO Box 12205, Arlington, VA 22219-2205, USA": {
         "lat": 38.89, 
@@ -463,29 +767,33 @@
         "lat": 30.0875531, 
         "lon": 31.34153809999999
     }, 
+    "PO Box 24 01 41, 53154 Bonn, Germany": {
+        "lat": 50.7357667, 
+        "lon": 7.1010988
+    }, 
     "PO Box 24, Besiktas, 34354, Istanbul, Turkey": {
         "lat": 41.043313, 
         "lon": 29.0130721
     }, 
     "PO Box 271, Nyack, NY 10960, USA": {
-        "lat": 41.0938791, 
-        "lon": -73.9065883
+        "lat": 41.0906519, 
+        "lon": -73.9179146
     }, 
     "PO Box 288, Jalan Sultan, 46730, Petaling Jaya, Malaysia": {
         "lat": 3.1002358, 
         "lon": 101.6446573
     }, 
     "PO Box 316, Yorktown Heights, NY 10598, USA": {
-        "lat": 41.2868678, 
-        "lon": -73.78308609999999
+        "lat": 41.2709274, 
+        "lon": -73.7776336
     }, 
     "PO Box 34128, 21468, Jeddah, Saudi Arabia": {
         "lat": 27.0079152, 
         "lon": 49.5891819
     }, 
     "PO Box 38, Plainfield, IN 46168, USA": {
-        "lat": 39.6886583, 
-        "lon": -86.3883506
+        "lat": 39.70421229999999, 
+        "lon": -86.39943869999999
     }, 
     "PO Box 3814, Jerusalem 91037, Israel": {
         "lat": 31.768319, 
@@ -500,8 +808,8 @@
         "lon": 35.21502
     }, 
     "PO Box 477, N. Grosvenordale, CT 06255, USA": {
-        "lat": 41.9856437, 
-        "lon": -71.8986875
+        "lat": 41.9856531, 
+        "lon": -71.8986833
     }, 
     "PO Box 49411, Jerusalem 91491, Israel": {
         "lat": 31.768319, 
@@ -523,33 +831,101 @@
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
+    "PO Box 796, Moonee Ponds, VIC 3039, Australia": {
+        "lat": -37.7669228, 
+        "lon": 144.9222422
+    }, 
     "PO Box 830562, Amman 11183, Jordan": {
         "lat": 31.98344, 
         "lon": 35.92783
     }, 
     "Palais Wilson, 52 rue des P\u00e2quis, 1201 Geneva, Switzerland": {
-        "lat": 46.2149241, 
-        "lon": 6.1509196
+        "lat": 46.2095516, 
+        "lon": 6.1450463
+    }, 
+    "Palmer House\n70 Palmer Rd #05-01/02\nSingapore 079427": {
+        "lat": 1.273054, 
+        "lon": 103.8479009
+    }, 
+    "Palmer House, 70 Palmer Rd #05-01/02, Singapore 079427, Singapore": {
+        "lat": 1.273054, 
+        "lon": 103.8479009
+    }, 
+    "Palpung Sherabling Monastery\nSansal - Palpung Sherabling Monastery Rd\nKeori, Himachal Pradesh 176125\nIndia": {
+        "lat": 32.0518076, 
+        "lon": 76.6895485
+    }, 
+    "Palpung Yeshe Ch\u00f6ling Europe, \nWiener Stra\u00dfe 33\n3002 Purkersdorf, Austria": {
+        "lat": 48.20583380000001, 
+        "lon": 16.1930878
     }, 
     "Pandav Bhavan, Post Box No 2, Rajasthan, 307501, Mount Abu, India": {
         "lat": 24.5925909, 
         "lon": 72.7156274
     }, 
+    "Pappenheimstrasse 4, 80335 Munich, Germany": {
+        "lat": 48.1480707, 
+        "lon": 11.5522965
+    }, 
+    "Pax Christi International, \nRue du Vieux March\u00e9 aux Grains 21,\nB1000 Brussels, Belgium": {
+        "lat": 50.8503396, 
+        "lon": 4.3517103
+    }, 
+    "Pax Christi Italia\nvia Quintole per le Rose 131,\n50029, Tavarnuzze, (Firenze), Italy": {
+        "lat": 43.7122716, 
+        "lon": 11.2194291
+    }, 
+    "Pax Christi USA, National Catholic Peace Movement, 1225 Otis Street, NE, Washington, DC 20017, USA": {
+        "lat": 38.934287, 
+        "lon": -76.98988
+    }, 
+    "Philosophy and Religious School, MInzu University of China, No.27 Zhongguancun South Street, Haidian, Beijing, China": {
+        "lat": 39.959912, 
+        "lon": 116.298056
+    }, 
     "Plot 884, Centenary Road, Namirembe Hill, Kampala, Uganda": {
         "lat": 0.3478438, 
         "lon": 32.5406563
+    }, 
+    "Plot No. 992, Zoek House, Binaisa Rd, Gayaza Roundabout, Kampala, Uganda": {
+        "lat": 0.3464856, 
+        "lon": 32.570976
+    }, 
+    "Raiffeisenstra\u00dfe 4/18, 6850 Dornbirn, Austria": {
+        "lat": 47.4076506, 
+        "lon": 9.7288562
     }, 
     "Rathausallee 12, 53757, St Augustin, Germany": {
         "lat": 50.77598, 
         "lon": 7.18601
     }, 
+    "Regionalprogramm Politischer Dialog Westafrika": {
+        "lat": 6.3557166, 
+        "lon": 2.3998006
+    }, 
+    "Rue Am\u00e9d\u00e9e Lynen 8, 1210 Brussels, Belgium": {
+        "lat": 50.8502471, 
+        "lon": 4.3733024
+    }, 
     "Rue Belliard 205 bte 13, Brussels 1040, Belgium": {
         "lat": 50.83323180000001, 
         "lon": 4.396965799999999
     }, 
+    "Rum Patrikhanesi, 342 20 Fener-Hali\u00e7, Istanbul, Turkey": {
+        "lat": 41.00527, 
+        "lon": 28.97696
+    }, 
     "R\u00e9sidence Palace, Rue de la Loi 155, 1040 Brussels, Belgium": {
         "lat": 50.83323180000001, 
         "lon": 4.396965799999999
+    }, 
+    "SGI Headquarters\nJosei Toda International Center\n15-3 Samon-cho,\nShinjuku-ku, Tokyo, Japan\n160-0017": {
+        "lat": 35.6868248, 
+        "lon": 139.7195924
+    }, 
+    "SRUTI: Q-1, Hauz Khas Enclave , New Delhi 110016, India": {
+        "lat": 28.5479558, 
+        "lon": 77.2009932
     }, 
     "Saint Procopius Abbey, 5601 College Road, Lisle, IL 60532-2500, USA": {
         "lat": 41.7804305, 
@@ -558,6 +934,10 @@
     "Schottenring 21, 1010 Vienna, Austria": {
         "lat": 48.2164325, 
         "lon": 16.3671679
+    }, 
+    "Secretariat, Conference of European Churches, \nRoute de Ferney 150\nPO Box 2100\nCH-1211 2, Geneva, Switzerland": {
+        "lat": 46.1983922, 
+        "lon": 6.142296099999999
     }, 
     "Secretariat: Voltastr. 27, 8044 Zurich, Switzerland": {
         "lat": 47.3779086, 
@@ -571,6 +951,10 @@
         "lat": 51.5497656, 
         "lon": -0.1483709
     }, 
+    "Strandagervej 24,\n2900 Hellerup, Denmark": {
+        "lat": 55.724779, 
+        "lon": 12.572262
+    }, 
     "Swedish Institute Alexandria, PO Box 1261, Mansheya Corniche, 12111, Alexandria, Egypt": {
         "lat": 31.2000924, 
         "lon": 29.9187387
@@ -579,9 +963,37 @@
         "lat": 40.7517, 
         "lon": -73.97529999999999
     }, 
+    "The Lutheran World Federation\nRoute de Ferney 150,\n P.O. Box 2100\n CH-1211 Geneva 2\n Switzerland": {
+        "lat": 46.22999919999999, 
+        "lon": 6.1287185
+    }, 
+    "The Middle East Council of Churches, Makhoul Street, Deeb Building  \nP.O.Box5376 Beirut, Lebanon": {
+        "lat": 29.2985278, 
+        "lon": 42.5509603
+    }, 
+    "The Middle East Council of Churches, P.O.Box   2238\nEl Horriya,  Heliopolis,Cairo, Egypt": {
+        "lat": 29.2985278, 
+        "lon": 42.5509603
+    }, 
+    "The Middle East Council of Churches, P.O.Box 54259 \n3722 Limassol, Cyprus": {
+        "lat": 29.2985278, 
+        "lon": 42.5509603
+    }, 
+    "The Republic of Kazakhstan, 010000\nAstana": {
+        "lat": 51.1722943, 
+        "lon": 71.4254773
+    }, 
     "The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia": {
         "lat": 11.5363324, 
         "lon": 104.9287294
+    }, 
+    "US Office\n World Communion of Reformed Churches (WCRC)\n1700 28th Street SE\n Grand Rapids, MI 49508-1407\n USA": {
+        "lat": 42.9113063, 
+        "lon": -85.6249517
+    }, 
+    "Union for Reform Judaism \n633 Third Avenue \nNew York, NY 10017-6778, USA": {
+        "lat": 40.7495516, 
+        "lon": -73.9744444
     }, 
     "United Nations Headquarters New York, NY 10017, United States": {
         "lat": 40.7488758, 
@@ -594,6 +1006,10 @@
     "Via della Conciliazione 5-7, 00120 Rome, Italy": {
         "lat": 41.9021848, 
         "lon": 12.462564
+    }, 
+    "Via di Frascati, 306\n00040 Rocca di Papa, Rome, Italy": {
+        "lat": 41.766203, 
+        "lon": 12.711415
     }, 
     "Waaggasse, 1040 Vienna": {
         "lat": 48.1951683, 
@@ -626,5 +1042,13 @@
     "Wytske Dijkstra, Meidoornpad 95, 3732 VS De Bilt; Netherlands": {
         "lat": 52.10694909999999, 
         "lon": 5.1848184
+    }, 
+    "Yoyogi 3-3-3, Shibuya-ku, Tokyo, Japan": {
+        "lat": 35.6821913, 
+        "lon": 139.6946563
+    }, 
+    "c/o St Joseph\u2019s Church, 143 Victoria Street, Singapore 188020": {
+        "lat": 1.298356, 
+        "lon": 103.85315
     }
 }
