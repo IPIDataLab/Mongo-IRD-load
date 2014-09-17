@@ -3,7 +3,7 @@
 from xlrd import open_workbook
 # import sys
 from sys import argv, exit
-import json
+import json, re
 
 from excell_parse import parse
 from data_load import mongo_load
@@ -33,21 +33,24 @@ def main(argv):
 
 	data = []
 	####ADD ERROR HANDLING TO CHECK FOR EXCEL
-	wb = open_workbook(argv[0]+".xlsx")
+	wb = open_workbook(argv[0])
 	# if not <something to check for validity>:
 	# 	print 'Please specify valid excel workbook'
 	# 	sys.exit()
-	for sheet in wb.sheets():
+	for sheet in wb.sheets()[0:1]:
 		data = parse(sheet, data)
 	##Write out raw JSON file
 	if arguments == 1:
-		print_out = open(argv[0]+".json", "w")
-		print_out.write(json.dumps(data, indent=4, separators=(',', ':')))
-		print_out.close()
+		outfile = re.sub(r'\.xlsx$', '.json', argv[0])
 	elif arguments == 2:
-		print_out = open(argv[1]+".json", "w")
-		print_out.write(json.dumps(data, indent=4, separators=(',', ':')))
-		print_out.close()
+		outfile = argv[1]
+	else:
+		print "Usage: %s file.xlsx [outfile]"
+		exit
+
+	print_out = open(outfile, "w")
+	print_out.write(json.dumps(data, indent=4, separators=(',', ':')))
+	print_out.close()
 
 	# load into mongo i
 	if username != '':

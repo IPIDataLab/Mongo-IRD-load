@@ -18,13 +18,18 @@ import re, json
 #checks for na and blank values
 
 def na_check(sheet,row, column):
-	if sheet.cell(row,column).value.encode('utf8') == "n.a.":
+	val = sheet.cell(row,column).value
+
+	# cast e.g. "12.0" as string
+	if type(val) is float:
+		val = "%.1f" % val
+
+	if val == "n.a.":
 		pass
-	elif sheet.cell(row,column).value.encode('utf8') == "": 
+	elif val == "": 
 		pass
 	else:
-		value = sheet.cell(row,column).value.encode('utf8')
-		return value.strip()
+		return val.encode('utf8').strip()
 
 #splits string into array
 def split_str_array(string_in, delimiter):
@@ -69,6 +74,10 @@ def geocode(address):
 		address1 = re.sub(r'The University of Cambodia, ', '', address1)
 		address1 = re.sub(r'New Taipei City 228, China', 'New Taipei City 228, Taiwan', address1)
 		address1 = re.sub(r'DB3 9BS', 'CB3 9BS', address1)
+		address1 = re.sub(r'Regionalprogramm Politischer Dialog Westafrika', 'Les Cocotiers, Cotonou, Benin', address1)
+		address1 = re.sub(r'P. O. Box: 811633 Amman 11181 Jordan', 'luzmila hospital, Amman 11181 Jordan', address1)
+		if re.search(r'(150, route de Ferney|Route de Ferney 150)', address1):
+			address1 = 'Route de Ferney 150, 1202 Geneve, Suisse'
 		print address1
 		location = geolocator.geocode(address1)
 		res = { 'lat': location[1][0], 'lon': location[1][1] }
@@ -80,7 +89,7 @@ def geocode(address):
 
 	except Exception as e:
 		print e
-		print u"Couldn't geocode %s" % address
+		print u"!!ERROR: Couldn't geocode %s" % address
 		#import ipdb; ipdb.set_trace()
 		return {}
 

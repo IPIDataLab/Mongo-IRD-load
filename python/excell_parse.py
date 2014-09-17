@@ -112,6 +112,7 @@ def parse(sheet, data):
 		a = get_cell(sheet,'Subject',row_index,lkey,str_split=True)
 		if a:
 			data[-1]['subject'] = a
+			# input control
 			for i in a:
 				if not re.match(r"\d+(\.\d)?[a-z]$", i):
 					print "please correct subject: '%s' in %s" % (i, get_cell(sheet,'MainNameEn',row_index,lkey))
@@ -195,7 +196,10 @@ def parse(sheet, data):
 						activity = activity.strip()
 						activity_description_array.append(activity)
 				for x in xrange(1,len(activity_name_array)):
-					activity_array.append({'activity_name':activity_name_array[x],'activity_description':activity_description_array[x]})
+					try:
+						activity_array.append({'activity_name':activity_name_array[x],'activity_description':activity_description_array[x]})
+					except IndexError:
+						print "!!ERROR: not as many activities descriptions as names in '%s' (%s)" % (get_cell(sheet,'Acronym',row_index,lkey), get_cell(sheet,'MainNameEn',row_index,lkey))
 				data[-1]['general_activities'] = activity_array
 
 	
@@ -215,14 +219,17 @@ def parse(sheet, data):
 				# 	print name_en
 				# 	print IRD_activities_reg
 				# 	print IRD_activities
-				for x in xrange(1,len(IRD_activities)):
-					region = re.split('[;\.]', IRD_activities_reg[x])
-					region = [ i.strip() for i in region if i.strip() ]
-					IRD_activity_obj = {
-						'activity' : IRD_activities[x],
-						'region' : region
-					}
-					IRD_activities_array.append(IRD_activity_obj)
+				try:
+					for x in xrange(1,len(IRD_activities)):
+						region = re.split('[;\.]', IRD_activities_reg[x])
+						region = [ i.strip() for i in region if i.strip() ]
+						IRD_activity_obj = {
+							'activity' : IRD_activities[x],
+							'region' : region
+						}
+						IRD_activities_array.append(IRD_activity_obj)
+				except IndexError:
+					print "!!ERROR: non-matching number of activities and regions in '%s' (%s)" % (get_cell(sheet,'Acronym',row_index,lkey), get_cell(sheet,'MainNameEn',row_index,lkey))
 				data[-1]['IRD_activities'] = IRD_activities_array
 
 
@@ -272,9 +279,14 @@ def parse(sheet, data):
 		if not a:
 			pass
 		else:
-			entry_value_array = split_str_array(a, ', ')
-			entry_date = datetime.strptime(entry_value_array[1], "%d.%m.%Y").date()
-			data[-1]["entry"] = {'author' : entry_value_array[0], 'date' : str(entry_date.year)+str(entry_date.month).zfill(2)+str(entry_date.day).zfill(2)}
+			try:
+				entry_value_array = split_str_array(a, ', ')
+				entry_date = datetime.strptime(entry_value_array[1], "%d.%m.%Y").date()
+				data[-1]["entry"] = {'author' : entry_value_array[0], 'date' : str(entry_date.year)+str(entry_date.month).zfill(2)+str(entry_date.day).zfill(2)}
+			except Exception:
+				# we don't care about this data format
+				#print "!!ERROR: bad format for entry date in '%s'" % a
+				data[-1]["entry"] = a;
 
 
 	return data
