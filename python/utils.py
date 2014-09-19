@@ -36,20 +36,25 @@ def split_str_array(string_in, delimiter):
 	if not string_in:
 		pass
 	else:
-		string_array = string_in.split(delimiter)
+		string_array = re.split(delimiter,string_in)
 		return string_array
 
 # # gets value from row
 def get_cell(sheet, field, row_index, lkey, str_split = False):
 	a = na_check(sheet, row_index, lkey[field.lower()])
+
+	if type(str_split) is bool:
+		if str_split:
+			str_split=';'
+
 	if not a:
 		pass
 	elif a == 'n.i.':
 		a = 'No information'
 	elif str_split:
-		a = split_str_array(a, ';')
+		a = split_str_array(a, str_split)
 		# remove trailing ';'
-		a = [ i.strip(';').strip(' ') for i in a if i.strip(';').strip(' ') ]
+		a = [ i.strip(';').strip(' ') for i in a if i.strip(str_split).strip(' ') ]
 	return a
 
 def geocode(address):

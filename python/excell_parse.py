@@ -170,7 +170,7 @@ def parse(sheet, data):
 			data[-1]['staff'] = a
 
 		# Region Focus
-		a = get_cell(sheet,'RegionFocus',row_index,lkey,str_split=True)
+		a = get_cell(sheet,'RegionFocus',row_index,lkey,str_split='[;,]')
 		if a:
 			data[-1]['regionfocus'] = a
 

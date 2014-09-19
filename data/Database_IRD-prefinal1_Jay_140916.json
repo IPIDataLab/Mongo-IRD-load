@@ -177,7 +177,9 @@
         ],
         "IO_relations":"No information",
         "regionfocus":[
-            "India, USA, Tibet"
+            "India",
+            "USA",
+            "Tibet"
         ],
         "languages":[
             "English, Hindi"
@@ -247,7 +249,9 @@
         "staff":"No information",
         "IO_relations":"No information",
         "regionfocus":[
-            "India, Tibet, USA"
+            "India",
+            "Tibet",
+            "USA"
         ],
         "languages":[
             "Tibetan, English"
@@ -296,7 +300,12 @@
             "Part of the Earthville network"
         ],
         "regionfocus":[
-            "India, USA, Spain, Vietnam, Israel, Palestine"
+            "India",
+            "USA",
+            "Spain",
+            "Vietnam",
+            "Israel",
+            "Palestine"
         ],
         "languages":[
             "English, Spanish, Hindi, Arabic, Hebrew"
@@ -368,7 +377,8 @@
         ],
         "IO_relations":"No information",
         "regionfocus":[
-            "India, SriLanka"
+            "India",
+            "SriLanka"
         ],
         "languages":[
             "English, Hindi, Tamil, Malayalam, Sinhala, other Indian Languages"
@@ -527,7 +537,8 @@
         "parent_org":"No information",
         "contacted":true,
         "regionfocus":[
-            "India, Tibet"
+            "India",
+            "Tibet"
         ],
         "main_names":"No information",
         "aim_URL":"http://www.mahabodhi-ladakh.org/motto-of-mimc.html",
@@ -634,7 +645,14 @@
         "staff":"No information",
         "IO_relations":"No information",
         "regionfocus":[
-            "USA, Mexico,Indonesia, Malaysia, Germany, Singapore, Tibet, India"
+            "USA",
+            "Mexico",
+            "Indonesia",
+            "Malaysia",
+            "Germany",
+            "Singapore",
+            "Tibet",
+            "India"
         ],
         "languages":[
             "English, Spanish, Tibetan"
@@ -698,7 +716,8 @@
         "staff":"No information",
         "IO_relations":"No information",
         "regionfocus":[
-            "USA, India"
+            "USA",
+            "India"
         ],
         "languages":[
             "English, Sanskrit"
@@ -754,7 +773,10 @@
         "staff":"No information",
         "IO_relations":"No information",
         "regionfocus":[
-            "India, Pakistan, Bangladesh, Sri Lanka"
+            "India",
+            "Pakistan",
+            "Bangladesh",
+            "Sri Lanka"
         ],
         "languages":[
             "English, Hindi, Urdu, Sinhala, Bengali, etc."
@@ -909,7 +931,21 @@
         "staff":"No information",
         "IO_relations":"No information",
         "regionfocus":[
-            "Aceh (Indonesia), Burma, Cambodia, East Timor, India, Indonesia, Laos, Malaysia, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, West Papua (Indonesia)"
+            "Aceh (Indonesia)",
+            "Burma",
+            "Cambodia",
+            "East Timor",
+            "India",
+            "Indonesia",
+            "Laos",
+            "Malaysia",
+            "Nepal",
+            "Pakistan",
+            "Philippines",
+            "Sri Lanka",
+            "Thailand",
+            "Viet Nam",
+            "West Papua (Indonesia)"
         ],
         "languages":[
             "English, Urdu, Bhasa Indonesian, Hindi, Thai, Vietnamese."
