@@ -1,12 +1,13 @@
 [
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -71,13 +72,16 @@
     },
     {
         "contacted":false,
-        "aim_URL":"http://www.belurmath.org/index.htm; http://www.belurmath.org/whattheyare.htm",
-        "staff":[
-            "World"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Hindu-Vedanta"
+        ],
+        "aim_URL":"http://www.belurmath.org/index.htm; http://www.belurmath.org/whattheyare.htm",
+        "staff":[
+            "Work is generally led by monks and assisted by lay devotees and volunteers"
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English, Spanish, Russian, Chinese, German, others."
@@ -163,14 +167,17 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Hindu"
+        ],
         "main_names":"No information",
         "aim_URL":"http://www.ihrf.com/projects.html",
         "staff":[
-            "India, USA, Tibet"
+            "The main person running this is Swami Chidanand Saraswati, assisted by many devotees/volunteers"
         ],
         "IO_relations":"No information",
-        "religious_affiliation":[
-            "Hindu"
+        "regionfocus":[
+            "India, USA, Tibet"
         ],
         "languages":[
             "English, Hindi"
@@ -232,14 +239,15 @@
     },
     {
         "contacted":"no",
-        "main_names":"No information",
-        "aim_URL":"http://www.universalcompassion.org/about-universal-compassion-foundation/",
-        "staff":[
-            "India, Tibet, USA"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Buddhist"
+        ],
+        "main_names":"No information",
+        "aim_URL":"http://www.universalcompassion.org/about-universal-compassion-foundation/",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "India, Tibet, USA"
         ],
         "languages":[
             "Tibetan, English"
@@ -279,15 +287,16 @@
             "The Earthville Network"
         ],
         "contacted":"no",
-        "aim_URL":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
-        "staff":[
-            "India, USA, Spain, Vietnam, Israel, Palestine"
+        "religious_affiliation":[
+            "Secular"
         ],
+        "aim_URL":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
+        "staff":"No information",
         "IO_relations":[
             "Part of the Earthville network"
         ],
-        "religious_affiliation":[
-            "Secular"
+        "regionfocus":[
+            "India, USA, Spain, Vietnam, Israel, Palestine"
         ],
         "languages":[
             "English, Spanish, Hindi, Arabic, Hebrew"
@@ -307,6 +316,17 @@
             "6.2m",
             "6.3m"
         ],
+        "finances":"No information",
+        "website":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
+        "acronym":"GAIA",
+        "email_gen":"president @earthville.org",
+        "IRD_activities":[],
+        "name_en":"The Global Alliance for Interfaith Action (GAIA)",
+        "structure":"Based on Volunteer action; even President works probono; Publicly supported:depends on contributions and grants",
+        "other_relations":[
+            "n.i"
+        ],
+        "IRD_def":"GAIA appreciates the value of intercultural and interfaith dialogue as a bridge-builder, but GAIA is not a talk-oriented initiative: GAIA is about putting compassion into action-They bring people together, across historical boundaries in active altruistic collaboration, usually in the form of volunteer service and other such activities.",
         "events":[
             "1. Oct and Dec 2014: Open Volunteer Period for Sustainable Living in the Himalayas",
             "2. Oct 2014 Meditation with Horses\u2014Catalonia, Spain",
@@ -321,17 +341,6 @@
             "Public Talks and Presentations",
             "Conferences and Dialogues (not confined to GAIA but the various Earthville projects)"
         ],
-        "website":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
-        "acronym":"GAIA",
-        "email_gen":"president @earthville.org",
-        "IRD_activities":[],
-        "name_en":"The Global Alliance for Interfaith Action (GAIA)",
-        "structure":"Based on Volunteer action; even President works probono; Publicly supported:depends on contributions and grants",
-        "other_relations":[
-            "n.i"
-        ],
-        "IRD_def":"GAIA appreciates the value of intercultural and interfaith dialogue as a bridge-builder, but GAIA is not a talk-oriented initiative: GAIA is about putting compassion into action-They bring people together, across historical boundaries in active altruistic collaboration, usually in the form of volunteer service and other such activities.",
-        "finances":"No information",
         "aim":"GAIA appreciates the value of intercultural and interfaith dialogue as a bridge-builder, but GAIA is not a talk-oriented initiative: GAIA is about putting compassion into action- They bring people together, across historical boundaries, in active altruistic collaboration, usually in the form of volunteer service and other such activities; The premise, which their experience since 1997 consistently supports, is that when people from distant backgrounds (geographic, cultural, or belief) come together in selfless service of another, great things can happen.",
         "org_type":[
             "E",
@@ -350,13 +359,16 @@
             "Jesuit Conference of South Asia"
         ],
         "contacted":"no",
-        "aim_URL":"http://www.jcsaweb.org/jcsa_pages/dialogue.aspx",
-        "staff":[
-            "India, SriLanka"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Christian"
+        ],
+        "aim_URL":"http://www.jcsaweb.org/jcsa_pages/dialogue.aspx",
+        "staff":[
+            "Clergy asisted by lay volunteers and members of the Order"
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
+            "India, SriLanka"
         ],
         "languages":[
             "English, Hindi, Tamil, Malayalam, Sinhala, other Indian Languages"
@@ -406,9 +418,12 @@
             "n.i"
         ],
         "contacted":"no",
+        "religious_affiliation":[
+            "Hindu"
+        ],
         "aim_URL":"http://www.artofliving.org/art-living-overview",
         "staff":[
-            "Global"
+            "Sri Ravi Shankar assisted byTrustees (usually lay disciples),  numerous other lay disciples and volunteers"
         ],
         "IO_relations":[
             "CONGO (Conference of NGOs in Consultative Status with ECOSOC of the United Nations), Geneva and New York",
@@ -417,8 +432,8 @@
             "International Union for Health Promotion and Education, Paris",
             "NGO Forum for Health, Geneva"
         ],
-        "religious_affiliation":[
-            "Hindu"
+        "regionfocus":[
+            "Global"
         ],
         "languages":[
             "English, German,Spanish, Russian, and other languages"
@@ -446,13 +461,7 @@
             "11g",
             "11m"
         ],
-        "events":[
-            "Yoga camps, happiness programme (meditation). Art of Meditation (Sahaj Samadhi) Course, Sudarshan Kriya (yoga)",
-            "The Art of Living runs the courses all year round in various locations",
-            "AOLF attended and represents in many Inter Faith conferences around the world",
-            "The Art of Living\u2014Projects Management Unit (PMU) is a special technical wing within The Art of Living that implements holistic solutions for social, economic and environmental issues. The goal is to enable transformation by acting as intermediary between various resource providers and communities.These connections combined with our empowerment, accountability and sustainability models, enable a lasting impact towards our shared goals",
-            "under empowerment programme, Youth Leadership Training Program (YLTP) transform \u2018vulnerable\u2019 young men and women into leaders in their communities. They become proactive \u2018advocates\u2019 for change and \u2018owners\u2019 of their challenges. AOLF work with these empowered leaders toward complete development of their communities."
-        ],
+        "finances":"No information",
         "website":"http://www.artofliving.org/global/home",
         "acronym":"AOLF",
         "email_gen":"info@vvmvp.org",
@@ -470,7 +479,13 @@
             "The Art of Living has a few sister organisations which are also dedicated to the vision of a stress-free, violence-free world. The International Association for Human Values (IAHV), Ved Vignan Maha Vidya Peeth (VVMVP), Sri Sri RaviShankar Vidya Mandir (SSRVM), Vyakti Vikas Kendra India (VVKI), Sri Sri Rural Development Program (SSRDP) and Sri Sri Institute of Agricultural Sciences & Technology Trust (SSIAST) among others, formulate and implement humanitarian projects of The Art of Living globally."
         ],
         "IRD_def":"IRD  is understood by the AOLF as the philosophy of Sri Sri Ravi Shankar, who  has devoted himself to promoting composite dialogue between conflicting parties across the world. Over the past three decades, he has opened up channels of communications, mediated in and facilitated meaningful dialogue; The key to inter-faith harmony and to reducing terrorism, according to Sri Sri Ravi Shankar, lies in education \u2013 a multi-cultural education that encourages cultural pluralism.",
-        "finances":"No information",
+        "events":[
+            "Yoga camps, happiness programme (meditation). Art of Meditation (Sahaj Samadhi) Course, Sudarshan Kriya (yoga)",
+            "The Art of Living runs the courses all year round in various locations",
+            "AOLF attended and represents in many Inter Faith conferences around the world",
+            "The Art of Living\u2014Projects Management Unit (PMU) is a special technical wing within The Art of Living that implements holistic solutions for social, economic and environmental issues. The goal is to enable transformation by acting as intermediary between various resource providers and communities.These connections combined with our empowerment, accountability and sustainability models, enable a lasting impact towards our shared goals",
+            "under empowerment programme, Youth Leadership Training Program (YLTP) transform \u2018vulnerable\u2019 young men and women into leaders in their communities. They become proactive \u2018advocates\u2019 for change and \u2018owners\u2019 of their challenges. AOLF work with these empowered leaders toward complete development of their communities."
+        ],
         "aim":"AOLF\u2019s programs are guided by Sri Ravi Shankar's philosophy: \u201cUnless we have a stress-free mind and a violence-free society, we cannot achieve world peace.\u201d AOLF offers self-development programs and tools that facilitate the elimination of stress and foster deep and profound inner peace, like breathing techniques, meditation, and yoga;  In addition to these courses offered globally, AOLF, working in collaboration with The International Association for Human Values (IAHV), has successfully implemented numerous humanitarian projects and service initiatives including conflict resolution programs, disaster relief, sustainable rural development, empowerment of women, prisoner rehabilitation, education for all, and environmental sustainability.",
         "org_type":[
             "R",
@@ -511,11 +526,12 @@
     {
         "parent_org":"No information",
         "contacted":true,
-        "main_names":"No information",
-        "aim_URL":"http://www.mahabodhi-ladakh.org/motto-of-mimc.html",
-        "staff":[
+        "regionfocus":[
             "India, Tibet"
         ],
+        "main_names":"No information",
+        "aim_URL":"http://www.mahabodhi-ladakh.org/motto-of-mimc.html",
+        "staff":"No information",
         "IO_relations":[
             "Member of the International Association for Religious Freedom (IARF) and the International Association of Liberal Religious Women (IALRW)",
             "United Religious Initiative (URI),International Association of Liberal Religious Women (IALRW),  International Association of Educators for World Peace (IAEWP), Elijha Interfaith Instutute and Museum of World Religion"
@@ -610,14 +626,15 @@
     {
         "parent_org":"No information",
         "contacted":"no",
-        "main_names":"No information",
-        "aim_URL":"http://www.sravastiabbey.com/about/index.html",
-        "staff":[
-            "USA, Mexico,Indonesia, Malaysia, Germany, Singapore, Tibet, India"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Buddhist"
+        ],
+        "main_names":"No information",
+        "aim_URL":"http://www.sravastiabbey.com/about/index.html",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "USA, Mexico,Indonesia, Malaysia, Germany, Singapore, Tibet, India"
         ],
         "languages":[
             "English, Spanish, Tibetan"
@@ -673,14 +690,15 @@
     {
         "parent_org":"No information",
         "contacted":"no",
-        "main_names":"No information",
-        "aim_URL":"http://www.arshavm.org/vision-and-mission",
-        "staff":[
-            "USA, India"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Hindu-Vedanta"
+        ],
+        "main_names":"No information",
+        "aim_URL":"http://www.arshavm.org/vision-and-mission",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "USA, India"
         ],
         "languages":[
             "English, Sanskrit"
@@ -729,13 +747,14 @@
             "n.a."
         ],
         "contacted":"no",
-        "aim_URL":"http://www.icpindia.org/aboutus.htm",
-        "staff":[
-            "India, Pakistan, Bangladesh, Sri Lanka"
-        ],
-        "IO_relations":"No information",
         "religious_affiliation":[
             "Secular"
+        ],
+        "aim_URL":"http://www.icpindia.org/aboutus.htm",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "India, Pakistan, Bangladesh, Sri Lanka"
         ],
         "languages":[
             "English, Hindi, Urdu, Sinhala, Bengali, etc."
@@ -751,14 +770,7 @@
             "6.1j",
             "6.1l"
         ],
-        "events":[
-            "1. Mainly Seminars and Conferences",
-            "One of the charismatic leaders (Syed Zafar Mahmood)is involved in speaking at various inter-faith fora",
-            "2.Rally of Muslims, Christians and Scheduled Castes (so called 'low' castes), Lucknow, India:  20 April 2013",
-            "3.InterFaith Peace conferences and Conventions: Mangalore, India Feb 2013: Guwahati, Assam, Jan 2013",
-            "4.Workshop on Peace & Communal Harmony, Bubhaneshwar, India Jan 2013",
-            "5.Lecture on 'Perspectives on Peacemaking: Muslims & Christians in Constructive Conversation' New Delhi, India Feb 2012"
-        ],
+        "finances":"No information",
         "website":"http://www.icpindia.org/index.htm",
         "acronym":"ICP",
         "email_gen":"info@icpindia.org",
@@ -780,7 +792,14 @@
         "structure":"Headed by a Board of Trustees (Governing Council) assisted by a Consultative Committee of Religious Readers. These are helped by President, Vice President and General Secretary; The next level are the regiional secretaries and others",
         "other_relations":"No information",
         "IRD_def":"The Interfaith Coalition for Peace, strongly appeals to the followers of all religions and faiths to work together for strengthening religious tolerance, mutual respect and peace, thus not only enhancing human dignity but also joining the chorus in praise of God.",
-        "finances":"No information",
+        "events":[
+            "1. Mainly Seminars and Conferences",
+            "One of the charismatic leaders (Syed Zafar Mahmood)is involved in speaking at various inter-faith fora",
+            "2.Rally of Muslims, Christians and Scheduled Castes (so called 'low' castes), Lucknow, India:  20 April 2013",
+            "3.InterFaith Peace conferences and Conventions: Mangalore, India Feb 2013: Guwahati, Assam, Jan 2013",
+            "4.Workshop on Peace & Communal Harmony, Bubhaneshwar, India Jan 2013",
+            "5.Lecture on 'Perspectives on Peacemaking: Muslims & Christians in Constructive Conversation' New Delhi, India Feb 2012"
+        ],
         "aim":"ICP seeks to enabling people achieve the full realization of their rights as human beings, attaining & sustaining equitable and dignified life. Simultaneously ICP is involved in non-formal interfaith, academic courses and advocacy of community care.",
         "org_type":[
             "F",
@@ -799,20 +818,21 @@
             "Brahma Kumaris"
         ],
         "contacted":"no",
+        "religious_affiliation":[
+            "Hindu"
+        ],
         "main_names":[
             "Prajapita BrahmaKumaris Ishwariya Vishwa Vidyalaya"
         ],
         "aim_URL":"http://www.brahmakumaris.org/whoweare/faq",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "General Consultative Status NGO with UN's Economic and Social Council (1983)",
             "Consultative Status with UNICEF",
             "Affiliation with UN Department of Public Information (in 1980)"
         ],
-        "religious_affiliation":[
-            "Hindu"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Hindi, English, Russian, German, and numerous languages wherever centres operate"
@@ -883,13 +903,14 @@
     {
         "parent_org":"No information",
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":"No information",
         "aim_URL":"http://icf.daga.org/reports/longterm_project-a.html",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "Aceh (Indonesia), Burma, Cambodia, East Timor, India, Indonesia, Laos, Malaysia, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, West Papua (Indonesia)"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English, Urdu, Bhasa Indonesian, Hindi, Thai, Vietnamese."
         ],

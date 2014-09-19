@@ -1,6 +1,7 @@
 [
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":48.2164325,
@@ -9,11 +10,11 @@
             }
         },
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -82,6 +83,7 @@
             "United Nations"
         ],
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7517,
@@ -90,9 +92,7 @@
             }
         },
         "aim_URL":"http://www.unaoc.org/about/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "African Union, Addis Ababa, Ethiopia",
             "Arab League Educational, Cultural and Scientific Organization, Tunis, Tunisia",
@@ -118,7 +118,9 @@
             "World Organization of United Cities and Local Governments, Barcelona, Spain",
             "World Tourism Organization, Madrid, Spain"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "Chinese",
@@ -217,6 +219,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "main_names":[
             "Congr\u00e8s international des religions"
         ],
@@ -229,7 +232,9 @@
         },
         "aim_URL":"http://www.parliamentofreligions.org/index.cfm?n=1",
         "staff":[
-            "World"
+            "Director",
+            "5 employees",
+            "1 intern"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
@@ -270,7 +275,9 @@
             "World Fellowship of Interreligious Councils, Mumbai, India",
             "Youth In Action, Toronto, ON, Canada"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -439,6 +446,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.7685734,
@@ -458,7 +466,11 @@
         },
         "aim_URL":"http://www.elijah-interfaith.org",
         "staff":[
-            "World"
+            "Executive Director",
+            "Director of Educational Activity",
+            "Director Elijah Interfaith Institute",
+            "Director of Educational Network",
+            "3 full time employees"
         ],
         "IO_relations":[
             "Children of Abraham Institute/Society for Scriptural Reasoning, Charlottesville, VA, USA",
@@ -469,7 +481,9 @@
             "Metanexus Institute on Religion, Science and the Humanities, New York, NY, USA",
             "Guide on Tolerance Education, Jagiellonian University, Krak\u00f3w, Poland"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French"
@@ -487,13 +501,7 @@
             "6.1j",
             "6.1l"
         ],
-        "events":[
-            "2000: Pray for the Peace of Jerusalem, Jerusalem, Israel, 2003: First Meeting of World Religious Leaders, Seville, Spain",
-            "2005: Congress of Imams and Rabbis, Brussels, Belgium",
-            "1999: Interfaith Relations in Israel, Jerusalem, Israel",
-            "2003: Combatting Terrorism, Jerusalem, Israel",
-            "2000: Interreligious Concert, Jerusalem, Israel"
-        ],
+        "finances":"Support from affiliates; personal gifts and donations; and financial support from diverse bodies and organizations",
         "website":"http://www.elijah-interfaith.org",
         "acronym":"EII",
         "email_gen":"admin@elijah-interfaith.org",
@@ -529,7 +537,13 @@
             "Israel Interfaith Association, Jerusalem, Israel"
         ],
         "IRD_def":"Interfaith dialogue forms the backbone of the school and allows for the integration of the study of religious traditions with exposure to their lived spirituality.",
-        "finances":"Support from affiliates; personal gifts and donations; and financial support from diverse bodies and organizations",
+        "events":[
+            "2000: Pray for the Peace of Jerusalem, Jerusalem, Israel, 2003: First Meeting of World Religious Leaders, Seville, Spain",
+            "2005: Congress of Imams and Rabbis, Brussels, Belgium",
+            "1999: Interfaith Relations in Israel, Jerusalem, Israel",
+            "2003: Combatting Terrorism, Jerusalem, Israel",
+            "2000: Interreligious Concert, Jerusalem, Israel"
+        ],
         "aim":"Foster peace between the world's diverse faith communities through interfaith dialogue, education, research and dissemination. Generate interfaith dialogue at the highest levels, bringing together world religious leaders and renowned scholars the world over, through research projects, public conferences and community-based initiatives.",
         "org_type":[
             "E",
@@ -553,6 +567,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":47.3779086,
@@ -561,18 +576,18 @@
             }
         },
         "aim_URL":"http://www.epil.ch/EPIL_welcome.html",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":[
+            "Interreligious Conference of European Women Theologians, Europe",
+            "The Ecumenical Forum of European Christian Women, Brussels, Belgium"
+        ],
+        "regionfocus":[
             "Western Asia",
             "Eastern Europe",
             "Northern Europe",
             "Southern Europe",
             "Western Europe"
         ],
-        "IO_relations":[
-            "Interreligious Conference of European Women Theologians, Europe",
-            "The Ecumenical Forum of European Christian Women, Brussels, Belgium"
-        ],
-        "religious_affiliation":"No information",
         "languages":[
             "English",
             "Language of the country (where module takes place)"
@@ -625,6 +640,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.768319,
@@ -633,10 +649,7 @@
             }
         },
         "aim_URL":"http://interfaithencounter.wordpress.com/about/our-history/",
-        "staff":[
-            "Israel",
-            "State of Palestine"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Council of Centers on Jewish-Christian Relations, Chestnut Hill, MA, USA",
             "Council for a Parliament of the World\u2019s Religions, Chicago, IL, USA",
@@ -649,7 +662,10 @@
             "Children of the Earth, South Burlington, VT, USA",
             "The Open House of Ramle, Ramle, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Israel",
+            "State of Palestine"
+        ],
         "languages":[
             "Arabic",
             "English",
@@ -766,6 +782,10 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Christianity",
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":49.6403,
@@ -774,16 +794,13 @@
             }
         },
         "aim_URL":"http://www.iccj.org/About-us.2.0.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Commonwealth Jewish Council, London, UK",
             "International Martin Buber Society, Heppenheim, Germany"
         ],
-        "religious_affiliation":[
-            "Christianity",
-            "Judaism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -875,6 +892,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.90943,
@@ -883,11 +901,7 @@
             }
         },
         "aim_URL":"http://nain.org/about-us/mission-history/",
-        "staff":[
-            "Canada",
-            "Mexico",
-            "USA"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Religions For Peace USA, New York, NY, USA",
             "Coexist Foundation, Washington, DC, USA",
@@ -901,7 +915,11 @@
             "Women of Spirit and Faith, Long Beach, CA, USA",
             "United Church of Christ, Cleveland, OH, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Canada",
+            "Mexico",
+            "USA"
+        ],
         "languages":[
             "English"
         ],
@@ -1022,6 +1040,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.5497656,
@@ -1030,7 +1049,9 @@
             }
         },
         "aim_URL":"http://www.3ff.org.uk/about-us/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "Eastern Europe",
             "Northern Europe",
             "Southern Europe",
@@ -1038,8 +1059,6 @@
             "Western Asia",
             "USA"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -1135,6 +1154,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.98344,
@@ -1143,16 +1163,16 @@
             }
         },
         "aim_URL":"http://www.riifs.org/about-riifs.html",
-        "staff":[
-            "Western Asia"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "British Council, London, UK",
             "Institute of Community Cohesion, Coventry, UK",
             "European Union, Brussels, Belgium",
             "Muslim Council for Cooperation in Europe, Brussels, Belgium"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Western Asia"
+        ],
         "languages":[
             "Arabic",
             "English"
@@ -1249,6 +1269,10 @@
             "The Hommes de Parole Foundation"
         ],
         "contacted":false,
+        "religious_affiliation":[
+            "Islam",
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":46.2116485,
@@ -1262,10 +1286,7 @@
             }
         },
         "aim_URL":"http://www.imamsetrabbins.org",
-        "staff":[
-            "Western Asia",
-            "Europe"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Alliance of Civilizations, New York, NY, USA",
             "The European Commission, Brussels, Belgium",
@@ -1286,9 +1307,9 @@
             "A Jewish Contribution to an Inclusive Europe, Brussels, Belgium",
             "Le Monde des Religions, Paris, France"
         ],
-        "religious_affiliation":[
-            "Islam",
-            "Judaism"
+        "regionfocus":[
+            "Western Asia",
+            "Europe"
         ],
         "languages":[
             "English",
@@ -1342,6 +1363,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":41.2709274,
@@ -1350,14 +1372,14 @@
             }
         },
         "aim_URL":"http://www.globalpeaceworks.org/about/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "The Everest Peace Project, Eugene, OR, USA",
             "Interfaith Encounter Association, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -1408,6 +1430,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7501387,
@@ -1421,9 +1444,7 @@
             }
         },
         "aim_URL":"http://www.rfp.org/vision-history/vision/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Arigatou Foundation, Tokyo, Japan",
             "CARE International, Geneva, Switzerland",
@@ -1454,7 +1475,9 @@
             "World Justice Forum, Seattle, WA, USA",
             "World Vision, Federal Way, WA, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "Chinese",
@@ -1590,6 +1613,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7127837,
@@ -1599,9 +1623,7 @@
         },
         "aim_URL":"http://www.intersectionsinternational.org/about-us/history-logo",
         "staff":[
-            "USA",
-            "Central Asia",
-            "Southern Asia"
+            "15 employees"
         ],
         "IO_relations":[
             "The American Society for Muslim Advancement, New York, NY, USA",
@@ -1616,7 +1638,11 @@
             "Tanenbaum Center for Interreligious Understanding, New York, NY, USA",
             "United Nations Alliance of Civilizations, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "USA",
+            "Central Asia",
+            "Southern Asia"
+        ],
         "languages":[
             "English"
         ],
@@ -1694,6 +1720,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":37.8005663,
@@ -1703,7 +1730,7 @@
         },
         "aim_URL":"http://www.uri.org/about_uri",
         "staff":[
-            "World"
+            "32 employees"
         ],
         "IO_relations":[
             "Christian-Muslim Forum, London, UK",
@@ -1739,7 +1766,9 @@
             "World Congress of Faiths, London, UK",
             "Catholic Relief Services, Baltimore, MD, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "Chinese",
@@ -1863,6 +1892,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":39.4839351,
@@ -1871,13 +1901,13 @@
             }
         },
         "aim_URL":"http://www.clergybeyondborders.org",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "USA",
             "Jordan",
             "State of Palestine"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -1942,6 +1972,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":38.89,
@@ -1951,7 +1984,7 @@
         },
         "aim_URL":"http://globalengage.org/about/faq",
         "staff":[
-            "World"
+            "14 employees"
         ],
         "IO_relations":[
             "Telos Group, Washington, DC, USA",
@@ -1959,8 +1992,8 @@
             "International Center for Law and Religion Studies, Brigham Young University, Provo, UT, USA",
             "Prince Alwaleed Bin Talal Center for Muslim-Christian Understanding, Washington, DC, USA"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -2058,6 +2091,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":38.930649,
@@ -2067,14 +2103,14 @@
         },
         "aim_URL":"http://www.nationalcathedral.org/learn/summit2010/faq.shtml",
         "staff":[
-            "USA",
-            "Lebanon"
+            "13 employees"
         ],
         "IO_relations":[
             "Pontifical Council for Inter-religious Dialogue, Vatican City, Holy See"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "USA",
+            "Lebanon"
         ],
         "languages":[
             "English"
@@ -2153,6 +2189,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9046452,
@@ -2167,13 +2204,15 @@
         },
         "aim_URL":"http://coexistfoundation.org/about/",
         "staff":[
-            "Uganda",
-            "India"
+            "11 employees"
         ],
         "IO_relations":[
             "Kulanu, New York City, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Uganda",
+            "India"
+        ],
         "languages":[
             "English"
         ],
@@ -2293,6 +2332,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":33.8886289,
@@ -2301,9 +2341,7 @@
             }
         },
         "aim_URL":"http://www.adyanvillage.net/Profile",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Anna Lindh Foundation, Alexandria, Egypt",
             "United Nations Alliance of Civilization, New York, NY, USA",
@@ -2314,7 +2352,9 @@
             "Konrad Adenauer Foundation, Berlin, Germany",
             "Institute of Missiology Missio, Aachen, Germany"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "English",
@@ -2478,6 +2518,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7528385,
@@ -2486,16 +2527,16 @@
             }
         },
         "aim_URL":"http://www.afsv.org/about-us/overview/#.U2C0bcZMBaU",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Kimse Yok Mu Relief and Aid Association, Istanbul, Turkey",
             "Embrace Relief, Carlstadt, NJ, USA",
             "Dialogue Institute of the Southwest, Houston, TX, USA",
             "Rumi Forum, Washington, DC, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -2584,6 +2625,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9156487,
@@ -2592,9 +2634,7 @@
             }
         },
         "aim_URL":"http://berkleycenter.georgetown.edu/wfdd/about",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "The World Bank, Washington, DC, USA",
             "United Nations Children's Fund, New York, NY, USA",
@@ -2604,7 +2644,9 @@
             "United Nations Alliance of Civilizations, New York, NY, USA",
             "Chab Dai, Khmer, Cambodia"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -2755,6 +2797,7 @@
             "Georgetown University"
         ],
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9156487,
@@ -2763,9 +2806,7 @@
             }
         },
         "aim_URL":"http://berkleycenter.georgetown.edu/about",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "World Communion of Reformed Churches, Hannover, Germany",
             "Children of Abraham Institute, Charlottesville, VA, USA",
@@ -2881,7 +2922,9 @@
             "Rumi Forum, Washington, DC, USA",
             "Interreligious Coordinating Council in Israel, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -3134,6 +3177,7 @@
             "University of Hamburg"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":53.56446,
@@ -3142,15 +3186,15 @@
             }
         },
         "aim_URL":"http://www.awr.uni-hamburg.de/de/ueber-awr/profil.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Educational, Scientific and Cultural Organization, Paris, France",
             "Institute on Culture, Religion and World Affairs, Boston, MA, USA",
             "Institut Europ\u00e9en en Sciences du Religion, Paris, France"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "German"
@@ -3290,6 +3334,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":[
             "Bertelsmann Stiftung"
         ],
@@ -3311,9 +3356,7 @@
             }
         },
         "aim_URL":"http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-A3A1B9DF-0D8D5A25/bst_engl/hs.xsl/269.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Adam Institute for Democracy and Peace, Jerusalem, Israel",
             "Hellenic Foundation for European and Foreign Policy, Athens, Greece",
@@ -3325,7 +3368,9 @@
             "European Institute of Education and Social Policy, Paris, France",
             "Universal Education Foundation, Brussels, Belgium"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "German",
@@ -3498,6 +3543,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.5127783,
@@ -3516,9 +3562,7 @@
             }
         },
         "aim_URL":"https://iarf.net/about/our-priorities/statement-of-purpose/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "International Association of Liberal Religious Women, Glen Cove, NY, USA",
             "The Becket Fund, Washington, DC, USA",
@@ -3537,7 +3581,9 @@
             "Council for a Parliament of the Worlds Religions, Chicago, IL, USA",
             "A Common Word, Islamabad, Pakistan"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -3639,6 +3685,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.872186,
@@ -3647,14 +3694,14 @@
             }
         },
         "aim_URL":"http://www.ialrw.org",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "International Association for Religious Freedom, London, UK",
             "International Convocation Unitarian Universalist Women, Houston, TX, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -3721,6 +3768,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.7959303,
@@ -3739,17 +3787,17 @@
             }
         },
         "aim_URL":"http://www.k4p.org/mission/",
-        "staff":[
-            "USA",
-            "Israel",
-            "State of Palestine"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Alliance for Middle East Peace, Washington, DC, USA",
             "Children Of Peace, East Sussex, UK",
             "Jerusalem Peacebuilders, Houston, TX, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "USA",
+            "Israel",
+            "State of Palestine"
+        ],
         "languages":[
             "English"
         ],
@@ -3806,6 +3854,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7501387,
@@ -3815,7 +3864,7 @@
         },
         "aim_URL":"http://templeofunderstanding.org/who-we-are/",
         "staff":[
-            "World"
+            "4 full-time employees"
         ],
         "IO_relations":[
             "United Nations Development Programme, New York, NY, USA",
@@ -3827,7 +3876,9 @@
             "United Nations Educational, Scientific and Cultural Organization, Paris, France",
             "Society of the Sacred Heart, Rome, Italy"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -3930,6 +3981,7 @@
             "The Office of the High Commissioner for Human Rights"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":46.2095516,
@@ -3943,9 +3995,7 @@
             }
         },
         "aim_URL":"http://www.tandemproject.com/program/introduction.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Economic and Social Council, New York, NY, USA",
             "Women's United Nations Report Network, New York, NY, USA",
@@ -3953,7 +4003,9 @@
             "United Nations Commission on the Status of Women, New York, NY, USA",
             "United Nations Committee on the Elimination of Discrimination against Women, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -4009,6 +4061,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.809811,
@@ -4018,13 +4071,15 @@
         },
         "aim_URL":"http://www.religionandpolicy.org/about-the-institute/",
         "staff":[
-            "World"
+            "5 full-time employees"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
             "Interfaith Peace-building Initiative, Addis Ababa, Ethiopia"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -4108,6 +4163,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.768319,
@@ -4117,8 +4173,7 @@
         },
         "aim_URL":"http://www.crihl.org/content/crihl-history",
         "staff":[
-            "Israel",
-            "State of Palestine"
+            "2 employee"
         ],
         "IO_relations":[
             "King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue, Vienna, Austria",
@@ -4134,7 +4189,10 @@
             "Anglican-Episcopal Church, Jerusalem, Israel",
             "Evangelical Lutheran Church in Jordan and the Holy Land, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Israel",
+            "State of Palestine"
+        ],
         "languages":[
             "Arabic",
             "English",
@@ -4199,6 +4257,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9113694,
@@ -4213,7 +4272,7 @@
         },
         "aim_URL":"http://www.sfcg.org/sfcg/sfcg_home.html",
         "staff":[
-            "World"
+            "More than 500 employees."
         ],
         "IO_relations":[
             "Action in the Mediterranean, Brussels, Belgium",
@@ -4344,7 +4403,9 @@
             "United Nations Office for Project Services, Copenhagen, Denmark",
             "World Bank, Washington, DC, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French"
@@ -4597,6 +4658,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":29.6551608,
@@ -4615,14 +4677,14 @@
             }
         },
         "aim_URL":"http://www.interfaithdialog.org/index.php?option=com_k2&view=item&layout=item&id=296&Itemid=255",
-        "staff":[
-            "Turkey",
-            "USA"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Alliance for Shared Values, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Turkey",
+            "USA"
+        ],
         "languages":[
             "English",
             "Turkish"
@@ -4724,6 +4786,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":25.286667,
@@ -4732,11 +4795,11 @@
             }
         },
         "aim_URL":"http://dicid.org/english/aboutus.php",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "English"
@@ -4835,6 +4898,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":50.8430089,
@@ -4848,9 +4912,7 @@
             }
         },
         "aim_URL":"http://www.ghfp.org/about.aspx",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Alliance of Civilizations, New York, NY, USA",
             "Religions for Peace, New York, NY, USA",
@@ -4873,7 +4935,9 @@
             "European Institute of Education and Social Policy, Paris, France",
             "Universal Education Foundation, Brussels, Belgium"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French"
@@ -4978,6 +5042,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.007591,
@@ -4991,9 +5056,7 @@
             }
         },
         "aim_URL":"http://interfaith-centre.org/about-iic/history-newsletter/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "International Interfaith Organizations Network, Oxford, UK",
             "Federation of Zoroastrian Associations of North America, Los Angeles, CA, USA",
@@ -5007,7 +5070,9 @@
             "Global Dialogue Institute, Philadelphia, PA",
             "Interfaith Encounter Association, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -5091,6 +5156,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Islam"
+        ],
         "adresses":{
             "Address1":{
                 "lat":27.0079152,
@@ -5099,9 +5167,7 @@
             }
         },
         "aim_URL":"http://dialogueonline.org/top.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Islamic Research Academy at Al-Azhar Al-Sharif, Cairo, Egypt",
             "Muslim World League, Mecca, Saudi Arabia",
@@ -5111,8 +5177,8 @@
             "World Islamic Council, London, UK",
             "Organization of Islamic Daw'a, Khartoum, Sudan"
         ],
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Arabic",
@@ -5190,6 +5256,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":3.1002358,
@@ -5198,9 +5265,7 @@
             }
         },
         "aim_URL":"http://www.just-international.org/objectives/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "International Peace Council, Madison, WI, USA",
             "Muhammadiyah Network, Jakarta, Indonesia",
@@ -5211,7 +5276,9 @@
             "International Human Rights Association of American Minorities, Nanaimo, BC, Canada",
             "International Progress Organization, Vienna, Austria"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -5287,6 +5354,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7418041,
@@ -5295,9 +5363,7 @@
             }
         },
         "aim_URL":"http://www.irfwp.org/wp/index.php/about-us/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Ambassadeurs de Paix, Paris, France",
             "Children of Abraham, Charlottesville, VA, USA",
@@ -5307,7 +5373,9 @@
             "Neve Shalom/Wahat al-Salam, Doar Na Shimshon, Israel",
             "The Interfaith Encounter Association, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -5383,6 +5451,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Buddhism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":45.965665,
@@ -5391,9 +5462,7 @@
             }
         },
         "aim_URL":"http://www.lgpt.net/lama_found.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Religions for Peace, New York, NY, USA",
             "United Religions Initiative, New York, NY, USA",
@@ -5401,8 +5470,8 @@
             "Council for a Parliament of the World's Religions, Chicago, IL, USA",
             "Temple of Understanding, New York, NY, USA"
         ],
-        "religious_affiliation":[
-            "Buddhism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Chinese",
@@ -5495,6 +5564,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":33.8886289,
@@ -5513,9 +5585,7 @@
             }
         },
         "aim_URL":"http://www.mec-churches.org/about/council_five_themes.htm",
-        "staff":[
-            "Western Asia"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations High Commissioner for Refugees, Geneva, Switzerland",
             "United Nations Relief and Works Agency for Palestine Refugees in the Near East, Gaza City, State of Palestine",
@@ -5536,8 +5606,8 @@
             "Christian World Service USA, New York, New York, USA",
             "World Council of Churches, Geneva, Switzerland"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "Western Asia"
         ],
         "languages":[
             "Arabic",
@@ -5642,6 +5712,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "main_names":[
             "Dialogue Interreligieux Monastique"
         ],
@@ -5653,9 +5726,7 @@
             }
         },
         "aim_URL":"http://www.dimmid.org/index.asp?Type=B_BASIC&SEC=%7B7AC675FA-BCCD-4E41-9E1F-6A7A01C910E9%7D&DE=%7B2F990FEA-A2BE-4269-8044-76777001FD2A%7D",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "European Network of Buddhist Christian Studies, St. Ottilien, Germany",
             "The Society for Buddhist-Christian Studies, Rochester, NY, USA",
@@ -5681,8 +5752,8 @@
             "Royal Institute for Inter-faith Studies, Amman, Jordan",
             "Rumi Forum, Washington, DC, USA"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Dutch",
@@ -5713,15 +5784,7 @@
             "6.3h",
             "10h"
         ],
-        "events":[
-            "2008: Nuns in the West, Los Angeles, CA, USA",
-            "Gethsemani III, Monasticism and the Environment, New Haven, KY, USA",
-            "2010: Symposium on Abhishiktananda, Shantivanam Ashram, India",
-            "2011: World Day of Prayer for Peace, Assisi, Italy",
-            "The Word of God Calling Us to Prayer and Witness, Rome, Italy",
-            "2012: Monks the West III, San Francisco, CA, USA",
-            "Monastic-Muslim Dialogue, Qum, Iran"
-        ],
+        "finances":"No information",
         "website":"http://www.dimmid.org",
         "acronym":"DIMMID",
         "email_gen":"wskudlarek@csbsju.edu",
@@ -5768,7 +5831,15 @@
             "Ajatananda Ashram, Rishikesh, India"
         ],
         "IRD_def":"DIMMID follows the principles and guidelines of interfaith dialogue by Scarboro Missions. While the natural dialogue partners of Christian monastics are monastics of other religious traditions, DIMMID also engages in spiritual dialogue with adherents of religions that do not have an institutionalized form of monasticism, for example\u2014and in particular\u2014with Muslims.",
-        "finances":"No information",
+        "events":[
+            "2008: Nuns in the West, Los Angeles, CA, USA",
+            "Gethsemani III, Monasticism and the Environment, New Haven, KY, USA",
+            "2010: Symposium on Abhishiktananda, Shantivanam Ashram, India",
+            "2011: World Day of Prayer for Peace, Assisi, Italy",
+            "The Word of God Calling Us to Prayer and Witness, Rome, Italy",
+            "2012: Monks the West III, San Francisco, CA, USA",
+            "Monastic-Muslim Dialogue, Qum, Iran"
+        ],
         "aim":"Promote and support dialogue at the level of religious experience and practice, between Christian monastic men and women and followers of other religions.",
         "org_type":[
             "F"
@@ -5797,6 +5868,9 @@
             "Anglican Communion"
         ],
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":51.5204912,
@@ -5806,7 +5880,7 @@
         },
         "aim_URL":"http://nifcon.anglicancommunion.org/index.cfm",
         "staff":[
-            "World"
+            "2 part-time employees"
         ],
         "IO_relations":[
             "Embrace the Middle East, London, UK",
@@ -5826,8 +5900,8 @@
             "Three Faiths Forum, London, UK",
             "Religions for Peace, New York, NY, USA"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -5861,10 +5935,7 @@
             "9h",
             "10h"
         ],
-        "events":[
-            "2003: Conference - Dialogue and Evangelism, Bangalore, India",
-            "2007: Conference - Faith and Citizenship, Kaduna, Nigeria"
-        ],
+        "finances":"No information",
         "website":"http://nifcon.anglicancommunion.org/index.cfm",
         "acronym":"NIFCON",
         "email_gen":"sue.parks@anglicancommunion.org",
@@ -5930,7 +6001,10 @@
             "The Society for Christian Buddhist Studies, Honolulu, HI, USA"
         ],
         "IRD_def":"The taking of appropriate decisions about situations in which we will find ourselves is important if understanding is to challenge fear and ignorance, and if all concerned are to be true to their fatih. Living our own faith confidently and compassionatley is the first requirement in meeting people of other faiths. The second requirement is to learn about what those people understand by their own faith. When Interfaith co-operation works, the lives of all are enriched.",
-        "finances":"No information",
+        "events":[
+            "2003: Conference - Dialogue and Evangelism, Bangalore, India",
+            "2007: Conference - Faith and Citizenship, Kaduna, Nigeria"
+        ],
         "aim":"Progress towards genuinely open and loving relationships between Christians and people of other faiths; exchange of news, information, ideas and resources relating to inter faith concerns between provinces of the Anglican Communion; achieve local contextual and wider theological reflection; witness and eveangelism where appropriate; act prayerful and urgent with all involved in tension and conflict; support for people of faith, especially Christians, who live as religious minorities in situations of discrimination or danger.",
         "org_type":[
             "R"
@@ -5950,6 +6024,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.931566,
@@ -5963,15 +6038,15 @@
             }
         },
         "aim_URL":"http://www.friendsofopenhouse.co.il/story-of-the-house/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":[
+            "Friends of Open House Ramle, No Grosvenordale, CT, USA"
+        ],
+        "regionfocus":[
             "Israel",
             "State of Palestine",
             "USA"
         ],
-        "IO_relations":[
-            "Friends of Open House Ramle, No Grosvenordale, CT, USA"
-        ],
-        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "English",
@@ -6106,6 +6181,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":43.0638042,
@@ -6115,7 +6191,7 @@
         },
         "aim_URL":"http://www.peacecouncil.org/About/Mission",
         "staff":[
-            "World"
+            "3 full-time employees"
         ],
         "IO_relations":[
             "Anti-Slavery International, London, UK",
@@ -6134,7 +6210,9 @@
             "United Nations Trust Fund on Contemporary Forms of Slavery, Geneva, Switzerland",
             "World Congress of Faiths, London, UK"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -6252,6 +6330,9 @@
             "The Holy See"
         ],
         "contacted":true,
+        "regionfocus":[
+            "World"
+        ],
         "main_names":[
             "Conseil pontifical pour le dialogue interreligieux",
             "Pontificio Consiglio per il Dialogo Interreligioso",
@@ -6265,9 +6346,7 @@
             }
         },
         "aim_URL":"http://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_pro_20051996_en.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Monastic Interreligious Dialogue North America, Hingham, MA, USA",
             "Congregation for the Evangelization of Peoples, Rome, Italy",
@@ -6371,6 +6450,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Islam"
+        ],
         "adresses":{
             "Address1":{
                 "lat":38.89988839999999,
@@ -6389,14 +6471,12 @@
             }
         },
         "aim_URL":"http://www.rumiforum.org/about/about-rumi-forum.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Mid-Atlantic Federation of Turkic American Associations, Washington, DC, USA"
         ],
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -6539,6 +6619,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":[
             "Fondation \u00e9thique plan\u00e9taire",
             "Stiftung Weltethos",
@@ -6562,9 +6643,7 @@
             }
         },
         "aim_URL":"https://www.weltethos.org/data-en/c-10-stiftung/11-die-stiftung.php",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Karl Schlecht Gemeinnuetzige Stiftung, Aichtal, Germany",
             "Stiftung Van Meeteren, Essen, Germany",
@@ -6577,7 +6656,9 @@
             "Europaeisches Abrahamisches Forum, Zurich, Switzerland",
             "United Religions Initiative, San Francisco, CA, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French",
@@ -6698,6 +6779,7 @@
             "Nazareth College"
         ],
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":43.1014561,
@@ -6706,14 +6788,14 @@
             }
         },
         "aim_URL":"http://www.naz.edu/interfaith-studies-and-dialogue",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Council for Parliament on the World's Religions, Chicago, IL, USA",
             "Commission on Jewish Christian Relations, Rochester, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "English"
@@ -6784,9 +6866,11 @@
             }
         ],
         "name_en":"The Brian and Jean Hickey Center for Interfaith Studies and Dialogue",
-        "contact_person":[
-            "Prof. Dr. Mohammed Shafiq",
-            "mshafiq5@naz.edu"
+        "general_activities":[
+            {
+                "activity_name":"Religions and Prisons",
+                "activity_description":"A one-day workshop for chaplains, administrators and staff who serve the correctional facilities in New York State. The purpose of this workshop is to educate prison officials about the basic history, belief patterns, ritual observances, and religious needs of the current prison population."
+            }
         ],
         "structure":"Communication Committee; Planning Committee; Advisory Board; Executive Director",
         "other_relations":[
@@ -6823,16 +6907,15 @@
             "date":"20140528",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Religions and Prisons",
-                "activity_description":"A one-day workshop for chaplains, administrators and staff who serve the correctional facilities in New York State. The purpose of this workshop is to educate prison officials about the basic history, belief patterns, ritual observances, and religious needs of the current prison population."
-            }
+        "contact_person":[
+            "Prof. Dr. Mohammed Shafiq",
+            "mshafiq5@naz.edu"
         ],
         "history":"Foundation in 2005, renamed in 2011."
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.7625152,
@@ -6842,9 +6925,11 @@
         },
         "aim_URL":"http://icci.org.il/about-us/",
         "staff":[
-            "Israel",
-            "State of Palestine",
-            "USA"
+            "Director",
+            "Associate Director",
+            "Director of Educational Initiatives",
+            "3 full-time employees",
+            "2 interns"
         ],
         "IO_relations":[
             "The Elijah Interfaith Institute, Jerusalem, Israel",
@@ -6878,7 +6963,11 @@
             "Pontifical Biblical Institute, Jerusalem, Israel",
             "The Abraham Fund Intiatives, Be'er Sheva, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Israel",
+            "State of Palestine",
+            "USA"
+        ],
         "languages":[
             "Arabic",
             "English",
@@ -7004,6 +7093,7 @@
             "Sparknews"
         ],
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":48.8460512,
@@ -7013,7 +7103,7 @@
         },
         "aim_URL":"http://www.interfaithtour.com/en/projects-presentation/",
         "staff":[
-            "World"
+            "5 volunteers"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
@@ -7026,7 +7116,9 @@
             "Society of Foreign Missions of Paris, Paris, France",
             "Council for a Parliament of the World's Religions, Chicago, IL, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French"
@@ -7106,6 +7198,7 @@
             "Harvard University"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":42.3707477,
@@ -7114,9 +7207,7 @@
             }
         },
         "aim_URL":"http://www.pluralism.org/international/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Center for Religious and Cross Cultural Studies, Yogyakarta, Indonesia",
             "International Center for Islam and Pluralism, Jakarta Selatan, Indonesia",
@@ -7126,7 +7217,9 @@
             "Harvard Divinity School, Boston, MA, USA",
             "The Rockefeller Foundation, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -7173,11 +7266,7 @@
             "9l",
             "10h"
         ],
-        "events":[
-            "The Pluralism Project at Harvard University is sponsoring many events. Some of the events are co-sponsored with other organizations",
-            "others are \u201cinterfaculty\u201d events, engaging scholars throughout the Harvard community",
-            "and still others feature the work of Pluralism Project student researchers, affiliates, and women\u2019s networks members."
-        ],
+        "finances":"Donations.",
         "website":"http://pluralism.org/international",
         "acronym":"PP",
         "email_gen":"staff@pluralism.org",
@@ -7206,7 +7295,11 @@
             "The Templeton Foundation, West Conshohocken, PA, USA"
         ],
         "IRD_def":"The language of pluralism is that of dialogue and encounter, give and take, criticism and self-criticism. Dialogue means both speaking and listening, and that process reveals both common understandings and real differences. Dialogue does not mean everyone at the \u201ctable\u201d will agree with one another. Pluralism involves the commitment to being at the table - with one\u2019s commitments.",
-        "finances":"Donations.",
+        "events":[
+            "The Pluralism Project at Harvard University is sponsoring many events. Some of the events are co-sponsored with other organizations",
+            "others are \u201cinterfaculty\u201d events, engaging scholars throughout the Harvard community",
+            "and still others feature the work of Pluralism Project student researchers, affiliates, and women\u2019s networks members."
+        ],
         "aim":"Recognize the local impact of the global and the global impact of the local; broaden our network to include international academic affiliates, finding synergies with research and study projects at centers and universities in other countries; engaged in identifying a range of projects, centers, and institutes around the world that also focus on the promise and challenge of religious pluralism; plan to get an overview of the architecture of this growing group of institutions.",
         "org_type":[
             "K"
@@ -7245,6 +7338,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.5163752,
@@ -7258,16 +7352,16 @@
             }
         },
         "aim_URL":"http://tonyblairfaithfoundation.org/foundation",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "The Office of Tony Blair, London, UK",
             "Tony Blair Africa Governance Initiative, London, UK",
             "Office of the Quartet Representative, London, UK",
             "Breaking the Climate Deadlock, London, UK"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -7333,6 +7427,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":52.2087159,
@@ -7341,15 +7436,15 @@
             }
         },
         "aim_URL":"http://www.woolfinstitute.cam.ac.uk/about/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Middlesex University, London, UK",
             "Prince Alwaleed Bin Talal Centre for Islamic Studies, Washington, DC, USA",
             "Doha International Center for Inter-faith Dialogue, Doha, Qatar"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -7438,6 +7533,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.5380495,
@@ -7447,7 +7543,7 @@
         },
         "aim_URL":"http://www.worldfaiths.org/about.php",
         "staff":[
-            "World"
+            "1 part-time employee"
         ],
         "IO_relations":[
             "International Association for Religious Freedom, London, UK",
@@ -7457,7 +7553,9 @@
             "The Inter Religious Federation for World Peace, Sunnyside, NY, USA",
             "The Centre for the Study of Jewish-Christian Relations, Cambridge, UK"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -7479,18 +7577,7 @@
             "6.3j",
             "10h"
         ],
-        "events":[
-            "2004: Annual General Meeting, London, UK",
-            "2005: Annual General Meeting, London, UK",
-            "2006: Annual General Meeting, London, UK",
-            "2007: Annual General Meeting, London, UK",
-            "2008: Annual General Meeting, London, UK",
-            "2009: Annual General Meeting, London, UK",
-            "2010: Annual General Meeting, London, UK",
-            "2011: Annual General Meeting, London, UK",
-            "2012: Annual General Meeting, London, UK",
-            "2014: Annual General Meeting, London, UK"
-        ],
+        "finances":"Members' dues.",
         "website":"http://www.worldfaiths.org/",
         "acronym":"WCF",
         "email_gen":"enquiries@worldfaiths.org",
@@ -7533,7 +7620,18 @@
             "St Ethelburga's Centre for Reconciliation and Peace, London, UK"
         ],
         "IRD_def":"Exploring both the challenges and the enrichments that arise from the interaction of diverse traditions of faith and belief, and learning more about them; and the organisation sees itself as offering to its membership opportunities for spiritual growth through multi-faith engagement.",
-        "finances":"Members' dues.",
+        "events":[
+            "2004: Annual General Meeting, London, UK",
+            "2005: Annual General Meeting, London, UK",
+            "2006: Annual General Meeting, London, UK",
+            "2007: Annual General Meeting, London, UK",
+            "2008: Annual General Meeting, London, UK",
+            "2009: Annual General Meeting, London, UK",
+            "2010: Annual General Meeting, London, UK",
+            "2011: Annual General Meeting, London, UK",
+            "2012: Annual General Meeting, London, UK",
+            "2014: Annual General Meeting, London, UK"
+        ],
         "aim":"Contribute to both the identification of shared values and the clarification of essential differences in order that mutual trust and understanding among faith communities may be strengthened; develop partnerships with relevant institutions in higher education and theological training as well as with agencies seeking common action on issues of peace, justice and ecology.",
         "org_type":[
             "F"
@@ -7560,6 +7658,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":41.0762077,
@@ -7579,10 +7678,13 @@
         },
         "aim_URL":"http://www.upf.org/about",
         "staff":[
-            "World"
+            "8 full-time, paid",
+            "thousands of volunteers worldwide"
         ],
         "IO_relations":"No information",
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "Chinese",
@@ -7790,6 +7892,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":37.2614142,
@@ -7798,11 +7901,11 @@
             }
         },
         "aim_URL":"https://www.abrahamicalliance.org/aai/about",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -7896,6 +7999,7 @@
             "World Bank"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.8989707,
@@ -7904,9 +8008,7 @@
             }
         },
         "aim_URL":"http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/PARTNERS/EXTDEVDIALOGUE/0,,contentMDK:21966758~menuPK:5554943~pagePK:64192523~piPK:64192458~theSitePK:537298,00.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "World Faiths Development Dialogue, Washington, DC, USA",
             "Community of Sant\u2019Egidio, Rome, Italy",
@@ -7919,7 +8021,9 @@
             "Australian Government - Department of Foreign Affairs and Trade, Canberra, ACT, Australia",
             "F\u00e8s Colloquium, Fes, Morocco"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -7940,10 +8044,7 @@
             "7l",
             "10h"
         ],
-        "events":[
-            "2008: IMF and World Bank Dialogue with the Ecumenical Advocacy Alliance on Trade Policy, Washington, DC, USA",
-            "Christian-Muslim Dialogue on Climate Change, World Bank, Washington, DC, USA"
-        ],
+        "finances":"Core funding from the Human Development Network at a level of $614,000 for Fiscal Year 2010; Additional resources through the submission of proposals for funding to various trust funds and donors",
         "website":"http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/PARTNERS/EXTDEVDIALOGUE/0,,menuPK:64193238~pagePK:64192526~piPK:64192494~theSitePK:537298,00.html",
         "acronym":"DDVE",
         "email_gen":"qwodon@worldbank.org",
@@ -7952,7 +8053,10 @@
         "structure":"Program Manager; Program Assistant; Consultants",
         "other_relations":"No information",
         "IRD_def":"A dialogue aimed at strengthening partnerships and understanding between the worlds of faith and development. Leaders from the world's faith communities and key development organizations, as well as representatives from the worlds of philanthropy, the private sector, and the arts, joined together to explore new ways to meet global challenges.",
-        "finances":"Core funding from the Human Development Network at a level of $614,000 for Fiscal Year 2010; Additional resources through the submission of proposals for funding to various trust funds and donors",
+        "events":[
+            "2008: IMF and World Bank Dialogue with the Ecumenical Advocacy Alliance on Trade Policy, Washington, DC, USA",
+            "Christian-Muslim Dialogue on Climate Change, World Bank, Washington, DC, USA"
+        ],
         "aim":"Contribute to analytical work, capacity development and dialogue on issues related to values and ethics; promote a participatory approach to development work.",
         "org_type":[
             "K"
@@ -8003,6 +8107,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.8108221,
@@ -8011,11 +8116,11 @@
             }
         },
         "aim_URL":"http://www.cordobainitiative.org/about-us/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -8086,6 +8191,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":41.0906519,
@@ -8099,9 +8205,7 @@
             }
         },
         "aim_URL":"http://forusa.org/about/sop",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Interfaith Peace-Builders, Washington, DC, USA",
             "Creative Response to Conflict, Nyack, NY, USA",
@@ -8111,7 +8215,9 @@
             "Veterans of Hope Project, Denver, CO, USA",
             "Voices for Creative Nonviolence, Chicago, IL, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -8313,6 +8419,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Islam"
+        ],
         "adresses":{
             "Address1":{
                 "lat":39.70421229999999,
@@ -8326,9 +8435,7 @@
             }
         },
         "aim_URL":"http://www.isna.net/mission-and-vision.html",
-        "staff":[
-            "Northern America"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Stop Hunger Now, Raleigh, NC, USA",
             "American Baptist Churches USA, King of Prussia, PA, USA",
@@ -8354,8 +8461,8 @@
             "United States Conference of Catholic Bishops, Washington, DC, USA",
             "National Council of Churches of Christ in the USA, Washington, DC, USA"
         ],
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "Northern America"
         ],
         "languages":[
             "English"
@@ -8521,6 +8628,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9057498,
@@ -8529,9 +8637,7 @@
             }
         },
         "aim_URL":"http://www.usip.org/vision-mission-core-principles",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "African Contingency Operations Training and Assistance, Washington, DC, USA",
             "United Nations Regional Centre for Peace and Disarmament in Africa, Lome, Togo",
@@ -8556,7 +8662,9 @@
             "Institute for Democracy in Eastern Europe, Washington, DC, USA",
             "Internews International, Paris, France"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -8710,6 +8818,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7744567,
@@ -8718,11 +8827,11 @@
             }
         },
         "aim_URL":"http://worldfaith.org/about-world-faith/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -8807,6 +8916,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":11.5363324,
@@ -8815,14 +8925,14 @@
             }
         },
         "aim_URL":"http://afdd.org.kh",
-        "staff":[
-            "Asia"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "World Faiths Development Dialogue, Washington, DC, USA",
             "International Foundation for Arts and Culture, Perth, WA, Australia"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Asia"
+        ],
         "languages":[
             "English"
         ],
@@ -8899,6 +9009,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":40.7524793,
@@ -8907,9 +9018,7 @@
             }
         },
         "aim_URL":"http://www.gflp.org",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations, New York, NY, USA",
             "Elijah Interfaith Institute, Jerusalem, Israel",
@@ -8917,7 +9026,9 @@
             "United Religions Initiative, San Francisco, CA, USA",
             "United Nations Department of Public Information, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -8983,6 +9094,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":40.7598618,
@@ -9001,9 +9115,7 @@
             }
         },
         "aim_URL":"http://www.ajc.org/site/c.7oJILSPwFfJSG/b.9196379/k.E030/About_AJC.htm#sthash.VbGYiG2Q.dpuf",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Australia/Israel & Jewish Affairs Council, South Melbourne, VIC, Australia",
             "European Union of Jewish Students, Brussels, Belgium",
@@ -9019,8 +9131,8 @@
             "UN Watch, Geneva, Switzerland",
             "European Council of Jewish Communities, London, UK"
         ],
-        "religious_affiliation":[
-            "Judaism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -9184,6 +9296,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":[
             "Konrad-Adenauer Stiftung"
         ],
@@ -9205,9 +9318,7 @@
             }
         },
         "aim_URL":"http://www.kas.de/wf/en/71.3628/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "European Community, Brussels, Belgium",
             "Association of Asian Constitutional Courts, Seoul, Republic of Korea",
@@ -9250,7 +9361,9 @@
             "Robert Schuman Institute for Developing Democracy in Central and Eastern Europe, Budapest, Hungary",
             "Centre for European Integration Studies, Bonn, Germany"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French",
@@ -9313,9 +9426,7 @@
             "11c",
             "11l"
         ],
-        "events":[
-            "Conferences, forums, symposia, seminars etc. are taking place in field offices around the world."
-        ],
+        "finances":"Federal and land government funds; Admission charges; Private revenues",
         "website":"http://www.kas.de/",
         "acronym":"KAF",
         "email_gen":"zentrale-berlin@kas.de",
@@ -9326,7 +9437,9 @@
             "Each field office has its own local partner organizations."
         ],
         "IRD_def":"By understanding dialogue as requiring trust and equality among all participants and rejecting any notion of convincing others to accept one\u2019s own beliefs. By appreciating that dialogue encourages participants to examine critically their own perceptions of both their own tradition and that of their dialogue partners in the light of a genuine engagement with the other.",
-        "finances":"Federal and land government funds; Admission charges; Private revenues",
+        "events":[
+            "Conferences, forums, symposia, seminars etc. are taking place in field offices around the world."
+        ],
         "aim":"Promote freedom and liberty, peace, and justice; focus on consolidating democracy, the unification of Europe and the strengthening of transatlantic relations, as well as on development cooperation.",
         "org_type":[
             "G",
@@ -9366,6 +9479,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "main_names":[
             "Conseil de l'Europe",
             "Consejo de Europa",
@@ -9390,7 +9504,7 @@
         },
         "aim_URL":"http://www.coe.int/en/web/about-us/values;jsessionid=C2646A98F1D755DE7CF604F7C548FA90",
         "staff":[
-            "Europe"
+            "About 1,800 civil servants, drawn from member states."
         ],
         "IO_relations":[
             "European Union, Brussels, Belgium",
@@ -9855,7 +9969,9 @@
             "Youth Express Network, Strasbourg, France",
             "Zonta International, Oak Brook, IL, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Europe"
+        ],
         "languages":[
             "English",
             "French",
@@ -10031,6 +10147,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "main_names":[
             "Fondation euro-m\u00e9diterran\u00e9enne Anna Lindh pour le dialogue entre les cultures",
             "Anna Lindh Foundation"
@@ -10054,9 +10171,9 @@
         },
         "aim_URL":"http://www.annalindhfoundation.org/mandate-and-founders",
         "staff":[
-            "Northern Africa",
-            "Western Asia",
-            "Europe"
+            "26 permanent",
+            "3 for SIDA programme",
+            "2 interns."
         ],
         "IO_relations":[
             "Bibliotheca Alexandrina Council of Patrons, Alexandria, Egypt",
@@ -10081,7 +10198,11 @@
             "Literature Across Frontiers, Aberystwyth, UK",
             "RESPECT Refugiados, Barcelona, Spain"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Northern Africa",
+            "Western Asia",
+            "Europe"
+        ],
         "languages":[
             "Arabic",
             "English",
@@ -10228,6 +10349,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Islam"
+        ],
         "main_names":[
             "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0644\u0644\u062a\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u0629\u200e"
         ],
@@ -10239,17 +10363,7 @@
             }
         },
         "aim_URL":"http://www.isesco.org.ma/index.php?option=com_k2&view=item&layout=item&id=3&Itemid=58&lang=en",
-        "staff":[
-            "Western Asia",
-            "South-Eastern Asia",
-            "Southern Asia",
-            "Central Asia",
-            "Western Africa",
-            "Eastern Africa",
-            "Northern Africa",
-            "Middle Africa",
-            "South America"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "General Secretariat of the Organization of Islamic Cooperation, Jeddah, Saudi Arabia",
             "United Nations, New York, NY, USA",
@@ -10341,8 +10455,16 @@
             "Islamic Society of North America, Plainfield, IN, USA",
             "Religions for Peace, New York, NY, USA"
         ],
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "Western Asia",
+            "South-Eastern Asia",
+            "Southern Asia",
+            "Central Asia",
+            "Western Africa",
+            "Eastern Africa",
+            "Northern Africa",
+            "Middle Africa",
+            "South America"
         ],
         "languages":[
             "Arabic",
@@ -10541,6 +10663,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "main_names":[
             "Organisation de la s\u00e9curit\u00e9 et la coop\u00e9ration en Europe",
             "Organisation fuer Sicherheit und Zusammenarbeit in Europa"
@@ -10554,9 +10677,7 @@
         },
         "aim_URL":"http://www.osce.org/who",
         "staff":[
-            "Europe",
-            "Central Asia",
-            "North America"
+            "Secretariat and Institutions - about 550. Field Operations - about 2,330."
         ],
         "IO_relations":[
             "United Nations, New York, NY, USA",
@@ -10589,7 +10710,11 @@
             "African Union, Addis Ababa, Ethiopia",
             "International Committee of the Red Cross, Geneva, Switzerland"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Europe",
+            "Central Asia",
+            "North America"
+        ],
         "languages":[
             "English",
             "French",
@@ -10733,6 +10858,10 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Islam",
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":48.1951683,
@@ -10742,7 +10871,7 @@
         },
         "aim_URL":"http://www.mjconference.de/about/muslim-jewish-conference/",
         "staff":[
-            "World"
+            "35 team members"
         ],
         "IO_relations":[
             "Organization for Security and Co-Operation in Europe, Vienna, Austria",
@@ -10755,9 +10884,8 @@
             "Hommes de Parole Foundation, Geneva, Switzerland",
             "Karl Kahane Foundation, Celerina, Switzerland"
         ],
-        "religious_affiliation":[
-            "Islam",
-            "Judaism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -10837,6 +10965,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Islam"
+        ],
         "main_names":[
             "Centre de recherches sur l'histoire, l'art et la culture islamiques"
         ],
@@ -10849,7 +10980,7 @@
         },
         "aim_URL":"http://www.ircica.org/about-us/irc380.aspx",
         "staff":[
-            "World"
+            "55 paid employees."
         ],
         "IO_relations":[
             "Islamic Educational, Scientific and Cultural Organisation, Rabat, Morocco",
@@ -10875,8 +11006,8 @@
             "Middle East Studies Association of North America, Tucson, AZ, USA",
             "Organization of Islamic Capitals and Cities, Mecca, Saudi Arabia"
         ],
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Arabic",
@@ -10906,6 +11037,23 @@
             "7j",
             "10h"
         ],
+        "finances":"Contributions of Organisation of the Islamic Conference Member States.",
+        "website":"http://www.ircica.org",
+        "acronym":"IRCICA",
+        "email_gen":"ircica@ircica.org",
+        "IRD_activities":[],
+        "name_en":"Research Centre for Islamic History, Art and Culture",
+        "structure":"Islamic Commission for Economic, Cultural and Social Affairs acts as General Assembly; Governing Board; Executive Committee; General Directorate (headed by Director General)",
+        "other_relations":[
+            "Mimar Sinan University, Istanbul, Turkey",
+            "University of Qatar, Doha, Qatar",
+            "Bilkent University, Ankara, Turkey",
+            "Institute of Islamic Understanding, Kuala Lumpur, Malaysia",
+            "Institute for the History of Arabic Science, University of Aleppo, Aleppo, Syria",
+            "Government of Bosnia and Herzegovina, Sarajevo, Bosnia and Herzegovina",
+            "Islamic Cultural Centre, University of Jordan, Amman, Jordan"
+        ],
+        "IRD_def":"To promote mutual understanding and affinities among Muslim nations as well as between Muslims and other nations and peoples of the world.",
         "events":[
             "2000: International Congress, Sofia, Bulgaria",
             "2001: International Congress, Kazan, Russia",
@@ -10930,23 +11078,6 @@
             "International Congress, Kuwait City, Kuwait",
             "International Congress 2013, Amman, Jordan"
         ],
-        "website":"http://www.ircica.org",
-        "acronym":"IRCICA",
-        "email_gen":"ircica@ircica.org",
-        "IRD_activities":[],
-        "name_en":"Research Centre for Islamic History, Art and Culture",
-        "structure":"Islamic Commission for Economic, Cultural and Social Affairs acts as General Assembly; Governing Board; Executive Committee; General Directorate (headed by Director General)",
-        "other_relations":[
-            "Mimar Sinan University, Istanbul, Turkey",
-            "University of Qatar, Doha, Qatar",
-            "Bilkent University, Ankara, Turkey",
-            "Institute of Islamic Understanding, Kuala Lumpur, Malaysia",
-            "Institute for the History of Arabic Science, University of Aleppo, Aleppo, Syria",
-            "Government of Bosnia and Herzegovina, Sarajevo, Bosnia and Herzegovina",
-            "Islamic Cultural Centre, University of Jordan, Amman, Jordan"
-        ],
-        "IRD_def":"To promote mutual understanding and affinities among Muslim nations as well as between Muslims and other nations and peoples of the world.",
-        "finances":"Contributions of Organisation of the Islamic Conference Member States.",
         "aim":"Study and better introduce the Islamic culture and civilisation throughout the world and to act as a catalyst for research and cooperation in these areas to promote mutual understanding between Muslims and with other nations and cultures of the world.",
         "org_type":[
             "E",
@@ -10998,6 +11129,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "main_names":[
             "Organisation des Nations Unies pour l'\u00e9ducation, la science et la culture",
             "Organizaci\u00f3n de las Naciones Unidas para la Educaci\u00f3n, la Ciencia y la Cultura"
@@ -11011,7 +11143,7 @@
         },
         "aim_URL":"http://www.unesco.org/new/en/unesco/about-us/who-we-are/introducing-unesco/",
         "staff":[
-            "World"
+            "2008: 2,038 civil servants"
         ],
         "IO_relations":[
             "Food and Agriculture Organization, Rome, Italy",
@@ -11490,7 +11622,9 @@
             "World Foundation for AIDS Research and Prevention, Paris, France",
             "World Monuments Fund, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "Chinese",
@@ -11656,6 +11790,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":[
             "Universit\u00e9 spirituelle internationale des Brahma Kumaris",
             "Brahma Kumaris Universidad Espiritual Mundial",
@@ -11675,7 +11810,7 @@
         },
         "aim_URL":"http://www.brahmakumaris.org/whoweare/faq",
         "staff":[
-            "World"
+            "Voluntary teachers (4,250) in 110 countries"
         ],
         "IO_relations":[
             "United Nations Economic and Social Council, New York, NY, USA",
@@ -11691,7 +11826,9 @@
             "Vienna NGO Committee on the Status of Women, Vienna, Austria",
             "United Religions Initiative, San Francisco, CA, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French",
@@ -11723,7 +11860,7 @@
             "10c",
             "10h"
         ],
-        "events":"No information",
+        "finances":"Voluntary contributions of individual members. Sponsorship of facilities and services.",
         "website":"http://www.brahmakumaris.org/index_html",
         "acronym":"BKWSU",
         "email_gen":"abu@bkivv.org",
@@ -11732,7 +11869,7 @@
         "structure":"Management Committee (meets twice a year), consisting of 10 members; Advisory Boards; Zonal management committees (7 to 20 persons); Self-supporting centres run voluntarily by students and teachers",
         "other_relations":"No information",
         "IRD_def":"Brahma Kumaris have been helping to bring people of different faiths and cultures together, believing that a deeper understanding between faiths, based on acceptance and respect, will contribute to a culture of peace and non-violence in our world community.",
-        "finances":"Voluntary contributions of individual members. Sponsorship of facilities and services.",
+        "events":"No information",
         "aim":"Help individuals re-discover and strengthen their inherent worth by encouraging and facilitating a process of spiritual awakening; encourage individuals to live by their highest values, vision and purpose.",
         "org_type":[
             "F",
@@ -11792,6 +11929,7 @@
             "Wellesley College"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":42.2935733,
@@ -11805,14 +11943,14 @@
             }
         },
         "aim_URL":"http://www.wellesley.edu/religiouslife/resources/east/",
-        "staff":[
-            "USA",
-            "Morocco"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Guerrand-Hermes Foundation for Peace, Brighton, UK"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "USA",
+            "Morocco"
+        ],
         "languages":[
             "English"
         ],
@@ -11902,6 +12040,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Buddhism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":25.0178293,
@@ -11920,14 +12061,12 @@
             }
         },
         "aim_URL":"http://www.093ljm.org",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "Eastern Asia",
             "South-Eastern Asia",
             "North America"
-        ],
-        "IO_relations":"No information",
-        "religious_affiliation":[
-            "Buddhism"
         ],
         "languages":[
             "Chinese",
@@ -12006,6 +12145,7 @@
             "Universal Peace Federation"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":41.063418,
@@ -12014,16 +12154,16 @@
             }
         },
         "aim_URL":"http://www.religiousyouthservice.org/about/goals.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Inter-Religious Federation for World Peace, Sunnyside, NY, USA",
             "World University Federation, Bridgeport, CT, USA",
             "International Religious Foundation, New York, NY, USA",
             "International Relief Friendship Foundation, Red Hook, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -12050,7 +12190,7 @@
             "7j",
             "10h"
         ],
-        "events":"No information",
+        "finances":"Contributions. Annual budget about US$ 200,000.",
         "website":"http://www.religiousyouthservice.org/",
         "acronym":"RYS",
         "email_gen":"flagrotteria@religiousyouthservice.org",
@@ -12072,7 +12212,7 @@
         "structure":"Advisory Board: President, Chairman, 28 individuals",
         "other_relations":"No information",
         "IRD_def":"Offer service opportunities which allow the breakdown of barriers, foster altruism, facilitate friendship and build community. Create settings wherein intercultural experiences can occur. Give opportunities to express and share spirituality and/or religious traditions with others. Provide occasions to hear from community and religious leaders, and explore the peace building characteristics of their cultures. Encourage meaningful interaction, allowing insights from interaction immediately to be applied to promoting peace. Cultivate learning by reflection.",
-        "finances":"Contributions. Annual budget about US$ 200,000.",
+        "events":"No information",
         "aim":"Provide an environment wherein youth from diverse cultures and faiths can rise above doctrinal differences, unite in activities of service and learning, and develop leadership abilities that enable them to help create a culture of peace; provide youth from diverse cultures and faiths with alternatives to violence; offer service opportunities which allow the breakdown of barriers, foster altruism, facilitate friendship and build community; develop and apply best practice models of leadership, human cooperation and relationship; increase effective leadership abilities, learned by experience; create settings wherein intercultural experiences can occur; give opportunities to express and share spirituality and/or religious traditions with others; provide occasions to hear from community and religious leaders, and explore the peace building characteristics of their cultures; encourage meaningful interaction, allowing insights from interaction immediately to be applied to promoting peace; cultivate learning by reflection; assure succession, replication and expansion of RYS human capital through education and training.",
         "org_type":[
             "K"
@@ -12093,6 +12233,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":48.63852,
@@ -12101,9 +12242,7 @@
             }
         },
         "aim_URL":"http://www.iketh.eu/eng/index.html",
-        "staff":[
-            "Europe"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Egeria-Weges: Oekumenisches Frauen Pilger Projekt, Winnweiler, Germany",
             "EPIL - European Project of Interreligious Learning, Zurich, Switzerland",
@@ -12115,7 +12254,9 @@
             "Ecumenical Forum of European Christian Women, Gwatt, Switzerland",
             "Kirchen Volksbewegung, Munich, Germany"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Europe"
+        ],
         "languages":[
             "English",
             "German"
@@ -12188,10 +12329,9 @@
         "history":"No information"
     },
     {
+        "religious_affiliation":"No information",
         "aim_URL":"http://worldinterfaithharmonyweek.com/about-us/our-aims-objectives/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Royal Islamic Strategic Studies Centre, Amman, Jordan",
             "Royal Aal al-Bayt Institute for Islamic Thought, Amman, Jordan",
@@ -12204,23 +12344,14 @@
             "Brot fuer die Welt, Berlin, Germany",
             "United Nations, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "Arabic",
             "English"
         ],
         "international":true,
-        "other_relations":"No information",
-        "events":[
-            "2011: World Interfaith Harmony Week, World",
-            "2012: World Interfaith Harmony Week, World",
-            "2013: World Interfaith Harmony Week, World",
-            "Prize-Awarding Ceremony, Amman, Jordan",
-            "2014: World Interfaith Harmony Week, World",
-            "Prize Awarding Ceremony, Amman, Jordan"
-        ],
-        "website":"http://worldinterfaithharmonyweek.com",
-        "acronym":"WIHW",
         "subject":[
             "1h",
             "2.3c",
@@ -12235,9 +12366,20 @@
             "7h",
             "10h"
         ],
+        "events":[
+            "2011: World Interfaith Harmony Week, World",
+            "2012: World Interfaith Harmony Week, World",
+            "2013: World Interfaith Harmony Week, World",
+            "Prize-Awarding Ceremony, Amman, Jordan",
+            "2014: World Interfaith Harmony Week, World",
+            "Prize Awarding Ceremony, Amman, Jordan"
+        ],
+        "website":"http://worldinterfaithharmonyweek.com",
+        "acronym":"WIHW",
         "email_gen":"Contact form: http://worldinterfaithharmonyweek.com/about-us/contact-us/",
         "IRD_activities":[],
         "name_en":"World Interfaith Harmony Week",
+        "other_relations":"No information",
         "IRD_def":"Dialogue is crucial for the tremendous changes needed for humanity to move forward, especially today, where conflict and war have become a lifestyle for millions around the world. We cannot promise that we will resolve all of the conflicts. But we do believe that dialogue will reduce the chance of warfare and increase the possibility of reconciliation.",
         "finances":"No information",
         "aim":"Spread the message of harmony and tolerance among the followers of all the world\u2019s religions, faiths and beliefs; Co-ordinate and unite the efforts of all the interfaith groups doing positive work with one focused theme at one specific time annually, thereby increasing their collective momentum and eliminating redundancy; harness and utilise the collective might of the world\u2019s second-largest infrastructure, the places of worship, specifically for peace and harmony in the world; encourage the silent majority of preachers to declare themselves for peace and harmony and providing a ready-made vehicle for them to do so.",
@@ -12262,6 +12404,10 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity",
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":42.3367183,
@@ -12270,9 +12416,7 @@
             }
         },
         "aim_URL":"http://www.ccjr.us/about/bylaws",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Cardinal Bea Centre for Judaic Studies, Pontifical Gregorian University, Rome, Italy",
             "Centre for the Study of Jewish-Christian Relations, Cambridge University, Cambridge, UK",
@@ -12287,9 +12431,8 @@
             "B'nai B'rith International, Washington, DC, USA",
             "National Council of Churches of Christ in the USA, Washington, DC, USA"
         ],
-        "religious_affiliation":[
-            "Christianity",
-            "Judaism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -12408,6 +12551,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "main_names":[
             "Missions Etrang\u00e8res de Scarboro",
             "Societ\u00e0 per le Missioni Estere di Scarboro",
@@ -12421,17 +12567,7 @@
             }
         },
         "aim_URL":"https://www.scarboromissions.ca/Learn_about_us/mission_values_vision.php",
-        "staff":[
-            "Bahamas",
-            "Brazil, China",
-            "Dominican Republic",
-            "Ecuador",
-            "Guyana",
-            "Japan",
-            "Malawi",
-            "Thailand",
-            "Canada"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Religions for Peace, New York, NY, USA",
             "Global Ethic Foundation, Tuebingen, Germany",
@@ -12442,8 +12578,16 @@
             "Ontario Coalition for Religious Tolerance, Kingston, ON, Canada",
             "North American Interfaith Network, Wichita, KA, USA"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "Bahamas",
+            "Brazil, China",
+            "Dominican Republic",
+            "Ecuador",
+            "Guyana",
+            "Japan",
+            "Malawi",
+            "Thailand",
+            "Canada"
         ],
         "languages":[
             "English"
@@ -12508,9 +12652,11 @@
             }
         ],
         "name_en":"Scarboro Foreign Mission Society",
-        "contact_person":[
-            "Paul McKenna",
-            "interfaith@scarboromissions.ca"
+        "general_activities":[
+            {
+                "activity_name":"Inculturation",
+                "activity_description":"The modern missioner is more likely to see God as already present and active in other religious cultures. Christian mission, therefore, does not consist of a movement toward theological and cultural imperialism. It can, however, involve the experience of inculturation. lnculturation refers to efforts to express the Christian life and mystery in each and every culture."
+            }
         ],
         "structure":"General Council; Bishop; Secretary General; Treasurer General; Departments; Missions; Lay Mission Office",
         "other_relations":[
@@ -12538,16 +12684,17 @@
             "date":"20140702",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Inculturation",
-                "activity_description":"The modern missioner is more likely to see God as already present and active in other religious cultures. Christian mission, therefore, does not consist of a movement toward theological and cultural imperialism. It can, however, involve the experience of inculturation. lnculturation refers to efforts to express the Christian life and mystery in each and every culture."
-            }
+        "contact_person":[
+            "Paul McKenna",
+            "interfaith@scarboromissions.ca"
         ],
         "history":"Foundation in 1918."
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":50.8502471,
@@ -12557,7 +12704,7 @@
         },
         "aim_URL":"http://www.ceji.org/about/what_we_do",
         "staff":[
-            "Europe"
+            "Director, 5 paid employees"
         ],
         "IO_relations":[
             "Alliance Israelite Universelle, Paris, France",
@@ -12636,8 +12783,8 @@
             "Pears Foundation, London, UK",
             "The Rothschild Foundation Europe, London, UK"
         ],
-        "religious_affiliation":[
-            "Judaism"
+        "regionfocus":[
+            "Europe"
         ],
         "languages":[
             "English",
@@ -12778,6 +12925,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Judaism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":51.5183531,
@@ -12787,12 +12937,12 @@
         },
         "aim_URL":"http://www.bod.org.uk/live/content.php?Category_ID=6",
         "staff":[
-            "UK",
-            "Israel"
+            "9 paid employees"
         ],
         "IO_relations":"No information",
-        "religious_affiliation":[
-            "Judaism"
+        "regionfocus":[
+            "UK",
+            "Israel"
         ],
         "languages":[
             "English"
@@ -12895,6 +13045,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":35.6821913,
@@ -12913,9 +13064,7 @@
             }
         },
         "aim_URL":"http://www.arigatouinternational.org/en/who.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Children's Fund, New York, NY USA",
             "United Nations Educational, Scientific and Cultural Organization, Paris, France",
@@ -12929,7 +13078,9 @@
             "The Pontifical Council for Interreligious Dialogue, Vatican City, Holy See",
             "Rissho Kosei-kai Buddhism for today, Tokyo, Japan"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "French",
@@ -13010,6 +13161,9 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":39.291933,
@@ -13023,9 +13177,7 @@
             }
         },
         "aim_URL":"http://crs.org/about/mission-statement/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "International Fund for Agricultural Development, Rome, Italy",
             "International Organization for Migration, Geneva, Switzerland",
@@ -13094,8 +13246,8 @@
             "Visions in Action, Washington, DC, USA",
             "YouthBuild International, Somerville, MA, USA"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English"
@@ -13216,6 +13368,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "main_names":[
             "Zentralkomitee der deutschen Katholiken"
         ],
@@ -13232,18 +13387,16 @@
             }
         },
         "aim_URL":"http://www.zdk.de/ueber-uns/unsere-aufgaben/",
-        "staff":[
-            "Germany",
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Initiative of Christians for Europe, Bonn, Germany",
             "European Forum of National Laity Committees, Brussels, Belgium",
             "Kommission Weltkirche, Bonn, Germany",
             "Lumen Gentium, Bonn, Germany"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "Germany",
+            "World"
         ],
         "languages":[
             "German"
@@ -13283,16 +13436,7 @@
             "10h",
             "11c"
         ],
-        "events":[
-            "2000: 94. Deutscher Katholikentag, Hamburg, Germany",
-            "2003: First Ecumenical Church Day, Berlin, Germany",
-            "2004: 95. Deutscher Katholikentag, Ulm, Germany",
-            "2006: 96. Deutscher Katholikentag, Saarbruecken, Germany",
-            "2008: 97. Deutscher Katholikentag, Osnabrueck, Germany",
-            "2010: Second Ecumenical Church Day, Munich, Germany",
-            "2012: 98. Deutscher Katholikentag, Mannheim, Germany",
-            "2014: 99. Deutscher Katholikentag, Regensburg, Germany"
-        ],
+        "finances":"In 2010: EUR 2.275.000",
         "website":"http://www.zdk.de",
         "acronym":"ZdK",
         "email_gen":"info@zdk.de",
@@ -13324,7 +13468,16 @@
             "German Bishops\u2019 Conference, Bonn, Germany"
         ],
         "IRD_def":"ZdK sees its task in the dialogue between Christians and Muslims as well as Christians and Jews, and in the elaboration of common positions on specific socio-political fields and practical questions of everyday coexistence of Christians, Muslims and Jews. The discussion groups on those dialogues strive to highlight especially common interests and responsibility of Christians and Muslims as well as Christians and Jews in our society.",
-        "finances":"In 2010: EUR 2.275.000",
+        "events":[
+            "2000: 94. Deutscher Katholikentag, Hamburg, Germany",
+            "2003: First Ecumenical Church Day, Berlin, Germany",
+            "2004: 95. Deutscher Katholikentag, Ulm, Germany",
+            "2006: 96. Deutscher Katholikentag, Saarbruecken, Germany",
+            "2008: 97. Deutscher Katholikentag, Osnabrueck, Germany",
+            "2010: Second Ecumenical Church Day, Munich, Germany",
+            "2012: 98. Deutscher Katholikentag, Mannheim, Germany",
+            "2014: 99. Deutscher Katholikentag, Regensburg, Germany"
+        ],
         "aim":"Monitor the development in the social, political and ecclesiastical life and to represent the concerns of Catholics in public; give suggestions for the apostolic work of the Church and of Catholics in society; contribute to the ecclesiastical decisions on the diocesan level and to advise the German Bishops' Conference on issues of social, political and ecclesiastical life; prepare and undertake joint initiatives and events of German Catholics; observe the concerns and responsibilities of German Catholics abroad and at international level; contribute to the implementation and compliance with relevant measures.",
         "org_type":[
             "G"
@@ -13343,6 +13496,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":48.1480707,
@@ -13351,13 +13507,11 @@
             }
         },
         "aim_URL":"http://eugen-biser-stiftung.de/RESPONSIBILITIES_AND_AIMS_OF_THE_EUGEN_BISER_FOUNDATION.295+B6Jkw9MQ__.0.html",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "Germany",
             "World"
-        ],
-        "IO_relations":"No information",
-        "religious_affiliation":[
-            "Christianity"
         ],
         "languages":[
             "German",
@@ -13471,6 +13625,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":47.4076506,
@@ -13480,15 +13637,15 @@
         },
         "aim_URL":"http://frohbotinnen.at/Wirken",
         "staff":[
+            "Director, Vice-Director, 2 part-time employees"
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
             "Austria",
             "Germany",
             "Turkey",
             "UK",
             "Latin America and the Caribbean"
-        ],
-        "IO_relations":"No information",
-        "religious_affiliation":[
-            "Christianity"
         ],
         "languages":[
             "German"
@@ -13543,6 +13700,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Buddhism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":35.6962854,
@@ -13561,9 +13721,7 @@
             }
         },
         "aim_URL":"http://www.shinnyoen.org/beliefs-practices/index.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations Children's Fund, New York, NY, USA",
             "Office of the United Nations High Commissiones for Refugees, Geneva, Switzerland",
@@ -13574,8 +13732,8 @@
             "Univers Foundation, Tokyio, Japan",
             "Ito Foundation for International Education Exchange, Tokyo, Japan"
         ],
-        "religious_affiliation":[
-            "Buddhism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -13678,6 +13836,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":-37.7669228,
@@ -13686,14 +13845,14 @@
             }
         },
         "aim_URL":"http://www.globaldialoguefoundation.org/index.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "RMIT University, Melbourne, VIC, Australia",
             "United Nations Alliance of Civilizations, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
@@ -13826,6 +13985,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":-37.837972,
@@ -13835,14 +13995,16 @@
         },
         "aim_URL":"http://www.intercultural.org.au/about-us/our-beliefs.html",
         "staff":[
-            "Australia",
-            "Turkey"
+            "5 employees"
         ],
         "IO_relations":[
             "Monash University, Melbourne, VIC, Australia",
             "Dharma Drum Mountain, Taipeh, China"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Australia",
+            "Turkey"
+        ],
         "languages":[
             "English"
         ],
@@ -13942,6 +14104,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.5568483,
@@ -13960,17 +14123,17 @@
             }
         },
         "aim_URL":"http://www.dialoguesociety.org/about-us.html",
-        "staff":[
-            "UK",
-            "Turkey"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Queen Mary University of London, London, UK",
             "University of Birmingham, Birmingham, UK",
             "Faith Matters, London, UK",
             "Irish School of Ecumenics, Dublin, Ireland"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "UK",
+            "Turkey"
+        ],
         "languages":[
             "English"
         ],
@@ -14077,6 +14240,7 @@
     },
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":51.527783,
@@ -14085,14 +14249,14 @@
             }
         },
         "aim_URL":"http://faith-matters.org/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "UK",
             "State of Palestine",
             "Israel",
             "Pakistan"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -14232,6 +14396,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":33.4221259,
@@ -14245,15 +14410,15 @@
             }
         },
         "aim_URL":"http://www.fid-az.org/index.php/about-us/mission-vision",
-        "staff":[
-            "USA",
-            "Turkey"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Rumi Forum, Washington, DC, USA",
             "Embrace Relief, Carlstadt, NJ, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "USA",
+            "Turkey"
+        ],
         "languages":[
             "English"
         ],
@@ -14323,10 +14488,13 @@
         },
         "aim_URL":"http://www.interculturaldialog.com/about-us/about/",
         "staff":[
+            "Around 30 employees (in 10 offices)."
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
             "Canada",
             "Turkey"
         ],
-        "IO_relations":"No information",
         "languages":[
             "English"
         ],
@@ -14414,8 +14582,7 @@
         },
         "aim_URL":"http://www.asef.org/about/faq",
         "staff":[
-            "Asia",
-            "Europe"
+            "About 40-50, including interns and contract staff."
         ],
         "IO_relations":[
             "Academic Cooperation Association, Brussel, Belgium",
@@ -14561,6 +14728,10 @@
             "Yonsei University, Seoul, Republic of Korea",
             "Youth Action for Peace, Frankfurt, Germany",
             "Youth in Action Programme, Brussels, Belgium"
+        ],
+        "regionfocus":[
+            "Asia",
+            "Europe"
         ],
         "languages":[
             "English"

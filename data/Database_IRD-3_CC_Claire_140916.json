@@ -1,6 +1,7 @@
 [
     {
         "contacted":true,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":48.2164325,
@@ -9,11 +10,11 @@
             }
         },
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "World"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -81,6 +82,7 @@
             "Minzu University of China (MUC)"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "main_names":[
             "\u6bd4\u8f83\u7ecf\u5b66\u4e0e\u5b97\u6559\u95f4\u5bf9\u8bdd\u521b\u65b0\u5f15\u667a\u57fa\u5730"
         ],
@@ -92,11 +94,11 @@
             }
         },
         "aim_URL":"http://ics.muc.edu.cn/en/list2.asp?artid=585",
-        "staff":[
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
             "China"
         ],
-        "IO_relations":"No information",
-        "religious_affiliation":"No information",
         "languages":[
             "Chinese",
             "English"
@@ -159,6 +161,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "main_names":[
             "\u57fa\u7763\u6559\u6587\u5316\u7814\u7a76\u6240"
         ],
@@ -170,12 +175,10 @@
             }
         },
         "aim_URL":"http://www.iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Cid=4&Pid=2&Version=0&Charset=iso-8859-1&page=0",
-        "staff":[
-            "China"
-        ],
+        "staff":"No information",
         "IO_relations":"No information",
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "China"
         ],
         "languages":[
             "Chinese",
@@ -200,13 +203,7 @@
             "6.3l",
             "10l"
         ],
-        "events":[
-            "2004: The Visitor's Internal Seminar: Professor LI Qiulin, Renmin University of China,\"Kant, Confucius and Sino-Christianity\", Hong Kong, China, Hong Kong Special Administrative Region",
-            "2005: The Visitor's Internal Seminar, Mr. Qi Xiao Dong, Shandong University \"Religious Dialogue in Tillich's Thought\", Hong Kong, China, Hong Kong Special Administrative Region",
-            "2005: Academic Conference: Dr. Keith Chan participated in the conference \"An International Symposium on Environmental Ethics: An Inter-Religious Dialogue\" organised by the Center of Applied Ethics at Hong Kong Baptist University,  Hong Kong, China, Hong Kong Special Administrative Region",
-            "2006: Internal Seminar for Visiting Scholars & Visiting Students in ISCS, paper presented: Fudan University \"Dialogue between Buddhism and Jesuits at Late Ming and Early Qing: An Eschatological Perspective\", Hong Kong, China, Hong Kong Special Administrative Region",
-            "2008: The 6th Christrianity research exchange Camp, under the theme \"the dialogue between Christrianity and Confuciansim\". Participants: Research students from the Chinese University of Hong Kong and Hong Kong Baptist University and China Graduate School of Theology, Hong Kong, China, Hong Kong Special Administrative Region"
-        ],
+        "finances":"No information",
         "website":"http://www.iscs.org.hk/Common/Reader/Version/Show.jsp?Pid=1&Version=0&Charset=iso-8859-1&page=0",
         "acronym":"ISCS",
         "email_gen":"info@iscs.org.hk",
@@ -220,7 +217,13 @@
             "Cambridge University Inter-Faith Programme, Cambridge, UK"
         ],
         "IRD_def":"The mission of the Institute follows the great aspirations of Dr. Karl L Reichelt,  the Norwegian Sinologist and founder of Tao Fong Shan, to promote the contextualization of Christian theology in Chinese culture and to further develop dialogue with other cultures and religions.",
-        "finances":"No information",
+        "events":[
+            "2004: The Visitor's Internal Seminar: Professor LI Qiulin, Renmin University of China,\"Kant, Confucius and Sino-Christianity\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2005: The Visitor's Internal Seminar, Mr. Qi Xiao Dong, Shandong University \"Religious Dialogue in Tillich's Thought\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2005: Academic Conference: Dr. Keith Chan participated in the conference \"An International Symposium on Environmental Ethics: An Inter-Religious Dialogue\" organised by the Center of Applied Ethics at Hong Kong Baptist University,  Hong Kong, China, Hong Kong Special Administrative Region",
+            "2006: Internal Seminar for Visiting Scholars & Visiting Students in ISCS, paper presented: Fudan University \"Dialogue between Buddhism and Jesuits at Late Ming and Early Qing: An Eschatological Perspective\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2008: The 6th Christrianity research exchange Camp, under the theme \"the dialogue between Christrianity and Confuciansim\". Participants: Research students from the Chinese University of Hong Kong and Hong Kong Baptist University and China Graduate School of Theology, Hong Kong, China, Hong Kong Special Administrative Region"
+        ],
         "aim":"It aims to promote Christian studies, construct the Sino-Christian theology and enrich Chinese culture.",
         "org_type":[
             "R",
@@ -252,6 +255,10 @@
             "Palpung monastery"
         ],
         "contacted":false,
+        "religious_affiliation":[
+            "Lamaism",
+            "Tibetan Buddhism"
+        ],
         "main_names":[
             "\u516b\u868c\u5168\u7403\u7db2\u8def\u4e2d\u5fc3"
         ],
@@ -283,13 +290,10 @@
             }
         },
         "aim_URL":"https://www.palpung.org/english/interfaith/default.asp",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":"No information",
-        "religious_affiliation":[
-            "Lamaism",
-            "Tibetan Buddhism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Chinese",
@@ -342,6 +346,10 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Buddhism",
+            "Hinduism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":35.6868248,
@@ -350,16 +358,13 @@
             }
         },
         "aim_URL":"http://www.sgi.org/about-us/history-of-sgi/history-of-sgi.html",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Toda Institute, Honolulu, HawaiI, USA",
             "Toda Institute, Tokyo, Japan"
         ],
-        "religious_affiliation":[
-            "Buddhism",
-            "Hinduism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Chinese",
@@ -503,6 +508,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":41.766203,
@@ -511,17 +519,15 @@
             }
         },
         "aim_URL":"http://www.focolare.org/en/movimento-dei-focolari/scelte-e-impegno/",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "United Nations, Economic and Social Council (ECOSOC), New York, NY, USA",
             "Pontifical Council for the Laity, Rome, Italy",
             "Religions for Peace, Watford, UK",
             "Council of European Bishops' Conferences, St Gallen, Switzerland"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "Chinese",
@@ -684,6 +690,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":59.9172752,
@@ -693,13 +702,14 @@
         },
         "aim_URL":"http://www.kirkensnodhjelp.no/en/About-NCA/About-NCA/",
         "staff":[
-            "World"
+            "Employees in Norway: 138.3",
+            "Employees abroad: 768"
         ],
         "IO_relations":[
             "ACT Alliance"
         ],
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -824,6 +834,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Islam/Muslim"
+        ],
         "adresses":{
             "Address1":{
                 "lat":40.8108221,
@@ -832,15 +845,13 @@
             }
         },
         "aim_URL":"http://www.asmasociety.org/about/index.html",
-        "staff":[
-            "USA"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Rockefeller Brothers Fund, New York, NY, USA",
             "Global Fund for Women, San Francisco, CA, USA"
         ],
-        "religious_affiliation":[
-            "Islam/Muslim"
+        "regionfocus":[
+            "USA"
         ],
         "languages":[
             "English"
@@ -950,6 +961,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Buddhism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":35.6900394,
@@ -958,9 +972,7 @@
             }
         },
         "aim_URL":"http://www.rk-world.org/whoweare.aspx",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "al-Azhar al-Sharif, Cairo, Egypt",
             "\nAmerican Friends Service Committee, Philadelphia, PA, USA",
@@ -991,8 +1003,8 @@
             "\nThe United Nations Relief and Works Agency for Palestine Refugees in the Near East, Gaza City, Israel",
             "\nWorld Food Programme, Rome, Italy"
         ],
-        "religious_affiliation":[
-            "Buddhism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -1147,6 +1159,7 @@
             "Gratefulness.org"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":42.440893,
@@ -1155,9 +1168,7 @@
             }
         },
         "aim_URL":"http://www.gratefulness.org/a/mission.htm",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Henri Nouwen Society, Toronto, ON, Canada",
             "\nIntegral Institute, San Francisco, CA, USA",
@@ -1177,7 +1188,9 @@
             "\nWinter Feast for the Soul, Hailey, ID, USA",
             "\nWorld Business Academy, Santa Barbara, CA , USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "German",
@@ -1272,6 +1285,7 @@
             "Principia College"
         ],
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":38.9491966,
@@ -1280,14 +1294,14 @@
             }
         },
         "aim_URL":"http://euphratesinstitute.org/about/what-is-euphrates/",
-        "staff":[
-            "USA",
-            "Middle East"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "The Center for Ecological Living and Learning, Hope, ME, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "USA",
+            "Middle East"
+        ],
         "languages":[
             "English"
         ],
@@ -1405,6 +1419,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":42.3413479,
@@ -1414,7 +1429,7 @@
         },
         "aim_URL":"http://www.karunacenter.org/",
         "staff":[
-            "World"
+            "4 Staff"
         ],
         "IO_relations":[
             "he Alliance for Peacebuilding, Washington, DC, USA",
@@ -1434,23 +1449,13 @@
             "Kigali Memorial Centre, Kigali, Rwanda",
             "IPCRI, Jerusalem, Israel"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English"
         ],
         "international":true,
-        "other_relations":[
-            "The Centre for Peace-Building & Reconciliation, Kotte, Sri lanka",
-            "PRO-FEMMES/TWESE HAMWE, Kigali, Rwanda"
-        ],
-        "events":[
-            "2011: Facilitating a three-day 'Green Summit' where fifty environmental activists from across the USA met to seek common ground on the need to price carbon emissions, Amherst, MA, USA",
-            "2012: Dialogue creates relief and a new path forward after Sri Lankan war, with the group of 80 Buddhist, Hindu, Muslim, and Christian religious leaders, Trincomalee, Sri Lanka",
-            "2013: National conference on inter-faith peacebuilding, Colombo, Sri Lanka",
-            "2014: a daylong interfaith children's camp, Trincomalee, Sri Lanka",
-            "2014: Providing local Central African leaders with conflict transformation training with the United States Institute of Peace, Bangui, Central African Republic"
-        ],
-        "website":"http://www.karunacenter.org/",
         "subject":[
             "1a",
             "1b",
@@ -1502,6 +1507,14 @@
             "1m",
             "2.2"
         ],
+        "events":[
+            "2011: Facilitating a three-day 'Green Summit' where fifty environmental activists from across the USA met to seek common ground on the need to price carbon emissions, Amherst, MA, USA",
+            "2012: Dialogue creates relief and a new path forward after Sri Lankan war, with the group of 80 Buddhist, Hindu, Muslim, and Christian religious leaders, Trincomalee, Sri Lanka",
+            "2013: National conference on inter-faith peacebuilding, Colombo, Sri Lanka",
+            "2014: a daylong interfaith children's camp, Trincomalee, Sri Lanka",
+            "2014: Providing local Central African leaders with conflict transformation training with the United States Institute of Peace, Bangui, Central African Republic"
+        ],
+        "website":"http://www.karunacenter.org/",
         "IRD_activities":[
             {
                 "region":[
@@ -1518,6 +1531,10 @@
         ],
         "name_en":"Karuna Center for Peacebuilding",
         "structure":"12 Board of Directors; 23 Peacebuilding Associates; 7 members of International Advisory Board",
+        "other_relations":[
+            "The Centre for Peace-Building & Reconciliation, Kotte, Sri lanka",
+            "PRO-FEMMES/TWESE HAMWE, Kigali, Rwanda"
+        ],
         "IRD_def":"Pioneering effective, multi-sector training programs and community-based projects that promote genuine dialogue, cooperative problem solving, reconciliation, and non-violent solutions in over 25 conflict-affected countries on 4 continents.",
         "finances":"Donations",
         "aim":"Committed to the development and implementation of innovative, sustainable strategies for conflict transformation and community reconciliation in societies where ethnic, religious, sectarian, or political conflict threatens the possibility of a healthy, inclusive democracy and sustainable development.",
@@ -1565,6 +1582,9 @@
             "Pax Christi"
         ],
         "contacted":false,
+        "religious_affiliation":[
+            "Catholicism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":50.8503396,
@@ -1584,7 +1604,8 @@
         },
         "aim_URL":"http://www.paxchristi.net/about-us/why-pax-christi",
         "staff":[
-            "World"
+            "7 full-time, paid",
+            "7full-time, voluntary"
         ],
         "IO_relations":[
             "Congregazione dei Padri Maristi Italiani, Rome, Italy",
@@ -1638,8 +1659,8 @@
             "Arab Educational Institute, Bethlehem, Palestine",
             "Centre for Conflict Resolution and Reconciliation, Bethlehem, Palestine"
         ],
-        "religious_affiliation":[
-            "Catholicism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -1926,7 +1947,7 @@
             "Inga Holseg\u00e5rd Rasmussen",
             "ihr@danmission.dk"
         ],
-        "staff":[
+        "regionfocus":[
             "Egypt",
             "Tanzania",
             "India",
@@ -1946,6 +1967,7 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":33.8886289,
@@ -1955,7 +1977,7 @@
         },
         "aim_URL":"http://www.fdcd.org/aboutus.php?Id=1&t=Mission",
         "staff":[
-            "Western Asia"
+            "7 Staff"
         ],
         "IO_relations":[
             "Danmission, Hellerup, Denmark",
@@ -1964,7 +1986,9 @@
             "Mennonite Central Committee, Akron, PA, USA",
             "The United Church of Christ, Cleveland, OH, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Western Asia"
+        ],
         "languages":[
             "English",
             "Arabic"
@@ -2078,6 +2102,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
         "adresses":{
             "Address1":{
                 "lat":52.50810999999999,
@@ -2107,11 +2134,11 @@
         },
         "aim_URL":"http://www.kas.de/wf/en/71.3628/",
         "staff":[
-            "World"
+            "About 560 employees are working for the foundation\u2019s ten main departments."
         ],
         "IO_relations":"No information",
-        "religious_affiliation":[
-            "Christianity"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",
@@ -2321,6 +2348,9 @@
                 "activity_description":"Caribbean Women Encounter the Bible Story, edited by Patricia Sheerattan-Bisnauth;"
             }
         ],
+        "regionfocus":[
+            "World"
+        ],
         "email_gen":"wcrc@wcrc.eu",
         "religious_affiliation":[
             "Christianity"
@@ -2363,7 +2393,7 @@
         "international":true,
         "name_en":"World Communion of Reformed Churches",
         "staff":[
-            "World"
+            "12.0"
         ],
         "finances":"Membership Fees 72%; Donations 22%; Other Income 6%",
         "structure":"General Council (every 6-7 years). Regional structure includes: Alliance of Presbyterian and Reformed Churches in Latin America (AIPRAL); Alliance of Reformed Churches in Africa (ARCA); WARC Caribbean and North American Area Council (CANAAC); WARC European Area Council; WARC Northeast Asia Area Council (NEAAC)",
@@ -2526,10 +2556,11 @@
         }
     },
     {
-        "website":"http://www.c-r-t.org/index.php",
-        "languages":[
-            "English"
-        ],
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "name_en":"Center for Religious Tolerance",
+        "aim_URL":"http://www.c-r-t.org/about-philosophy.php",
+        "staff":"No information",
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
             "The Alliance for Middle East Peace, Washington, DC , USA",
@@ -2540,36 +2571,24 @@
             "The South West Florida Coalition for Peace and Justice, Venice, FL, USA",
             "Ocean Interfaith, Sarasota, FL, USA"
         ],
-        "other_relations":[
-            "SHIN, Israel"
-        ],
-        "contacted":false,
-        "publications":[
-            "Women Reborn' (2013)",
-            "'Patrons of Women'  (2011)",
-            "'Life, Death and Sacrifice' (2008)",
-            "Serendipity in Anthropological Research (2012)",
-            "'Pervasive Violence': What Makes Female Genital Cutting Possible, Even Inevitable?(2012)"
-        ],
-        "acronym":"CRT",
-        "email_gen":"info@c-r-t.org",
-        "finances":"No information",
-        "aim":"Aiming is to build a peaceful future by honoring and respecting our shared humanity",
-        "org_type":[
-            "E"
-        ],
-        "aim_URL":"http://www.c-r-t.org/about-philosophy.php",
-        "staff":[
+        "regionfocus":[
             "West Bank, State of Palestine",
             "Kenya",
             "Honduras",
             "Ecuador",
             "Israel"
         ],
-        "entry":{
-            "date":"20140729",
-            "author":"CC"
-        },
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "other_relations":[
+            "SHIN, Israel"
+        ],
+        "finances":"No information",
+        "website":"http://www.c-r-t.org/index.php",
+        "acronym":"CRT",
+        "email_gen":"info@c-r-t.org",
         "adresses":{
             "Address1":{
                 "lat":27.285193,
@@ -2577,14 +2596,26 @@
                 "address":"Dr. Andrea Blanch\n520 Ralph Street,\nSarasota, FL 34242, USA"
             }
         },
-        "international":true,
-        "name_en":"Center for Religious Tolerance",
-        "religious_affiliation":"No information",
+        "structure":"President; Vice President; 3 Board Members; Program Director; Administrative Assistant; Photographer; Sarasota Interfaith Coordinators;",
+        "aim":"Aiming is to build a peaceful future by honoring and respecting our shared humanity",
+        "org_type":[
+            "E"
+        ],
+        "publications":[
+            "Women Reborn' (2013)",
+            "'Patrons of Women'  (2011)",
+            "'Life, Death and Sacrifice' (2008)",
+            "Serendipity in Anthropological Research (2012)",
+            "'Pervasive Violence': What Makes Female Genital Cutting Possible, Even Inevitable?(2012)"
+        ],
+        "entry":{
+            "date":"20140729",
+            "author":"CC"
+        },
         "contact_person":[
             "Andrea.Blanch",
             null
         ],
-        "structure":"President; Vice President; 3 Board Members; Program Director; Administrative Assistant; Photographer; Sarasota Interfaith Coordinators;",
         "history":"Founded in 2006"
     },
     {
@@ -2711,14 +2742,15 @@
             "Will Eastman",
             "weastman@ffeu.org"
         ],
-        "name_en":"Foundation for Ethnic Understanding",
-        "structure":"FFEU Board of Directors: President and Co-Founder, Chairman of the Board of Directors, Secretary/Director, 2 Directors, Treasurer, Counsel, Executive Director, and Muslim Jewish Program Director",
-        "staff":[
+        "regionfocus":[
             "World"
-        ]
+        ],
+        "name_en":"Foundation for Ethnic Understanding",
+        "structure":"FFEU Board of Directors: President and Co-Founder, Chairman of the Board of Directors, Secretary/Director, 2 Directors, Treasurer, Counsel, Executive Director, and Muslim Jewish Program Director"
     },
     {
         "contacted":false,
+        "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
                 "lat":31.9551425,
@@ -2727,9 +2759,7 @@
             }
         },
         "aim_URL":"http://www.coexistencejordan.org/en-us/whoweare.aspx",
-        "staff":[
-            "World"
-        ],
+        "staff":"No information",
         "IO_relations":[
             "Amideast, Washington, DC, USA",
             "BERKLEY CENTER for Religion, Peace&World Affairs, Georgetown University, Washington, DC, USA",
@@ -2737,7 +2767,9 @@
             "The Global Peace Initiative of Women, New York, NY, USA",
             "Tanenbaum Center for Interreligious Understanding, New York, NY, USA"
         ],
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "languages":[
             "English",
             "Arabic"
@@ -2856,6 +2888,9 @@
     },
     {
         "contacted":false,
+        "religious_affiliation":[
+            "Lutheranism"
+        ],
         "adresses":{
             "Address1":{
                 "lat":46.22999919999999,
@@ -2865,7 +2900,7 @@
         },
         "aim_URL":"http://www.lutheranworld.org/content/about-lwf",
         "staff":[
-            "World"
+            "Geneva (Switzerland): about 65 of about 20 different nationalities. Also 40 international staff who work alongside 2,700 local staff in regional and country programmes."
         ],
         "IO_relations":[
             "UN Refugee Agency, Geneva, Switzerland",
@@ -2878,8 +2913,8 @@
             "Bureau of Population, Refugees, and Migration, US Department of State, Washington, DC, USA",
             "\n \n\nAustralian Lutheran World Service (ALWS)\n\nBrot f\u00fcr die Welt (BFDW - Bread for the World)\n\nCanadian Lutheran World Relief (CLWR)\n\nChristian Aid\n\nChurch of Sweden (CoS)\n\nCzech Diakonia\n\nDanchurchAid (DCA)\n\nDiakonie Katastrophenhilfe (DKH)\n\nEvangelical Lutheran Church of America (ELCA)\n\nFinnchurchAid (FCA)\n\nFinnish Evangelical Lutheran Mission (FELM)\n\nHungarian Interchurch Aid (HIA)\n\nIcelandic Church Aid (ICA - Hj\u00e1lparstarf kirkjunnar)\n\nInterchurch Organization for Development Cooperation (ICCO)\n\nLutheran World Relief (LWR)\n\nNorwegian Church Aid (NCA)"
         ],
-        "religious_affiliation":[
-            "Lutheranism"
+        "regionfocus":[
+            "World"
         ],
         "languages":[
             "English",

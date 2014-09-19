@@ -172,7 +172,7 @@ def parse(sheet, data):
 		# Region Focus
 		a = get_cell(sheet,'RegionFocus',row_index,lkey,str_split=True)
 		if a:
-			data[-1]['staff'] = a
+			data[-1]['regionfocus'] = a
 
             
 		### ADD ACTIVITIES
