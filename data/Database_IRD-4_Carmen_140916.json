@@ -9,7 +9,9 @@
             }
         },
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -88,7 +90,9 @@
             }
         },
         "aim_URL":"http://www.unaoc.org/about/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "African Union, Addis Ababa, Ethiopia",
             "Arab League Educational, Cultural and Scientific Organization, Tunis, Tunisia",
@@ -225,9 +229,7 @@
         },
         "aim_URL":"http://www.parliamentofreligions.org/index.cfm?n=1",
         "staff":[
-            "Director",
-            "5 employees",
-            "1 intern"
+            "World"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
@@ -456,11 +458,7 @@
         },
         "aim_URL":"http://www.elijah-interfaith.org",
         "staff":[
-            "Executive Director",
-            "Director of Educational Activity",
-            "Director Elijah Interfaith Institute",
-            "Director of Educational Network",
-            "3 full time employees"
+            "World"
         ],
         "IO_relations":[
             "Children of Abraham Institute/Society for Scriptural Reasoning, Charlottesville, VA, USA",
@@ -563,7 +561,13 @@
             }
         },
         "aim_URL":"http://www.epil.ch/EPIL_welcome.html",
-        "staff":"No information",
+        "staff":[
+            "Western Asia",
+            "Eastern Europe",
+            "Northern Europe",
+            "Southern Europe",
+            "Western Europe"
+        ],
         "IO_relations":[
             "Interreligious Conference of European Women Theologians, Europe",
             "The Ecumenical Forum of European Christian Women, Brussels, Belgium"
@@ -629,7 +633,10 @@
             }
         },
         "aim_URL":"http://interfaithencounter.wordpress.com/about/our-history/",
-        "staff":"No information",
+        "staff":[
+            "Israel",
+            "State of Palestine"
+        ],
         "IO_relations":[
             "Council of Centers on Jewish-Christian Relations, Chestnut Hill, MA, USA",
             "Council for a Parliament of the World\u2019s Religions, Chicago, IL, USA",
@@ -767,7 +774,9 @@
             }
         },
         "aim_URL":"http://www.iccj.org/About-us.2.0.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Commonwealth Jewish Council, London, UK",
             "International Martin Buber Society, Heppenheim, Germany"
@@ -874,7 +883,11 @@
             }
         },
         "aim_URL":"http://nain.org/about-us/mission-history/",
-        "staff":"No information",
+        "staff":[
+            "Canada",
+            "Mexico",
+            "USA"
+        ],
         "IO_relations":[
             "Religions For Peace USA, New York, NY, USA",
             "Coexist Foundation, Washington, DC, USA",
@@ -1017,7 +1030,14 @@
             }
         },
         "aim_URL":"http://www.3ff.org.uk/about-us/",
-        "staff":"No information",
+        "staff":[
+            "Eastern Europe",
+            "Northern Europe",
+            "Southern Europe",
+            "Western Europe",
+            "Western Asia",
+            "USA"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -1123,7 +1143,9 @@
             }
         },
         "aim_URL":"http://www.riifs.org/about-riifs.html",
-        "staff":"No information",
+        "staff":[
+            "Western Asia"
+        ],
         "IO_relations":[
             "British Council, London, UK",
             "Institute of Community Cohesion, Coventry, UK",
@@ -1240,7 +1262,10 @@
             }
         },
         "aim_URL":"http://www.imamsetrabbins.org",
-        "staff":"No information",
+        "staff":[
+            "Western Asia",
+            "Europe"
+        ],
         "IO_relations":[
             "United Nations Alliance of Civilizations, New York, NY, USA",
             "The European Commission, Brussels, Belgium",
@@ -1325,7 +1350,9 @@
             }
         },
         "aim_URL":"http://www.globalpeaceworks.org/about/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "The Everest Peace Project, Eugene, OR, USA",
             "Interfaith Encounter Association, Jerusalem, Israel"
@@ -1394,7 +1421,9 @@
             }
         },
         "aim_URL":"http://www.rfp.org/vision-history/vision/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Arigatou Foundation, Tokyo, Japan",
             "CARE International, Geneva, Switzerland",
@@ -1570,7 +1599,9 @@
         },
         "aim_URL":"http://www.intersectionsinternational.org/about-us/history-logo",
         "staff":[
-            "15 employees"
+            "USA",
+            "Central Asia",
+            "Southern Asia"
         ],
         "IO_relations":[
             "The American Society for Muslim Advancement, New York, NY, USA",
@@ -1672,7 +1703,7 @@
         },
         "aim_URL":"http://www.uri.org/about_uri",
         "staff":[
-            "32 employees"
+            "World"
         ],
         "IO_relations":[
             "Christian-Muslim Forum, London, UK",
@@ -1840,7 +1871,11 @@
             }
         },
         "aim_URL":"http://www.clergybeyondborders.org",
-        "staff":"No information",
+        "staff":[
+            "USA",
+            "Jordan",
+            "State of Palestine"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -1916,7 +1951,7 @@
         },
         "aim_URL":"http://globalengage.org/about/faq",
         "staff":[
-            "14 employees"
+            "World"
         ],
         "IO_relations":[
             "Telos Group, Washington, DC, USA",
@@ -2032,7 +2067,8 @@
         },
         "aim_URL":"http://www.nationalcathedral.org/learn/summit2010/faq.shtml",
         "staff":[
-            "13 employees"
+            "USA",
+            "Lebanon"
         ],
         "IO_relations":[
             "Pontifical Council for Inter-religious Dialogue, Vatican City, Holy See"
@@ -2131,7 +2167,8 @@
         },
         "aim_URL":"http://coexistfoundation.org/about/",
         "staff":[
-            "11 employees"
+            "Uganda",
+            "India"
         ],
         "IO_relations":[
             "Kulanu, New York City, NY, USA"
@@ -2264,7 +2301,9 @@
             }
         },
         "aim_URL":"http://www.adyanvillage.net/Profile",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Anna Lindh Foundation, Alexandria, Egypt",
             "United Nations Alliance of Civilization, New York, NY, USA",
@@ -2447,7 +2486,9 @@
             }
         },
         "aim_URL":"http://www.afsv.org/about-us/overview/#.U2C0bcZMBaU",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Kimse Yok Mu Relief and Aid Association, Istanbul, Turkey",
             "Embrace Relief, Carlstadt, NJ, USA",
@@ -2551,7 +2592,9 @@
             }
         },
         "aim_URL":"http://berkleycenter.georgetown.edu/wfdd/about",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "The World Bank, Washington, DC, USA",
             "United Nations Children's Fund, New York, NY, USA",
@@ -2720,7 +2763,9 @@
             }
         },
         "aim_URL":"http://berkleycenter.georgetown.edu/about",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "World Communion of Reformed Churches, Hannover, Germany",
             "Children of Abraham Institute, Charlottesville, VA, USA",
@@ -3097,7 +3142,9 @@
             }
         },
         "aim_URL":"http://www.awr.uni-hamburg.de/de/ueber-awr/profil.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations Educational, Scientific and Cultural Organization, Paris, France",
             "Institute on Culture, Religion and World Affairs, Boston, MA, USA",
@@ -3264,7 +3311,9 @@
             }
         },
         "aim_URL":"http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-A3A1B9DF-0D8D5A25/bst_engl/hs.xsl/269.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Adam Institute for Democracy and Peace, Jerusalem, Israel",
             "Hellenic Foundation for European and Foreign Policy, Athens, Greece",
@@ -3467,7 +3516,9 @@
             }
         },
         "aim_URL":"https://iarf.net/about/our-priorities/statement-of-purpose/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "International Association of Liberal Religious Women, Glen Cove, NY, USA",
             "The Becket Fund, Washington, DC, USA",
@@ -3596,7 +3647,9 @@
             }
         },
         "aim_URL":"http://www.ialrw.org",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "International Association for Religious Freedom, London, UK",
             "International Convocation Unitarian Universalist Women, Houston, TX, USA"
@@ -3686,7 +3739,11 @@
             }
         },
         "aim_URL":"http://www.k4p.org/mission/",
-        "staff":"No information",
+        "staff":[
+            "USA",
+            "Israel",
+            "State of Palestine"
+        ],
         "IO_relations":[
             "Alliance for Middle East Peace, Washington, DC, USA",
             "Children Of Peace, East Sussex, UK",
@@ -3758,7 +3815,7 @@
         },
         "aim_URL":"http://templeofunderstanding.org/who-we-are/",
         "staff":[
-            "4 full-time employees"
+            "World"
         ],
         "IO_relations":[
             "United Nations Development Programme, New York, NY, USA",
@@ -3886,7 +3943,9 @@
             }
         },
         "aim_URL":"http://www.tandemproject.com/program/introduction.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations Economic and Social Council, New York, NY, USA",
             "Women's United Nations Report Network, New York, NY, USA",
@@ -3959,7 +4018,7 @@
         },
         "aim_URL":"http://www.religionandpolicy.org/about-the-institute/",
         "staff":[
-            "5 full-time employees"
+            "World"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
@@ -4058,7 +4117,8 @@
         },
         "aim_URL":"http://www.crihl.org/content/crihl-history",
         "staff":[
-            "2 employee"
+            "Israel",
+            "State of Palestine"
         ],
         "IO_relations":[
             "King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue, Vienna, Austria",
@@ -4153,7 +4213,7 @@
         },
         "aim_URL":"http://www.sfcg.org/sfcg/sfcg_home.html",
         "staff":[
-            "More than 500 employees."
+            "World"
         ],
         "IO_relations":[
             "Action in the Mediterranean, Brussels, Belgium",
@@ -4555,7 +4615,10 @@
             }
         },
         "aim_URL":"http://www.interfaithdialog.org/index.php?option=com_k2&view=item&layout=item&id=296&Itemid=255",
-        "staff":"No information",
+        "staff":[
+            "Turkey",
+            "USA"
+        ],
         "IO_relations":[
             "Alliance for Shared Values, New York, NY, USA"
         ],
@@ -4669,7 +4732,9 @@
             }
         },
         "aim_URL":"http://dicid.org/english/aboutus.php",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -4783,7 +4848,9 @@
             }
         },
         "aim_URL":"http://www.ghfp.org/about.aspx",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations Alliance of Civilizations, New York, NY, USA",
             "Religions for Peace, New York, NY, USA",
@@ -4924,7 +4991,9 @@
             }
         },
         "aim_URL":"http://interfaith-centre.org/about-iic/history-newsletter/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "International Interfaith Organizations Network, Oxford, UK",
             "Federation of Zoroastrian Associations of North America, Los Angeles, CA, USA",
@@ -5030,7 +5099,9 @@
             }
         },
         "aim_URL":"http://dialogueonline.org/top.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Islamic Research Academy at Al-Azhar Al-Sharif, Cairo, Egypt",
             "Muslim World League, Mecca, Saudi Arabia",
@@ -5127,7 +5198,9 @@
             }
         },
         "aim_URL":"http://www.just-international.org/objectives/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "International Peace Council, Madison, WI, USA",
             "Muhammadiyah Network, Jakarta, Indonesia",
@@ -5222,7 +5295,9 @@
             }
         },
         "aim_URL":"http://www.irfwp.org/wp/index.php/about-us/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Ambassadeurs de Paix, Paris, France",
             "Children of Abraham, Charlottesville, VA, USA",
@@ -5316,7 +5391,9 @@
             }
         },
         "aim_URL":"http://www.lgpt.net/lama_found.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Religions for Peace, New York, NY, USA",
             "United Religions Initiative, New York, NY, USA",
@@ -5436,7 +5513,9 @@
             }
         },
         "aim_URL":"http://www.mec-churches.org/about/council_five_themes.htm",
-        "staff":"No information",
+        "staff":[
+            "Western Asia"
+        ],
         "IO_relations":[
             "United Nations High Commissioner for Refugees, Geneva, Switzerland",
             "United Nations Relief and Works Agency for Palestine Refugees in the Near East, Gaza City, State of Palestine",
@@ -5574,7 +5653,9 @@
             }
         },
         "aim_URL":"http://www.dimmid.org/index.asp?Type=B_BASIC&SEC=%7B7AC675FA-BCCD-4E41-9E1F-6A7A01C910E9%7D&DE=%7B2F990FEA-A2BE-4269-8044-76777001FD2A%7D",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "European Network of Buddhist Christian Studies, St. Ottilien, Germany",
             "The Society for Buddhist-Christian Studies, Rochester, NY, USA",
@@ -5725,7 +5806,7 @@
         },
         "aim_URL":"http://nifcon.anglicancommunion.org/index.cfm",
         "staff":[
-            "2 part-time employees"
+            "World"
         ],
         "IO_relations":[
             "Embrace the Middle East, London, UK",
@@ -5882,7 +5963,11 @@
             }
         },
         "aim_URL":"http://www.friendsofopenhouse.co.il/story-of-the-house/",
-        "staff":"No information",
+        "staff":[
+            "Israel",
+            "State of Palestine",
+            "USA"
+        ],
         "IO_relations":[
             "Friends of Open House Ramle, No Grosvenordale, CT, USA"
         ],
@@ -6030,7 +6115,7 @@
         },
         "aim_URL":"http://www.peacecouncil.org/About/Mission",
         "staff":[
-            "3 full-time employees"
+            "World"
         ],
         "IO_relations":[
             "Anti-Slavery International, London, UK",
@@ -6180,7 +6265,9 @@
             }
         },
         "aim_URL":"http://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_pro_20051996_en.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Monastic Interreligious Dialogue North America, Hingham, MA, USA",
             "Congregation for the Evangelization of Peoples, Rome, Italy",
@@ -6302,7 +6389,9 @@
             }
         },
         "aim_URL":"http://www.rumiforum.org/about/about-rumi-forum.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Mid-Atlantic Federation of Turkic American Associations, Washington, DC, USA"
         ],
@@ -6473,7 +6562,9 @@
             }
         },
         "aim_URL":"https://www.weltethos.org/data-en/c-10-stiftung/11-die-stiftung.php",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Karl Schlecht Gemeinnuetzige Stiftung, Aichtal, Germany",
             "Stiftung Van Meeteren, Essen, Germany",
@@ -6615,7 +6706,9 @@
             }
         },
         "aim_URL":"http://www.naz.edu/interfaith-studies-and-dialogue",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Council for Parliament on the World's Religions, Chicago, IL, USA",
             "Commission on Jewish Christian Relations, Rochester, NY, USA"
@@ -6749,11 +6842,9 @@
         },
         "aim_URL":"http://icci.org.il/about-us/",
         "staff":[
-            "Director",
-            "Associate Director",
-            "Director of Educational Initiatives",
-            "3 full-time employees",
-            "2 interns"
+            "Israel",
+            "State of Palestine",
+            "USA"
         ],
         "IO_relations":[
             "The Elijah Interfaith Institute, Jerusalem, Israel",
@@ -6922,7 +7013,7 @@
         },
         "aim_URL":"http://www.interfaithtour.com/en/projects-presentation/",
         "staff":[
-            "5 volunteers"
+            "World"
         ],
         "IO_relations":[
             "United Religions Initiative, San Francisco, CA, USA",
@@ -7023,7 +7114,9 @@
             }
         },
         "aim_URL":"http://www.pluralism.org/international/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Center for Religious and Cross Cultural Studies, Yogyakarta, Indonesia",
             "International Center for Islam and Pluralism, Jakarta Selatan, Indonesia",
@@ -7165,7 +7258,9 @@
             }
         },
         "aim_URL":"http://tonyblairfaithfoundation.org/foundation",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "The Office of Tony Blair, London, UK",
             "Tony Blair Africa Governance Initiative, London, UK",
@@ -7246,7 +7341,9 @@
             }
         },
         "aim_URL":"http://www.woolfinstitute.cam.ac.uk/about/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Middlesex University, London, UK",
             "Prince Alwaleed Bin Talal Centre for Islamic Studies, Washington, DC, USA",
@@ -7350,7 +7447,7 @@
         },
         "aim_URL":"http://www.worldfaiths.org/about.php",
         "staff":[
-            "1 part-time employee"
+            "World"
         ],
         "IO_relations":[
             "International Association for Religious Freedom, London, UK",
@@ -7482,8 +7579,7 @@
         },
         "aim_URL":"http://www.upf.org/about",
         "staff":[
-            "8 full-time, paid",
-            "thousands of volunteers worldwide"
+            "World"
         ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
@@ -7702,7 +7798,9 @@
             }
         },
         "aim_URL":"https://www.abrahamicalliance.org/aai/about",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -7806,7 +7904,9 @@
             }
         },
         "aim_URL":"http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/PARTNERS/EXTDEVDIALOGUE/0,,contentMDK:21966758~menuPK:5554943~pagePK:64192523~piPK:64192458~theSitePK:537298,00.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "World Faiths Development Dialogue, Washington, DC, USA",
             "Community of Sant\u2019Egidio, Rome, Italy",
@@ -7911,7 +8011,9 @@
             }
         },
         "aim_URL":"http://www.cordobainitiative.org/about-us/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -7997,7 +8099,9 @@
             }
         },
         "aim_URL":"http://forusa.org/about/sop",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Interfaith Peace-Builders, Washington, DC, USA",
             "Creative Response to Conflict, Nyack, NY, USA",
@@ -8222,7 +8326,9 @@
             }
         },
         "aim_URL":"http://www.isna.net/mission-and-vision.html",
-        "staff":"No information",
+        "staff":[
+            "Northern America"
+        ],
         "IO_relations":[
             "Stop Hunger Now, Raleigh, NC, USA",
             "American Baptist Churches USA, King of Prussia, PA, USA",
@@ -8423,7 +8529,9 @@
             }
         },
         "aim_URL":"http://www.usip.org/vision-mission-core-principles",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "African Contingency Operations Training and Assistance, Washington, DC, USA",
             "United Nations Regional Centre for Peace and Disarmament in Africa, Lome, Togo",
@@ -8610,7 +8718,9 @@
             }
         },
         "aim_URL":"http://worldfaith.org/about-world-faith/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -8705,7 +8815,9 @@
             }
         },
         "aim_URL":"http://afdd.org.kh",
-        "staff":"No information",
+        "staff":[
+            "Asia"
+        ],
         "IO_relations":[
             "World Faiths Development Dialogue, Washington, DC, USA",
             "International Foundation for Arts and Culture, Perth, WA, Australia"
@@ -8795,7 +8907,9 @@
             }
         },
         "aim_URL":"http://www.gflp.org",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations, New York, NY, USA",
             "Elijah Interfaith Institute, Jerusalem, Israel",
@@ -8887,7 +9001,9 @@
             }
         },
         "aim_URL":"http://www.ajc.org/site/c.7oJILSPwFfJSG/b.9196379/k.E030/About_AJC.htm#sthash.VbGYiG2Q.dpuf",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Australia/Israel & Jewish Affairs Council, South Melbourne, VIC, Australia",
             "European Union of Jewish Students, Brussels, Belgium",
@@ -9089,7 +9205,9 @@
             }
         },
         "aim_URL":"http://www.kas.de/wf/en/71.3628/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "European Community, Brussels, Belgium",
             "Association of Asian Constitutional Courts, Seoul, Republic of Korea",
@@ -9272,7 +9390,7 @@
         },
         "aim_URL":"http://www.coe.int/en/web/about-us/values;jsessionid=C2646A98F1D755DE7CF604F7C548FA90",
         "staff":[
-            "About 1,800 civil servants, drawn from member states."
+            "Europe"
         ],
         "IO_relations":[
             "European Union, Brussels, Belgium",
@@ -9936,9 +10054,9 @@
         },
         "aim_URL":"http://www.annalindhfoundation.org/mandate-and-founders",
         "staff":[
-            "26 permanent",
-            "3 for SIDA programme",
-            "2 interns."
+            "Northern Africa",
+            "Western Asia",
+            "Europe"
         ],
         "IO_relations":[
             "Bibliotheca Alexandrina Council of Patrons, Alexandria, Egypt",
@@ -10121,7 +10239,17 @@
             }
         },
         "aim_URL":"http://www.isesco.org.ma/index.php?option=com_k2&view=item&layout=item&id=3&Itemid=58&lang=en",
-        "staff":"No information",
+        "staff":[
+            "Western Asia",
+            "South-Eastern Asia",
+            "Southern Asia",
+            "Central Asia",
+            "Western Africa",
+            "Eastern Africa",
+            "Northern Africa",
+            "Middle Africa",
+            "South America"
+        ],
         "IO_relations":[
             "General Secretariat of the Organization of Islamic Cooperation, Jeddah, Saudi Arabia",
             "United Nations, New York, NY, USA",
@@ -10426,7 +10554,9 @@
         },
         "aim_URL":"http://www.osce.org/who",
         "staff":[
-            "Secretariat and Institutions - about 550. Field Operations - about 2,330."
+            "Europe",
+            "Central Asia",
+            "North America"
         ],
         "IO_relations":[
             "United Nations, New York, NY, USA",
@@ -10612,7 +10742,7 @@
         },
         "aim_URL":"http://www.mjconference.de/about/muslim-jewish-conference/",
         "staff":[
-            "35 team members"
+            "World"
         ],
         "IO_relations":[
             "Organization for Security and Co-Operation in Europe, Vienna, Austria",
@@ -10719,7 +10849,7 @@
         },
         "aim_URL":"http://www.ircica.org/about-us/irc380.aspx",
         "staff":[
-            "55 paid employees."
+            "World"
         ],
         "IO_relations":[
             "Islamic Educational, Scientific and Cultural Organisation, Rabat, Morocco",
@@ -10881,7 +11011,7 @@
         },
         "aim_URL":"http://www.unesco.org/new/en/unesco/about-us/who-we-are/introducing-unesco/",
         "staff":[
-            "2008: 2,038 civil servants"
+            "World"
         ],
         "IO_relations":[
             "Food and Agriculture Organization, Rome, Italy",
@@ -11545,7 +11675,7 @@
         },
         "aim_URL":"http://www.brahmakumaris.org/whoweare/faq",
         "staff":[
-            "Voluntary teachers (4,250) in 110 countries"
+            "World"
         ],
         "IO_relations":[
             "United Nations Economic and Social Council, New York, NY, USA",
@@ -11675,7 +11805,10 @@
             }
         },
         "aim_URL":"http://www.wellesley.edu/religiouslife/resources/east/",
-        "staff":"No information",
+        "staff":[
+            "USA",
+            "Morocco"
+        ],
         "IO_relations":[
             "Guerrand-Hermes Foundation for Peace, Brighton, UK"
         ],
@@ -11787,7 +11920,11 @@
             }
         },
         "aim_URL":"http://www.093ljm.org",
-        "staff":"No information",
+        "staff":[
+            "Eastern Asia",
+            "South-Eastern Asia",
+            "North America"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Buddhism"
@@ -11877,7 +12014,9 @@
             }
         },
         "aim_URL":"http://www.religiousyouthservice.org/about/goals.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Inter-Religious Federation for World Peace, Sunnyside, NY, USA",
             "World University Federation, Bridgeport, CT, USA",
@@ -11962,7 +12101,9 @@
             }
         },
         "aim_URL":"http://www.iketh.eu/eng/index.html",
-        "staff":"No information",
+        "staff":[
+            "Europe"
+        ],
         "IO_relations":[
             "Egeria-Weges: Oekumenisches Frauen Pilger Projekt, Winnweiler, Germany",
             "EPIL - European Project of Interreligious Learning, Zurich, Switzerland",
@@ -12048,7 +12189,9 @@
     },
     {
         "aim_URL":"http://worldinterfaithharmonyweek.com/about-us/our-aims-objectives/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Royal Islamic Strategic Studies Centre, Amman, Jordan",
             "Royal Aal al-Bayt Institute for Islamic Thought, Amman, Jordan",
@@ -12127,7 +12270,9 @@
             }
         },
         "aim_URL":"http://www.ccjr.us/about/bylaws",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Cardinal Bea Centre for Judaic Studies, Pontifical Gregorian University, Rome, Italy",
             "Centre for the Study of Jewish-Christian Relations, Cambridge University, Cambridge, UK",
@@ -12276,7 +12421,17 @@
             }
         },
         "aim_URL":"https://www.scarboromissions.ca/Learn_about_us/mission_values_vision.php",
-        "staff":"No information",
+        "staff":[
+            "Bahamas",
+            "Brazil, China",
+            "Dominican Republic",
+            "Ecuador",
+            "Guyana",
+            "Japan",
+            "Malawi",
+            "Thailand",
+            "Canada"
+        ],
         "IO_relations":[
             "Religions for Peace, New York, NY, USA",
             "Global Ethic Foundation, Tuebingen, Germany",
@@ -12402,7 +12557,7 @@
         },
         "aim_URL":"http://www.ceji.org/about/what_we_do",
         "staff":[
-            "Director, 5 paid employees"
+            "Europe"
         ],
         "IO_relations":[
             "Alliance Israelite Universelle, Paris, France",
@@ -12632,7 +12787,8 @@
         },
         "aim_URL":"http://www.bod.org.uk/live/content.php?Category_ID=6",
         "staff":[
-            "9 paid employees"
+            "UK",
+            "Israel"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -12757,7 +12913,9 @@
             }
         },
         "aim_URL":"http://www.arigatouinternational.org/en/who.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations Children's Fund, New York, NY USA",
             "United Nations Educational, Scientific and Cultural Organization, Paris, France",
@@ -12865,7 +13023,9 @@
             }
         },
         "aim_URL":"http://crs.org/about/mission-statement/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "International Fund for Agricultural Development, Rome, Italy",
             "International Organization for Migration, Geneva, Switzerland",
@@ -13072,7 +13232,10 @@
             }
         },
         "aim_URL":"http://www.zdk.de/ueber-uns/unsere-aufgaben/",
-        "staff":"No information",
+        "staff":[
+            "Germany",
+            "World"
+        ],
         "IO_relations":[
             "Initiative of Christians for Europe, Bonn, Germany",
             "European Forum of National Laity Committees, Brussels, Belgium",
@@ -13188,7 +13351,10 @@
             }
         },
         "aim_URL":"http://eugen-biser-stiftung.de/RESPONSIBILITIES_AND_AIMS_OF_THE_EUGEN_BISER_FOUNDATION.295+B6Jkw9MQ__.0.html",
-        "staff":"No information",
+        "staff":[
+            "Germany",
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Christianity"
@@ -13314,7 +13480,11 @@
         },
         "aim_URL":"http://frohbotinnen.at/Wirken",
         "staff":[
-            "Director, Vice-Director, 2 part-time employees"
+            "Austria",
+            "Germany",
+            "Turkey",
+            "UK",
+            "Latin America and the Caribbean"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -13391,7 +13561,9 @@
             }
         },
         "aim_URL":"http://www.shinnyoen.org/beliefs-practices/index.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations Children's Fund, New York, NY, USA",
             "Office of the United Nations High Commissiones for Refugees, Geneva, Switzerland",
@@ -13514,7 +13686,9 @@
             }
         },
         "aim_URL":"http://www.globaldialoguefoundation.org/index.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "RMIT University, Melbourne, VIC, Australia",
             "United Nations Alliance of Civilizations, New York, NY, USA"
@@ -13661,7 +13835,8 @@
         },
         "aim_URL":"http://www.intercultural.org.au/about-us/our-beliefs.html",
         "staff":[
-            "5 employees"
+            "Australia",
+            "Turkey"
         ],
         "IO_relations":[
             "Monash University, Melbourne, VIC, Australia",
@@ -13785,7 +13960,10 @@
             }
         },
         "aim_URL":"http://www.dialoguesociety.org/about-us.html",
-        "staff":"No information",
+        "staff":[
+            "UK",
+            "Turkey"
+        ],
         "IO_relations":[
             "Queen Mary University of London, London, UK",
             "University of Birmingham, Birmingham, UK",
@@ -13907,7 +14085,12 @@
             }
         },
         "aim_URL":"http://faith-matters.org/",
-        "staff":"No information",
+        "staff":[
+            "UK",
+            "State of Palestine",
+            "Israel",
+            "Pakistan"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -14062,7 +14245,10 @@
             }
         },
         "aim_URL":"http://www.fid-az.org/index.php/about-us/mission-vision",
-        "staff":"No information",
+        "staff":[
+            "USA",
+            "Turkey"
+        ],
         "IO_relations":[
             "Rumi Forum, Washington, DC, USA",
             "Embrace Relief, Carlstadt, NJ, USA"
@@ -14137,7 +14323,8 @@
         },
         "aim_URL":"http://www.interculturaldialog.com/about-us/about/",
         "staff":[
-            "Around 30 employees (in 10 offices)."
+            "Canada",
+            "Turkey"
         ],
         "IO_relations":"No information",
         "languages":[
@@ -14227,7 +14414,8 @@
         },
         "aim_URL":"http://www.asef.org/about/faq",
         "staff":[
-            "About 40-50, including interns and contract staff."
+            "Asia",
+            "Europe"
         ],
         "IO_relations":[
             "Academic Cooperation Association, Brussel, Belgium",

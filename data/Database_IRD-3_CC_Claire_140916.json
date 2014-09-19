@@ -9,7 +9,9 @@
             }
         },
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -90,7 +92,9 @@
             }
         },
         "aim_URL":"http://ics.muc.edu.cn/en/list2.asp?artid=585",
-        "staff":"No information",
+        "staff":[
+            "China"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -166,7 +170,9 @@
             }
         },
         "aim_URL":"http://www.iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Cid=4&Pid=2&Version=0&Charset=iso-8859-1&page=0",
-        "staff":"No information",
+        "staff":[
+            "China"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Christianity"
@@ -277,7 +283,9 @@
             }
         },
         "aim_URL":"https://www.palpung.org/english/interfaith/default.asp",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Lamaism",
@@ -342,7 +350,9 @@
             }
         },
         "aim_URL":"http://www.sgi.org/about-us/history-of-sgi/history-of-sgi.html",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Toda Institute, Honolulu, HawaiI, USA",
             "Toda Institute, Tokyo, Japan"
@@ -501,7 +511,9 @@
             }
         },
         "aim_URL":"http://www.focolare.org/en/movimento-dei-focolari/scelte-e-impegno/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "United Nations, Economic and Social Council (ECOSOC), New York, NY, USA",
             "Pontifical Council for the Laity, Rome, Italy",
@@ -681,8 +693,7 @@
         },
         "aim_URL":"http://www.kirkensnodhjelp.no/en/About-NCA/About-NCA/",
         "staff":[
-            "Employees in Norway: 138.3",
-            "Employees abroad: 768"
+            "World"
         ],
         "IO_relations":[
             "ACT Alliance"
@@ -821,7 +832,9 @@
             }
         },
         "aim_URL":"http://www.asmasociety.org/about/index.html",
-        "staff":"No information",
+        "staff":[
+            "USA"
+        ],
         "IO_relations":[
             "Rockefeller Brothers Fund, New York, NY, USA",
             "Global Fund for Women, San Francisco, CA, USA"
@@ -945,7 +958,9 @@
             }
         },
         "aim_URL":"http://www.rk-world.org/whoweare.aspx",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "al-Azhar al-Sharif, Cairo, Egypt",
             "\nAmerican Friends Service Committee, Philadelphia, PA, USA",
@@ -1140,7 +1155,9 @@
             }
         },
         "aim_URL":"http://www.gratefulness.org/a/mission.htm",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Henri Nouwen Society, Toronto, ON, Canada",
             "\nIntegral Institute, San Francisco, CA, USA",
@@ -1263,7 +1280,10 @@
             }
         },
         "aim_URL":"http://euphratesinstitute.org/about/what-is-euphrates/",
-        "staff":"No information",
+        "staff":[
+            "USA",
+            "Middle East"
+        ],
         "IO_relations":[
             "The Center for Ecological Living and Learning, Hope, ME, USA"
         ],
@@ -1394,7 +1414,7 @@
         },
         "aim_URL":"http://www.karunacenter.org/",
         "staff":[
-            "4 Staff"
+            "World"
         ],
         "IO_relations":[
             "he Alliance for Peacebuilding, Washington, DC, USA",
@@ -1564,8 +1584,7 @@
         },
         "aim_URL":"http://www.paxchristi.net/about-us/why-pax-christi",
         "staff":[
-            "7 full-time, paid",
-            "7full-time, voluntary"
+            "World"
         ],
         "IO_relations":[
             "Congregazione dei Padri Maristi Italiani, Rome, Italy",
@@ -1907,6 +1926,20 @@
             "Inga Holseg\u00e5rd Rasmussen",
             "ihr@danmission.dk"
         ],
+        "staff":[
+            "Egypt",
+            "Tanzania",
+            "India",
+            "Cambodia",
+            "Lebanon",
+            "Syria",
+            "Pakistan",
+            "Madagascar",
+            "Bangladesh",
+            "China",
+            "Myanmar (Burma)",
+            "Denmark"
+        ],
         "name_en":"Danmission",
         "aim_URL":"http://danmission.dk/en/english/about/",
         "history":"1 Jan 2000, on merger of 'Danish Mission Society', founded 1821, with 'Danish Santal Mission'. Operates within the Danish Lutheran Church."
@@ -1922,7 +1955,7 @@
         },
         "aim_URL":"http://www.fdcd.org/aboutus.php?Id=1&t=Mission",
         "staff":[
-            "7 Staff"
+            "Western Asia"
         ],
         "IO_relations":[
             "Danmission, Hellerup, Denmark",
@@ -2074,7 +2107,7 @@
         },
         "aim_URL":"http://www.kas.de/wf/en/71.3628/",
         "staff":[
-            "About 560 employees are working for the foundation\u2019s ten main departments."
+            "World"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -2330,7 +2363,7 @@
         "international":true,
         "name_en":"World Communion of Reformed Churches",
         "staff":[
-            "12.0"
+            "World"
         ],
         "finances":"Membership Fees 72%; Donations 22%; Other Income 6%",
         "structure":"General Council (every 6-7 years). Regional structure includes: Alliance of Presbyterian and Reformed Churches in Latin America (AIPRAL); Alliance of Reformed Churches in Africa (ARCA); WARC Caribbean and North American Area Council (CANAAC); WARC European Area Council; WARC Northeast Asia Area Council (NEAAC)",
@@ -2526,7 +2559,13 @@
             "E"
         ],
         "aim_URL":"http://www.c-r-t.org/about-philosophy.php",
-        "staff":"No information",
+        "staff":[
+            "West Bank, State of Palestine",
+            "Kenya",
+            "Honduras",
+            "Ecuador",
+            "Israel"
+        ],
         "entry":{
             "date":"20140729",
             "author":"CC"
@@ -2673,7 +2712,10 @@
             "weastman@ffeu.org"
         ],
         "name_en":"Foundation for Ethnic Understanding",
-        "structure":"FFEU Board of Directors: President and Co-Founder, Chairman of the Board of Directors, Secretary/Director, 2 Directors, Treasurer, Counsel, Executive Director, and Muslim Jewish Program Director"
+        "structure":"FFEU Board of Directors: President and Co-Founder, Chairman of the Board of Directors, Secretary/Director, 2 Directors, Treasurer, Counsel, Executive Director, and Muslim Jewish Program Director",
+        "staff":[
+            "World"
+        ]
     },
     {
         "contacted":false,
@@ -2685,7 +2727,9 @@
             }
         },
         "aim_URL":"http://www.coexistencejordan.org/en-us/whoweare.aspx",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "Amideast, Washington, DC, USA",
             "BERKLEY CENTER for Religion, Peace&World Affairs, Georgetown University, Washington, DC, USA",
@@ -2821,7 +2865,7 @@
         },
         "aim_URL":"http://www.lutheranworld.org/content/about-lwf",
         "staff":[
-            "Geneva (Switzerland): about 65 of about 20 different nationalities. Also 40 international staff who work alongside 2,700 local staff in regional and country programmes."
+            "World"
         ],
         "IO_relations":[
             "UN Refugee Agency, Geneva, Switzerland",

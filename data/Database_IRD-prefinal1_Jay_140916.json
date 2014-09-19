@@ -2,7 +2,9 @@
     {
         "contacted":true,
         "aim_URL":"http://www.kaiciid.org/en/the-centre/vision/",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
@@ -71,7 +73,7 @@
         "contacted":false,
         "aim_URL":"http://www.belurmath.org/index.htm; http://www.belurmath.org/whattheyare.htm",
         "staff":[
-            "Work is generally led by monks and assisted by lay devotees and volunteers"
+            "World"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -164,7 +166,7 @@
         "main_names":"No information",
         "aim_URL":"http://www.ihrf.com/projects.html",
         "staff":[
-            "The main person running this is Swami Chidanand Saraswati, assisted by many devotees/volunteers"
+            "India, USA, Tibet"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -232,7 +234,9 @@
         "contacted":"no",
         "main_names":"No information",
         "aim_URL":"http://www.universalcompassion.org/about-universal-compassion-foundation/",
-        "staff":"No information",
+        "staff":[
+            "India, Tibet, USA"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Buddhist"
@@ -276,7 +280,9 @@
         ],
         "contacted":"no",
         "aim_URL":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
-        "staff":"No information",
+        "staff":[
+            "India, USA, Spain, Vietnam, Israel, Palestine"
+        ],
         "IO_relations":[
             "Part of the Earthville network"
         ],
@@ -346,7 +352,7 @@
         "contacted":"no",
         "aim_URL":"http://www.jcsaweb.org/jcsa_pages/dialogue.aspx",
         "staff":[
-            "Clergy asisted by lay volunteers and members of the Order"
+            "India, SriLanka"
         ],
         "IO_relations":"No information",
         "religious_affiliation":[
@@ -402,7 +408,7 @@
         "contacted":"no",
         "aim_URL":"http://www.artofliving.org/art-living-overview",
         "staff":[
-            "Sri Ravi Shankar assisted byTrustees (usually lay disciples),  numerous other lay disciples and volunteers"
+            "Global"
         ],
         "IO_relations":[
             "CONGO (Conference of NGOs in Consultative Status with ECOSOC of the United Nations), Geneva and New York",
@@ -507,7 +513,9 @@
         "contacted":true,
         "main_names":"No information",
         "aim_URL":"http://www.mahabodhi-ladakh.org/motto-of-mimc.html",
-        "staff":"No information",
+        "staff":[
+            "India, Tibet"
+        ],
         "IO_relations":[
             "Member of the International Association for Religious Freedom (IARF) and the International Association of Liberal Religious Women (IALRW)",
             "United Religious Initiative (URI),International Association of Liberal Religious Women (IALRW),  International Association of Educators for World Peace (IAEWP), Elijha Interfaith Instutute and Museum of World Religion"
@@ -604,7 +612,9 @@
         "contacted":"no",
         "main_names":"No information",
         "aim_URL":"http://www.sravastiabbey.com/about/index.html",
-        "staff":"No information",
+        "staff":[
+            "USA, Mexico,Indonesia, Malaysia, Germany, Singapore, Tibet, India"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Buddhist"
@@ -665,7 +675,9 @@
         "contacted":"no",
         "main_names":"No information",
         "aim_URL":"http://www.arshavm.org/vision-and-mission",
-        "staff":"No information",
+        "staff":[
+            "USA, India"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Hindu-Vedanta"
@@ -718,7 +730,9 @@
         ],
         "contacted":"no",
         "aim_URL":"http://www.icpindia.org/aboutus.htm",
-        "staff":"No information",
+        "staff":[
+            "India, Pakistan, Bangladesh, Sri Lanka"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":[
             "Secular"
@@ -789,7 +803,9 @@
             "Prajapita BrahmaKumaris Ishwariya Vishwa Vidyalaya"
         ],
         "aim_URL":"http://www.brahmakumaris.org/whoweare/faq",
-        "staff":"No information",
+        "staff":[
+            "World"
+        ],
         "IO_relations":[
             "General Consultative Status NGO with UN's Economic and Social Council (1983)",
             "Consultative Status with UNICEF",
@@ -869,7 +885,9 @@
         "contacted":false,
         "main_names":"No information",
         "aim_URL":"http://icf.daga.org/reports/longterm_project-a.html",
-        "staff":"No information",
+        "staff":[
+            "Aceh (Indonesia), Burma, Cambodia, East Timor, India, Indonesia, Laos, Malaysia, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, West Papua (Indonesia)"
+        ],
         "IO_relations":"No information",
         "religious_affiliation":"No information",
         "languages":[
