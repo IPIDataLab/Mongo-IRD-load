@@ -164,11 +164,17 @@ def parse(sheet, data):
 		if a:
 			data[-1]['languages'] = a
 
-		# IRD definition
+		# Staff
 		a = get_cell(sheet,'Staff',row_index,lkey,str_split=True)
 		if a:
 			data[-1]['staff'] = a
 
+		# Region Focus
+		a = get_cell(sheet,'RegionFocus',row_index,lkey,str_split=True)
+		if a:
+			data[-1]['staff'] = a
+
+            
 		### ADD ACTIVITIES
 		###
 		# General activities
@@ -203,7 +209,7 @@ def parse(sheet, data):
 				data[-1]['general_activities'] = activity_array
 
 	
-		# IRD activities -- need to apply abbove model to separate acitity name and activity description
+		# IRD activities -- need to apply above model to separate activity name and activity description
 		a = get_cell(sheet,'IRDActivities',row_index,lkey)
 		if a:
 			if a == 'No information':
