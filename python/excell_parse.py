@@ -26,15 +26,17 @@ def parse(sheet, data):
 	nrows = sheet.nrows
 
 	for row_index in range(1, nrows):
-		#create document for each row
-		data.append({})
-
-		### ADD NAMES
-		###
 		# english names
 		a = get_cell(sheet,'MainNameEn',row_index,lkey)
-		if a:
-			data[-1]['name_en'] = a
+		if not a:
+			continue
+
+		# create document for each non-empty row
+		data.append({})
+
+		### ADD FIELDS
+		###
+		data[-1]['name_en'] = a
 
 		# acronym
 		a = get_cell(sheet,'Acronym',row_index,lkey)
