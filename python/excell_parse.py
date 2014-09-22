@@ -105,6 +105,8 @@ def parse(sheet, data):
 		org_type_array = []
 		if not org_type:
 			pass
+		elif org_type == 'No information':
+			pass
 		else:
 			for char in org_type:
 				org_type_array.append(char)
@@ -229,7 +231,8 @@ def parse(sheet, data):
 				# 	print IRD_activities
 				try:
 					for x in xrange(1,len(IRD_activities)):
-						region = re.split('[;\.]', IRD_activities_reg[x])
+						region = re.sub('Lebanon, Syria, Egypt and Jordan', 'Lebanon; Syria; Egypt; Jordan', IRD_activities_reg[x])
+						region = re.split('[;\.]| and ', region)
 						region = [ i.strip() for i in region if i.strip() ]
 						IRD_activity_obj = {
 							'activity' : IRD_activities[x],

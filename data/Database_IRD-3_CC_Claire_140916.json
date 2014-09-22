@@ -1518,7 +1518,8 @@
         "IRD_activities":[
             {
                 "region":[
-                    "USA and Sri Lanka"
+                    "USA",
+                    "Sri Lanka"
                 ],
                 "activity":"Inter-religious Cooperation for Community Development and Social Empowerment in Trincomalee and Batticaloa Districts, and Padaviya Division. During this program, they partnered with a Sri Lankan NGO, Sarvodaya, to work intensively with a core group of 80 Hindu, Buddhist, Muslim, and Christian religious leaders and an additional 80 young religious committee members, offering peacebuilding training and intensive interfaith dialogues aimed at promoting mutual understanding and reconciliation; "
             },
@@ -2052,7 +2053,10 @@
         "IRD_activities":[
             {
                 "region":[
-                    "Lebanon, Syria, Egypt and Jordan",
+                    "Lebanon",
+                    "Syria",
+                    "Egypt",
+                    "Jordan",
                     "3",
                     "Lebanon"
                 ],
@@ -2672,7 +2676,8 @@
             },
             {
                 "region":[
-                    "London, UK and Jerusalem, Israel"
+                    "London, UK",
+                    "Jerusalem, Israel"
                 ],
                 "activity":"Agreement between The Chief Rabbis of Israel and The Archbishop of Canterbury: They signed a joint Declaration in 2006 which sets out a framework for continuing dialogue between them, committing themselves to further meetings in Jerusalem and at Lambeth and to invite others in our wider communities to join with us; "
             },
@@ -2849,7 +2854,8 @@
         "IRD_activities":[
             {
                 "region":[
-                    "Amman, Jordan and World"
+                    "Amman, Jordan",
+                    "World"
                 ],
                 "activity":"Youth for Coexistence: JICRC provides a venue for Muslim and Christian youth to dialogue and to build relationships of respect and understanding."
             }

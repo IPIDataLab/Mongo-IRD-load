@@ -6249,7 +6249,8 @@
             },
             {
                 "region":[
-                    "UK and Northern Ireland"
+                    "UK",
+                    "Northern Ireland"
                 ],
                 "activity":"Northern Ireland: Met with local peacemakers and groups promoting reconciliation in Northern Ireland; "
             },
@@ -13910,7 +13911,8 @@
         "IRD_activities":[
             {
                 "region":[
-                    "Australia and New Zealand",
+                    "Australia",
+                    "New Zealand",
                     "Melanesia",
                     "Polynesia",
                     "Micronesia",
