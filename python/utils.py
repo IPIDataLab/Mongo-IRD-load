@@ -74,7 +74,7 @@ def geocode(address):
 
 	try:
 		address1 = address
-		address1 = re.sub(r'PO Box [0-9]+, ', '', address1)
+		address1 = re.compile('PO Box [0-9]+, ', re.IGNORECASE).sub('', address1)
 		address1 = re.sub(r'The German Colony, ', '', address1)
 		address1 = re.sub(r'The University of Cambodia, ', '', address1)
 		address1 = re.sub(r'New Taipei City 228, China', 'New Taipei City 228, Taiwan', address1)
@@ -83,6 +83,8 @@ def geocode(address):
 		address1 = re.sub(r'P. O. Box: 811633 Amman 11181 Jordan', 'luzmila hospital, Amman 11181 Jordan', address1)
 		if re.search(r'(150, route de Ferney|Route de Ferney 150)', address1):
 			address1 = 'Route de Ferney 150, 1202 Geneve, Suisse'
+		if re.search(r'Fumon Hall.*Suginami', address1):
+			address1 = '2 Chome-6-1 Wada, Suginami-ku, Tokyo-to, Japan'
 		print address1
 		location = geolocator.geocode(address1)
 		res = { 'lat': location[1][0], 'lon': location[1][1] }
