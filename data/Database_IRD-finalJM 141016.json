@@ -117,7 +117,11 @@
             "11a",
             "11b",
             "11c",
-            "11q"
+            "11q",
+            "12b",
+            "12c",
+            "12h",
+            "12j"
         ],
         "events":[
             "Summary of their activities from April 2012-March 2013:                                        1. Educational Work: Conducted 2,914 cultural units, camps, workshops and seminars during the year in across 748 educational institutions with a total student population of more than 200,000",
@@ -163,7 +167,7 @@
                 "activity_description":"The Math and Mission spread the spiritual teachings and cultural ideals through a large number of public libraries, lectures, discourses and seminars, audio-visual units, exhibitions, museums, retreats and publishing books, journals, etc. Books on Vedanta, the message of Sri Ramakrishna, Holy Mother Sarada Devi and Swami Vivekananda, spirituality and world religions in almost all the major languages of India and in some of the important languages of other countries are published form the 21 publication centres of the Math and Mission."
             }
         ],
-        "history":"Brought into existence by Sri Ramakrishna (1836-1886), a 19th century saint from Bengal and his chief disciple, Swami Vivekananda (1863-1902). The Math and Mission together comprises the Ramakrishna Movement which is also referred to as the Vedanta Movement. Registered in 1901."
+        "history":"Brought into existence by Sri Ramakrishna (1836-1886), a 19th century saint from Bengal and his chief disciple, Swami Vivekananda (1863-1902). The Math and Mission together comprises the Ramakrishna Movement which is also referred to as the Vedanta Movement. Registered in 1901. There are 178 branches in cities across India and 20 other countries"
     },
     {
         "contacted":true,
@@ -195,7 +199,11 @@
             "4m",
             "10m",
             "11m",
-            "6.1b"
+            "6.1b",
+            "12b",
+            "12c",
+            "12h",
+            "12j"
         ],
         "finances":"voluntary donations",
         "website":"http://www.ihrf.com/projects/projects-interfaithHarmony.html",
@@ -262,7 +270,9 @@
             "6m",
             "3d",
             "1d",
-            "2d"
+            "2d",
+            "12b",
+            "12h"
         ],
         "finances":"voluntary donations",
         "website":"http://www.universalcompassion.org/",
@@ -350,7 +360,7 @@
             "Public Talks and Presentations",
             "Conferences and Dialogues (not confined to GAIA but the various Earthville projects)"
         ],
-        "aim":"GAIA appreciates the value of intercultural and interfaith dialogue as a bridge-builder, but GAIA is not a talk-oriented initiative: GAIA is about putting compassion into action- They bring people together, across historical boundaries, in active altruistic collaboration, usually in the form of volunteer service and other such activities; The premise, which their experience since 1997 consistently supports, is that when people from distant backgrounds (geographic, cultural, or belief) come together in selfless service of another, great things can happen.",
+        "aim":"GAIA appreciates the value of intercultural and interfaith dialogue as a bridge-builder, but GAIA is not a talk-oriented initiative: GAIA is about putting compassion into action-They bring people together, across historical boundaries, in active altruistic collaboration, usually in the form of volunteer service and other such activities; The premise, which their experience since 1997 consistently supports, is that when people from distant backgrounds (geographic, cultural, or belief) come together in selfless service of another, great things can happen.",
         "org_type":[
             "E",
             "f"
@@ -389,9 +399,11 @@
             "1b",
             "1m",
             "2.3b",
-            "6b",
-            "6l",
-            "6.1l"
+            "6.1b",
+            "6.1l",
+            "6.2l",
+            "12b",
+            "12c"
         ],
         "finances":"No information",
         "website":"http://www.jcsaweb.org/jcsa_pages/dialogue.aspx",
@@ -421,7 +433,7 @@
         "general_activities":[
             "No information"
         ],
-        "history":"Started in 1994(merger of the former organisations;no further information)"
+        "history":"Started in 1994 (merger of the former organisations; no further information)"
     },
     {
         "parent_org":[
@@ -443,7 +455,7 @@
             "NGO Forum for Health, Geneva"
         ],
         "regionfocus":[
-            "Global"
+            "World"
         ],
         "languages":[
             "English, German,Spanish, Russian, and other languages"
@@ -469,7 +481,11 @@
             "8g",
             "10m",
             "11g",
-            "11m"
+            "11m",
+            "12b",
+            "12c",
+            "12h",
+            "12i"
         ],
         "finances":"No information",
         "website":"http://www.artofliving.org/global/home",
@@ -478,9 +494,9 @@
         "IRD_activities":[
             {
                 "region":[
-                    "International"
+                    "Mumbai, India"
                 ],
-                "activity":"Inter-Faith Congregation of Muslims and Hindus called 'Sneh Milan' organised in Feb 2014 (http://www.artofliving.org/ontourwithsrisri-sneh-milan-exchanging-genuine-love-and-belongingness); 6.Attended the Dialogue between Civilizations and Cultures Conference held in May 2014; "
+                "activity":"Inter-Faith Congregation of Muslims and Hindus called 'Sneh Milan' organised in Feb 2014 (http://www.artofliving.org/ontourwithsrisri-sneh-milan-exchanging-genuine-love-and-belongingness); 6.Attended the Dialogue between Civilizations and Cultures Conference held in May 2014; 7.Tackling the issue of terrorism and promoting inter-faith harmony, Sri Sri has taken his message of a multi-cultural education to concerned forums across the world \u2013 be it the 29th National Meeting of the Jamiat-Ulema-i-Hind (the largest Islamic Imam Association of India) or the 3rd World Congress of Rabbis and Imams for Peace in Europe."
             }
         ],
         "name_en":"Art of Living Foundation",
@@ -488,7 +504,7 @@
         "other_relations":[
             "The Art of Living has a few sister organisations which are also dedicated to the vision of a stress-free, violence-free world. The International Association for Human Values (IAHV), Ved Vignan Maha Vidya Peeth (VVMVP), Sri Sri RaviShankar Vidya Mandir (SSRVM), Vyakti Vikas Kendra India (VVKI), Sri Sri Rural Development Program (SSRDP) and Sri Sri Institute of Agricultural Sciences & Technology Trust (SSIAST) among others, formulate and implement humanitarian projects of The Art of Living globally."
         ],
-        "IRD_def":"IRD  is understood by the AOLF as the philosophy of Sri Sri Ravi Shankar, who  has devoted himself to promoting composite dialogue between conflicting parties across the world. Over the past three decades, he has opened up channels of communications, mediated in and facilitated meaningful dialogue; The key to inter-faith harmony and to reducing terrorism, according to Sri Sri Ravi Shankar, lies in education \u2013 a multi-cultural education that encourages cultural pluralism.",
+        "IRD_def":"IRD  is understood by the AOLF as the philosophy of Sri Sri Ravi Shankar, who has devoted himself to promoting composite dialogue between conflicting parties across the world. Over the past three decades, he has opened up channels of communications, mediated in and facilitated meaningful dialogue; The key to inter-faith harmony and to reducing terrorism, according to Sri Sri Ravi Shankar, lies in education \u2013 a multi-cultural education that encourages cultural pluralism.",
         "events":[
             "Yoga camps, happiness programme (meditation). Art of Meditation (Sahaj Samadhi) Course, Sudarshan Kriya (yoga)",
             "The Art of Living runs the courses all year round in various locations",
@@ -496,36 +512,10 @@
             "The Art of Living\u2014Projects Management Unit (PMU) is a special technical wing within The Art of Living that implements holistic solutions for social, economic and environmental issues. The goal is to enable transformation by acting as intermediary between various resource providers and communities.These connections combined with our empowerment, accountability and sustainability models, enable a lasting impact towards our shared goals",
             "under empowerment programme, Youth Leadership Training Program (YLTP) transform \u2018vulnerable\u2019 young men and women into leaders in their communities. They become proactive \u2018advocates\u2019 for change and \u2018owners\u2019 of their challenges. AOLF work with these empowered leaders toward complete development of their communities."
         ],
-        "aim":"AOLF\u2019s programs are guided by Sri Ravi Shankar's philosophy: \u201cUnless we have a stress-free mind and a violence-free society, we cannot achieve world peace.\u201d AOLF offers self-development programs and tools that facilitate the elimination of stress and foster deep and profound inner peace, like breathing techniques, meditation, and yoga;  In addition to these courses offered globally, AOLF, working in collaboration with The International Association for Human Values (IAHV), has successfully implemented numerous humanitarian projects and service initiatives including conflict resolution programs, disaster relief, sustainable rural development, empowerment of women, prisoner rehabilitation, education for all, and environmental sustainability.",
+        "aim":"AOLF\u2019s programs are guided by Sri Ravi Shankar's philosophy: \u201cUnless we have a stress-free mind and a violence-free society, we cannot achieve world peace.\u201d AOLF offers self-development programs and tools that facilitate the elimination of stress and foster deep and profound inner peace, like breathing techniques, meditation, and yoga; In addition to these courses offered globally, AOLF, working in collaboration with The International Association for Human Values (IAHV), has successfully implemented numerous humanitarian projects and service initiatives including conflict resolution programs, disaster relief, sustainable rural development, empowerment of women, prisoner rehabilitation, education for all, and environmental sustainability.",
         "org_type":[
             "R",
-            "f",
-            " ",
-            "(",
-            "c",
-            "o",
-            "u",
-            "l",
-            "d",
-            " ",
-            "a",
-            "l",
-            "s",
-            "o",
-            " ",
-            "f",
-            "i",
-            "t",
-            " ",
-            "u",
-            "n",
-            "d",
-            "e",
-            "r",
-            " ",
-            "E",
-            "f",
-            ")"
+            "f"
         ],
         "publications":"No information",
         "IRD_def_URL":"http://www.artofliving.org/in-en/peace-case-studies/dialogue",
@@ -571,7 +561,8 @@
             "8q",
             "8h",
             "10a",
-            "10m"
+            "10m",
+            "12b"
         ],
         "finances":"voluntary donations",
         "website":"http://www.mahabodhi-ladakh.org/index.aspx",
@@ -580,7 +571,7 @@
         "IRD_activities":[],
         "name_en":"The Mahabodhi International Meditation Centre",
         "general_activities":[],
-        "structure":"Headed by the charismatic founder and spiritual Director of the MIMC Bikku Sanghasena, who is also a Buddhist religious leader. The structure is composed of a  'sangha' a core group of leadership, assisted by the community of monks and nuns, students, elderly and disabled, staff and volunteers",
+        "structure":"Headed by the charismatic founder and spiritual Director of the MIMC Bikku Sanghasena, who is also a Buddhist religious leader. The structure is composed of a 'sangha' a core group of leadership, assisted by the community of monks and nuns, students, elderly and disabled, staff and volunteers",
         "other_relations":"No information",
         "IRD_def":"Guru Sangasena Mahanayaka Thera emphasizes that \"Different religions should be considered like different flowers; The colours and shapes of flowers may be different, but all are flowers nevertheless; The more flowers that exist in the garden, the more beautiful that garden will be; The teachings of all the religions are sacred and are but facets of one truth.\"",
         "events":[
@@ -589,38 +580,12 @@
             "3.Organised in association with International Association for Religious Freedom (IARF) Ladakh group, one day Inter-Faith Seminar \"Preservation of Religious Harmony, Co-existence and Universal Peace\" in 2005",
             "4.Three day conference on \"Conflict Resolution of Buddhist-Muslim Dialogue\" was held by MIMC in association with IARF and other groups in 2010",
             "5.MIMC spear heads the interfaith programmes in Ladakh by inviting different religious heads and international organizations working in the direction of peace, harmony and dialogue between religious groups for world Peace",
-            "the founder also goes to various international  fora to give lectures on inter religious harmony."
+            "the founder also goes to various international fora to give lectures on inter religious harmony."
         ],
         "aim":"A dedicated team of social workers, teachers, doctors, monks, nuns, community leaders and care-providers have created an integrated community at Devachan in Ladakh which provides comprehensive care to all segments of society: children, elderly, special needs individuals, monks & nuns, the sick, as well as those seeking spiritual development; The community has become a model for the region through sustainable, ecological development. With the support of their sponsors. They hope to be able to contribute our part to this goal by serving the people of Ladakh.",
         "org_type":[
             "E",
-            "f",
-            " ",
-            "(",
-            "c",
-            "o",
-            "u",
-            "l",
-            "d",
-            " ",
-            "a",
-            "l",
-            "s",
-            "o",
-            " ",
-            "f",
-            "i",
-            "t",
-            " ",
-            "u",
-            "n",
-            "d",
-            "e",
-            "r",
-            " ",
-            "R",
-            "f",
-            ")"
+            "f"
         ],
         "publications":"No information",
         "IRD_def_URL":"http://www.mahabodhi-ladakh.org/inter-faith-program.html",
@@ -664,12 +629,16 @@
             "2.3l",
             "4m",
             "5b",
-            "6b",
             "6.1b",
+            "6.2b",
             "6.1k",
             "10m",
             "10b",
-            "10g"
+            "10g",
+            "12b",
+            "12c",
+            "12i",
+            "12j"
         ],
         "finances":"voluntary donations; offerings from devotees",
         "website":"http://www.sravastiabbey.com/index.html",
@@ -720,18 +689,23 @@
             "India"
         ],
         "languages":[
-            "English, Sanskrit"
+            "English, Hindi, Sanskrit"
         ],
         "international":true,
         "subject":[
-            "6j",
-            "6m",
+            "6.2j",
+            "6.2m",
             "6.1b",
             "6.2b",
             "6.3b",
             "7b",
             "7m",
-            "10m"
+            "10m",
+            "12b",
+            "12c",
+            "12h",
+            "12i",
+            "12j"
         ],
         "finances":"Voluntary contributions and donations",
         "website":"http://www.arshavm.org/; http://www.arshavm.org/religious-&amp;-cultural-diversity",
@@ -739,7 +713,7 @@
         "email_gen":"No information",
         "IRD_activities":[],
         "name_en":"Arsha Vijnana Gurukulam",
-        "structure":"Founded by the charismatic Hindu Vedanta teacherSwami Dayananda Saraswati; Assisted by lay devotees and volunteers",
+        "structure":"Founded by the charismatic Hindu Vedanta teacher Swami Dayananda Saraswati; Assisted by lay devotees and volunteers",
         "other_relations":"No information",
         "IRD_def":"Respecting cultural and religious diversity is extremely important in contemporary times, and can be a cornerstone for the elimination of most conflict; Indigenous and ethnic religious and spiritual traditions, including Hinduism, have an impressive history of accommodation and religious tolerance. An important mission of the Arsha Vijnana Gurukulum is to foster peace between peoples and nations; Starting from the Vedanta philosophy of self-acceptance, to the acceptance of others and ultimately the world.",
         "events":[
@@ -783,7 +757,7 @@
         ],
         "international":true,
         "subject":[
-            "ic",
+            "1c",
             "1q",
             "1j",
             "6.1b",
@@ -801,6 +775,12 @@
                 "region":[
                     "India, Pakistan, Bangladesh, Sri Lanka"
                 ],
+                "activity":"To hold meetings / consultations with religious leaders in India and abroad and network with other interfaith organizations and to organize short and long term training programmes, seminars, workshops and consultations; "
+            },
+            {
+                "region":[
+                    "India"
+                ],
                 "activity":"Organize volunteers across India, and train them through spiritual, social, economic, ecological and political awakening, instilling in them best spiritual standards of living, peace making and being sensitive to the society they live in and interact with; "
             },
             {
@@ -817,7 +797,7 @@
         "events":[
             "1. Mainly Seminars and Conferences",
             "One of the charismatic leaders (Syed Zafar Mahmood)is involved in speaking at various inter-faith fora",
-            "2.Rally of Muslims, Christians and Scheduled Castes (so called 'low' castes), Lucknow, India:  20 April 2013",
+            "2. Rally of Muslims, Christians and Scheduled Castes (so called 'lower' castes), Lucknow, India:  20 April 2013",
             "3.InterFaith Peace conferences and Conventions: Mangalore, India Feb 2013: Guwahati, Assam, Jan 2013",
             "4.Workshop on Peace & Communal Harmony, Bubhaneshwar, India Jan 2013",
             "5.Lecture on 'Perspectives on Peacemaking: Muslims & Christians in Constructive Conversation' New Delhi, India Feb 2012"
@@ -832,7 +812,16 @@
         ],
         "IRD_def_URL":"http://www.icpindia.org/aboutus.htm",
         "entry":"JM 21 July 2014",
-        "general_activities":[],
+        "general_activities":[
+            {
+                "activity_name":"Awareness & Interaction",
+                "activity_description":"\"Systematic equipping of people\" four developing their inherent potential to respond creatively to the challenges thrown by the ever changing world today and, for this purpose, to engage in diapraxis;"
+            },
+            {
+                "activity_name":"Capacity Building",
+                "activity_description":"Organize volunteers across India, and train them through spiritual, social, economic, ecological and political awakening, instilling in them best spiritual standards of living, peace making and being sensitive to the society they live in and interact with, While doing so they involve themselves fully for the establishment of a new order of peace and justice based on love and mutual respect."
+            }
+        ],
         "history":"No information"
     },
     {
@@ -879,7 +868,11 @@
             "10j",
             "10k",
             "10l",
-            "10m"
+            "10m",
+            "12b",
+            "12c",
+            "12d",
+            "12j"
         ],
         "finances":"From Voluntary donations of devotees; government grants and funding for humanitarian projects",
         "website":"http://www.brahmakumaris.org/index_html",
@@ -888,15 +881,9 @@
         "IRD_activities":[
             {
                 "region":[
-                    "Montevideo, Uruguay",
-                    "4",
-                    "World",
-                    "5",
-                    "United Kingdom",
-                    "6",
-                    "Oxford, UK"
+                    "Montevideo, Uruguay"
                 ],
-                "activity":"www.uri.org; 7.The World Council of Religious Leaders: This initiative grew out of the Millennium World Peace Summit of Religious and Spiritual Leaders held in August 2000 at the United Nations New York and addressed by Dadi Janki. www.millenniumpeacesummit.org; 8.The Global Peace Initiative of Women Religious and Spiritual Leaders: Brahma Kumaris support the Initiative's Women's Partnership for Peace in the Middle East and the Global Ethics and Universal Education for Values project. www.gpiw.org; 9.Council for a Parliament of the World's Religions:The Brahma Kumaris have played an active role in the Parliaments of the World's Religions and the Council\u2019s Assembly of Religious Leaders in Chicago (1993) South Africa (1999) and Barcelona (2004), serving on the organizing committees and contributing to events;10.World Conference of Religions for Peace (WCRP): Brahma Kumaris are active in local chapters around the world. www.wcrp.org."
+                "activity":"www.uri.org; 8.The World Council of Religious Leaders: This initiative grew out of the Millennium World Peace Summit of Religious and Spiritual Leaders held in August 2000 at the United Nations New York and addressed by Dadi Janki. www.millenniumpeacesummit.org; 9.The Global Peace Initiative of Women Religious and Spiritual Leaders: Brahma Kumaris support the Initiative's Women's Partnership for Peace in the Middle East and the Global Ethics and Universal Education for Values project. www.gpiw.org; 10.Council for a Parliament of the World's Religions:The Brahma Kumaris have played an active role in the Parliaments of the World's Religions and the Council\u2019s Assembly of Religious Leaders in Chicago (1993) South Africa (1999) and Barcelona (2004), serving on the organizing committees and contributing to events;11.World Conference of Religions for Peace (WCRP): Brahma Kumaris are active in local chapters around the world. www.wcrp.org."
             }
         ],
         "name_en":"Bramha Kumaris World Spiritual University",
@@ -996,5 +983,493 @@
         "entry":"JM, 15 June 2014",
         "general_activities":[],
         "history":"Origins traced to the Consultation meeting on Interfaith Cooperation in Asia, which was held in Prapat, North Sumatera, Indonesia from 5-10 April 2003; This was jointly organised by Asia Pacific Alliance of YMCAs (APAY), Christian Conference of Asia (CCA),and Church Development Service (EED), Germany."
+    },
+    {
+        "parent_org":[
+            "Sera Jey Monastic University"
+        ],
+        "contacted":false,
+        "religious_affiliation":[
+            "Buddhist"
+        ],
+        "main_names":"No information",
+        "aim_URL":"http://www.serajey.org/mission",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "USA",
+            "India"
+        ],
+        "languages":[
+            "English, Tibetan"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "1m",
+            "6.1b",
+            "6.1l",
+            "6.1j",
+            "6.3l",
+            "6.3b",
+            "12b"
+        ],
+        "finances":"No information",
+        "website":"www.serajey.org",
+        "acronym":"SJBCC",
+        "email_gen":"serajeyusa@yahoo.com; serajeyusa@gmail.com;  glamalobsang@yahoo.com",
+        "IRD_activities":[],
+        "name_en":"Sera Jey Buddhist Culture Center",
+        "structure":"Five Spiritual heads, assisted by Seven member Board of Advisors and nine member Board of Directors",
+        "other_relations":[
+            "Scholarly/Research Coooeration agreement with Tumkur University, India",
+            "Global College, LIU, USA",
+            "Wisconsin University, USA"
+        ],
+        "IRD_def":"The Centre organizes Interfaith Dialogue program which embraces religious diversity, build cross-culture understanding and encourage spiritual growth through the first hand exploration of different faith tradition.",
+        "events":[
+            "1. Maha Guru Bhumtsok Ceremony:Prayer for world peace and Long Life of His Holiness The Dalai Lama & all Lineage Holders, 31July-6 August 2014",
+            "Sunnyside, NY, USA",
+            "2. Numerous religious events primarily aimed at the Buddhist community in the NY state region",
+            "3. Basic Buddhism classes",
+            "4. Buddhism 101 for school children: a series of lectures",
+            "4. Dalai Lama's birthday celebrations",
+            "5. Teaching sessions by various visiting and in-house Buddhist scholars and religious leaders."
+        ],
+        "aim":"dedicated to the preservation and fostering of Tibet's unique Buddhist cultural and spiritual tradition to the Tibetan community and the general public.",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":"No information",
+        "IRD_def_URL":"http://www.serajey.org/interfaith-dialogue-india",
+        "old_alias":"No information",
+        "entry":"JM 24 July 2014",
+        "general_activities":[],
+        "history":"In October 2006, Khensur Rinpoche Geshe Lobsang Palden, former Abbot of Sera Jey Monastic University visited New York City along with representatives of Sera Jey administration. Khensur Rinpoche met with members of Sera Jey residing in New York area and suggested starting a project to establish Sera Jey Center in the United States. Officially started in October 2009. Incorporated in 2009 in New York State and got a tax-expempt status on 2011."
+    },
+    {
+        "parent_org":"No information",
+        "contacted":"no",
+        "religious_affiliation":[
+            "Hindu"
+        ],
+        "main_names":[
+            "Kashi Interfaith Spiritual Community"
+        ],
+        "aim_URL":"http://www.kashi.org/wp-content/themes/kashi/docs/kashi_jan_06.pdf",
+        "staff":[
+            "n.i.",
+            "12 officials overseeing different aspects of the Kashi Ashram are mentioned on the website."
+        ],
+        "IO_relations":[
+            "Founder is one of the Trustees of Parliament of World Religions",
+            "Associated with United Religions Initiative"
+        ],
+        "regionfocus":[
+            "USA",
+            "India",
+            "Uganda"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "1j",
+            "4a",
+            "4b",
+            "4f",
+            "4m",
+            "5b",
+            "5j",
+            "6.1b",
+            "6.1h",
+            "6.1j",
+            "6.1m",
+            "6.3b",
+            "6.3h",
+            "6.3j",
+            "6.3m",
+            "10b",
+            "10d",
+            "10f",
+            "10g",
+            "10m",
+            "11f",
+            "11h",
+            "11i",
+            "11m"
+        ],
+        "finances":"voluntary donations; offerings from devotees",
+        "website":"www.kashi.org",
+        "acronym":"No information",
+        "email_gen":"kashiinfo@kashi.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Florida, USA"
+                ],
+                "activity":"Kashi Centre for Advanced Spritual Studies: Lectures, workshops and retreats; "
+            },
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Lectures and speeches at national and International events"
+            }
+        ],
+        "name_en":"Kashi Ashram",
+        "structure":"No information",
+        "other_relations":"No information",
+        "IRD_def":"Kashi embraces all people without distinction as to religion, race, color, creed or sexual orientation. Kashi is committed to inter-religious and interfaith dialogue, envisioning a world in which all are treated with kindness, dignity and respect. Anyone from any religion, or no religion, is welcome to participate and find the depth in his or her individual spiritual path. If anything, the \u2018religion\u2019 of Kashi is one of kindness.",
+        "events":[
+            "1.Kali Natha Yoga Retreat & Conference\nJanuary 25-27",
+            "2. 'The Heart of Shakti' Women's Retreat\nFebruary 22-24",
+            "3.The Quiet Heart: 500 Hour Kali Natha Yoga Teacher Training Sept 28-30, 2012",
+            "4.Observance of various festivals",
+            "5. World Aids Day Satsang(meeting)",
+            "6. Events related to the Orhpanage in Uganda."
+        ],
+        "aim":"Kashi is an interfaith community that embraces all paths and traditions, a place where the goodness of all faiths or one\u2019s own expression of God is honored",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":[
+            "Books: The 11 Karmic Spaces: Choosing freedom from the patterns that bind you",
+            "I, The Mother (2006)",
+            "The Mother Ganga (2004)",
+            "Rise to the Windless God (2005)",
+            "Bones and Ash",
+            "Newsletter: Kashi eNews."
+        ],
+        "IRD_def_URL":"http://www.kashi.org/about/",
+        "old_alias":"No information",
+        "entry":"JM 24 July 2014",
+        "general_activities":[
+            {
+                "activity_name":"The River Fund",
+                "activity_description":"A home for the Elderly."
+            },
+            {
+                "activity_name":"By The River",
+                "activity_description":"A community of people of all lifestyles and orientations; 6. Feeding the poor programmes across the three centres in the USA; 7. Orphanage in Uganda."
+            }
+        ],
+        "history":"An interfaith spiritual community founded in 1976 by a charismatic spiritual teacher, Ma Jaya Sati Bhagavati, an author, yoga teacher born in Brooklyn, USA. The teachings of Kashi are based on kindness, compassion and service, embracing the sacred practices of many traditions. With roots in Hindu philosophy, the teaching exemplifies the ideal that all paths followed with a pure heart lead to one\u2019s own God within."
+    },
+    {
+        "parent_org":[
+            "Lakeshore InterFaith Community"
+        ],
+        "contacted":false,
+        "religious_affiliation":[
+            "Hindu-Vedanta"
+        ],
+        "main_names":[
+            "Ramakrishna Sarada Universal Temple in Ganges, MI"
+        ],
+        "aim_URL":"http://www.motherstrust.org/index.htm",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "USA",
+            "India"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "5b",
+            "5f",
+            "5g",
+            "5h",
+            "5m",
+            "6.1b",
+            "6.1h",
+            "6.3b",
+            "6.3h",
+            "10b",
+            "10k."
+        ],
+        "finances":"No information",
+        "website":"www.motherstrust.org",
+        "acronym":"No information",
+        "email_gen":"tapas@motherstrust.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Ganges, MI, USA"
+                ],
+                "activity":"Sunday InterFaith Worship service and Faith presentations. 4.Monks from Kasi Ashram addressing varous Inter Faith fora;"
+            }
+        ],
+        "name_en":"Mothers Trust Ashram Retreat",
+        "structure":"Run by the nuns tracing their origins to the order set up by Sannyasini Gaurima, the only woman disciple of Ramakrishna; Closely asociated with the Ramakrishna Math and Ramakrishna Mission; no further information",
+        "other_relations":[
+            "Closely associated with Ramakrishna Mission and Ramakrishna Trust"
+        ],
+        "IRD_def":"Interfaith Study with Dialogue helps one Respect the Differences in World Faiths and find Common Ground in Human Dignity and Spirit",
+        "events":[
+            "1.Retreat on Religion, Spirituality & Culture in Patient Care by Cindy Visscher, Phd of Western Michigan University: (June-Dec 2014.)",
+            "2. Silent Illumination: a meditation technique that focuses on insight into the Nature of Reality and One's Place in It (May-Dec 2014)",
+            "3. InterFaith retreats on various topics (Are You Spiritual but not Religious? Spiritual and Religious? Interfaith? What does each one offer? Where is Your Community?",
+            "Deepening Your Spiritual Consciousness through Interfaith Mindfulness Practices.How Does it Work?",
+            "Freedom from Suffering. Religious Perspectives and Interfaith Understanding",
+            "What is Spiritual Prayer? Examples from Various Religious Practices. Finding Your own Prayer Consciousness",
+            "Holy Births,Mythology,Psychology, and the Religious Traditions)"
+        ],
+        "aim":"To create an interfaith community, of monastics and laiety, who celebrate and embrace diversity, while searching for common ground at the heart of the world's great wisdom traditions. Such a community can be a transforming force for human harmony, world peace, the wellness of all creation, and the flourishing of a global civilization with strong spiritual roots.",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":"No information",
+        "IRD_def_URL":"http://motherstrustretreats.weebly.com/mothers-trust.html",
+        "entry":"JM 24 July 2014",
+        "general_activities":[],
+        "history":"The Founders are the nuns of Swami Bhashyananda--president of the Sri Sri Saradeshwari Ashram, oldest convent in the direct monastic lineage of Sri Ramakrishna and Sri Sarada Devi established in 1895, by Sri Ramakrishna's only woman monastic disciple; \"Sannyasini Gaurima\" in Calcutta, India; and the Ramakrishna monks of Belur Math; Ramakrishna Math and Mission, established by Swami Vivekananda in 1897 in Calcutta, India. In both the orders, Sri Sri Ma, the \"Universal Mother\" is considered to be \"Sangha Janani\"- the saviour and sustainer, the Mother of the Order- Organization. Mothers Trust Ashram with its beginnings in 1990, has both Ramkrishna monks and Ramakrishna Sarada nuns working together in mission with mutual respect, equality harmony Serving the Sacred Spirit in All Paths."
+    },
+    {
+        "parent_org":"No information",
+        "contacted":false,
+        "religious_affiliation":[
+            "Jainism"
+        ],
+        "main_names":"No information",
+        "aim_URL":"http://www.jainology.org/about/",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "UK",
+            "India"
+        ],
+        "languages":[
+            "English, Gujarati"
+        ],
+        "international":true,
+        "subject":[
+            "1a",
+            "1b",
+            "6.1b",
+            "6.1l",
+            "6.2b",
+            "7b",
+            "7d",
+            "10b",
+            "10g",
+            "10m",
+            "11a, 11b",
+            "11g",
+            "11h",
+            "11m",
+            "12b",
+            "12c",
+            "12i",
+            "12j"
+        ],
+        "finances":"No information",
+        "website":"http://www.jainology.org/",
+        "acronym":"No information",
+        "email_gen":"info@jainology.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Cape Town, South Africa"
+                ],
+                "activity":"The Alliance of Religions and Conservation arranged a \u2018Celebration of Creation\u2019 to celebrate Her Majesty The Queen Elizabeth II at St James palace in 2002, IoJ represented Jainism; "
+            },
+            {
+                "region":[
+                    "Atami, Japan",
+                    "Windsor, UK",
+                    "4",
+                    "UK",
+                    "5",
+                    "Harrow, UK"
+                ],
+                "activity":"Participated in an interfaith exhibition organised by Harrow schoos; "
+            },
+            {
+                "region":[
+                    "London, UK"
+                ],
+                "activity":"Organised a cultural program at The Dome in the UK to celebrate the birthday of Mahavir, founder of Jainism."
+            }
+        ],
+        "name_en":"Institute of Jainology",
+        "structure":"Nine member UK Board of Directors, led by a Chariman.",
+        "other_relations":[
+            "Member of the Council of Parliament of World Religions",
+            "Alliance of Religions and Conservation",
+            "Interfaith Dialogue with the Vatican"
+        ],
+        "IRD_def":"Promote interfaith relationships to create a better understanding of the Jain faith and to acquaint the Jain community with other faiths.",
+        "events":[
+            "1.12th Annual Jaina Studies Workshop, London",
+            "2. Young Jains UK  7th Convention, Edgware, UK",
+            "3. International Food Fair, Harrow Council, UK",
+            "4. Soul 2 Soul \u2013 an event with Pujya Rasikbhai Shah, Stanmore, UK",
+            "5. Bridging The Gap Convention, Kids Convention & Little Jains, Edgware, UK"
+        ],
+        "aim":"To provide a platform for interaction between different Jain communities and organisations; To promote interfaith relationships to create a better understanding of the Jain faith and to acquaint the Jain community with other faiths; Provide opportunities for study of the faith, facilitate scholarly research on Jainism through the establishment of scholarships; Undertake the cataloguing and digitisation of Jain manuscripts and artefacts.",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":[
+            "1.Jain Declaration on Nature",
+            "2.Tattvartha Sutra \u2018That Which Is\u2019",
+            "3.Discover Jainism",
+            "4.'Ahimsa' Newsletter"
+        ],
+        "IRD_def_URL":"http://www.jainology.org/about/",
+        "old_alias":"No information",
+        "entry":"JM 26 July 2014",
+        "general_activities":[],
+        "history":"Institute of Jainology (IoJ) was established following the first International Jain Conference held in London in 1983, when the need for an organisation to coordinate Jain affairs internationally was recognised. This body was registered as a Charitable Trust in 1986"
+    },
+    {
+        "parent_org":"No information",
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":"No information",
+        "aim_URL":"http://www.satyana.org/about_new2.html",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "USA",
+            "South Africa",
+            "Kenya",
+            "India",
+            "Columbia",
+            "Australia"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "1d",
+            "5b",
+            "6.1b",
+            "6.3b",
+            "6.3j",
+            "8b",
+            "8d",
+            "8l",
+            "8m",
+            "10b",
+            "10j."
+        ],
+        "finances":"Support from Trusts and individuals",
+        "website":"http://www.satyana.org/index.html",
+        "acronym":"No information",
+        "email_gen":"cynthia@satyana.org",
+        "IRD_activities":[],
+        "name_en":"Satyana Institute",
+        "structure":"Led by Executive Director and Programme Director, Satyana is  supported by an 8-member Board of Directors",
+        "other_relations":"No information",
+        "IRD_def":"Aims to focus on the mystical core of different religions as opposed to the outer disparities. In recognizing the deeper mystical unity of all religions, the differences between various traditions thereby become exalted as a source of richness and mutual inspiration, rather than contentious division. Deep commitment to this kind of mystical synergy across traditions is the essence of interfaith collaboration and service, so urgently needed in our time.",
+        "events":[
+            "1. Women/Men: The Next Conversation-September 19 \u2013 21, 2014,  USA",
+            "2. Gender Reconciliation 5-Day Introductory Workshop with Breathwork, USA",
+            "3. Gender Reconciliation Facilitator Training, Kenya",
+            "4. Introductory Gender Reconciliation Workshop, Brisbane, Australia",
+            "5.Gender Reconciliation Facilitator Training, Columbia"
+        ],
+        "aim":"To support individuals, communities, and organizations to combine inner work of the heart with outer service in the world.",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":[
+            "1. Divine Duality, The Power of Reconciliation between Women and Men, by William Keepin",
+            "2. Women Healing Women: A Model of Hope for Oppressed Women Everywhere."
+        ],
+        "IRD_def_URL":"http://www.satyana.org/leading_new.html",
+        "old_alias":"No information",
+        "entry":"JM, 29 July 2014",
+        "general_activities":[],
+        "history":"Satyana Institute was co-founded by Will Keepin and Jed Swift in 1996. Early initiatives included leadership development for social change professionals, training programs in ecopsychology, and intensive workshops in gender reconciliation."
+    },
+    {
+        "parent_org":[
+            "Carmelites of Mary Immaculate (CMI)"
+        ],
+        "contacted":false,
+        "religious_affiliation":[
+            "Christian"
+        ],
+        "main_names":[
+            "Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore, India"
+        ],
+        "aim_URL":"http://chavarainstitute.blogspot.co.at/p/about-us.html",
+        "staff":"No information",
+        "IO_relations":[
+            "n.i"
+        ],
+        "regionfocus":[
+            "Italy",
+            "India"
+        ],
+        "languages":[
+            "Sanskrit, Hindi, Latin, German, Italian, English"
+        ],
+        "international":true,
+        "subject":[
+            "5b",
+            "5l",
+            "6.1b",
+            "6.1c",
+            "6.1h",
+            "6.1j",
+            "6.1l",
+            "6.1m",
+            "6.2b",
+            "6.2l",
+            "12b",
+            "12l"
+        ],
+        "finances":"No information",
+        "website":"http://chavarainstitute.blogspot.co.at/",
+        "acronym":"CIIS",
+        "email_gen":"arickappalil@gmail.com",
+        "IRD_activities":[],
+        "name_en":"Chavara Institute of Indian and Interreligious Studies",
+        "structure":"No information",
+        "other_relations":[
+            "Run by the Carmelites of Mary Immaculate (CMI) order, considered among the first indegenious religious congregation in India",
+            "Extension Centre of the Dharmaram Vidya Kshetram: Pontifical Athenaeum of Philosophy, Theology and Canon Law"
+        ],
+        "IRD_def":"to foster research and discussion in the fields of Interreligious dialogue and Eastern Christianity and to help people to recognize and appreciate the religious, cultural and spiritual values of the ancient religions of India aiming at a mutually enriching and meaningful encounter between the East and the West, promoting peaceful co-existence of religions and spreading the message of universal brotherhood.",
+        "events":[
+            "1.\"Chavara Lectures 2012\" by Rev. Dr.. Jose Kuriedath CMI, on \"The Challenges and Prospects of the Church in India in the 21st Century",
+            "2.Extension Lectures 2012 on \"Church's Teaching on Sexuality: Perception and Reality\" by Prof. Dr. Thomas Kalam CMI",
+            "3. Language and Yoga courses in various levels",
+            "4. Inter Religious Christmas celebration."
+        ],
+        "aim":"To foster research and discussion in the fields of Interreligious dialogue and Eastern Christianity and to help people to recognize and appreciate the religious, cultural and spiritual values of the ancient religions of India aiming at a mutually enriching and meaningful encounter between the East and the West, promoting peaceful co-existence of religions and spreading the message of universal brotherhood",
+        "org_type":[
+            "R",
+            "j"
+        ],
+        "publications":[
+            "1.Religion and Nationalism: The Urgency of Transnational Spirituality and Toleration",
+            "2.Becoming Indian: The Process of Inculturation",
+            "3.Ahimsa in the Ancient Religious Traditions of India",
+            "4.A Diaconal Approach to Indian Ecclesiology",
+            "5.Meetings of Religions: New Orientations and Perspectives"
+        ],
+        "IRD_def_URL":"http://chavarainstitute.blogspot.co.at/p/about-us.html",
+        "old_alias":[
+            "Centre for Indian and Interreligious Studies"
+        ],
+        "entry":"JM, 30 July 2014",
+        "general_activities":[],
+        "history":"Started as a response to the call of Second Vatican Council to undertake study and research of other religions with a view to enter into dialogue with them in 1977"
     }
 ]
