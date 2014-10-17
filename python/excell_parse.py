@@ -271,13 +271,25 @@ def parse(sheet, data):
 		# geocoding
 		addr = {}
 		geo = {}
-		for i in 'AddressMain Address1 Address2 Address3 Address4 Address5 Address3AndMore'.split(' '):
+		for i in 'AddressMain/Address1/Address 1/Address2/Address 2/Address3/Address 3/Address4/Address 4/Address5/Address 5/Address3AndMore'.split('/'):
 			try:
 				a = get_cell(sheet, i, row_index,lkey)
 				#import ipdb; ipdb.set_trace()#
 				if a:
 					geo = geocode(a)
 					geo['address'] = a
+					if i == 'AddressMain':
+						i = 'Address1'
+					if i == 'Address 1':
+						i = 'Address1'
+					if i == 'Address 2':
+						i = 'Address2'
+					if i == 'Address 3':
+						i = 'Address3'
+					if i == 'Address 4':
+						i = 'Address4'
+					if i == 'Address 5':
+						i = 'Address5'
 					addr[i] = geo
 			except KeyError:
 				pass
