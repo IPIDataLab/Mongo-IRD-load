@@ -275,7 +275,7 @@ def parse(sheet, data):
 			try:
 				a = get_cell(sheet, i, row_index,lkey)
 				#import ipdb; ipdb.set_trace()#
-				if a:
+				if a and a != 'No information':
 					geo = geocode(a)
 					geo['address'] = a
 					if i == 'AddressMain':

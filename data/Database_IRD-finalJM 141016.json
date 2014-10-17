@@ -219,15 +219,6 @@
                 "lat":38.2718515,
                 "lon":-85.6177891,
                 "address":"IHRF - USA\n603 Bedfordshire\nLouisville, KY 40222, USA"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.ihrf.com/projects.html",
@@ -313,18 +304,6 @@
                 "lat":-38.8233843,
                 "lon":-69.66911859999999,
                 "address":"n.i"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.universalcompassion.org/about-universal-compassion-foundation/",
@@ -383,18 +362,6 @@
                 "lat":37.8796524,
                 "lon":-122.2668066,
                 "address":"The Earthville Network\nPO Box 9232\nBerkeley CA 94709\nUSA"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://earthville.org/projects/gaia-global-alliance-for-interfaith-action/",
@@ -479,18 +446,6 @@
                 "lat":18.5555898,
                 "lon":73.9111205,
                 "address":"Secretariat for Dialogue (JSD)\nFr. Thomas Kuriakose SJ (DEL), Secretary for Dialogue (JSD) De Nobili College, Ramwadi, Pune \u2013 411 014 Maharastra, India"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.jcsaweb.org/jcsa_pages/dialogue.aspx",
@@ -680,9 +635,6 @@
                 "lat":28.560589,
                 "lon":77.1981184,
                 "address":"A-116, 2nd Floor, Arjun Nagar\nSafdarjung Enclave\nNew Delhi-110 029, India"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.mahabodhi-ladakh.org/motto-of-mimc.html",
@@ -770,15 +722,6 @@
                 "lat":48.0773768,
                 "lon":-117.139777,
                 "address":"Sravasti Abbey\nP.O. Box 447\nNewport, WA 99156\nUSA"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.sravastiabbey.com/about/index.html",
@@ -866,15 +809,6 @@
                 "lat":44.028756,
                 "lon":-123.110871,
                 "address":"Arsha Vijnana Gurukulam, 1190 W 27th Ave, Eugene, OR 97405, USA"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.arshavm.org/vision-and-mission",
@@ -949,15 +883,6 @@
                 "lat":28.5591632,
                 "lon":77.2942418,
                 "address":"\"God's Grace\", Okhla Embankment,\nNew Delhi-110025, India"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.icpindia.org/aboutus.htm",
@@ -1158,23 +1083,6 @@
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":"No information",
-        "adresses":{
-            "Address1":{
-                "address":"No information"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
-            }
-        },
         "aim_URL":"http://icf.daga.org/reports/longterm_project-a.html",
         "staff":"No information",
         "IO_relations":"No information",
@@ -1269,12 +1177,6 @@
                 "lat":12.4199122,
                 "lon":75.9519303,
                 "address":"Sera Jey Monastic University\nP.O. Bylakuppe - 571104,\nMysore District (KN)\nIndia"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.serajey.org/mission",
@@ -1346,18 +1248,6 @@
                 "lat":27.8008354,
                 "lon":-80.5022949,
                 "address":"11155 Roseland Road\nSebastian, FL 32958"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.kashi.org/wp-content/themes/kashi/docs/kashi_jan_06.pdf",
@@ -1478,18 +1368,6 @@
                 "lat":42.5769709,
                 "lon":-86.210313,
                 "address":"Mothers Trust Ashram Retreat,\nLakeshore Interfaith Community,\nRamakrishna Sarada Universal Temple,  6676 122nd Avenue\nFennville, Ganges, MI  49408, USA"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.motherstrust.org/index.htm",
@@ -1571,15 +1449,6 @@
                 "lat":23.0190813,
                 "lon":72.5517075,
                 "address":"Institute of Jainology\nB/101 Samay Apartments\nNear Azad Society, Ambawadi\nAhmedabad-380015, India"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.jainology.org/about/",
@@ -1684,18 +1553,6 @@
                 "lat":40.0537695,
                 "lon":-105.2255786,
                 "address":"Satyana Institute\nP.O. Box 17904\nBoulder, CO 80308"
-            },
-            "Address2":{
-                "address":"No information"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://www.satyana.org/about_new2.html",
@@ -1779,15 +1636,6 @@
                 "lat":12.9715987,
                 "lon":77.5945627,
                 "address":"Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore, India"
-            },
-            "Address3":{
-                "address":"No information"
-            },
-            "Address4":{
-                "address":"No information"
-            },
-            "Address5":{
-                "address":"No information"
             }
         },
         "aim_URL":"http://chavarainstitute.blogspot.co.at/p/about-us.html",
