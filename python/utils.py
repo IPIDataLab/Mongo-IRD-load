@@ -66,6 +66,8 @@ def geocode(address):
 		geocache = {}
 
 	address = address.decode("utf8")
+	if address == 'No information':
+		return {}
 
 	try:
 		return geocache[address]
@@ -95,7 +97,7 @@ def geocode(address):
 			address1 = 'Parmarth Niketan Swargashram Rishikesh, india'
 		if re.search(r'Fumon Hall.*Suginami', address1):
 			address1 = '2 Chome-6-1 Wada, Suginami-ku, Tokyo-to, Japan'
-		print address1
+		print "=> %" % address1
 		location = geolocator.geocode(address1)
 		res = { 'lat': location[1][0], 'lon': location[1][1] }
 		geocache[address] = res
