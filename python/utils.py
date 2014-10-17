@@ -83,6 +83,16 @@ def geocode(address):
 		address1 = re.sub(r'P. O. Box: 811633 Amman 11181 Jordan', 'luzmila hospital, Amman 11181 Jordan', address1)
 		if re.search(r'(150, route de Ferney|Route de Ferney 150)', address1):
 			address1 = 'Route de Ferney 150, 1202 Geneve, Suisse'
+		if re.search(r'(8 Montreal Road, Glen Anil)', address1):
+			address1 = '8 Montreal Road, Glen Anil, Durban, South Africa'
+		if re.search(r'(1004 Apartments.*Victoria Island, Lagos)', address1):
+			address1 = '1004 Apartments, Victoria Island, Lagos'
+		if re.search(r'(De Nobili College, Ramwadi, Pune)', address1):
+			address1 = 'De Nobili College, Ramwadi, Pune, India'
+		if re.search(r'(21st Km, Kanakapura Road, Udayapura, Bangalore)', address1):
+			address1 = '21st Km, Kanakapura Road, Udayapura, Bangalore, India'
+		if re.search(r'(Parmarth Niketan)', address1) and re.search(r'(Rishikesh)', address1):
+			address1 = 'Parmarth Niketan Swargashram Rishikesh, india'
 		if re.search(r'Fumon Hall.*Suginami', address1):
 			address1 = '2 Chome-6-1 Wada, Suginami-ku, Tokyo-to, Japan'
 		print address1
