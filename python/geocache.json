@@ -1,4 +1,8 @@
 {
+    "\"God's Grace\", Okhla Embankment,\nNew Delhi-110025, India": {
+        "lat": 28.5591632, 
+        "lon": 77.2942418
+    }, 
     "1 East 93rd Street, Suite 1C \n New York, NY, 10128 , USA": {
         "lat": 40.78595, 
         "lon": -73.956526
@@ -50,6 +54,10 @@
     "1101 New York Avenue, NW, Suite 901, Washington, DC 20005, USA": {
         "lat": 38.90160789999999, 
         "lon": -77.02757679999999
+    }, 
+    "11155 Roseland Road\nSebastian, FL 32958": {
+        "lat": 27.8008354, 
+        "lon": -80.5022949
     }, 
     "112 Grant Street, Madison, WI 53711, USA": {
         "lat": 43.0638042, 
@@ -519,6 +527,10 @@
         "lat": 40.7528385, 
         "lon": -73.9721412
     }, 
+    "74-15 43rd Avenue\nElmhurst, NY 11373, USA": {
+        "lat": 40.74255, 
+        "lon": -73.8901549
+    }, 
     "7422 Villanova Dr., Dallas, TX 75225, USA": {
         "lat": 32.863966, 
         "lon": -96.77933999999999
@@ -575,6 +587,10 @@
         "lat": 42.440893, 
         "lon": -76.4962498
     }, 
+    "A-116, 2nd Floor, Arjun Nagar\nSafdarjung Enclave\nNew Delhi-110 029, India": {
+        "lat": 28.560589, 
+        "lon": 77.1981184
+    }, 
     "Akademieweg 11, 73087 Boll, Germany": {
         "lat": 48.63852, 
         "lon": 9.60089
@@ -586,6 +602,14 @@
     "Al-Lazarieh Building # 27, 4th floor\nLebanese University Street (Faculty of Arts)\nFurn al-Shuback, Beirut, Lebanon": {
         "lat": 33.8886289, 
         "lon": 35.4954794
+    }, 
+    "Arsha Vijnana Gurukulam,                      \n5424 Forest Drive, Lake Park, GA 31636 USA": {
+        "lat": 30.6788, 
+        "lon": -83.2137
+    }, 
+    "Arsha Vijnana Gurukulam, 1190 W 27th Ave, Eugene, OR 97405, USA": {
+        "lat": 44.028756, 
+        "lon": -123.110871
     }, 
     "At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France": {
         "lat": 48.8460512, 
@@ -619,6 +643,14 @@
         "lat": 50.83849379999999, 
         "lon": 4.3899607
     }, 
+    "BK Brazil, Rua Dona Germaine Burchard, 589C Bairro: \u00c1gua Branca,  S\u00e3o Paulo SP 05002-062, Brazil": {
+        "lat": -23.5299898, 
+        "lon": -46.6724669
+    }, 
+    "BK Nigeria, 12 Shagamu Avenue, off Egbeyemi Road, off Association Avenue, Ilupeju, Lagos, Nigeria.": {
+        "lat": 6.5474406, 
+        "lon": 3.3638344
+    }, 
     "BP. 01-3304 R.P.": {
         "lat": -22.2085689, 
         "lon": -49.6475021
@@ -647,6 +679,10 @@
         "lat": 31.2000924, 
         "lon": 29.9187387
     }, 
+    "CISRS House\n14, Jangpura B, Mathura Road, Opp. Rajdoot Hotel, New Delhi-110014, India": {
+        "lat": 28.5815303, 
+        "lon": 77.244826
+    }, 
     "Carl-Bertelsmann-Str. 256, 33311 Guetersloh, Germany": {
         "lat": 51.90829, 
         "lon": 8.419089999999999
@@ -663,6 +699,10 @@
         "lat": 53.3625856, 
         "lon": -6.2504126
     }, 
+    "Corso Vittorio Emanuele II, 294/10, 00186 Rome, Italy": {
+        "lat": 41.8990751, 
+        "lon": 12.4669471
+    }, 
     "Cotonou": {
         "lat": 6.366667, 
         "lon": 2.433333
@@ -670,6 +710,10 @@
     "Crawford Business Park, State House Road, Nairobi, Kenya": {
         "lat": -1.2920659, 
         "lon": 36.8219462
+    }, 
+    "Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore, India": {
+        "lat": 12.9715987, 
+        "lon": 77.5945627
     }, 
     "Dr. Andrea Blanch\n520 Ralph Street,\nSarasota, FL 34242, USA": {
         "lat": 27.285193, 
@@ -719,6 +763,10 @@
         "lat": 51.5445615, 
         "lon": -0.2366707
     }, 
+    "Global Harmony House, 46 S. Middle Neck Road, Great Neck New York, 11021, USA": {
+        "lat": 40.785618, 
+        "lon": -73.725628
+    }, 
     "Global Harmony House, 46 S. Middle Neck Road, Great Neck, NY 11021, USA": {
         "lat": 40.785618, 
         "lon": -73.725628
@@ -739,13 +787,37 @@
         "lat": 50.69119999999999, 
         "lon": 7.12928
     }, 
+    "IHRF - Parmarth Niketan\nP.O. Swargashram\nRishikesh-249304 (Himalayas) India": {
+        "lat": 30.1202595, 
+        "lon": 78.3122715
+    }, 
+    "IHRF - USA\n603 Bedfordshire\nLouisville, KY 40222, USA": {
+        "lat": 38.2718515, 
+        "lon": -85.6177891
+    }, 
     "ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA": {
         "lat": 38.8915059, 
         "lon": -77.00511139999999
     }, 
+    "Institute of Jainology\nB/101 Samay Apartments\nNear Azad Society, Ambawadi\nAhmedabad-380015, India": {
+        "lat": 23.0190813, 
+        "lon": 72.5517075
+    }, 
+    "International Art of Living Center\nBad Antogast 1 77728 Oppenau, Baden-W\u00fcrttemberg, Germany": {
+        "lat": 48.4723553, 
+        "lon": 8.2222367
+    }, 
+    "International Art of Living Centre, St-Mathieu-Du-Parc, Quebec, Canada": {
+        "lat": 46.5498888, 
+        "lon": -72.9378462
+    }, 
     "International Buddhist Congregation (IBC),  5F Fumon Hall, 2-6-1 Wada, Suginami-ku, Tokyo 166-8537, Japan": {
         "lat": 35.6869618, 
         "lon": 139.6591701
+    }, 
+    "International Meditation Centre , Boone, North Carolina, USA": {
+        "lat": 36.216795, 
+        "lon": -81.6745517
     }, 
     "International Office \nWorld Communion of Reformed Churches (WCRC)\n Knochenhauerstr. 42\n 30159 Hannover\n Germany": {
         "lat": 52.3719182, 
@@ -814,6 +886,14 @@
     "Mittelweg 177, 20148 Hamburg, Germany": {
         "lat": 53.56446, 
         "lon": 9.994919999999999
+    }, 
+    "Mothers Trust Ashram Retreat,\nLakeshore Interfaith Community,\nRamakrishna Sarada Universal Temple,  6676 122nd Avenue\nFennville, Ganges, MI  49408, USA": {
+        "lat": 42.5769709, 
+        "lon": -86.210313
+    }, 
+    "National Coordinating Office, Shantivan Complex, Abu Road, Dist. Sirohi, Shantivan 307510,  Rajasthan, India.": {
+        "lat": 24.5526361, 
+        "lon": 72.81609759999999
     }, 
     "Network for Inter Faith Concerns, St Andrew's House, 16 Tavistock Crescent, London, W11 1AP, UK": {
         "lat": 51.5204912, 
@@ -907,9 +987,17 @@
         "lat": 0.313611, 
         "lon": 32.581111
     }, 
+    "P.O. Box # 4351\nSunnyside, NY 11104, USA n.i.": {
+        "lat": 40.7448741, 
+        "lon": -73.91981609999999
+    }, 
     "P.O. Box 2022, Venice, FL  34284-2022, USA": {
         "lat": 27.0999424, 
         "lon": -82.44890219999999
+    }, 
+    "P.O. Box No 22 \u2022 Leh Ladakh 194101, India": {
+        "lat": 34.1754386, 
+        "lon": 77.5849932
     }, 
     "PO Box 11339, Jerusalem 9111202, Israel": {
         "lat": 32.0809718, 
@@ -1123,9 +1211,25 @@
         "lat": 47.4076506, 
         "lon": 9.7288562
     }, 
+    "Ramakrishna Centre of South Africa, 8 Montreal Road, Glen Anil, P.O.Box 40002, RED HILL, Durban 4071 South Africa": {
+        "lat": -29.85868039999999, 
+        "lon": 31.0218404
+    }, 
+    "Ramakrishna Math & Ramakrishna Mission\nP.O. Belur Math-711202\nDist Howrah, West Bengal, India": {
+        "lat": 22.5957689, 
+        "lon": 88.26363940000002
+    }, 
     "Ramakrishna Mission, Vivekananda University, PO Belur Math, Dist Howrah, West Bengal, 711202, India": {
         "lat": 22.6322886, 
         "lon": 88.35064679999999
+    }, 
+    "Ramakrishna Vedanta Ashrama, Largo Senador Raul Cardoso, 204 Vila Clementino, 04021-070 Sao Paulo-SP, Brazil": {
+        "lat": -23.5919875, 
+        "lon": -46.6470467
+    }, 
+    "Ramakrishna-Vivekananda Centre\n17 East 94th Street\nNew York, New York  10128\nUSA": {
+        "lat": 40.78634700000001, 
+        "lon": -73.955522
     }, 
     "Rathausallee 12, 53757, St Augustin, Germany": {
         "lat": 50.77598, 
@@ -1211,9 +1315,17 @@
         "lat": 41.7804305, 
         "lon": -88.09107379999999
     }, 
+    "Satyana Institute\nP.O. Box 17904\nBoulder, CO 80308": {
+        "lat": 40.0537695, 
+        "lon": -105.2255786
+    }, 
     "Schottenring 21, 1010 Vienna, Austria": {
         "lat": 48.2164325, 
         "lon": 16.3671679
+    }, 
+    "Secretariat for Dialogue (JSD)\nFr. Thomas Kuriakose SJ (DEL), Secretary for Dialogue (JSD) De Nobili College, Ramwadi, Pune \u2013 411 014 Maharastra, India": {
+        "lat": 18.5555898, 
+        "lon": 73.9111205
     }, 
     "Secretariat, Conference of European Churches, \nRoute de Ferney 150\nPO Box 2100\nCH-1211 2, Geneva, Switzerland": {
         "lat": 46.1983922, 
@@ -1231,9 +1343,25 @@
         "lat": -23.5670833, 
         "lon": -46.6374273
     }, 
+    "Sera Jey Monastic University\nP.O. Bylakuppe - 571104,\nMysore District (KN)\nIndia": {
+        "lat": 12.4199122, 
+        "lon": 75.9519303
+    }, 
+    "Spiritual Headquarters Pandav Bhawan, Post Box No 2, Mount Abu 307501,  Rajasthan, India.": {
+        "lat": 24.5925909, 
+        "lon": 72.7156274
+    }, 
     "Spoorstraat 38, 1815 BK Alkmaar, Netherlands": {
         "lat": 52.6364972, 
         "lon": 4.743029300000001
+    }, 
+    "Sravasti Abbey\nP.O. Box 447\nNewport, WA 99156\nUSA": {
+        "lat": 48.0773768, 
+        "lon": -117.139777
+    }, 
+    "Sravasti Abbey - 692 Country Lane, Newport WA 99156 USA": {
+        "lat": 48.0773768, 
+        "lon": -117.139777
     }, 
     "Star House, 104 Grafton Road, London NW5 4BA, UK": {
         "lat": 51.5497656, 
@@ -1250,6 +1378,10 @@
     "The Chrysler Building, 405 Lexington Avenue, 5th floor, New York, NY 10174, USA": {
         "lat": 40.7517, 
         "lon": -73.97529999999999
+    }, 
+    "The Earthville Network\nPO Box 9232\nBerkeley CA 94709\nUSA": {
+        "lat": 37.8796524, 
+        "lon": -122.2668066
     }, 
     "The Lutheran World Federation\nRoute de Ferney 150,\n P.O. Box 2100\n CH-1211 Geneva 2\n Switzerland": {
         "lat": 46.22999919999999, 
@@ -1295,6 +1427,10 @@
         "lat": 40.7495516, 
         "lon": -73.9744444
     }, 
+    "Unit 18, Silicon Business Centre\n28 Wadsworth Road\nPerivale\nGreenford\nMiddlesex UB6 7JZ\nUnited Kingdom": {
+        "lat": 51.5357621, 
+        "lon": -0.3096533
+    }, 
     "United Nations Headquarters New York, NY 10017, United States": {
         "lat": 40.7488758, 
         "lon": -73.9680091
@@ -1302,6 +1438,14 @@
     "United Nations Headquarters, New York, NY 10017, USA": {
         "lat": 40.7488758, 
         "lon": -73.9680091
+    }, 
+    "Ved Vignan Maha Vidya Peeth\n21st Km, Kanakapura Road, Udayapura, Bangalore, Karnataka 560 082, India": {
+        "lat": 12.9715987, 
+        "lon": 77.5945627
+    }, 
+    "Vedanta Gesellschaft, Pestalozzistrasse 2, 63165 Muehlheim (Main) Germany": {
+        "lat": 50.122879, 
+        "lon": 8.844814399999999
     }, 
     "Via Vasari 6, 20135 Milano, Italia": {
         "lat": 45.45251810000001, 
@@ -1318,6 +1462,10 @@
     "Via di Frascati, 306\n00040 Rocca di Papa, Rome, Italy": {
         "lat": 41.766203, 
         "lon": 12.711415
+    }, 
+    "Victoria Island C5-201, 1004 Apartments, Victoria Island, Lagos, Nigeria; and other places (operates in 152 countries)": {
+        "lat": 6.4390202, 
+        "lon": 3.4344459
     }, 
     "Waaggasse, 1040 Vienna": {
         "lat": 48.1951683, 
@@ -1370,6 +1518,10 @@
     "c/o St Joseph\u2019s Church, 143 Victoria Street, Singapore 188020": {
         "lat": 1.298356, 
         "lon": 103.85315
+    }, 
+    "n.i": {
+        "lat": -38.8233843, 
+        "lon": -69.66911859999999
     }, 
     "s-Gravenweg 400, 2905 LC Capelle aan den IJssel, Netherlands": {
         "lat": 51.9452106, 
