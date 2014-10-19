@@ -70,7 +70,8 @@ def geocode(address):
 		return {}
 
 	try:
-		return geocache[address]
+		res = geocache[address]
+		return res
 	except KeyError:
 		pass
 
@@ -97,9 +98,10 @@ def geocode(address):
 			address1 = 'Parmarth Niketan Swargashram Rishikesh, india'
 		if re.search(r'Fumon Hall.*Suginami', address1):
 			address1 = '2 Chome-6-1 Wada, Suginami-ku, Tokyo-to, Japan'
-		print "=> %" % address1
+		print "=> %s" % address1
 		location = geolocator.geocode(address1)
-		res = { 'lat': location[1][0], 'lon': location[1][1] }
+		print "== %s" % location.address
+		res = { 'lat': location.latitude, 'lon': location.longitude, 'normalized': location.address }
 		geocache[address] = res
 		with open('geocache.json', 'w') as outfile:
 			json.dump(geocache, outfile, sort_keys = True, indent = 4, ensure_ascii=True)

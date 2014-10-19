@@ -12,6 +12,7 @@
             "Address1":{
                 "lat":39.959912,
                 "lon":116.298056,
+                "normalized":"Haidian, Beijing, China",
                 "address":"Philosophy and Religious School, Minzu University of China, No.27 Zhongguancun South Street, Haidian, Beijing, China"
             }
         },
@@ -87,6 +88,7 @@
             "Address1":{
                 "lat":22.396428,
                 "lon":114.109497,
+                "normalized":"Hong Kong",
                 "address":"33 Tao Fong Shan Road, Shatin, Hong Kong, China, Hong Kong Special Administrative Region"
             }
         },
@@ -205,26 +207,31 @@
             "Address1":{
                 "lat":32.0518076,
                 "lon":76.6895485,
+                "normalized":"Palpung Sherabling Monastery, Sansal - Palpung Sherabling Monastery Road, Keori, Himachal Pradesh 176125, India",
                 "address":"Palpung Sherabling Monastery, Sansal - Palpung Sherabling Monastery Rd, Keori, Himachal Pradesh 176125, India"
             },
             "Address2":{
                 "lat":31.441711,
                 "lon":98.83416799999999,
+                "normalized":"Dege Babangxiang Forestry Studio, Dege, Garze, Sichuan, China",
                 "address":"Babangxiang, Dege, Garze, Sichuan,  627253, China"
             },
             "Address3":{
                 "lat":48.20583380000001,
                 "lon":16.1930878,
+                "normalized":"Wiener Street 33, 3002 Purkersdorf, Austria",
                 "address":"Palpung Yeshe Ch\u00f6ling Europe, Wiener Stra\u00dfe 33, 3002 Purkersdorf, Austria"
             },
             "Address4":{
                 "lat":37.329019,
                 "lon":-121.822646,
+                "normalized":"2175 Santiago Avenue, San Jose, CA 95122, USA",
                 "address":"2175 Santiago Ave, San Jose, CA 95122, USA"
             },
             "Address5":{
                 "lat":-41.420767,
                 "lon":147.137179,
+                "normalized":"13-15 Bryan Street, Invermay TAS 7248, Australia",
                 "address":"13-15 Bryan St, Launceston, TAS 7248, Australia"
             }
         },
@@ -316,26 +323,31 @@
             "Address1":{
                 "lat":35.6868248,
                 "lon":139.7195924,
+                "normalized":"Samoncho, Shinjuku, Tokyo 160-0017, Japan",
                 "address":"SGI Headquarters, Josei Toda International Center, 15-3 Samon-cho, Shinjuku-ku, Tokyo, 160-0017, Japan"
             },
             "Address2":{
                 "lat":49.96868,
                 "lon":7.925719999999998,
+                "normalized":"Mainzer Stra\u00dfe 184, 55411 Bingen, Germany",
                 "address":"SGI-D Kulturzentrum Villa Sachsen, Mainzerstra\u00dfe 184, 55411 Bingen, Deutschland"
             },
             "Address3":{
                 "lat":-23.5670833,
                 "lon":-46.6374273,
+                "normalized":"Rua Tamandar\u00e9, 1007 - Liberdade, S\u00e3o Paulo - State of S\u00e3o Paulo, 01525-001, Brazil",
                 "address":"Sede Central da BSGI, Rua Tamandar\u00e9, 1007, Liberdade, S\u00e3o Paulo, SP, 01525-001, Brasil"
             },
             "Address4":{
                 "lat":34.0208086,
                 "lon":-118.4958896,
+                "normalized":"606 Wilshire Boulevard, Santa Monica, CA 90401, USA",
                 "address":"SGI-USA Visitor Center, 606 Wilshire Blvd., Santa Monica, CA 90401, USA"
             },
             "Address5":{
                 "lat":-33.845505,
                 "lon":151.072985,
+                "normalized":"3 Parkview Drive, Sydney Olympic Park NSW 2127, Australia",
                 "address":"SGI Australia Culture Center, 3 Parkview Drive, Sydney Olympic Park, NSW 2127, Australia"
             }
         },
@@ -511,6 +523,7 @@
             "Address1":{
                 "lat":41.766203,
                 "lon":12.711415,
+                "normalized":"Via Frascati, 306, 00040 Rocca di Papa Rome, Italy",
                 "address":"Via di Frascati, 306\n00040 Rocca di Papa, Rome, Italy"
             }
         },
@@ -647,6 +660,7 @@
             "Address1":{
                 "lat":59.9172752,
                 "lon":10.742447,
+                "normalized":"Bernhard Getz' gate 3, 0165 Oslo, Norway",
                 "address":"Bernhard Getz' gate 3, 0165 Oslo, Norway"
             }
         },
@@ -804,6 +818,7 @@
             "Address1":{
                 "lat":40.8108221,
                 "lon":-73.9639856,
+                "normalized":"475 Riverside Drive #248, Columbia University, New York, NY 10115, USA",
                 "address":"475 Riverside Drive - Suite 248, New York, NY 10115, USA"
             }
         },
@@ -939,26 +954,31 @@
             "Address1":{
                 "lat":35.6869618,
                 "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
                 "address":"Rissho Kosei-kai International, 5F Fumon Hall, 2-6-1 Wada, Suginami-ku, Tokyo 166-8537, Japan"
             },
             "Address2":{
                 "lat":35.6869618,
                 "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
                 "address":"International Buddhist Congregation (IBC),  5F Fumon Hall, 2-6-1 Wada, Suginami-ku, Tokyo 166-8537, Japan"
             },
             "Address3":{
                 "lat":34.0426229,
                 "lon":-118.2054054,
+                "normalized":"2707 East 1st Street, Los Angeles, CA 90033, USA",
                 "address":"Rissho Kosei-kai International of North America, 2707 East First Street, Los Angeles, CA 90033, U.S.A."
             },
             "Address4":{
-                "lat":41.9024194,
-                "lon":12.4956069,
+                "lat":41.902198,
+                "lon":12.4948682,
+                "normalized":"Italy, Rome, Via Torino, Rissho Kosei-kai di Roma",
                 "address":"Rissho Kosei-kai di Roma, Via Torino, 29-00184 Roma, Italia"
             },
             "Address5":{
                 "lat":35.6869618,
                 "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
                 "address":"Rissho Kosei-kai of South Asia Division, 5F Fumon Hall, 2-6-1 Wada, Suginami, Tokyo, 166-8537, Japan"
             }
         },
@@ -1157,6 +1177,7 @@
             "Address1":{
                 "lat":42.440893,
                 "lon":-76.4962498,
+                "normalized":"Ithaca, NY 14851, USA",
                 "address":"A NETWORK FOR GRATEFUL LIVING, P.O. BOX 6748, Ithaca, NY 14851-6748, USA"
             }
         },
@@ -1244,6 +1265,7 @@
             "Address1":{
                 "lat":38.9491966,
                 "lon":-90.3478718,
+                "normalized":"1 Front Gate Road, Elsah, IL 62028, USA",
                 "address":"Euphrates Institute, Principia College, 1 Maybeck Place, Elsah, IL 62028, USA"
             }
         },
@@ -1371,6 +1393,7 @@
             "Address1":{
                 "lat":42.3413479,
                 "lon":-72.519984,
+                "normalized":"447 West Street, Amherst, MA 01002, USA",
                 "address":"447 West Street\nAmherst, MA 01002, USA"
             }
         },
@@ -1523,26 +1546,31 @@
             "Address1":{
                 "lat":50.8503396,
                 "lon":4.3517103,
+                "normalized":"Brussels, Belgium",
                 "address":"Pax Christi International, \nRue du Vieux March\u00e9 aux Grains 21,\nB1000 Brussels, Belgium"
             },
             "Address2":{
                 "lat":43.7122716,
                 "lon":11.2194291,
+                "normalized":"Tavarnuzze Florence, Italy",
                 "address":"Pax Christi Italia\nvia Quintole per le Rose 131,\n50029, Tavarnuzze, (Firenze), Italy"
             },
             "Address3":{
                 "lat":38.934287,
                 "lon":-76.98988,
+                "normalized":"1225 Otis Street Northeast, Washington, DC 20017, USA",
                 "address":"Pax Christi USA, National Catholic Peace Movement, 1225 Otis Street, NE, Washington, DC 20017, USA"
             },
             "Address4":{
                 "lat":-33.8674869,
                 "lon":151.2069902,
+                "normalized":"Sydney NSW, Australia",
                 "address":"Pax Christi Australia\nPO Box A681\nSydney NSW\nAustralia"
             },
             "Address5":{
                 "lat":10.2925609,
                 "lon":123.0246518,
+                "normalized":"Negros Occidental, Philippines",
                 "address":"Pax Christi Philippines\nRosal corner Tapulanga Sts. \nEspinos Village Phase II\nBacolod City, 6100\nNegros Occidental, Philippines"
             }
         },
@@ -1798,6 +1826,7 @@
             "Address1":{
                 "lat":38.900936,
                 "lon":-77.041229,
+                "normalized":"1776 I Street Northwest, Washington, DC 20006, USA",
                 "address":"1776 I Street NW, 9th Floor\n Washington DC, 20006 USA"
             }
         },
@@ -1919,6 +1948,7 @@
             "Address1":{
                 "lat":55.724779,
                 "lon":12.572262,
+                "normalized":"Strandagervej 24, 2900 Hellerup, Denmark",
                 "address":"Strandagervej 24,\n2900 Hellerup, Denmark"
             }
         },
@@ -2016,6 +2046,7 @@
             "Address1":{
                 "lat":33.8886289,
                 "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
                 "address":"Al-Lazarieh Building # 27, 4th floor\nLebanese University Street (Faculty of Arts)\nFurn al-Shuback, Beirut, Lebanon"
             }
         },
@@ -2140,26 +2171,31 @@
             "Address1":{
                 "lat":52.50810999999999,
                 "lon":13.35232,
+                "normalized":"Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin, Germany",
                 "address":"Konrad-Adenauer-Stiftung e.V \nKlingelh\u00f6ferstra\u00dfe 23 \n10785 Berlin \nGermany"
             },
             "Address2":{
                 "lat":50.77598,
                 "lon":7.18601,
+                "normalized":"Rathausallee 12, 53757 Sankt Augustin, Germany",
                 "address":"Konrad-Adenauer-Stiftung e.V \nRathausallee 12 \n53757 Sankt Augustin \nGermany"
             },
             "Address3":{
                 "lat":38.910607,
                 "lon":-77.045183,
+                "normalized":"2005 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
                 "address":"Konrad-Adenauer-Stiftung, \nAuslandsb\u00fcro Washington\n2005 Massachusetts Avenue NW\nWashington, D.C. 20036\nUSA"
             },
             "Address4":{
                 "lat":1.2794757,
                 "lon":103.8408522,
+                "normalized":"34 Bukit Pasoh Road, Singapore 089848",
                 "address":"Konrad-Adenauer-Stiftung,\nRegional Programme Political Dialogue Asia/Singapore\n34-36 Bukit Pasoh Rd. \nSingapore 089848"
             },
             "Address5":{
                 "lat":6.366667,
                 "lon":2.433333,
+                "normalized":"Cotonou, Benin",
                 "address":"Konrad-Adenauer-Stiftung,\nRegionalprogramm Politischer Dialog Westafrika\nLes Cocotiers \nBP. 01-3304 R.P. \nCotonou \nBenin"
             }
         },
@@ -2317,11 +2353,13 @@
             "Address1":{
                 "lat":52.3719182,
                 "lon":9.7339332,
+                "normalized":"Knochenhauerstra\u00dfe 42, 30159 Hanover, Germany",
                 "address":"International Office \nWorld Communion of Reformed Churches (WCRC)\n Knochenhauerstr. 42\n 30159 Hannover\n Germany"
             },
             "Address2":{
                 "lat":42.9113063,
                 "lon":-85.6249517,
+                "normalized":"1700 28th Street Southeast, Grand Rapids, MI 49508, USA",
                 "address":"US Office\nWorld Communion of Reformed Churches (WCRC)\n1700 28th Street SE\nGrand Rapids, MI 49508-1407\nUSA"
             }
         },
@@ -2466,11 +2504,13 @@
             "Address1":{
                 "lat":46.2289501,
                 "lon":6.1273244,
+                "normalized":"Route de Ferney 150, 1218 Grand-Saconnex, Switzerland",
                 "address":"Ecumenical Centre,\n150 route de Ferney,\n1218 Geneva, Switzerland"
             },
             "Address2":{
                 "lat":40.7531228,
                 "lon":-73.9677495,
+                "normalized":"100 United Nation Plaza, 100 United Nations Plaza, Manhattan, NY 10017, USA",
                 "address":"UN Liaison Office for the World Council of Churches,\n777 United Nations Plaza, 9D, 10017, New York, NY, USA"
             }
         },
@@ -2606,21 +2646,25 @@
             "Address1":{
                 "lat":29.2985278,
                 "lon":42.5509603,
+                "normalized":"Middle East",
                 "address":"The Middle East Council of Churches, Makhoul Street, Deeb Building  \nP.O.Box5376 Beirut, Lebanon"
             },
             "Address2":{
                 "lat":29.2985278,
                 "lon":42.5509603,
+                "normalized":"Middle East",
                 "address":"The Middle East Council of Churches, P.O.Box   2238\nEl Horriya,  Heliopolis,Cairo, Egypt"
             },
             "Address3":{
                 "lat":29.2985278,
                 "lon":42.5509603,
+                "normalized":"Middle East",
                 "address":"The Middle East Council of Churches, P.O.Box 54259 \n3722 Limassol, Cyprus"
             },
             "Address4":{
                 "lat":33.513,
                 "lon":36.292,
+                "normalized":"Damascus, Syria",
                 "address":"MECC Liaison, P.O.Box 4889\nQuosr Khateeb, Jaddat Kendy, Farah Bldg.\nDamascus, Syria"
             },
             "Address5":{
@@ -2740,8 +2784,9 @@
         ],
         "adresses":{
             "Address1":{
-                "lat":46.1983922,
-                "lon":6.142296099999999,
+                "lat":46.22999919999999,
+                "lon":6.1287185,
+                "normalized":"Route de Ferney 150, 1202 Geneva, Switzerland",
                 "address":"Secretariat, Conference of European Churches, \nRoute de Ferney 150\nPO Box 2100\nCH-1211 2, Geneva, Switzerland"
             }
         },
@@ -2828,6 +2873,7 @@
             "Address1":{
                 "lat":31.9551425,
                 "lon":35.9305618,
+                "normalized":"Luzmila Hospital, Jordan",
                 "address":"P. O. Box: 811633 Amman 11181 Jordan"
             }
         },
@@ -2946,6 +2992,7 @@
             "Address1":{
                 "lat":46.22999919999999,
                 "lon":6.1287185,
+                "normalized":"Route de Ferney 150, 1202 Geneva, Switzerland",
                 "address":"The Lutheran World Federation\nRoute de Ferney 150,\n P.O. Box 2100\n CH-1211 Geneva 2\n Switzerland"
             }
         },

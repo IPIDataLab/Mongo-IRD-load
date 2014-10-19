@@ -6,6 +6,7 @@
             "Address1":{
                 "lat":48.2164325,
                 "lon":16.3671679,
+                "normalized":"Schottenring 21, 1010 Vienna, Austria",
                 "address":"Schottenring 21, 1010 Vienna, Austria"
             }
         },
@@ -86,8 +87,9 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":40.7517,
-                "lon":-73.97529999999999,
+                "lat":40.7516525,
+                "lon":-73.9753107,
+                "normalized":"Chrysler Building, 405 Lexington Avenue, New York, NY 10174, USA",
                 "address":"The Chrysler Building, 405 Lexington Avenue, 5th floor, New York, NY 10174, USA"
             }
         },
@@ -268,6 +270,7 @@
             "Address1":{
                 "lat":41.8861277,
                 "lon":-87.62555979999999,
+                "normalized":"70 East Lake Street #205, Chicago, IL 60601, USA",
                 "address":"70 East Lake Street, Suite 205, Chicago, IL 60601, USA"
             }
         },
@@ -515,26 +518,31 @@
             "Address1":{
                 "lat":31.7685734,
                 "lon":35.21502,
+                "normalized":"Chopin Street, Jerusalem, Israel",
                 "address":"PO Box 4069, Chopin St., Jerusalem 91040, Israel"
             },
             "Address2":{
                 "lat":32.863966,
                 "lon":-96.77933999999999,
+                "normalized":"7422 Villanova Street, Dallas, TX 75225, USA",
                 "address":"7422 Villanova Dr., Dallas, TX 75225, USA"
             },
             "Address3":{
                 "lat":45.506407,
                 "lon":-73.577006,
+                "normalized":"3520 University Street, McGill University, Montreal, QC H3A 2A7, Canada",
                 "address":"Faculty of Religious Studies, McGill University, 3520 University St., Montreal, QC, H3A 2A7, Canada"
             },
             "Address4":{
                 "lat":51.5617824,
                 "lon":0.1167844,
+                "normalized":"Colinton Road, Ilford, Ilford, Greater London IG3, UK",
                 "address":"32 Colinton Road, Ilford, Essex, IG3 9RB, UK"
             },
             "Address5":{
                 "lat":22.6322886,
                 "lon":88.35064679999999,
+                "normalized":"West Bengal 711202, India",
                 "address":"Ramakrishna Mission, Vivekananda University, PO Belur Math, Dist Howrah, West Bengal, 711202, India"
             }
         },
@@ -666,6 +674,7 @@
             "Address1":{
                 "lat":47.3779086,
                 "lon":8.5541042,
+                "normalized":"Voltastrasse 27, 8044 Zurich, Switzerland",
                 "address":"Secretariat, Voltastr. 27, 8044 Zurich, Switzerland"
             }
         },
@@ -747,6 +756,7 @@
             "Address1":{
                 "lat":31.768319,
                 "lon":35.21371,
+                "normalized":"Jerusalem, Israel",
                 "address":"PO Box 3814, Jerusalem 91037, Israel"
             }
         },
@@ -899,6 +909,7 @@
             "Address1":{
                 "lat":49.6403,
                 "lon":8.64481,
+                "normalized":"Martin-Buber-Schule, Graeff Street 2, 64646 Heppenheim, Germany",
                 "address":"Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany"
             }
         },
@@ -1012,6 +1023,7 @@
             "Address1":{
                 "lat":38.90943,
                 "lon":-77.0242971,
+                "normalized":"1426 9th Street Northwest, Washington, DC 20001, USA",
                 "address":"1426 9th Street NW, 2nd Floor, Washington, DC 20001-3330, USA"
             }
         },
@@ -1172,6 +1184,7 @@
             "Address1":{
                 "lat":51.5497656,
                 "lon":-0.1483709,
+                "normalized":"Star House, 104 Grafton Road, Lower Belsize Park, London NW5 4BA, UK",
                 "address":"Star House, 104 Grafton Road, London NW5 4BA, UK"
             }
         },
@@ -1294,6 +1307,7 @@
             "Address1":{
                 "lat":31.98344,
                 "lon":35.92783,
+                "normalized":"amman, Amman 00962, Jordan",
                 "address":"PO Box 830562, Amman 11183, Jordan"
             }
         },
@@ -1407,11 +1421,13 @@
             "Address1":{
                 "lat":46.2116485,
                 "lon":6.1386211,
+                "normalized":"Rue des Grottes 32, 1201 Geneva, Switzerland",
                 "address":"32 rue des Grottes, 1201 Geneva, Switzerland"
             },
             "Address2":{
                 "lat":31.7776563,
                 "lon":35.2324593,
+                "normalized":"Old City, Jerusalem",
                 "address":"Old City, PO Box 14359, 91142 Jerusalem, Israel"
             }
         },
@@ -1501,6 +1517,7 @@
             "Address1":{
                 "lat":41.2709274,
                 "lon":-73.7776336,
+                "normalized":"Yorktown Heights, NY, USA",
                 "address":"PO Box 316, Yorktown Heights, NY 10598, USA"
             }
         },
@@ -1565,11 +1582,13 @@
             "Address1":{
                 "lat":40.7501387,
                 "lon":-73.96924980000001,
+                "normalized":"777 United Nations Plaza, New York, NY 10017, USA",
                 "address":"777 United Nations Plaza, 9th Floor, New York, NY, USA"
             },
             "Address2":{
                 "lat":51.656489,
                 "lon":-0.39032,
+                "normalized":"Watford, Hertfordshire, UK",
                 "address":"7 Grange Road, Bushey, WD2 2LQ, Watford, UK"
             }
         },
@@ -1752,6 +1771,7 @@
             "Address1":{
                 "lat":40.747093,
                 "lon":-73.992442,
+                "normalized":"145 West 28th Street, New York, NY 10001, USA",
                 "address":"145 W 28th St., 11th Floor, New York, NY, USA"
             }
         },
@@ -1860,13 +1880,15 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":37.8005663,
-                "lon":-122.4513534,
+                "lat":37.8005478,
+                "lon":-122.4513073,
+                "normalized":"1009 General Kennedy Avenue, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
                 "address":"1009 General Kennedy Ave., San Francisco, CA 94129, USA"
             },
             "Address2":{
                 "lat":37.793323,
                 "lon":-122.4665384,
+                "normalized":"San Francisco, CA 94129, USA",
                 "address":"PO Box 29242, San Francisco, CA 94129, USA"
             }
         },
@@ -2059,6 +2081,7 @@
             "Address1":{
                 "lat":39.4839351,
                 "lon":-77.4472495,
+                "normalized":"Frederick, MD 21702, USA",
                 "address":"PO Box 1976, Frederick, MD 21702, USA"
             }
         },
@@ -2145,6 +2168,7 @@
             "Address1":{
                 "lat":38.89,
                 "lon":-77.0699999,
+                "normalized":"Arlington, VA 22219, USA",
                 "address":"PO Box 12205, Arlington, VA 22219-2205, USA"
             }
         },
@@ -2268,6 +2292,7 @@
             "Address1":{
                 "lat":38.930649,
                 "lon":-77.0727598,
+                "normalized":"3101 Wisconsin Avenue Northwest, Washington, DC 20016, USA",
                 "address":"3101 Wisconsin Ave. NW, Washington, DC 20016-5098, USA"
             }
         },
@@ -2375,11 +2400,13 @@
             "Address1":{
                 "lat":38.9046452,
                 "lon":-77.0618952,
+                "normalized":"1054 31st Street Northwest #330, Washington, DC 20007, USA",
                 "address":"1054 31st Street NW, Suite 330, Washington, DC 20007, USA"
             },
             "Address2":{
                 "lat":51.5146518,
                 "lon":-0.1222661,
+                "normalized":"90 Long Acre, London WC2E 9RZ, UK",
                 "address":"90 Long Acre, Covent Garden, London, WC2E9RZ, UK"
             }
         },
@@ -2527,6 +2554,7 @@
             "Address1":{
                 "lat":33.8886289,
                 "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
                 "address":"Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon"
             }
         },
@@ -2704,6 +2732,7 @@
             "Address1":{
                 "lat":40.7528385,
                 "lon":-73.9721412,
+                "normalized":"733 3rd Avenue #1700, New York, NY 10017, USA",
                 "address":"733 Third Avenue, Suite 1700, New York, NY 10017, USA"
             }
         },
@@ -2803,6 +2832,7 @@
             "Address1":{
                 "lat":38.9156487,
                 "lon":-77.0737149,
+                "normalized":"Washington, DC 20007, USA",
                 "address":"Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA"
             }
         },
@@ -2964,6 +2994,7 @@
             "Address1":{
                 "lat":38.9156487,
                 "lon":-77.0737149,
+                "normalized":"Washington, DC 20007, USA",
                 "address":"Berkeley Ctr - Georgetown U, 3307 M St, Ste 200, 20007, Washington, DC, USA"
             }
         },
@@ -3336,6 +3367,7 @@
             "Address1":{
                 "lat":53.56446,
                 "lon":9.994919999999999,
+                "normalized":"Mittelweg 177, 20148 Hamburg, Germany",
                 "address":"Mittelweg 177, 20148 Hamburg, Germany"
             }
         },
@@ -3497,21 +3529,25 @@
             "Address1":{
                 "lat":51.90829,
                 "lon":8.419089999999999,
+                "normalized":"Carl-Bertelsmann-Stra\u00dfe 256, 33335 G\u00fctersloh, Germany",
                 "address":"Carl-Bertelsmann-Str. 256, 33311 Guetersloh, Germany"
             },
             "Address2":{
                 "lat":38.90160789999999,
                 "lon":-77.02757679999999,
+                "normalized":"1101 New York Avenue Northwest #901, Washington, DC 20005, USA",
                 "address":"1101 New York Avenue, NW, Suite 901, Washington, DC 20005, USA"
             },
             "Address3":{
                 "lat":50.83323180000001,
                 "lon":4.396965799999999,
+                "normalized":"1040, Belgium",
                 "address":"R\u00e9sidence Palace, Rue de la Loi 155, 1040 Brussels, Belgium"
             },
             "Address4":{
                 "lat":41.3957876,
                 "lon":2.1489369,
+                "normalized":"Travessera de Gr\u00e0cia, 47, 08021 Barcelona, Barcelona, Spain",
                 "address":"Travessera de Gr\u00e0cia, 47-49, 08021 Barcelona, Spain"
             }
         },
@@ -3669,21 +3705,25 @@
             "Address1":{
                 "lat":51.5127783,
                 "lon":-0.113308,
+                "normalized":"1-6 Essex Street, London WC2R 3HY, UK",
                 "address":"1-6 Essex Street, London WC2R 3HY, UK"
             },
             "Address2":{
                 "lat":40.7542123,
                 "lon":-73.9800242,
+                "normalized":"521 5th Avenue #1730, New York, NY 10175, USA",
                 "address":"Orlanda Brugnola, 521 Fifth Ave, Suite 1730, New York, NY 10175, USA"
             },
             "Address3":{
                 "lat":52.10694909999999,
                 "lon":5.1848184,
+                "normalized":"Meidoornpad 95, 3732 VS De Bilt, The Netherlands",
                 "address":"Wytske Dijkstra, Meidoornpad 95, 3732 VS De Bilt, Netherlands"
             },
             "Address4":{
                 "lat":9.2669096,
                 "lon":76.7466378,
+                "normalized":"Kerala 689652, India",
                 "address":"SEEDS-INDIA Building, Punnakadu P.O., Kozhencherry, Pathanamthitta, Kerala, 689652, India"
             }
         },
@@ -3821,6 +3861,7 @@
             "Address1":{
                 "lat":40.872186,
                 "lon":-73.643973,
+                "normalized":"50 Harwood Drive East, Glen Cove, NY 11542, USA",
                 "address":"50 Harwood Dr. East, Glen Cove, NY 11542, USA"
             }
         },
@@ -3905,16 +3946,19 @@
             "Address1":{
                 "lat":31.7959303,
                 "lon":35.2330962,
+                "normalized":"Clermont-Ganneau Street 5, Jerusalem",
                 "address":"5 Clermont Ganneau, Jerusalem, Israel"
             },
             "Address2":{
                 "lat":36.001635,
                 "lon":-78.9266632,
+                "normalized":"505 Alexander Avenue, Duke University: Office of Undergraduate Admissions, Durham, NC 27705, USA",
                 "address":"505 Alexander Ave, Durham, NC 27705, USA"
             },
             "Address3":{
                 "lat":29.7484861,
                 "lon":-95.4699173,
+                "normalized":"Houston, TX 77056, USA",
                 "address":"Finance Office, 3300 Chimney Rock, Suite 301, Houston, TX 77056, USA"
             }
         },
@@ -3989,6 +4033,7 @@
             "Address1":{
                 "lat":40.7501387,
                 "lon":-73.96924980000001,
+                "normalized":"777 United Nations Plaza #3e, New York, NY 10017, USA",
                 "address":"777 United Nations Plaza, Office 3E, New York, NY 10017, USA"
             }
         },
@@ -4116,13 +4161,15 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":46.2095516,
-                "lon":6.1450463,
+                "lat":46.2149241,
+                "lon":6.1509196,
+                "normalized":"Rue des P\u00e2quis 52, 1201 Geneva, Switzerland",
                 "address":"Palais Wilson, 52 rue des P\u00e2quis, 1201 Geneva, Switzerland"
             },
             "Address2":{
                 "lat":40.7488758,
                 "lon":-73.9680091,
+                "normalized":"United Nations Headquarters, New York, NY 10017, USA",
                 "address":"United Nations Headquarters, New York, NY 10017, USA"
             }
         },
@@ -4206,6 +4253,7 @@
             "Address1":{
                 "lat":38.809811,
                 "lon":-77.0462258,
+                "normalized":"500 North Washington Street, Alexandria, VA 22314, USA",
                 "address":"500 North Washington Street, Alexandria, VA 22314, USA"
             }
         },
@@ -4304,6 +4352,7 @@
             "Address1":{
                 "lat":31.768319,
                 "lon":35.21371,
+                "normalized":"Jerusalem, Israel",
                 "address":"PO Box 49411, Jerusalem 91491, Israel"
             }
         },
@@ -4402,11 +4451,13 @@
             "Address1":{
                 "lat":38.9113694,
                 "lon":-77.044052,
+                "normalized":"1601 Connecticut Avenue Northwest, Washington, DC 20009, USA",
                 "address":"1601 Connecticut Avenue NW, Washington, DC 20009, USA"
             },
             "Address2":{
                 "lat":50.83323180000001,
                 "lon":4.396965799999999,
+                "normalized":"1040, Belgium",
                 "address":"Rue Belliard 205 bte 13, Brussels 1040, Belgium"
             }
         },
@@ -4814,28 +4865,33 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":29.6551608,
-                "lon":-95.5465995,
+                "lat":29.6546093,
+                "lon":-95.54611790000001,
+                "normalized":"9301 West Bellfort Avenue, Houston, TX 77031, USA",
                 "address":"9301 W. Bellfort Ave., Houston, TX 77031, USA"
             },
             "Address2":{
                 "lat":30.4211909,
                 "lon":-97.71683310000002,
+                "normalized":"12400 Amherst Drive #108, Austin, TX 78727, USA",
                 "address":"12400 Amherst Dr. #108, Austin, TX 78727, USA"
             },
             "Address3":{
                 "lat":31.7497645,
                 "lon":-106.3391698,
+                "normalized":"10767 Gateway Boulevard West #610, El Paso, TX 79935, USA",
                 "address":"10767 Gateway West Blvd. Suite: 610 , El Paso, TX 79935, USA"
             },
             "Address4":{
                 "lat":32.9671793,
                 "lon":-96.69791599999999,
+                "normalized":"1416 East Collins Boulevard, Richardson, TX 75081, USA",
                 "address":"1416 E Collins Blvd, Dallas, TX 75081, USA"
             },
             "Address5":{
                 "lat":36.046898,
                 "lon":-95.84554899999999,
+                "normalized":"4444 West Houston Street, Broken Arrow, OK 74012, USA",
                 "address":"4444 W.Houston St., Tulsa, OK 74012, USA"
             }
         },
@@ -4950,6 +5006,7 @@
             "Address1":{
                 "lat":25.286667,
                 "lon":51.533333,
+                "normalized":"Doha, Qatar",
                 "address":"PO Box 19309, Doha, Qatar"
             }
         },
@@ -5057,11 +5114,13 @@
             "Address1":{
                 "lat":50.8430089,
                 "lon":-0.1513487,
+                "normalized":"199 Preston Road, Brighton, The City of Brighton and Hove BN1 6SA, UK",
                 "address":"199, Preston Road, Brighton, East Sussex, BN1 6SA, UK"
             },
             "Address2":{
                 "lat":48.8718722,
                 "lon":2.3176432,
+                "normalized":"75008 Paris, France",
                 "address":"26 Boulevard Malesherbes, 3eme \u00e9tage, F-75008, Paris, France"
             }
         },
@@ -5195,11 +5254,13 @@
             "Address1":{
                 "lat":51.007591,
                 "lon":-0.93899,
+                "normalized":"Petersfield, Petersfield, Hampshire, UK",
                 "address":"102 Church Rd, Steep, BU32 2DD, Petersfield, UK"
             },
             "Address2":{
                 "lat":51.6592817,
                 "lon":-1.2110836,
+                "normalized":"17 Courtiers Green, Clifton Hampden, Abingdon, Oxfordshire OX14 3EN, UK",
                 "address":"17 Courtiers Green, Clifton Hampden, OX14 3EN, Abingdon, UK"
             }
         },
@@ -5320,6 +5381,7 @@
             "Address1":{
                 "lat":27.0079152,
                 "lon":49.5891819,
+                "normalized":"Jeddah, Al Jubail Saudi Arabia",
                 "address":"PO Box 34128, 21468 Jeddah, Saudi Arabia"
             }
         },
@@ -5414,6 +5476,7 @@
             "Address1":{
                 "lat":3.1003096,
                 "lon":101.6445511,
+                "normalized":"Jalan Sultan, Petaling Jaya, Selangor, Malaysia",
                 "address":"PO Box 288, Jalan Sultan, 46730 Petaling Jaya, Malaysia"
             }
         },
@@ -5515,6 +5578,7 @@
             "Address1":{
                 "lat":40.7418041,
                 "lon":-73.922322,
+                "normalized":"42-09 47th Avenue #4k, Sunnyside, NY 11104, USA",
                 "address":"42-09 47th Avenue, Suite 4K, Sunnyside, NY 11104, USA"
             }
         },
@@ -5614,6 +5678,7 @@
             "Address1":{
                 "lat":45.965665,
                 "lon":8.589967,
+                "normalized":"Via Zara, 20, 28813 Albagnano Verbano-Cusio-Ossola, Italy",
                 "address":"Via Zara 20, 28813 Albagnano di Bee, Italy"
             }
         },
@@ -5731,26 +5796,31 @@
             "Address1":{
                 "lat":33.8886289,
                 "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
                 "address":"PO Box 5376, Makhoul Street, Deeb Building, Beirut, Lebanon"
             },
             "Address2":{
-                "lat":30.0875531,
-                "lon":31.34153809999999,
+                "lat":30.0877882,
+                "lon":31.3418872,
+                "normalized":"El-Horeya, Almazah, Heliopolis, Cairo Governorate, Egypt",
                 "address":"PO Box 2238, El Horriya, Heliopolis, Cairo, Egypt"
             },
             "Address3":{
                 "lat":35.1489362,
                 "lon":33.3741699,
+                "normalized":"Lemesou Avenue, Cyprus",
                 "address":"PO Box 54259, 3722 Limassol, Cyprus"
             },
             "Address4":{
                 "lat":33.513,
                 "lon":36.292,
+                "normalized":"Damascus, Syria",
                 "address":"PO Box 4889, Quosr Khateeb, Jaddat Kendy, Farah Bldg., Damascus, Syria"
             },
             "Address5":{
                 "lat":31.778737,
                 "lon":35.210767,
+                "normalized":"Israel's Street, Jerusalem, Israel",
                 "address":"PO Box 14634, Jerusalem 91146 Via Israel, Israel"
             }
         },
@@ -5878,6 +5948,7 @@
             "Address1":{
                 "lat":41.7804305,
                 "lon":-88.09107379999999,
+                "normalized":"Saint Procopius Abbey, Benedictine University, 5601 College Road, Lisle, IL 60532, USA",
                 "address":"Saint Procopius Abbey, 5601 College Road, Lisle, IL 60532-2500, USA"
             }
         },
@@ -6033,8 +6104,9 @@
         ],
         "adresses":{
             "Address1":{
-                "lat":51.5204912,
-                "lon":-0.2018281,
+                "lat":51.5204919,
+                "lon":-0.2018159,
+                "normalized":"Saint Andrews House, 16 Tavistock Crescent, London W11 1AP, UK",
                 "address":"16 Tavistock Crescent, London, W11 1AP, UK"
             }
         },
@@ -6193,11 +6265,13 @@
             "Address1":{
                 "lat":31.931566,
                 "lon":34.872938,
+                "normalized":"Ramla, Israel",
                 "address":"PO Box 4036, Ramle 72140, Israel"
             },
             "Address2":{
                 "lat":41.9856531,
                 "lon":-71.8986833,
+                "normalized":"North Grosvenor Dale, Thompson, CT 06255, USA",
                 "address":"PO Box 477, North Grosvenordale, CT 06255, USA"
             }
         },
@@ -6340,6 +6414,7 @@
             "Address1":{
                 "lat":43.0638042,
                 "lon":-89.41435489999999,
+                "normalized":"Grant Street, Madison, WI 53711, USA",
                 "address":"112 Grant Street, Madison, WI 53711, USA"
             }
         },
@@ -6488,6 +6563,7 @@
             "Address1":{
                 "lat":41.9021848,
                 "lon":12.462564,
+                "normalized":"Via della Conciliazione, 5, 00193 Rome, Italy",
                 "address":"Via della Conciliazione 5-7, 00120 Rome, Italy"
             }
         },
@@ -6598,26 +6674,31 @@
             "Address1":{
                 "lat":38.89988839999999,
                 "lon":-77.00758060000001,
+                "normalized":"750 First Street Northeast #1120, Washington, DC 20002, USA",
                 "address":"750 1st St. N.E., Suite 1120, Washington, DC 20002, USA"
             },
             "Address2":{
                 "lat":39.086606,
                 "lon":-77.153533,
+                "normalized":"230 North Washington Street #300, Rockville, MD 20850, USA",
                 "address":"230 N. Washington St. Suite 300, Rockville, MD 20850, USA"
             },
             "Address3":{
                 "lat":38.0371606,
                 "lon":-84.50074210000001,
+                "normalized":"Davis Marksbury Building, Rose Street, University of Kentucky, Lexington, KY 40506, USA",
                 "address":"131 MMRB, Rose Street, Lexington, KY 40506-0107, USA"
             },
             "Address4":{
                 "lat":38.0848295,
                 "lon":-78.4796756,
+                "normalized":"671 Berkmar Court, Charlottesville, VA 22901, USA",
                 "address":"671 Berkmar Ct., Charlottesville, VA 22901, USA"
             },
             "Address5":{
                 "lat":36.8485328,
                 "lon":-76.2112621,
+                "normalized":"410 Briar Hill Road #103, Best Square, Norfolk, VA 23502, USA",
                 "address":"410 Briar Hill Rd. # 103, Norfolk, VA 23502, USA"
             }
         },
@@ -6777,16 +6858,19 @@
             "Address1":{
                 "lat":48.53214999999999,
                 "lon":9.05294,
+                "normalized":"Waldh\u00e4user Stra\u00dfe 23, 72076 T\u00fcbingen, Germany",
                 "address":"Waldhaeuserstrasse 23, 72076 Tuebingen, Germany"
             },
             "Address2":{
                 "lat":48.2149307,
                 "lon":16.369677,
+                "normalized":"Werdertorgasse 7, 1010 Vienna, Austria",
                 "address":"Werdertorgasse 7, Vienna 1010, Austria"
             },
             "Address3":{
                 "lat":47.1751157,
                 "lon":8.5652191,
+                "normalized":"Bad Sch\u00f6nbrunn, 6313 Edlibach, Switzerland",
                 "address":"Bad Schoenbrunn, 6313 Edlibach-Zug, Switzerland"
             }
         },
@@ -6919,6 +7003,7 @@
             "Address1":{
                 "lat":43.1014561,
                 "lon":-77.51657809999999,
+                "normalized":"4245 East Avenue, Rochester, NY 14618, USA",
                 "address":"4245 East Avenue, Rochester, NY 14618, USA"
             }
         },
@@ -7052,6 +7137,7 @@
             "Address1":{
                 "lat":31.7625152,
                 "lon":35.2182388,
+                "normalized":"Emek Refa'im Street 43, Jerusalem, Israel",
                 "address":"43a Emek Refaim St., PO Box 8771, The German Colony, Jerusalem 91086, Israel"
             }
         },
@@ -7230,6 +7316,7 @@
             "Address1":{
                 "lat":48.8460512,
                 "lon":2.3234011,
+                "normalized":"104 Rue de Vaugirard, 75006 Paris, France",
                 "address":"At Coexister \u2013 Forum 104, 104 rue de Vaugirard, 75006 Paris, France"
             }
         },
@@ -7326,6 +7413,7 @@
             "Address1":{
                 "lat":42.3707477,
                 "lon":-71.1145251,
+                "normalized":"2 Arrow Street, Harvard University, Cambridge, MA 02138, USA",
                 "address":"2 Arrow Street, 4th floor, Cambridge, MA 02138, USA"
             }
         },
@@ -7462,11 +7550,13 @@
             "Address1":{
                 "lat":51.5163752,
                 "lon":-0.1752507,
+                "normalized":"London W2 7JU, UK",
                 "address":"PO Box 60519, London W2 7JU, UK"
             },
             "Address2":{
                 "lat":41.32365069999999,
                 "lon":-72.922218,
+                "normalized":"409 Prospect Street, Sterling Divinity Quadrangle, Yale University, New Haven, CT 06511, USA",
                 "address":"409 Prospect Street, New Haven, CT 06511, USA"
             }
         },
@@ -7559,8 +7649,9 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":52.2087159,
-                "lon":0.1217738,
+                "lat":52.2089003,
+                "lon":0.1217937,
+                "normalized":"Wesley House, Jesus Lane, Cambridge, Cambridgeshire CB5 8BJ, UK",
                 "address":"Wesley House, Jesus Lane, Cambridge CB5 8BJ, UK"
             }
         },
@@ -7669,8 +7760,9 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":51.5380495,
-                "lon":-0.2072601,
+                "lat":51.5381233,
+                "lon":-0.2070274,
+                "normalized":"Saint Annes & Saint Andrews Church, 125 Salusbury Road, London NW6 6RG, UK",
                 "address":"125 Salusbury Rd, London, NW6 6RG, UK"
             }
         },
@@ -7800,21 +7892,25 @@
             "Address1":{
                 "lat":41.0762077,
                 "lon":-73.85874609999999,
+                "normalized":"Tarrytown, NY, USA",
                 "address":"200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA"
             },
             "Address2":{
                 "lat":40.7524048,
                 "lon":-73.9660299,
+                "normalized":"866 United Nations Plaza #529, New York, NY 10017, USA",
                 "address":"866 United Nations Plaza, Suite 529 , New York, NY 10017, USA"
             },
             "Address3":{
                 "lat":38.9170185,
                 "lon":-76.95500779999999,
+                "normalized":"3600 New York Avenue Northeast, Washington, DC 20002, USA",
                 "address":"3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA"
             },
             "Address4":{
                 "lat":36.031661,
                 "lon":-115.183855,
+                "normalized":"3225 West Ford Avenue, Las Vegas, NV 89139, USA",
                 "address":"3225 West Ford Avenue, Las Vegas, NV 89139, USA"
             }
         },
@@ -7993,6 +8089,7 @@
             "Address1":{
                 "lat":37.2614142,
                 "lon":-121.9236889,
+                "normalized":"1900 Camden Avenue #201, San Jose, CA 95124, USA",
                 "address":"1900 Camden Ave., Suite 201-E, San Jose, CA 95124, USA"
             }
         },
@@ -8088,6 +8185,7 @@
             "Address1":{
                 "lat":38.8989707,
                 "lon":-77.0424139,
+                "normalized":"Washington, DC 20433, USA",
                 "address":"World Bank, 1818 H Street, NW, Washington, DC 20433, USA"
             }
         },
@@ -8193,6 +8291,7 @@
             "Address1":{
                 "lat":40.8108221,
                 "lon":-73.9639856,
+                "normalized":"475 Riverside Drive #248, Columbia University, New York, NY 10115, USA",
                 "address":"475 Riverside Drive, Suite 248, New York, NY 10115, USA"
             }
         },
@@ -8280,11 +8379,13 @@
             "Address1":{
                 "lat":41.0906519,
                 "lon":-73.9179146,
+                "normalized":"Nyack, NY, USA",
                 "address":"PO Box 271, Nyack, NY 10960, USA"
             },
             "Address2":{
                 "lat":52.6364972,
                 "lon":4.743029300000001,
+                "normalized":"Spoorstraat 38, 1815 BK Alkmaar, The Netherlands",
                 "address":"Spoorstraat 38, 1815 BK Alkmaar, Netherlands"
             }
         },
@@ -8498,11 +8599,13 @@
             "Address1":{
                 "lat":39.70421229999999,
                 "lon":-86.39943869999999,
+                "normalized":"Plainfield, IN, USA",
                 "address":"PO Box 38, Plainfield, IN 46168, USA"
             },
             "Address2":{
                 "lat":38.8915059,
                 "lon":-77.00511139999999,
+                "normalized":"110 Maryland Avenue Northeast #304, Washington, DC 20002, USA",
                 "address":"ISNA Office for Interfaith and Community Alliances, 110 Maryland Avenue Ne, Suite # 304, Washington, DC 20002, USA"
             }
         },
@@ -8702,6 +8805,7 @@
             "Address1":{
                 "lat":38.9057498,
                 "lon":-77.03870549999999,
+                "normalized":"1200 17th Street Northwest #200, Washington, DC 20036, USA",
                 "address":"1200 17th Street NW, Suite 200, 20036, Washington DC, USA"
             }
         },
@@ -8885,6 +8989,7 @@
             "Address1":{
                 "lat":40.7744567,
                 "lon":-73.912683,
+                "normalized":"2226 31st Street, Astoria, NY 11105, USA",
                 "address":"2226 31 St, Astoria, NY 11105, USA"
             }
         },
@@ -8965,6 +9070,7 @@
             "Address1":{
                 "lat":11.5363324,
                 "lon":104.9287294,
+                "normalized":"143 Preah Norodom Boulevard, Phnom Penh, Cambodia",
                 "address":"The University of Cambodia, No. 143 Preah Norodom Boulevard, PO Box 166, Phnom Penh 12000, Cambodia"
             }
         },
@@ -9055,6 +9161,7 @@
             "Address1":{
                 "lat":40.7524793,
                 "lon":-73.810723,
+                "normalized":"46-60 156th Street, Flushing, NY 11355, USA",
                 "address":"46-60 156th Street, Flushing, NY 11355, USA"
             }
         },
@@ -9142,26 +9249,31 @@
             "Address1":{
                 "lat":40.7598618,
                 "lon":-73.9683343,
+                "normalized":"165 East 56th Street, New York, NY 10022, USA",
                 "address":"165 E 56th St, New York, NY 10022, USA"
             },
             "Address2":{
                 "lat":52.5155098,
                 "lon":13.3847539,
+                "normalized":"10117 Berlin, Germany",
                 "address":"Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany"
             },
             "Address3":{
                 "lat":37.7932018,
                 "lon":-122.3924432,
+                "normalized":"121 Steuart Street, San Francisco, CA 94105, USA",
                 "address":"121 Steuart St, San Francisco, CA 94105, USA"
             },
             "Address4":{
                 "lat":39.9515436,
                 "lon":-75.16583609999999,
+                "normalized":"30 South 15th Street #801, Philadelphia, PA 19102, USA",
                 "address":"30 S 15th St #801, Philadelphia, PA 19102, USA"
             },
             "Address5":{
                 "lat":41.8802557,
                 "lon":-87.625678,
+                "normalized":"55 East Monroe Street, Chicago, IL 60603, USA",
                 "address":"55 E Monroe St, Chicago, IL 60603, USA"
             }
         },
@@ -9346,26 +9458,31 @@
             "Address1":{
                 "lat":52.50810999999999,
                 "lon":13.35232,
+                "normalized":"Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin, Germany",
                 "address":"Klingelhoeferstra\u00dfe 23, 10785 Berlin, Germany"
             },
             "Address2":{
                 "lat":50.77598,
                 "lon":7.18601,
+                "normalized":"Rathausallee 12, 53757 Sankt Augustin, Germany",
                 "address":"Rathausallee 12, 53757, St. Augustin, Germany"
             },
             "Address3":{
                 "lat":50.8407304,
                 "lon":4.3972875,
+                "normalized":"Avenue de l'Yser 11, 1040 Etterbeek, Belgium",
                 "address":"Avenue de l'Yser 11, 1040 Brussels, Belgium"
             },
             "Address4":{
                 "lat":38.910607,
                 "lon":-77.045183,
+                "normalized":"2005 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
                 "address":"2005 Massachusetts Avenue NW, Washington, DC 20036, USA"
             },
             "Address5":{
                 "lat":28.5997428,
                 "lon":77.18771780000002,
+                "normalized":"German House, Nyaya Marg, Block F, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110021, India",
                 "address":"German House, 1st Floor, 2, Nyaya Marg, Chanakyapuri, New Delhi 110021, India"
             }
         },
@@ -9540,28 +9657,33 @@
         ],
         "adresses":{
             "Address1":{
-                "lat":48.5948369,
-                "lon":7.773352000000001,
+                "lat":48.6307084,
+                "lon":7.750722999999999,
+                "normalized":"Rue de l'Europe, 67460 Souffelweyersheim, France",
                 "address":"Av de l'Europe, F-67075 CEDEX, Strasbourg, France"
             },
             "Address2":{
                 "lat":48.8671079,
                 "lon":2.2902397,
+                "normalized":"55 Avenue Kl\u00e9ber, 75116 Paris, France",
                 "address":"55 avenue Kl\u00e9ber, F-75784 CEDEX 16, Paris, France"
             },
             "Address3":{
                 "lat":50.83849379999999,
                 "lon":4.3899607,
+                "normalized":"Avenue des Nerviens 85, 1040 Etterbeek, Belgium",
                 "address":"Avenue des nerviens 85, B-1040, Brussels, Belgium"
             },
             "Address4":{
                 "lat":38.70765100000001,
                 "lon":-9.1654958,
+                "normalized":"Rua S\u00e3o Caetano 32, 1200-758 Lisbon, Portugal",
                 "address":"Rua de S\u00e3o Caetano, n\u00b0 32, 1200-829 Lisbon, Portugal"
             },
             "Address5":{
                 "lat":47.0679618,
                 "lon":15.433391,
+                "normalized":"Nikolaiplatz 4, 8020 Graz, Austria",
                 "address":"Nikolaiplatz 4, 8020 Graz, Austria"
             }
         },
@@ -10202,16 +10324,19 @@
             "Address1":{
                 "lat":31.2000924,
                 "lon":29.9187387,
+                "normalized":"Alexandria, Alexandria Governorate, Egypt",
                 "address":"PO Box 732 El Mansheia, 21111, Alexandria, Egypt"
             },
             "Address2":{
                 "lat":31.2000924,
                 "lon":29.9187387,
+                "normalized":"Alexandria, Alexandria Governorate, Egypt",
                 "address":"Biblioteca Alexandrina, El Chatby, 21526, Alexandria, Egypt"
             },
             "Address3":{
                 "lat":31.2000924,
                 "lon":29.9187387,
+                "normalized":"Alexandria, Alexandria Governorate, Egypt",
                 "address":"Swedish Institute Alexandria, PO Box 1261, Mansheya Corniche, 12111, Alexandria, Egypt"
             }
         },
@@ -10380,6 +10505,7 @@
             "Address1":{
                 "lat":33.9715904,
                 "lon":-6.8498129,
+                "normalized":"Rabat, Morocco",
                 "address":"Avenue des F.A.R, Hay Ryad, PO Box 2275, PC Code 10104, Rabat, Morocco"
             }
         },
@@ -10683,6 +10809,7 @@
             "Address1":{
                 "lat":48.2100495,
                 "lon":16.3669631,
+                "normalized":"Wallnerstra\u00dfe 6-6A, 1010 Vienna, Austria",
                 "address":"Wallnerstrasse 6, 1010, Vienna, Austria"
             }
         },
@@ -10879,6 +11006,7 @@
             "Address1":{
                 "lat":48.1951683,
                 "lon":16.3655048,
+                "normalized":"Waaggasse, 1040 Vienna, Austria",
                 "address":"Waaggasse, 1040 Vienna"
             }
         },
@@ -10988,6 +11116,7 @@
             "Address1":{
                 "lat":41.043313,
                 "lon":29.0130721,
+                "normalized":"Be\u015fikta\u015f Al, Y\u0131ld\u0131z Mh., 34349 Be\u015fikta\u015f/Istanbul, Turkey",
                 "address":"PO Box 24, Besiktas, 34354, Istanbul, Turkey"
             }
         },
@@ -11153,6 +11282,7 @@
             "Address1":{
                 "lat":48.856614,
                 "lon":2.3522219,
+                "normalized":"Paris, France",
                 "address":"7 place de Fontenoy, 75352 07SP, Paris, France"
             }
         },
@@ -11805,26 +11935,31 @@
             "Address1":{
                 "lat":24.5925909,
                 "lon":72.7156274,
+                "normalized":"Mount Abu, Rajasthan 307501, India",
                 "address":"Pandav Bhavan, Post Box No 2, Rajasthan, 307501, Mount Abu, India"
             },
             "Address2":{
-                "lat":51.5445615,
-                "lon":-0.2366707,
+                "lat":51.5453564,
+                "lon":-0.2374349,
+                "normalized":"Brahma Kumaris World Spiritual University, Global Co-operation House, 65-69 Pound Lane, London NW10 2HH, UK",
                 "address":"Global Cooperation House, 65-69 Pound Lane, NW10 2HH, London, UK"
             },
             "Address3":{
                 "lat":40.785618,
                 "lon":-73.725628,
+                "normalized":"Global Harmony House, 46 South Middle Neck Road, Great Neck, NY 11021, USA",
                 "address":"Global Harmony House, 46 S. Middle Neck Road, Great Neck, NY 11021, USA"
             },
             "Address4":{
                 "lat":-33.881479,
                 "lon":151.126261,
+                "normalized":"78 Alt Street, Ashfield NSW 2131, Australia",
                 "address":"Australian HQ, 78 Alt Street, Ashfield, NSW 2131, Australia"
             },
             "Address5":{
                 "lat":-23.5313758,
                 "lon":-46.6733394,
+                "normalized":"Rua Dona Germaine Burchard, 589 - \u00c1gua Branca, S\u00e3o Paulo - State of S\u00e3o Paulo, Brazil",
                 "address":"Rua Dona Germaine Burchard, 589C Bairro: \u00c1gua Branca, S\u00e3o Paulo SP 05002-062, Brazil"
             }
         },
@@ -11955,11 +12090,13 @@
             "Address1":{
                 "lat":42.2935733,
                 "lon":-71.30592779999999,
+                "normalized":"Wellesley College, 106 Central Street, Wellesley, MA 02481, USA",
                 "address":"Wellesley College, 106 Central Street, Wellesley, MA 02482, USA"
             },
             "Address2":{
                 "lat":41.405061,
                 "lon":-73.850268,
+                "normalized":"5 Trading Post Lane, Putnam Valley, NY 10579, USA",
                 "address":"5 Trading Post Lane, Putnam Valley, NY 10579, USA"
             }
         },
@@ -12060,26 +12197,31 @@
             "Address1":{
                 "lat":25.0178293,
                 "lon":121.9131761,
+                "normalized":"Gongliao District, New Taipei City, Taiwan 228",
                 "address":"No.7-1, Xianglan St., Fulian Village, Gongliao Dist., New Taipei City 228, China"
             },
             "Address2":{
                 "lat":25.009028,
                 "lon":121.5088258,
+                "normalized":"No. 1, Lane 184, Section 1, Zhongshan Road, Yonghe District, New Taipei City, Taiwan 234",
                 "address":"236 Zhongshan Road, Section 1, Floor 7, Yonghe, China"
             },
             "Address3":{
                 "lat":40.743403,
                 "lon":-73.7648959,
+                "normalized":"64-46 211th Street, Oakland Gardens, NY 11364, USA",
                 "address":"6446 211th St, Oakland Gdns, NY 11364-2121, USA"
             },
             "Address4":{
                 "lat":13.7179259,
                 "lon":100.6534443,
+                "normalized":"10250, Thailand",
                 "address":"701/205 Royal Castle Building, Pattanakarn Road, Soi 30 (Buppa), Suanluang Pravet, Bangkok 10250, Thailand"
             },
             "Address5":{
                 "lat":40.756619,
                 "lon":-73.830478,
+                "normalized":"133-22 41st Road, Flushing, NY 11355, USA",
                 "address":"133-22 41Rd. Flushing, NY11355, USA"
             }
         },
@@ -12178,6 +12320,7 @@
             "Address1":{
                 "lat":41.063418,
                 "lon":-73.85191019999999,
+                "normalized":"200 White Plains Road, Tarrytown, NY 10591, USA",
                 "address":"200 White Plains Road. Floor 1, Tarrytown, NY 10591, USA"
             }
         },
@@ -12268,6 +12411,7 @@
             "Address1":{
                 "lat":48.63852,
                 "lon":9.60089,
+                "normalized":"Akademieweg 11, 73087 Boll, Germany",
                 "address":"Akademieweg 11, 73087 Boll, Germany"
             }
         },
@@ -12457,8 +12601,9 @@
         ],
         "adresses":{
             "Address1":{
-                "lat":42.3367183,
-                "lon":-71.1713553,
+                "lat":42.3361103,
+                "lon":-71.16927679999999,
+                "normalized":"O'Neill Library, 140 Commonwealth Avenue, Boston College, Chestnut Hill, MA 02467, USA",
                 "address":"140 Commonwealth Avenue, Chestnut Hill, MA 02467, USA"
             }
         },
@@ -12606,6 +12751,7 @@
             "Address1":{
                 "lat":43.7180257,
                 "lon":-79.2404742,
+                "normalized":"2685 Kingston Road, Scarborough, ON M1M, Canada",
                 "address":"2685 Kingston Rd., Scarborough, ON, Canada"
             }
         },
@@ -12748,6 +12894,7 @@
             "Address1":{
                 "lat":50.8502471,
                 "lon":4.3733024,
+                "normalized":"Rue Am\u00e9d\u00e9e Lynen 8, 1210 Saint-Josse-ten-Noode, Belgium",
                 "address":"Rue Am\u00e9d\u00e9e Lynen 8, 1210 Brussels, Belgium"
             }
         },
@@ -12977,6 +13124,7 @@
             "Address1":{
                 "lat":51.5183531,
                 "lon":-0.1230436,
+                "normalized":"6 Bloomsbury Square, London WC1A 2LP, UK",
                 "address":"6 Bloomsbury Square, London WC1A 2LP, London"
             }
         },
@@ -13097,21 +13245,25 @@
             "Address1":{
                 "lat":35.6821913,
                 "lon":139.6946563,
+                "normalized":"3 Chome-3-3 Yoyogi, Shibuya, Tokyo, Japan",
                 "address":"Yoyogi 3-3-3, Shibuya-ku, Tokyo, Japan"
             },
             "Address2":{
                 "lat":46.22112930000001,
                 "lon":6.1397034,
+                "normalized":"Rue de Varemb\u00e9 1, 1202 Geneva, Switzerland",
                 "address":"1, rue de Varemb\u00e9, 1202 Geneva, Switzerland"
             },
             "Address3":{
                 "lat":40.7531486,
                 "lon":-73.9679041,
+                "normalized":"Un Plaza, 100 United Nations Plaza, New York, NY 10017, USA",
                 "address":"866 UN Plaza, Ste. 307, New York, NY 10017, USA"
             },
             "Address4":{
                 "lat":-1.2920659,
                 "lon":36.8219462,
+                "normalized":"Nairobi, Kenya",
                 "address":"Crawford Business Park, State House Road, Nairobi, Kenya"
             }
         },
@@ -13215,11 +13367,13 @@
             "Address1":{
                 "lat":39.291933,
                 "lon":-76.619162,
+                "normalized":"228 West Lexington Street, Baltimore, MD 21201, USA",
                 "address":"228 W Lexington Street, Baltimore, MD 21201-3413, USA"
             },
             "Address2":{
                 "lat":46.2078875,
                 "lon":6.142183699999999,
+                "normalized":"Rue de Cornavin 11, 1201 Geneva, Switzerland",
                 "address":"11 rue de Cornavin, CH-1201, Geneva, Switzerland"
             }
         },
@@ -13433,11 +13587,13 @@
             "Address1":{
                 "lat":50.69119999999999,
                 "lon":7.12928,
+                "normalized":"Hochkreuzallee 246, 53175 Bonn, Germany",
                 "address":"Hochkreuzallee 246, 53175 Bonn, Germany"
             },
             "Address2":{
                 "lat":50.7357667,
                 "lon":7.1010988,
+                "normalized":"Bonngasse 1, 53111 Bonn, Germany",
                 "address":"PO Box 24 01 41, 53154 Bonn, Germany"
             }
         },
@@ -13563,6 +13719,7 @@
             "Address1":{
                 "lat":48.1480707,
                 "lon":11.5522965,
+                "normalized":"Pappenheimstra\u00dfe 4, 80335 Munich, Germany",
                 "address":"Pappenheimstrasse 4, 80335 Munich, Germany"
             }
         },
@@ -13693,6 +13850,7 @@
             "Address1":{
                 "lat":47.4076506,
                 "lon":9.7288562,
+                "normalized":"Raiffeisenstra\u00dfe 4, 6850 Dornbirn, Austria",
                 "address":"Raiffeisenstra\u00dfe 4/18, 6850 Dornbirn, Austria"
             }
         },
@@ -13767,26 +13925,31 @@
             "Address1":{
                 "lat":35.6962854,
                 "lon":139.4048828,
+                "normalized":"1 Chome-2-13 Shibasakicho, Tachikawa, Tokyo, Japan",
                 "address":"1-2-13 Shibasakicho, Tachikawa, Tokyo, Japan"
             },
             "Address2":{
                 "lat":21.2953105,
                 "lon":-157.8251343,
+                "normalized":"2348 South Beretania Street, Honolulu, HI 96826, USA",
                 "address":"2348 S. Beretania Street, Honolulu, HI 96826, USA"
             },
             "Address3":{
                 "lat":48.08291,
                 "lon":11.53876,
+                "normalized":"Heilmannstra\u00dfe 11C, 81479 Munich, Germany",
                 "address":"Heilmannstrasse 11c, 81479 Munich, Germany"
             },
             "Address4":{
                 "lat":48.8854915,
                 "lon":2.3020332,
+                "normalized":"36 Rue Amp\u00e8re, 75017 Paris, France",
                 "address":"36 Rue Ampere, 75017 Paris, France"
             },
             "Address5":{
                 "lat":45.45251810000001,
                 "lon":9.206086700000002,
+                "normalized":"Via Vasari Giorgio, 6, 20135 Milan, Italy",
                 "address":"Via Vasari 6, 20135 Milano, Italia"
             }
         },
@@ -13915,6 +14078,7 @@
             "Address1":{
                 "lat":-37.7669228,
                 "lon":144.9222422,
+                "normalized":"Moonee Ponds VIC, Australia",
                 "address":"PO Box 796, Moonee Ponds, VIC 3039, Australia"
             }
         },
@@ -14048,6 +14212,7 @@
             "Address1":{
                 "lat":-37.837972,
                 "lon":144.97537,
+                "normalized":"1/436 Saint Kilda Road, Melbourne VIC 3004, Australia",
                 "address":"Level 1, 436 St Kilda Road, Melbourne, VIC 3004, Australia"
             }
         },
@@ -14155,26 +14320,31 @@
             "Address1":{
                 "lat":51.5568483,
                 "lon":-0.1176467,
+                "normalized":"402 Holloway Road, London N7 6PZ, UK",
                 "address":"402 Holloway Road, London N7 6PZ, UK"
             },
             "Address2":{
                 "lat":52.471027,
                 "lon":-1.9308809,
+                "normalized":"4 Vicarage Road, Birmingham, West Midlands B15 3EZ, UK",
                 "address":"4 Vicarage Road, Edgbaston, Birmingham B15 3ES, UK"
             },
             "Address3":{
                 "lat":50.8288638,
                 "lon":-0.1783968,
+                "normalized":"201 Church Road, Hove, Hove, East Sussex BN3 2AB, UK",
                 "address":"201A Church Road, BN3 2AH, Hove, Sussex, UK"
             },
             "Address4":{
                 "lat":51.4600601,
                 "lon":-2.5845198,
+                "normalized":"New Bond House, Bond Street, Bristol, City of Bristol BS2 9AG, UK",
                 "address":"New Bond House, Bond Street, Bristol, BS2 9AG, UK"
             },
             "Address5":{
                 "lat":55.0068752,
                 "lon":-1.6042765,
+                "normalized":"34 Station Road, Newcastle upon Tyne, Tyne and Wear NE3, UK",
                 "address":"34 Station Road, South Gosforth, Newcastle Upon Tyne, NE3 1QD, UK"
             }
         },
@@ -14295,6 +14465,7 @@
             "Address1":{
                 "lat":51.527783,
                 "lon":-0.127158,
+                "normalized":"Hamilton House, Mabledon Pl, Kings Cross, London WC1H 9BJ, UK",
                 "address":"Hamilton House, Mabledon Place, London WC1H 9BB, UK"
             }
         },
@@ -14449,13 +14620,15 @@
         "religious_affiliation":"No information",
         "adresses":{
             "Address1":{
-                "lat":33.4221259,
-                "lon":-111.8830042,
+                "lat":33.422344,
+                "lon":-111.973611,
+                "normalized":"2330 West University Drive #5, Tempe, AZ 85281, USA",
                 "address":"2330 W University Dr, Suite #5, Tempe AZ 85281, USA"
             },
             "Address2":{
                 "lat":32.2585269,
                 "lon":-110.9446053,
+                "normalized":"2841 North Campbell Avenue, Tucson, AZ 85719, USA",
                 "address":"2841 N. Campbell Ave. Tucson, AZ 85719, USA"
             }
         },
@@ -14533,6 +14706,7 @@
             "Address1":{
                 "lat":43.6548654,
                 "lon":-79.3879201,
+                "normalized":"481 University Avenue #711, Toronto, ON M5G 2P1, Canada",
                 "address":"481 University Ave, Suite 711, Toronto, ON M5G 2E9, Canada"
             }
         },
@@ -14627,6 +14801,7 @@
             "Address1":{
                 "lat":1.2912829,
                 "lon":103.7783163,
+                "normalized":"31 Heng Mui Keng Terrace, Singapore 119595",
                 "address":"31 Heng Mui Keng Terrace, 119595, Singapore, Singapore"
             }
         },
@@ -15222,11 +15397,13 @@
             "Address1":{
                 "lat":51.9452106,
                 "lon":4.6027797,
+                "normalized":"'s-Gravenweg 400, 2905 LC Capelle aan den IJssel, The Netherlands",
                 "address":"s-Gravenweg 400, 2905 LC Capelle aan den IJssel, Netherlands"
             },
             "Address2":{
                 "lat":29.9626961,
                 "lon":31.2769423,
+                "normalized":"Al Maadi, Cairo Governorate, Egypt",
                 "address":"c/o Center for Intercultural Dialogue & Translation, 90 Road 14B, Maadi, Cairo, Egypt"
             }
         },
@@ -15326,6 +15503,7 @@
             "Address1":{
                 "lat":52.6224925,
                 "lon":-1.1019064,
+                "normalized":"Catherine House, 2B Stoughton Drive North, Leicester, Leicester LE5 5UB, UK",
                 "address":"2A Stoughton Drive North, Leicester, LE5 5UB, UK"
             }
         },
@@ -15445,6 +15623,7 @@
             "Address1":{
                 "lat":31.768319,
                 "lon":35.21371,
+                "normalized":"Jerusalem, Israel",
                 "address":"PO Box 53413, Jerusalem 91533, Israel"
             }
         },
@@ -15539,6 +15718,7 @@
             "Address1":{
                 "lat":47.501116,
                 "lon":19.0641365,
+                "normalized":"Budapest, Ak\u00e1cfa Street 56, 1073 Hungary",
                 "address":"Ak\u00e1cfa utca 56-58, Budapest 1073, Hungary"
             }
         },
@@ -15660,6 +15840,7 @@
             "Address1":{
                 "lat":43.8591029,
                 "lon":18.4334329,
+                "normalized":"National and University Library of Bosnia and Herzegovina, Obala Kulina bana, Sarajevo 71000, Bosnia and Herzegovina",
                 "address":"Obala Kulina Bana 39, 71000 Sarajevo, Bosnia and Herzegovina"
             }
         },
@@ -15849,6 +16030,7 @@
             "Address1":{
                 "lat":53.1858943,
                 "lon":-6.1341068,
+                "normalized":"Glencree Cottage, Ballywaltrim Lane, Bray, Co. Wicklow, Ireland",
                 "address":"Glencree, Enniskerry, County Wicklow, Ireland"
             }
         },
@@ -15995,6 +16177,7 @@
             "Address1":{
                 "lat":50.0874548,
                 "lon":14.3897345,
+                "normalized":"Poho\u0159elec 149/6, 118 00 Prague-Prague 1, Czech Republic",
                 "address":"Poho\u0159elec 6, 118 00 Praha 1, Czech Republic"
             }
         },
@@ -16153,6 +16336,7 @@
             "Address1":{
                 "lat":51.8411093,
                 "lon":-2.473455,
+                "normalized":"Mitcheldean, Mitcheldean, Gloucestershire GL17 0EA, UK",
                 "address":"Gunn Mill House, Lower Spout Lane, Flaxley, Gloucestershire, GL170EA, UK"
             }
         },
@@ -16321,6 +16505,7 @@
             "Address1":{
                 "lat":33.8886289,
                 "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
                 "address":"Furn El Chebbak, Azarieh Bldg, 4th floor, \u200eBeirut, Lebanon"
             }
         },
