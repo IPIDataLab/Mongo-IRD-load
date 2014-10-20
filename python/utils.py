@@ -79,6 +79,7 @@ def geocode(address):
 		address1 = address
 		address1 = re.compile('PO Box [0-9]+, ', re.IGNORECASE).sub('', address1)
 		address1 = re.sub(r'The German Colony, ', '', address1)
+		address1 = re.sub(r'The Middle East Council of Churches', '', address1)
 		address1 = re.sub(r'The University of Cambodia, ', '', address1)
 		address1 = re.sub(r'New Taipei City 228, China', 'New Taipei City 228, Taiwan', address1)
 		address1 = re.sub(r'DB3 9BS', 'CB3 9BS', address1)

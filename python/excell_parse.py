@@ -301,7 +301,9 @@ def parse(sheet, data):
 		if addr:
 			data[-1]['adresses'] = addr
 			try:
-				data[-1]['country'] = re.sub(r'^.*, ', '', addr['Address1']['normalized'])
+				country = re.sub(r'^.*, ', '', addr['Address1']['normalized'])
+				country = re.sub(r'(Al Jubail | *\d+ *)', '', country)
+				data[-1]['country'] = country
 			except KeyError:
 				pass
 
