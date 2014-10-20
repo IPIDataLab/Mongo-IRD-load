@@ -133,6 +133,11 @@ def parse(sheet, data):
 		if a:
 			data[-1]['finances'] = a
 
+		# Foundation
+		a = get_cell(sheet,'Foundation',row_index,lkey)
+		if a:
+			data[-1]['foundation'] = re.sub(r'\.0', '', a) ## get_cell gives... 1998.0
+
 		# history
 		a = get_cell(sheet,'History',row_index,lkey)
 		if a:
@@ -295,6 +300,10 @@ def parse(sheet, data):
 				pass
 		if addr:
 			data[-1]['adresses'] = addr
+			try:
+				data[-1]['country'] = re.sub(r'^.*, ', '', addr['Address1']['normalized'])
+			except KeyError:
+				pass
 
 		### ADD ENTRY STAMP DETAILs
 		###
