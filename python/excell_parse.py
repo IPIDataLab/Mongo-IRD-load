@@ -237,6 +237,9 @@ def parse(sheet, data):
 				try:
 					for x in xrange(1,len(IRD_activities)):
 						region = re.sub('Lebanon, Syria, Egypt and Jordan', 'Lebanon; Syria; Egypt; Jordan', IRD_activities_reg[x])
+						region = re.sub('Bosnia and Herzegovina', 'Bosnia-Herzegovina', region)
+						region = re.sub('India, Pakistan, Bangladesh, Sri Lanka', 'India; Pakistan; Bangladesh; Sri Lanka', region)
+						region = re.sub('St. Jean Cap', 'St Jean Cap', region)
 						region = re.split('[;\.]| and ', region)
 						region = [ i.strip() for i in region if i.strip() ]
 						IRD_activity_obj = {
