@@ -113,13 +113,26 @@ def parse(sheet, data):
 			data[-1]["org_type"] = org_type_array
 
 		# thematic area of focus
-		a = get_cell(sheet,'Subject',row_index,lkey,str_split=True)
+		a = get_cell(sheet,'Subject',row_index,lkey,str_split="([:;, ']|\. |\.$)")
 		if a:
-			data[-1]['subject'] = a
 			# input control
-			for i in a:
-				if not re.match(r"\d+(\.\d)?[a-z]$", i):
+			b = []
+			for j in a:
+				i = j.lower()
+				if i == '3.':
+					i = '3'
+				if i == '1.h':
+					i = '1h'
+				i = re.sub(r'q', 'g', i)
+				
+				## strict matrix check
+				if not re.match(r"^(1|2|2\.1|2\.2|2\.3|3|4|5|6|6\.1|6\.2|6\.3|7|8|9|10|11|12)[a-m]?$", i):
 					print "please correct subject: '%s' in %s" % (i, get_cell(sheet,'MainNameEn',row_index,lkey))
+				else:
+					b.append(i)
+				if i != j :
+					print "autocorrect '%s' => '%s'" % (i,j)
+			data[-1]['subject'] = b
 
 		# structure
 		a = get_cell(sheet,'Structure',row_index,lkey)
