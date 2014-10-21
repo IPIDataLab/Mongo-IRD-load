@@ -123,15 +123,17 @@ def parse(sheet, data):
 					i = '3'
 				if i == '1.h':
 					i = '1h'
+				# unspecified 2 and 6 are 2.9 and 6.9
+				i = re.sub(r'^([26])([a-m]?)$', r'\1.9\2', i)
 				i = re.sub(r'q', 'g', i)
 				
 				## strict matrix check
-				if not re.match(r"^(1|2|2\.1|2\.2|2\.3|3|4|5|6|6\.1|6\.2|6\.3|7|8|9|10|11|12)[a-m]?$", i):
+				if not re.match(r"^(1|2\.9|2\.1|2\.2|2\.3|3|4|5|6.9|6\.1|6\.2|6\.3|7|8|9|10|11|12)[a-m]?$", i):
 					print "please correct subject: '%s' in %s" % (i, get_cell(sheet,'MainNameEn',row_index,lkey))
 				else:
 					b.append(i)
 				if i != j :
-					print "autocorrect '%s' => '%s'" % (i,j)
+					print "autocorrect '%s' => '%s'" % (j,i)
 			data[-1]['subject'] = b
 
 		# structure
