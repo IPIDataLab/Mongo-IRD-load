@@ -99,6 +99,10 @@ def geocode(address):
 			address1 = 'Parmarth Niketan Swargashram Rishikesh, india'
 		if re.search(r'Fumon Hall.*Suginami', address1):
 			address1 = '2 Chome-6-1 Wada, Suginami-ku, Tokyo-to, Japan'
+		if re.search(r'(Sera Jey Monastic University, PO Bylakuppe - 571104)', address1):
+			address1 = 'Sera Jey Monastic University, Bylakuppe - 571104, Mysore District, India'
+		if re.search(r'(Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore-560 029, India)', address1):
+			address1 = 'Dharmaram Vidya Kshetram, DVK Rd, Bhavani Nagar, Sadduguntepalya, Bengaluru, Karnataka 560029, India'
 		print "=> %s" % address1
 		location = geolocator.geocode(address1)
 		print "== %s" % location.address

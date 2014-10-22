@@ -4,6 +4,11 @@
         "lon": 77.2942418, 
         "normalized": "Gods Grace School, Okhla Embankment, Abul Fazal Enclave, Part 1 Abul Fazal Enclave, Block B, Jamia Nagar, Jasola, New Delhi, Delhi 110025, India"
     }, 
+    "\"God's Grace\", Okhla Embankment, New Delhi 110025, India": {
+        "lat": 28.5591632, 
+        "lon": 77.2942418, 
+        "normalized": "Gods Grace School, Okhla Embankment, Abul Fazal Enclave, Part 1 Abul Fazal Enclave, Block B, Jamia Nagar, Jasola, New Delhi, Delhi 110025, India"
+    }, 
     "1, rue de Varemb\u00e9, 1202 Geneva, Switzerland": {
         "lat": 46.22112930000001, 
         "lon": 6.1397034, 
@@ -50,6 +55,11 @@
         "normalized": "1101 New York Avenue Northwest #901, Washington, DC 20005, USA"
     }, 
     "11155 Roseland Road\nSebastian, FL 32958": {
+        "lat": 27.8008354, 
+        "lon": -80.5022949, 
+        "normalized": "11155 Roseland Road, Sebastian, FL 32958, USA"
+    }, 
+    "11155 Roseland Road, Sebastian, FL 32958, USA": {
         "lat": 27.8008354, 
         "lon": -80.5022949, 
         "normalized": "11155 Roseland Road, Sebastian, FL 32958, USA"
@@ -195,6 +205,11 @@
         "normalized": "230 North Washington Street #300, Rockville, MD 20850, USA"
     }, 
     "2330 W University Dr, Suite #5, Tempe AZ 85281, USA": {
+        "lat": 33.422344, 
+        "lon": -111.973611, 
+        "normalized": "2330 West University Drive #5, Tempe, AZ 85281, USA"
+    }, 
+    "2330 W University Dr, Suite #5, Tempe, AZ 85281, USA": {
         "lat": 33.422344, 
         "lon": -111.973611, 
         "normalized": "2330 West University Drive #5, Tempe, AZ 85281, USA"
@@ -384,6 +399,11 @@
         "lon": -0.1230436, 
         "normalized": "6 Bloomsbury Square, London WC1A 2LP, UK"
     }, 
+    "603 Bedfordshire, Louisville, KY 40222, USA": {
+        "lat": 38.239907, 
+        "lon": -85.599575, 
+        "normalized": "603 Bedfordshire Road, Louisville, KY 40222, USA"
+    }, 
     "6446 211th St, Oakland Gdns, NY 11364-2121, USA": {
         "lat": 40.743403, 
         "lon": -73.7648959, 
@@ -393,6 +413,11 @@
         "lat": 38.0848295, 
         "lon": -78.4796756, 
         "normalized": "671 Berkmar Court, Charlottesville, VA 22901, USA"
+    }, 
+    "692 Country Lane, Newport WA 99156 USA": {
+        "lat": 48.0772999, 
+        "lon": -117.1397606, 
+        "normalized": "692 Country Lane, Newport, WA 99156, USA"
     }, 
     "7 Grange Road, Bushey, WD2 2LQ, Watford, UK": {
         "lat": 51.656489, 
@@ -420,6 +445,11 @@
         "normalized": "733 3rd Avenue #1700, New York, NY 10017, USA"
     }, 
     "74-15 43rd Avenue\nElmhurst, NY 11373, USA": {
+        "lat": 40.74255, 
+        "lon": -73.8901549, 
+        "normalized": "74-15 43rd Avenue, Queens, NY 11373, USA"
+    }, 
+    "74-15 43rd Avenue, Elmhurst, NY 11373, USA": {
         "lat": 40.74255, 
         "lon": -73.8901549, 
         "normalized": "74-15 43rd Avenue, Queens, NY 11373, USA"
@@ -488,6 +518,11 @@
         "lat": 33.8886289, 
         "lon": 35.4954794, 
         "normalized": "Beirut, Lebanon"
+    }, 
+    "Amman, Jordan": {
+        "lat": 31.9565783, 
+        "lon": 35.9456951, 
+        "normalized": "Amman, Jordan"
     }, 
     "Arsha Vijnana Gurukulam,                      \n5424 Forest Drive, Lake Park, GA 31636 USA": {
         "lat": 30.6788, 
@@ -569,10 +604,20 @@
         "lon": 77.244826, 
         "normalized": "New Delhi, Delhi 110014, India"
     }, 
+    "CISRS House, 14, Jangpura B, Mathura Road, Opp. Rajdoot Hotel, New Delhi-110014, India": {
+        "lat": 28.5815303, 
+        "lon": 77.244826, 
+        "normalized": "New Delhi, Delhi 110014, India"
+    }, 
     "Carl-Bertelsmann-Str. 256, 33311 Guetersloh, Germany": {
         "lat": 51.90829, 
         "lon": 8.419089999999999, 
         "normalized": "Carl-Bertelsmann-Stra\u00dfe 256, 33335 G\u00fctersloh, Germany"
+    }, 
+    "Centre Holistique Om West, 46 Ave. Sainte-Anne, Montreal, QC, H9S 4P8, Canada": {
+        "lat": 45.4295301, 
+        "lon": -73.8258989, 
+        "normalized": "46 Avenue Ste Anne, Pointe-Claire, QC H9S 4P8, Canada"
     }, 
     "Corso Vittorio Emanuele II, 294/10, 00186 Rome, Italy": {
         "lat": 41.8990751, 
@@ -588,6 +633,16 @@
         "lat": 12.9715987, 
         "lon": 77.5945627, 
         "normalized": "Bengaluru, Karnataka, India"
+    }, 
+    "Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore-560 029, India": {
+        "lat": 12.934665, 
+        "lon": 77.60517899999999, 
+        "normalized": "Dharmaram Vidya Kshetram, DVK Road, Bhavani Nagar, Bhavani Nagar, Sadduguntepalya, Bengaluru, Karnataka 560029, India"
+    }, 
+    "EWU University, 1027 Cedar Street, Room 104, Cheney, WA 99004, USA": {
+        "lat": 47.4937874, 
+        "lon": -117.5821534, 
+        "normalized": "1027 Cedar Street #104, Cheney, WA 99004, USA"
     }, 
     "Ecumenical Centre,\n150 route de Ferney,\n1218 Geneva, Switzerland": {
         "lat": 46.2289501, 
@@ -674,7 +729,27 @@
         "lon": -77.00511139999999, 
         "normalized": "110 Maryland Avenue Northeast #304, Washington, DC 20002, USA"
     }, 
+    "Incomplete: Hong Kong, China, Hong Kong Special Administrative Region": {
+        "lat": 22.396428, 
+        "lon": 114.109497, 
+        "normalized": "Hong Kong"
+    }, 
+    "Incomplete: Jerusalem, Israel": {
+        "lat": 31.768319, 
+        "lon": 35.21371, 
+        "normalized": "Jerusalem, Israel"
+    }, 
+    "Incomplete: Lahore, Pakistan": {
+        "lat": 31.55460609999999, 
+        "lon": 74.3571581, 
+        "normalized": "Lahore, Pakistan"
+    }, 
     "Institute of Jainology\nB/101 Samay Apartments\nNear Azad Society, Ambawadi\nAhmedabad-380015, India": {
+        "lat": 23.0190813, 
+        "lon": 72.5517075, 
+        "normalized": "Ambawadi, Ahmedabad, Gujarat, India"
+    }, 
+    "Institute of Jainology, B/101 Samay Apartments, Near Azad Society, Ambawadi, Ahmedabad-380015, India": {
         "lat": 23.0190813, 
         "lon": 72.5517075, 
         "normalized": "Ambawadi, Ahmedabad, Gujarat, India"
@@ -749,6 +824,11 @@
         "lon": 36.292, 
         "normalized": "Damascus, Syria"
     }, 
+    "Main Address JCSA: Fr. Edward Mudavassery, 225 Jor Bagh, 110 003, New Delhi, India": {
+        "lat": 28.587044, 
+        "lon": 77.214297, 
+        "normalized": "110, Jor Bagh, New Delhi, Delhi 110003, India"
+    }, 
     "Majdalani Bldg. 8th floor, Aalam St., Badaro District, Beirut, Lebanon": {
         "lat": 33.8886289, 
         "lon": 35.4954794, 
@@ -765,6 +845,11 @@
         "normalized": "Mittelweg 177, 20148 Hamburg, Germany"
     }, 
     "Mothers Trust Ashram Retreat,\nLakeshore Interfaith Community,\nRamakrishna Sarada Universal Temple,  6676 122nd Avenue\nFennville, Ganges, MI  49408, USA": {
+        "lat": 42.5769709, 
+        "lon": -86.210313, 
+        "normalized": "Ganges, MI 49408, USA"
+    }, 
+    "Mothers Trust Ashram Retreat, Lakeshore Interfaith Community, Ramakrishna Sarada Universal Temple, 6676 122nd Avenue, Fennville, Ganges, MI 49408, USA": {
         "lat": 42.5769709, 
         "lon": -86.210313, 
         "normalized": "Ganges, MI 49408, USA"
@@ -819,6 +904,11 @@
         "lon": 77.5849932, 
         "normalized": "Explore Ladakh, sankar road leh ladakh, Sankar Road, Leh, Jammu and Kashmir 194101, India"
     }, 
+    "PO Box # 4351, Sunnyside, NY 11104, USA": {
+        "lat": 40.7448741, 
+        "lon": -73.91981609999999, 
+        "normalized": "Sunnyside, NY 11104, USA"
+    }, 
     "PO Box 12205, Arlington, VA 22219-2205, USA": {
         "lat": 38.89, 
         "lon": -77.0699999, 
@@ -869,6 +959,11 @@
         "lon": -122.4665384, 
         "normalized": "San Francisco, CA 94129, USA"
     }, 
+    "PO Box 30446, Spokane, WA 99223, USA": {
+        "lat": 47.5888029, 
+        "lon": -117.3272224, 
+        "normalized": "Spokane, WA 99223, USA"
+    }, 
     "PO Box 316, Yorktown Heights, NY 10598, USA": {
         "lat": 41.2709274, 
         "lon": -73.7776336, 
@@ -899,6 +994,11 @@
         "lon": 35.21502, 
         "normalized": "Chopin Street, Jerusalem, Israel"
     }, 
+    "PO Box 447, Newport, WA 99156, USA": {
+        "lat": 48.1796277, 
+        "lon": -117.0432583, 
+        "normalized": "Newport, WA, USA"
+    }, 
     "PO Box 477, North Grosvenordale, CT 06255, USA": {
         "lat": 41.9856531, 
         "lon": -71.8986833, 
@@ -913,6 +1013,11 @@
         "lat": 31.768319, 
         "lon": 35.21371, 
         "normalized": "Jerusalem, Israel"
+    }, 
+    "PO Box 50003, 93105, Santa Barbara CA, USA": {
+        "lat": 34.4402467, 
+        "lon": -119.7289889, 
+        "normalized": "Santa Barbara, CA 93105, USA"
     }, 
     "PO Box 53413, Jerusalem 91533, Israel": {
         "lat": 31.768319, 
@@ -974,6 +1079,11 @@
         "lon": 11.5522965, 
         "normalized": "Pappenheimstra\u00dfe 4, 80335 Munich, Germany"
     }, 
+    "Parmarth Niketan, PO Swargashram, Rishikesh-249304, Himalayas, India": {
+        "lat": 30.1202595, 
+        "lon": 78.3122715, 
+        "normalized": "Swargashram, Swarg Ashram, Rishikesh, Uttarakhand 249304, India"
+    }, 
     "Pax Christi Australia\nPO Box A681\nSydney NSW\nAustralia": {
         "lat": -33.8674869, 
         "lon": 151.2069902, 
@@ -1009,6 +1119,11 @@
         "lon": 14.3897345, 
         "normalized": "Poho\u0159elec 149/6, 118 00 Prague-Prague 1, Czech Republic"
     }, 
+    "R. Manoel Barreto 135 Ed.\u00c1lvaro Gon\u00e7alves Nascimento sala 302-B Gra\u00e7a, Bahia, Salvador, Bahia, 40150-360, Brazil": {
+        "lat": -13.0016837, 
+        "lon": -38.5235419, 
+        "normalized": "Gra\u00e7a, Salvador - State of Bahia, 40150-360, Brazil"
+    }, 
     "Raiffeisenstra\u00dfe 4/18, 6850 Dornbirn, Austria": {
         "lat": 47.4076506, 
         "lon": 9.7288562, 
@@ -1019,10 +1134,25 @@
         "lon": 31.0218404, 
         "normalized": "Durban, South Africa"
     }, 
+    "Ramakrishna Centre of South Africa, 8 Montreal Road, Glen Anil, PO Box 40002, Red Hill, Durban 4071 South Africa": {
+        "lat": -29.85868039999999, 
+        "lon": 31.0218404, 
+        "normalized": "Durban, South Africa"
+    }, 
     "Ramakrishna Math & Ramakrishna Mission\nP.O. Belur Math-711202\nDist Howrah, West Bengal, India": {
         "lat": 22.5957689, 
         "lon": 88.26363940000002, 
         "normalized": "Howrah, West Bengal, India"
+    }, 
+    "Ramakrishna Math & Ramakrishna Mission, PO Belur Math 711202, Dist. Howrah, West Bengal, India": {
+        "lat": 22.5957689, 
+        "lon": 88.26363940000002, 
+        "normalized": "Howrah, West Bengal, India"
+    }, 
+    "Ramakrishna Mission Institute of Culture, Gol Park, 700029, Kolkata, India": {
+        "lat": 22.5151096, 
+        "lon": 88.36659809999999, 
+        "normalized": "The Ramakrishna Mission Institute Of Culture, South End Park, Dhakuria, Kolkata, West Bengal 700029, India"
     }, 
     "Ramakrishna Mission, Vivekananda University, PO Belur Math, Dist Howrah, West Bengal, 711202, India": {
         "lat": 22.6322886, 
@@ -1124,12 +1254,22 @@
         "lon": -105.2255786, 
         "normalized": "Boulder, CO 80308, USA"
     }, 
+    "Satyana Institute, PO Box 17904, Boulder, CO 80308, USA": {
+        "lat": 40.0537695, 
+        "lon": -105.2255786, 
+        "normalized": "Boulder, CO 80308, USA"
+    }, 
     "Schottenring 21, 1010 Vienna, Austria": {
         "lat": 48.2164325, 
         "lon": 16.3671679, 
         "normalized": "Schottenring 21, 1010 Vienna, Austria"
     }, 
     "Secretariat for Dialogue (JSD)\nFr. Thomas Kuriakose SJ (DEL), Secretary for Dialogue (JSD) De Nobili College, Ramwadi, Pune \u2013 411 014 Maharastra, India": {
+        "lat": 18.5555898, 
+        "lon": 73.9111205, 
+        "normalized": "De Nobili College, Ramwadi, Wadgaon Sheri, Pune, Maharashtra 411014, India"
+    }, 
+    "Secretariat for Dialogue, Fr. Thomas Kuriakose, De Nobili College, Ramwadi, Pune, 411 014 Maharastra, India": {
         "lat": 18.5555898, 
         "lon": 73.9111205, 
         "normalized": "De Nobili College, Ramwadi, Wadgaon Sheri, Pune, Maharashtra 411014, India"
@@ -1150,6 +1290,11 @@
         "normalized": "Rua Tamandar\u00e9, 1007 - Liberdade, S\u00e3o Paulo - State of S\u00e3o Paulo, 01525-001, Brazil"
     }, 
     "Sera Jey Monastic University\nP.O. Bylakuppe - 571104,\nMysore District (KN)\nIndia": {
+        "lat": 12.4199122, 
+        "lon": 75.9519303, 
+        "normalized": "Sera Mey Monastic University for Advanced Buddhist Studies and Practices, Bylakuppe, Karnataka 571104, India"
+    }, 
+    "Sera Jey Monastic University, PO Bylakuppe - 571104, Mysore District (KN), India": {
         "lat": 12.4199122, 
         "lon": 75.9519303, 
         "normalized": "Sera Mey Monastic University for Advanced Buddhist Studies and Practices, Bylakuppe, Karnataka 571104, India"
@@ -1199,6 +1344,11 @@
         "lon": -122.2668066, 
         "normalized": "Berkeley, CA 94709, USA"
     }, 
+    "The Earthville Network, PO Box 9232, Berkeley, CA 94709, USA": {
+        "lat": 37.8796524, 
+        "lon": -122.2668066, 
+        "normalized": "Berkeley, CA 94709, USA"
+    }, 
     "The Lutheran World Federation\nRoute de Ferney 150,\n P.O. Box 2100\n CH-1211 Geneva 2\n Switzerland": {
         "lat": 46.22999919999999, 
         "lon": 6.1287185, 
@@ -1244,6 +1394,11 @@
         "lon": -0.3096533, 
         "normalized": "Perivale, Greater London UB6 7JZ, UK"
     }, 
+    "Unit 18, Silicon Business Centre, 28 Wadsworth Road, Perivale, Greenford, Middlesex UB6 7JZ, UK": {
+        "lat": 51.5357621, 
+        "lon": -0.3096533, 
+        "normalized": "Perivale, Greater London UB6 7JZ, UK"
+    }, 
     "United Nations Headquarters, New York, NY 10017, USA": {
         "lat": 40.7488758, 
         "lon": -73.9680091, 
@@ -1258,6 +1413,16 @@
         "lat": 50.122879, 
         "lon": 8.844814399999999, 
         "normalized": "Pestalozzistra\u00dfe 2, 63165 M\u00fchlheim am Main, Germany"
+    }, 
+    "Vedanta Gesellschaft, Pestalozzistrasse 2, 63165 Muehlheim/Main, Germany": {
+        "lat": 50.122879, 
+        "lon": 8.844814399999999, 
+        "normalized": "Pestalozzistra\u00dfe 2, 63165 M\u00fchlheim am Main, Germany"
+    }, 
+    "Vedanta Society of N California, 2323 Vallejo Street, 94123, San Francisco, CA, USA": {
+        "lat": 37.794911, 
+        "lon": -122.435324, 
+        "normalized": "2323 Vallejo Street, San Francisco, CA 94123, USA"
     }, 
     "Via Vasari 6, 20135 Milano, Italia": {
         "lat": 45.45251810000001, 
