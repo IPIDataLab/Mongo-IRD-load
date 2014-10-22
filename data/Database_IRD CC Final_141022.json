@@ -1,0 +1,3209 @@
+[
+    {
+        "parent_org":[
+            "Minzu University of China (MUC)"
+        ],
+        "contacted":false,
+        "regionfocus":[
+            "China"
+        ],
+        "main_names":[
+            "\u6bd4\u8f83\u7ecf\u5b66\u4e0e\u5b97\u6559\u95f4\u5bf9\u8bdd\u521b\u65b0\u5f15\u667a\u57fa\u5730"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":39.959912,
+                "lon":116.298056,
+                "normalized":"Haidian, Beijing, China",
+                "address":"Philosophy and Religious School, Minzu University of China, No.27 Zhongguancun South Street, Haidian, Beijing, China"
+            }
+        },
+        "aim_URL":"http://ics.muc.edu.cn/en/list2.asp?artid=585",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "religious_affiliation":"No information",
+        "languages":[
+            "Chinese",
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "6.1b",
+            "6.2b",
+            "6.3b",
+            "6.1c",
+            "6.2c",
+            "6.3c",
+            "6.1g",
+            "6.1j",
+            "6.1l",
+            "6.2l",
+            "6.3l"
+        ],
+        "finances":"No information",
+        "website":"http://ics.muc.edu.cn/en/",
+        "foundation":"2011",
+        "acronym":"ICS",
+        "email_gen":"mucdialogue@gmail.com",
+        "IRD_activities":[],
+        "name_en":"Institute of Comparative Scripture and Inter-religious Dialogue",
+        "structure":"ICS consists of nine research teams, overseen by a committee of eight  members and a leader.",
+        "other_relations":[
+            "The University of Cambridge, Cambridge, UK",
+            "The University of Virginia, Charlottesville, VA, USA",
+            "Harvard University, Cambridge, MA, USA"
+        ],
+        "IRD_def":"Researchers of different religions meet once a month for comparative scripture reading. The aim is to read texts of different religious traditions related to a specific topic each time. Members of the Institute will select the topics of the workshop in turn, and other members will choose the texts from each religious tradition under the specified topic and arrange them together as reading materials. The process of comparative scripture reading will include exegesis, comparison and dialogue.",
+        "country":"China",
+        "events":[
+            "2012: The second seminar of Comparative Scripture, with the theme \"Suffering\", Beijing, China",
+            "2012: The semiar of \"Political Theology of the New Testament\", Beijing, China",
+            "2013: The visit of Southern Methodist University at Institute of Comparative Scripture and Inter-religious Dialogue, Beijing, China"
+        ],
+        "aim":"Conduct comparative research in the classical or scriptural traditions of the great world religions and to engage in inter-religious dialogue. Provide a platform for greater understanding of one's own scriptural tradition by means of comparing it to scriptures of other traditions.",
+        "org_type":[
+            "R",
+            "j"
+        ],
+        "publications":[
+            "Journal of Comparative Scripture' (2013, periodical)",
+            "'Series of Sino-Christian Scriptural Studies'",
+            "'Series of Comparative Scripture'"
+        ],
+        "IRD_def_URL":"http://ics.muc.edu.cn/en/list1.asp?artid=588",
+        "entry":{
+            "date":"20140512",
+            "author":"CC"
+        },
+        "general_activities":[],
+        "history":"Founded in 2011."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "main_names":[
+            "\u57fa\u7763\u6559\u6587\u5316\u7814\u7a76\u6240"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":22.396428,
+                "lon":114.109497,
+                "normalized":"Hong Kong",
+                "address":"33 Tao Fong Shan Road, Shatin, Hong Kong, China, Hong Kong Special Administrative Region"
+            }
+        },
+        "aim_URL":"http://www.iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Cid=4&Pid=2&Version=0&Charset=iso-8859-1&page=0",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "China"
+        ],
+        "languages":[
+            "Chinese",
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "6.1b",
+            "6.2b",
+            "6.3b",
+            "6.1c",
+            "6.2c",
+            "6.3c",
+            "6.1g",
+            "6.2g",
+            "6.3g",
+            "6.1h",
+            "6.2h",
+            "6.3h",
+            "6.1j",
+            "6.2j",
+            "6.1k",
+            "6.2k",
+            "6.1l",
+            "6.2l",
+            "6.3l",
+            "12b",
+            "12c",
+            "12g",
+            "12h",
+            "12j",
+            "12k",
+            "12l"
+        ],
+        "finances":"No information",
+        "website":"http://www.iscs.org.hk/",
+        "foundation":"1995",
+        "acronym":"ISCS",
+        "email_gen":"info@iscs.org.hk",
+        "IRD_activities":[],
+        "name_en":"Institute of Sino-Christian Studies",
+        "structure":"5 board members; 14 members of the Academic Committee; Program Department; Publication Department; Director; Senior Executive Officer; Accounting & Administration Manager; Administration Assistant; Senior Office Assistant; 3 Research Fellows; 3 Research Fellows in Mainland China; 3 Research Fellows in Oversea;",
+        "other_relations":[
+            "Tao Fong Shan Service Unit, Hong Kong, China, Hong Kong Special Administrative Region",
+            "Tao Fong Shan Christian Centre, Hong Kong, China, Hong Kong Special Administrative Region",
+            "Lutheran Theological Seminary, Hong Kong, China, Hong Kong Special Administrative Region",
+            "Cambridge University Inter-Faith Programme, Cambridge, UK"
+        ],
+        "IRD_def":"To promote a multi-disciplinary studies of Christian thought and culture among humanities scholars; and to facilitate the interaction between the study of Chinese Christian culture and contemporary Chinese humanities; To invite and mobilize scholars from China and across the world, in the church and non-church affiliated, to construct Sino-Christian theology, which is oriented to international dialogues; To develop trans-religious, trans-denominational dialogue and cooperation between Chinese and International scholars from Protestant, Catholic, Orthodox and other traditions in an ecumenical spirit.",
+        "country":"Hong Kong",
+        "events":[
+            "2004: The Visitor's Internal Seminar: Professor LI Qiulin, Renmin University of China,\"Kant, Confucius and Sino-Christianity\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2005: The Visitor's Internal Seminar, Mr. Qi Xiao Dong, Shandong University \"Religious Dialogue in Tillich's Thought\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2005: Academic Conference: Dr. Keith Chan participated in the conference \"An International Symposium on Environmental Ethics: An Inter-Religious Dialogue\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2006: Internal Seminar for Visiting Scholars & Visiting Students in ISCS, paper presented: Fudan University \"Dialogue between Buddhism and Jesuits at Late Ming and Early Qing: An Eschatological Perspective\", Hong Kong, China, Hong Kong Special Administrative Region",
+            "2008: The 6th Christrianity Research Exchange Camp, under the theme \"the dialogue between Christrianity and Confuciansim\", Hong Kong, China, Hong Kong Special Administrative Region"
+        ],
+        "aim":"Promot Christian studies, constructing Sino-Christian theology, enriching Chinese culture.",
+        "org_type":[
+            "E",
+            "j"
+        ],
+        "publications":[
+            "Newsletters' (2013, periodical)",
+            "'Chinese Journal of Theology' (2014, peoridical)",
+            "'Ancient Series'",
+            "'Modern Series'",
+            "'Research Series'",
+            "'Logos & Pneuma Translation Series'",
+            "'Institute of Sino-Christian Studies Monographs Series'"
+        ],
+        "IRD_def_URL":"http://www.iscs.org.hk/Common/Reader/Channel/ShowPage.jsp?Cid=4&Pid=2&Version=0&Charset=iso-8859-1&page=0",
+        "entry":{
+            "date":"20140519",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"\"Visiting Scholar\"",
+                "activity_description":"\"Tao Fong Research Fund\" was established to support scholars with advanced academic degrees from Mainland China researching in Hong Kong;"
+            },
+            {
+                "activity_name":"Academic Activities",
+                "activity_description":"Organising independently or cooperatively through various channels such as small and medium scale seminars, open lectures, short-term intensive and regular semester-long courses;"
+            },
+            {
+                "activity_name":"\"Tao Fong Scholarship\"",
+                "activity_description":"was established in corporation with several renowned universities in Mainland China to motivate young scholars in China to devote themselves to Sino-Christian studies; 5. Tao Fong Literary Prize \"Xu Guangqi (Paul Hsu) Prize\" is awarded for the most outstanding theological thesis and the \"Reichelt Prize\" for the most distinguished Chinese translation of theological works;"
+            },
+            {
+                "activity_name":"Publications",
+                "activity_description":"Own both Logos & Pneuma Press and  Ming Feng Press to publish Christian related journals and books;"
+            }
+        ],
+        "history":"In 1995, the \"Institute of Sino-Christian Studies\" formally came into being as a non-profit academic institute registered with the Government of Hong Kong Special Administrative Region."
+    },
+    {
+        "parent_org":[
+            "Palpung monastery"
+        ],
+        "contacted":false,
+        "regionfocus":[
+            "World"
+        ],
+        "main_names":[
+            "\u516b\u868c\u5168\u7403\u7db2\u8def\u4e2d\u5fc3"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":32.0518076,
+                "lon":76.6895485,
+                "normalized":"Palpung Sherabling Monastery, Sansal - Palpung Sherabling Monastery Road, Keori, Himachal Pradesh 176125, India",
+                "address":"Palpung Sherabling Monastery, Sansal - Palpung Sherabling Monastery Rd, Keori, Himachal Pradesh 176125, India"
+            },
+            "Address2":{
+                "lat":31.441711,
+                "lon":98.83416799999999,
+                "normalized":"Dege Babangxiang Forestry Studio, Dege, Garze, Sichuan, China",
+                "address":"Babangxiang, Dege, Garze, Sichuan,  627253, China"
+            },
+            "Address3":{
+                "lat":48.20583380000001,
+                "lon":16.1930878,
+                "normalized":"Wiener Street 33, 3002 Purkersdorf, Austria",
+                "address":"Palpung Yeshe Ch\u00f6ling Europe, Wiener Stra\u00dfe 33, 3002 Purkersdorf, Austria"
+            },
+            "Address4":{
+                "lat":37.329019,
+                "lon":-121.822646,
+                "normalized":"2175 Santiago Avenue, San Jose, CA 95122, USA",
+                "address":"2175 Santiago Ave, San Jose, CA 95122, USA"
+            },
+            "Address5":{
+                "lat":-41.420767,
+                "lon":147.137179,
+                "normalized":"13-15 Bryan Street, Invermay TAS 7248, Australia",
+                "address":"13-15 Bryan St, Launceston, TAS 7248, Australia"
+            }
+        },
+        "aim_URL":"https://www.palpung.org/english/interfaith/default.asp",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "religious_affiliation":[
+            "Lamaism",
+            "Tibetan Buddhism"
+        ],
+        "languages":[
+            "Chinese",
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "6.2b",
+            "6.1c",
+            "6.2c",
+            "6.1e",
+            "6.2g",
+            "6.1h",
+            "11h",
+            "1j",
+            "6.1j",
+            "6.2j",
+            "1k",
+            "6.1k",
+            "6.2k",
+            "11m",
+            "12b",
+            "12c",
+            "12d",
+            "12g",
+            "12h",
+            "12j",
+            "12k",
+            "12l",
+            "12m"
+        ],
+        "finances":"Palpung Munishasan Dharmachakra Sangh Foundation",
+        "website":"http://www.palpung.org/english",
+        "foundation":"1727",
+        "email_gen":"infoschedule555@gmail.com",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Visiting holy sites around the world and meeting the leaders of different religious traditions;"
+            }
+        ],
+        "name_en":"Palpung Web Center",
+        "structure":"Palpung is the Karma Kagyu mother monastery in Eastern Tibet, and has more than 180 branch monasteries and temples spread throughout several Chinese and Tibetan districts.",
+        "other_relations":"No information",
+        "IRD_def":"Interfaith dialogue and interreligious harmony are an important aspect of Chamgon Kenting Tai Situpa's vision. He believes that through understanding each other's traditions and history, and making pilgrimage to each other's holy places, people can develop a more profound understanding of each other's religions. This in turn creates mutual respect, understanding and positive energy, leading to greater world peace.",
+        "country":"India",
+        "events":[
+            "2012: The official opening of Palpung Sherabling Health and Relief Voluntary Organization, Himachal Pradesh, India",
+            "2012: Participating in World Buddhist Conference at Kuala Lampur on the theme of \"Transcending Negative Emotions\", Kuala Lampur, Malaysia",
+            "2013: Guru Vajradhara was invited to an International conference and exhibition on the great master \"Atisa Dipankara Srijnana and Culture Renaissance\" was organized by the Indira Gandhi national centres of art for three days, New Delhi, India",
+            "2013: Participating in the 1st Founding Conclave of the International Buddhist Confederation, New Dehli, India",
+            "2013: Guru Vajradhara Chamgon Kenting Tai Situpa bestowed the Red Crown ceremony and long life empowerment at the Palpung Sherabling Monastic Seat, Himachal Pradesh, India",
+            "2014: Palpung Munishasan Dharmachakra Sangh arranged a free medical eye camp at Bhabanagar Community Health Center, Himachal Pradesh, India",
+            "2014: Prayers for the gas explosions in Kaohsiung,  Himachal Pradesh, India",
+            "2014: The Annual Graduation Ceremony of Palpung Lungrig Jampal Ling Shedra (Monastic College for Higher Buddhist Studies), was held for those who have completed many years of studies and teachings of the Lord Buddha, Sarnath, India",
+            "2014: Guru Vajradhara Chamgon Kenting Tai Situpa gave a teaching on the \"Heart of Compassion\" at the request of the Tushita Dharma Center, New Delhi, India"
+        ],
+        "aim":"Carry out the vision of the leader, Chamgon Kenting Tai Situpa, to inspire people to take an active involvement in world peace.",
+        "org_type":[
+            "R",
+            "f"
+        ],
+        "publications":[
+            "9 books of The present 12th Kenting Tai Situpa's teachings (2006)"
+        ],
+        "IRD_def_URL":"https://www.palpung.org/english/interfaith/default.asp",
+        "entry":{
+            "date":"20140512",
+            "author":"CC"
+        },
+        "general_activities":[],
+        "history":"The 8th Kenting Tai Situpa Chokyi Jugne founded the great Palpung monastery in 1727."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Buddhism",
+            "Hinduism"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":35.6868248,
+                "lon":139.7195924,
+                "normalized":"Samoncho, Shinjuku, Tokyo 160-0017, Japan",
+                "address":"SGI Headquarters, Josei Toda International Center, 15-3 Samon-cho, Shinjuku-ku, Tokyo, 160-0017, Japan"
+            },
+            "Address2":{
+                "lat":49.96868,
+                "lon":7.925719999999998,
+                "normalized":"Mainzer Stra\u00dfe 184, 55411 Bingen, Germany",
+                "address":"SGI-D Kulturzentrum Villa Sachsen, Mainzerstra\u00dfe 184, 55411 Bingen, Deutschland"
+            },
+            "Address3":{
+                "lat":-23.5670833,
+                "lon":-46.6374273,
+                "normalized":"Rua Tamandar\u00e9, 1007 - Liberdade, S\u00e3o Paulo - State of S\u00e3o Paulo, 01525-001, Brazil",
+                "address":"Sede Central da BSGI, Rua Tamandar\u00e9, 1007, Liberdade, S\u00e3o Paulo, SP, 01525-001, Brasil"
+            },
+            "Address4":{
+                "lat":34.0208086,
+                "lon":-118.4958896,
+                "normalized":"606 Wilshire Boulevard, Santa Monica, CA 90401, USA",
+                "address":"SGI-USA Visitor Center, 606 Wilshire Blvd., Santa Monica, CA 90401, USA"
+            },
+            "Address5":{
+                "lat":-33.845505,
+                "lon":151.072985,
+                "normalized":"3 Parkview Drive, Sydney Olympic Park NSW 2127, Australia",
+                "address":"SGI Australia Culture Center, 3 Parkview Drive, Sydney Olympic Park, NSW 2127, Australia"
+            }
+        },
+        "aim_URL":"http://www.sgi.org/community-initiatives/action-for-change.html",
+        "staff":"No information",
+        "IO_relations":[
+            "Toda Institute, Honolulu, HawaiI, USA",
+            "Toda Institute, Tokyo, Japan"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "Chinese",
+            "English",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "4a",
+            "1b",
+            "2.9b",
+            "3b",
+            "4b",
+            "6.1b",
+            "7b",
+            "8b",
+            "11b",
+            "1c",
+            "2.9c",
+            "3c",
+            "4c",
+            "6.1c",
+            "7c",
+            "8c",
+            "11c",
+            "1g",
+            "2.9g",
+            "3g",
+            "4g",
+            "6.1g",
+            "7g",
+            "8g",
+            "11g",
+            "1h",
+            "2.9h",
+            "3h",
+            "4h",
+            "6.1h",
+            "7h",
+            "8h",
+            "11h",
+            "1i",
+            "1j",
+            "2.9j",
+            "3j",
+            "4j",
+            "6.1j",
+            "7j",
+            "8j",
+            "11j",
+            "1k",
+            "6.1k",
+            "11k",
+            "1l",
+            "2.9l",
+            "3l",
+            "4l",
+            "11m",
+            "12b",
+            "12c",
+            "12d",
+            "12e",
+            "12g",
+            "12h",
+            "12j",
+            "12k",
+            "12l",
+            "12m"
+        ],
+        "finances":"Donations",
+        "website":"http://www.sgi.org/",
+        "foundation":"1975",
+        "acronym":"SGI",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"SGI groups around the world actively participate in interfaith dialogue and initiatives; "
+            },
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"President Ikeda Ikeda is a pioneering champion of dialogue as a means to bridge cultural divides and seek solutions to global issues facing humanity. He has conducted extensive dialogues, many of which have been published, with leading representatives of the worlds of education, culture, politics, the sciences and the arts;"
+            }
+        ],
+        "name_en":"Soka Gakkai International",
+        "contact_person":[
+            "Hirotsugu Terasaki",
+            null
+        ],
+        "structure":"There are SGI members in 192 countries and territories and 93 registered constituent SGI organizations. \nBoard of Directors, composed of Directors, General Director, Vice Presidents and Standing Directors. Executive Office (administrative body).",
+        "other_relations":[
+            "Soka University, Tokyo, Japan",
+            "Institute of Oriental Philosophy, Tokyo, Japan",
+            "Min-On, Tokyo, Japan",
+            "Tokyo Fuji Art Museum, Tokyo, Japan",
+            "Soka University of America, Aliso Viejo, CA, USA",
+            "Ikeda Center, Cambridge, Massachusetts, USA"
+        ],
+        "IRD_def":"SGI groups around the world actively participate in interfaith dialogue and initiatives aimed at building understanding between peoples of different faiths.",
+        "country":"Japan",
+        "events":[
+            "2012: SGI Participates in Interfaith Dialogue Based on Science and Religion, Gombak, Malaysia",
+            "2012: SGI-Australia Youth Strengthen Interfaith Connections Through Dialogue, Sydney, Australia",
+            "2012: The Institute of Oriental Philosophy (IOP) Co-organizes Symposium with University of Malaya's Centre for Civilisational Dialogue, Kuala Lumpur, Malaysia",
+            "2012: SGI-UK Members Strengthen Interfaith Understanding at Jubilee Celebration and Buddhist Convention, London, UK",
+            "2012: SGI-New Zealand Co-organizes UN Peace Day Gathering, Wellington, New Nealand",
+            "2013: SGI-Italy Hosts Interfaith Discussion on Religion's Role in Peacebuilding, Cagliari, Italy",
+            "2013: Interfaith Conferences Held in France on Values Needed to Reform Economy, Lyon, France",
+            "2013: SGI-UK Members Support Night of Interfaith Music and Food at Jewish Museum in London, London, UK",
+            "2013: SGI-UK Hosts Conference on Role of Buddhist Philosophy in Transforming Conflict, Maidenhead, UK",
+            "2013: SGI-Canada Participates in Multifaith Dialogue on Adversity, Vancouver, BC, Canada",
+            "2013: Lecture on Lotus Sutra and Interfaith Symposium Held in Spain, Rivas-Vaciamadrid, Spain",
+            "2014: Buddhist Youth Step Up Momentum toward Nuclear Abolition, Spread Message of Peace, Nagasaki, Japan",
+            "2014: Faith Groups Unite on Nuclear Weapons Abolition and Issue Joint Statement, Washington DC, USA",
+            "2014: SGI-Spain Hosts Interfaith Symposium, Lecture on Media and Religion, Rivas-Vaciamadrid, Spain",
+            "2014: Singapore Soka Association (SSA)  Strengthens Interfaith Ties, Singapore",
+            "2014: SGI-Canada Joins World Interfaith Harmony Week Events, Abbotsford, BC, Canada"
+        ],
+        "aim":"Achieve positive change both in the lives of individuals and society as a whole through a wide-ranging community initiatives to foster a culture of peace, empowering people and forging links.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "SGI Quarterly magazine' (2014, peoridical)",
+            "Lotus Sutra Manuscript series",
+            "The Writings of Nichiren Daishonin",
+            "The Soka Gakkai Dictionary of Buddhism"
+        ],
+        "IRD_def_URL":"http://www.sgi.org/community-initiatives/interfaith.html",
+        "entry":"CC,01.05.2014",
+        "general_activities":[
+            {
+                "activity_name":"Human Rights Education",
+                "activity_description":"SGI's activities are to promote human rights education focus on respect for the equality and dignity of all people and treasuring each individual;"
+            },
+            {
+                "activity_name":"Sustainable Development",
+                "activity_description":"SGI promotes sustainable living through education efforts using original tools and resources created in support of the UN Decade of Education for Sustainable Development; 4. SGI organises cultural and musical events help to build mutual appreciation of diverse cultural heritages and strengthen people-to-people links in order to lay a solid foundation for a peaceful world;"
+            },
+            {
+                "activity_name":"Education",
+                "activity_description":"SGI originally founded to promote educational reform in Japan, SGI today is committed to fostering empowered global citizens through grassroots education initiatives and lifelong learning; 6. Present Ikeda has campaigned for the abolition of nuclear weapons and promoted peace by giving lectures and participating in dialogues;"
+            },
+            {
+                "activity_name":"Writing on Buddhism",
+                "activity_description":"Present Ikeda writes and publishes his thoughts and interpretation of Buddhism; 8. Religious activities;"
+            },
+            {
+                "activity_name":"\"From a Culture of Violence to a Culture of Peace",
+                "activity_description":"Transforming the Human Spirit\" exhibition, petition drives and the People's Decade for Nuclear Abolition campaign;"
+            }
+        ],
+        "history":"The SGI was founded on January 26, 1975, but the movement has its roots in 1930s Japan."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":41.766203,
+                "lon":12.711415,
+                "normalized":"Via Frascati, 306, 00040 Rocca di Papa Rome, Italy",
+                "address":"Via di Frascati, 306\n00040 Rocca di Papa, Rome, Italy"
+            }
+        },
+        "aim_URL":"http://www.focolare.org/press/files/2011/04/20140619_MovimentoDeiFocolari_Scheda_Presentazione_EN.pdf",
+        "staff":"No information",
+        "IO_relations":[
+            "United Nations, Economic and Social Council (ECOSOC), New York, NY, USA",
+            "Pontifical Council for the Laity, Rome, Italy",
+            "Religions for Peace, Watford, UK",
+            "Council of European Bishops' Conferences, St Gallen, Switzerland"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "Chinese",
+            "English",
+            "Italian",
+            "French",
+            "Portuguese",
+            "German",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "4b",
+            "6.9b",
+            "6.1b",
+            "6.2b",
+            "7b",
+            "12b",
+            "1c",
+            "6.9c",
+            "6.1c",
+            "6.2c",
+            "12c",
+            "12d",
+            "1g",
+            "4g",
+            "6.1g",
+            "6.2g",
+            "7g",
+            "10g",
+            "12g",
+            "1h",
+            "4h",
+            "6.1h",
+            "6.2h",
+            "7h",
+            "10h",
+            "12h",
+            "1j",
+            "4j",
+            "6.1j",
+            "6.2j",
+            "7j",
+            "10j",
+            "11j",
+            "12j",
+            "1k",
+            "6.1k",
+            "12k",
+            "6.9l",
+            "6.1l",
+            "6.2l",
+            "12l",
+            "11m",
+            "12m"
+        ],
+        "finances":"No information",
+        "website":"http://www.focolare.org/en",
+        "foundation":"1994",
+        "acronym":"Focolare",
+        "email_gen":"sif.press@focolare.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Manila, Philippines"
+                ],
+                "activity":"A school for dialogue in the Focolare town at Tagaytay"
+            }
+        ],
+        "name_en":"Focolare Movement",
+        "contact_person":[
+            "Benjamim Ferreira; Victoria G\u00f3mez",
+            null
+        ],
+        "structure":"General Council, consisting of woman President, general counsellors, persons in charge of sections and central activities and representatives of the Movement in the various countries. Sections: (i) Focolarini - individual lay people living in small communities of men or women, known as 'Focolare', joined by married people living in their own homes but part of the communities, known as 'Married Focolarini'; the Focolare are the basic structure of the Movement. (ii) 'Volunteers' - men and women living in their own homes but totally sharing the spirituality of the Focolare and committed to live this spirituality in the various environments in which they work in order to bring about a renewal of society. (iii) 'Priests' - who have taken the Focolare spirituality as their own and with it animate their pastoral and ecclesial life. (iv) Movement of Religious Men and Women - Movement of men or women belonging to different congregations, sharing the spirituality of Focolare. (v) 'Gen' - young people (boys and girls) who commit themselves in a total way to live the Focolare spirituality and work with the other sections to bring about unity in the world.",
+        "other_relations":"No information",
+        "IRD_def":"The Focolare Movement is committed to promoting dialogue between religions, because the religious pluralism of the world should not be a cause of division and war, but contribute to the building of brotherhood and world peace.",
+        "country":"Italy",
+        "events":[
+            "2011: Philippines: at the school of religions: The School for Oriental Religions in Tagaytay gathered 250 participants from different countries to learn to dialogue in a spirit of reciprocal respect, Manila, Philippines",
+            "2012: Christians and Hindus in Dialogue: Sixty Hindu and Christian scholars gather at a symposium entitled: \"Reading, interpreting and living the Scriptures as a way of bringing about universal fraternity and peace.\", Lonavla, India",
+            "2012: Sophia Institute: Buddhism and Fraternity: The thesis of the first Buddhist student at the University Institute in Loppiano, comparing the thought of Buddhadasa Bhikkhu and Chiara Lubich, Florence, Italy",
+            "2012: Worldwide educators meet in Rome: How can we best educate children in human values and faith? How can we give them an experience of God's love? These were questions raised by 180 educators from all over the world who attended a week of study and reflection, Rome, Italy",
+            "2013: The human person in Sub-Saharan Africa: A 10th course on inculturation has taken place at Mariapolis Piero's Centre for Inculturation. The 287 participants included clergy, laity and young people from all the geographic region of the African continent, Nairobi, Kenya",
+            "2013: Chiara Lubich: A Charism Between History and Culture: More than 600 people, including professors and scholars, gather at La Spapienza University to remember the figure of the Focolare founder, tracing the development and actualisations of her spiritual doctrine, Rome, Italy",
+            "2013: Asia: training in interreligious dialogue: The 2013 Course on Dialogue with Eastern Religions was held . The sacred Scriptures of these religions were explored as a contribution to world peace, Bangkok, Thailand",
+            "2014: Christian-Buddhist dialogue at Sophia University, Florence, Italy",
+            "2014: Faith and Reason: Two Doctorates for Dialogue, Notre Dame, IN, USA"
+        ],
+        "aim":"It is committed to contribute to an ever greater unity within the Catholic Church between individuals, institutions, associations, groups and movements; to establish fellowship and common witness with  Christians of other Churches; to achieve dialogue, shared activities, and the deepest union possible in God with those who follow other religions; to dialogue and cooperate with people of non-religious convictions; to dialogue with people engaged in the various fields of culture and human realities.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "New City' (2014, periodical)",
+            "'Living City' (2014, periodical)",
+            "'Word of Life' (2014, periodical)",
+            "'Youth for Unity News' (2014, periodical)",
+            "'Gen's' (2014, periodical)",
+            "'New Humanity' (2014, periodical)",
+            "'Unity and Charisms' (2014, periodical)"
+        ],
+        "IRD_def_URL":"http://www.focolare.org/en/in-dialogo/grandi-religioni/",
+        "entry":{
+            "date":"20140626",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"New Families Movement, arising from the married Focolarini, for the unity of the family, with a particular care for those who are suffering or in difficulty. Activities include",
+                "activity_description":"10. New Humanity Movement, arising from the Volunteers section, for the renewal of society, through the various worlds:"
+            }
+        ],
+        "history":"Founded in 1944"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":59.9172752,
+                "lon":10.742447,
+                "normalized":"Bernhard Getz' gate 3, 0165 Oslo, Norway",
+                "address":"Bernhard Getz' gate 3, 0165 Oslo, Norway"
+            }
+        },
+        "aim_URL":"http://www.kirkensnodhjelp.no/en/about-nca/",
+        "staff":[
+            "Employees in Norway: 138.3",
+            "Employees abroad: 768"
+        ],
+        "IO_relations":[
+            "ACT Alliance, Geneva, Switzerland",
+            "The World Council of Churches, Geneva, Switzerland",
+            "The Lutheran World Federation, Geneva, Switzerland",
+            "Action by Churches Together, Geneva, Switzerland",
+            "Interfaith Coalition for Peace, New Delhi, India",
+            "Norwegian Refugee Council, Oslo, Norway"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "Norwegian"
+        ],
+        "international":true,
+        "subject":[
+            "8a",
+            "11a",
+            "1b",
+            "4b",
+            "6.9b",
+            "6.1b",
+            "6.2b",
+            "7b",
+            "8b",
+            "9b",
+            "11b",
+            "1c",
+            "4c",
+            "6.9c",
+            "6.1c",
+            "6.2c",
+            "7c",
+            "8c",
+            "9c",
+            "11c",
+            "7d",
+            "8d",
+            "1e",
+            "11e",
+            "11f",
+            "1g",
+            "4g",
+            "6.9g",
+            "6.1g",
+            "6.2g",
+            "7g",
+            "8g",
+            "9g",
+            "11g",
+            "1h",
+            "4h",
+            "6.9h",
+            "6.1h",
+            "6.2h",
+            "7h",
+            "8h",
+            "9h",
+            "11h",
+            "1j",
+            "4j",
+            "6.1j",
+            "6.2j",
+            "7j",
+            "8j",
+            "9j",
+            "11j",
+            "1k",
+            "7k",
+            "8k",
+            "9k",
+            "11k",
+            "1m",
+            "4m",
+            "8m",
+            "9m",
+            "11m",
+            "12b",
+            "12c",
+            "12g",
+            "12h",
+            "12j",
+            "12k",
+            "12m"
+        ],
+        "finances":"Individual private donors; Contributions from the Norwegian authorities; international donors;",
+        "website":"http://www.kirkensnodhjelp.no/en/",
+        "foundation":"1945",
+        "acronym":"NCA",
+        "email_gen":"nca-oslo@nca.no",
+        "IRD_activities":[],
+        "name_en":"Norwegian Church Aid",
+        "contact_person":[
+            "Anne-Marie N. Helland",
+            "nca-gs@nca.no"
+        ],
+        "structure":"General Secretary; Department for International Programmes; Department for Development Policy; HR Department; Finance Department; Department for Communication; Marketing Department",
+        "other_relations":"No information",
+        "IRD_def":"NCA's work in India focuses on peace and reconciliation through interreligious dialogue to deal with local conflicts.",
+        "country":"Norway",
+        "events":[
+            "2011: African faith groups call for climate justice: 130 African faith leaders met in Nairobi to end 20 years of effective impasse in the climate negotiations, Nairobi, Kenya",
+            "2011: Malawi trafficking conference, Malawi, Kenya",
+            "2011: We have faith-campaign launched in South Africa: Religious leaders from a wide range of different faith communities were present when the We have faith, Durban, South Africa",
+            "2012: Successful nursing education conference in Malawi, Malawi, Kenya",
+            "2014: Health sector emergency in Gaza: NCA and other 40 organizations warn of Palestinian health sector emergency as violence and confrontations escalate, Gaza, Isral",
+            "2014: Renewal of Darfur commitment: After 10 years in Darfur NCA and partners now renew our engagement in the region, Khartoum, Sudan",
+            "2014: Humanitarian assistance to survivors of typhoon, Basey, Philippines",
+            "2014: NCA supports to the Access to new energy for indigenous peoples, Quich\u00e9, Guatemala",
+            "2014: New Global Interfaith Network: the new Global Interfaith Network for People of all Sexes, Sexual Orientations, Gender Identities and Expressions was established in South Africa, Sandton, South Africa",
+            "2014: Alternative Mining Conference, Cape Town, South Africa"
+        ],
+        "aim":"Eradicate poverty and injustice through people and organisations across the world.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "Annual Review' (2014, periodical)",
+            "'Global Report ' (2013, periodical)",
+            "'Reports' (2014, periodical)"
+        ],
+        "IRD_def_URL":"http://www.kirkensnodhjelp.no/en/where-we-work/india/",
+        "entry":{
+            "date":"20140707",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Changing lives",
+                "activity_description":"Norwegian Church Aid engages in long-term commitments to provide aid to poor and oppressed groups, to strengthen the ability of people to cope with their life situation, and to contribute to changes in the structures that cause oppression and poverty;"
+            },
+            {
+                "activity_name":"Changing the world",
+                "activity_description":"Norwegian Church Aid seeks to influence the decisions made by authorities and businesses with regard to issues that affect the political, economic and social rights of the poor; 4. 892,000 people received access to clean water and good sanitation in 2013; 5. 7,865 people affected by HIV and AIDS received care and support; 6. 1,239,043 people gained a better understanding of women\u2019s rights; 7. 77,020 people's vulnerability was reduced by climate change adaptation work in 2013; 8. 598,312 people were reached by healthcare programmes in 2013; 9. 41,395 people organised themselves in groups to improve their own and each other's livelihood;"
+            }
+        ],
+        "history":"Norwegian Church Aid began in 1947 as a small fundraising drive by Norwegian churches. Today, NCA is one of the Nordic countries\u2019 largest aid organisations."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Islam"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":40.8108221,
+                "lon":-73.9639856,
+                "normalized":"475 Riverside Drive #248, Columbia University, New York, NY 10115, USA",
+                "address":"475 Riverside Drive - Suite 248, New York, NY 10115, USA"
+            }
+        },
+        "aim_URL":"http://www.asmasociety.org/about/index.html",
+        "staff":"No information",
+        "IO_relations":[
+            "Carnegie Corporation of New York, New York, NY, USA",
+            "Rockefeller Brothers Fund, New York, NY, USA",
+            "Rockefeller Philanthropy, New York, NY, USA",
+            "Global Fund for Women, San Francisco, CA, USA",
+            "Henry Luce Foundation, New York, NY, USA",
+            "Hunt Alternatives, Cambridge, MA ,USA"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "6.2b",
+            "2.3c",
+            "6.1c",
+            "6.2c",
+            "8c",
+            "7d",
+            "8d",
+            "2.3g",
+            "6.1g",
+            "6.2g",
+            "6.3g",
+            "7g",
+            "8g",
+            "2.3h",
+            "6.1h",
+            "6.2h",
+            "6.3h",
+            "7h",
+            "8h",
+            "2.3j",
+            "6.1j",
+            "6.2j",
+            "6.3j",
+            "7j",
+            "8j",
+            "6.1k",
+            "6.2k",
+            "7k",
+            "8k",
+            "12b",
+            "12c",
+            "12d",
+            "12g",
+            "12h",
+            "12j",
+            "12k"
+        ],
+        "events":[
+            "2012: Interfaith Story Feast, New York, NY, USA",
+            "2013: Jewish and Muslim Women's Twinnings, New York, NY, USA",
+            "2013: Interfaith Comedy Feast, New York, NY, USA",
+            "2013: First Convocation of First Ladies of Africa, Asia, Latin America and the Caribbean: Building Bridges, Sharing Experiences, Bridging the Gaps at United Nations, New York, NY, USA",
+            "2013: Interfaith Dialogue, Religious Freedom, and Combatting Violent Extremism, Washington, DC, USA",
+            "2013: Interfaith Dialogue Dinner: Commemorating the 10th Anniversary of the Congress of Leaders of World and Traditional Religions, New York, NY, USA",
+            "2013 : 10th Doha Interfaith Conference: (Best Practices in Interfaith Dialogue), Doha, Qatar",
+            "2013: The Modern Muslim Woman: Balancing Western Freedoms and Islamic Culture, Albany, NY, USA",
+            "2013: Building Bridges - Creating Harmonious Communities, Singapore"
+        ],
+        "website":"http://www.asmasociety.org/home/index.html",
+        "foundation":"1997",
+        "acronym":"ASMA",
+        "IRD_activities":[],
+        "name_en":"The American Society for Muslim Advancement",
+        "structure":"Founder of ASMA; Executive Director and Co-Founder; Volunteers and Interns",
+        "other_relations":[
+            "William & Mary Greve Foundation, New York, NY, USA",
+            "The Sister Fund, New York, NY, USA",
+            "Danny Kaye & Sylvia Fine Foundation, Washington, DC, USA",
+            "Graham Charitable Foundation, Belle Plaine, IA, USA",
+            "Deak Family Foundation, Rye, NY, USA",
+            "The Elizabeth Foundation, Portsmouth, UK",
+            "\nThe Ms. Foundation, Brooklyn, NY, USA"
+        ],
+        "IRD_def":"Collaborating with other faith-based organizations to build relationships of trust through dialogue and education, honoring the diversity of faiths, sharing commonalities, and celebrating differences.",
+        "country":"USA",
+        "finances":"No information",
+        "aim":"Strengthen an authentic expression of Islam based on cultural and religious harmony through interfaith collaboration, youth and women\u2019s empowerment, and arts and cultural exchange.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "ASMA Newletter' (2013)",
+            "'MLT Newsletter' (2011)",
+            "'WISE Newsletter' (2013, periodical)",
+            "'What's Right with Islam: A New Vision for Muslims and the West' (2004)",
+            "'Islam: A Sacred Law: What Every Muslim Should Know About the Shariah'",
+            "'Islam: A Search for Meaning'"
+        ],
+        "IRD_def_URL":"http://www.asmasociety.org/about/index.html",
+        "entry":{
+            "date":"20140707",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Women's Islamic Initiative in Spirituality and Equality(WISE)",
+                "activity_description":"Building a cohesive, global movement of Muslim women that will reclaim women's rights in Islam, enabling them to make dignified choices and fully participate in creating just and flourishing societies;"
+            },
+            {
+                "activity_name":"ASMA Media",
+                "activity_description":"Promoting an accurate, contextual, and balanced portrayal of Islam and Muslims, providing responsive and reliable information to media outlets and the general public;"
+            },
+            {
+                "activity_name":"Arts and Culture",
+                "activity_description":"Highlighting the artistic contributions of Muslims to contemporary American culture and world civilizations, evoking the universal language of beauty and inspiring rich cultural exchanges;"
+            },
+            {
+                "activity_name":"Interfaith",
+                "activity_description":"Collaborating with other faith-based organizations to build relationships of trust through dialogue and education, honouring the diversity of faiths, sharing commonalities, and celebrating differences;"
+            },
+            {
+                "activity_name":"WISE Global and Regional Conferences",
+                "activity_description":"Focused on religious & spiritual, political and business & civic leadership, with an emphasis on highlighting how Muslim women are shattering stereotypes by playing significant roles as key leaders in these areas;"
+            }
+        ],
+        "history":"Founded in 1997"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Buddhism"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":35.6869618,
+                "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
+                "address":"Rissho Kosei-kai International, 5F Fumon Hall, 2-6-1 Wada, Suginami-ku, Tokyo 166-8537, Japan"
+            },
+            "Address2":{
+                "lat":35.6869618,
+                "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
+                "address":"International Buddhist Congregation (IBC),  5F Fumon Hall, 2-6-1 Wada, Suginami-ku, Tokyo 166-8537, Japan"
+            },
+            "Address3":{
+                "lat":34.0426229,
+                "lon":-118.2054054,
+                "normalized":"2707 East 1st Street, Los Angeles, CA 90033, USA",
+                "address":"Rissho Kosei-kai International of North America, 2707 East First Street, Los Angeles, CA 90033, U.S.A."
+            },
+            "Address4":{
+                "lat":41.902198,
+                "lon":12.4948682,
+                "normalized":"Italy, Rome, Via Torino, Rissho Kosei-kai di Roma",
+                "address":"Rissho Kosei-kai di Roma, Via Torino, 29-00184 Roma, Italia"
+            },
+            "Address5":{
+                "lat":35.6869618,
+                "lon":139.6591701,
+                "normalized":"2 Chome-6-1 Wada, Suginami, Tokyo, Japan",
+                "address":"Rissho Kosei-kai of South Asia Division, 5F Fumon Hall, 2-6-1 Wada, Suginami, Tokyo, 166-8537, Japan"
+            }
+        },
+        "aim_URL":"http://www.rk-world.org/whoweare.aspx",
+        "staff":"No information",
+        "IO_relations":[
+            "Arigatou Foundation, Tokyo, Japan",
+            "Konkokyo, Okayama-ken, Japan",
+            "Konko Church of Izuo, \u014csaka-shi, Japan",
+            "Niwano Peace Foundation, Tokyo, Japan",
+            "Tsubaki America, Granite Falls, WA, USA",
+            "Tenrikyo, Tenri, Japan",
+            "Perfect Liberty, Ottawa, Ontario, Canada",
+            "Association of Medical Doctors of Asia, Okayama, Japan",
+            "Association for Promotion of International Cooperation, Tokyo, Japan",
+            "Japanese Red Cross Society, Tokyo, Japan",
+            "Japan NGO Center for International Cooperation, Tokyo, Japan",
+            "The Japan Center for Conflict Prevention, Tokyo, Japan",
+            "Japan International Volunteer Center,  Tokyo, Japan",
+            "Japan Team of Young Human Power,  Tokyo, Japan",
+            "JEN, Tokyo, Japan",
+            "Services for the Health in Asian & African Regions, Tokyo, Japan",
+            "Shanti Volunteer Association, Tokyo, Japan",
+            "Shaplaneer, Tokyo, Japan",
+            "United Nations Information Centre, Tokyo, Japan",
+            "Nippon Express, Tokyo, Japan",
+            "al-Azhar al-Sharif, Cairo, Egypt",
+            "American Friends Service Committee, Philadelphia, PA, USA",
+            "Focolare Movement, Rome, Italy",
+            "Community of Sant'Egidio, Rome, Italy",
+            "International Association for Religious Freedom, London, UK",
+            "The International Fellowship of Reconciliation, Alkmaar, Netherlands",
+            "International Interfaith Centre in Oxford, Oxford, UK",
+            "Neve Shalom/ Wahat al-Salam, Doar Na Shimshon, Israel",
+            "Royal Institute for Inter-Faith Studies, Amman, Jordan",
+            "Women's International League for Peace and Freedom, Geneva, Switzerland",
+            "World Council of Churches, Geneva, Switzerland",
+            "World Conference on Religion and Peace, New York, NY, USA",
+            "World Muslim Congress, Karachi, Pakistan",
+            "Amnesty International, London, UK",
+            "The Carter Center, Atlanta, GA, USA",
+            "Food and Agriculture Organization of the United Nations, Rome, Italy",
+            "International Alert, London, UK",
+            "John Templeton Foundation, West Conshohocken, PA, USA",
+            "NGO Committee on Disarmament, New York, NY, USA",
+            "United Nations Children's Fund, New York, NY, USA",
+            "United Nations High Commissioner for Refugees, Geneva, Switzerland",
+            "The United Nations Relief and Works Agency for Palestine Refugees in the Near East, Gaza City, Israel",
+            "World Food Programme, Rome, Italy"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "Japanese"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "2.3b",
+            "6.1b",
+            "6.2b",
+            "7b",
+            "1c",
+            "2.3c",
+            "5c",
+            "6.1c",
+            "6.2c",
+            "8c",
+            "8d",
+            "1e",
+            "1g",
+            "6.1g",
+            "6.2g",
+            "7g",
+            "1h",
+            "2.3h",
+            "6.1h",
+            "7h",
+            "11h",
+            "1i",
+            "1j",
+            "6.1j",
+            "6.2j",
+            "7j",
+            "11j",
+            "1k",
+            "6.1k",
+            "6.2k",
+            "7k",
+            "11k",
+            "1m",
+            "11m",
+            "12b",
+            "12c",
+            "12g",
+            "12h",
+            "12j",
+            "12k"
+        ],
+        "finances":"No information",
+        "website":"http://www.rk-world.org/home.aspx",
+        "foundation":"1938",
+        "acronym":"RKK",
+        "email_gen":"info@rk-world.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Participating in IRD events, conferences; "
+            },
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Involving in other Interfaith organisations or Peace activities, such as International Association for Religious Freedom (IARF),  World Conference of Religions for Peace(WCRP),  Conference of Religions for Peace (ACRP);"
+            }
+        ],
+        "name_en":"Rissho Kosei-kai",
+        "structure":"Rissho Kosei-kai is run, both religiously and administratively, by a board of directors with the Chairman being the head. The office of the President is the highest spiritual office. Headquarters in Tokyo, with aprroximatly 2.05 million member households in 245 churches throughout Japan as well as in other countries.",
+        "other_relations":[
+            "The Anglican Church in Japan, Tokyo, Japan",
+            "Hieizan Enryakuji, \u014ctsu-shi, Japan",
+            "International Buddhist Congregation of Rissho Kosei-kai, Tokyo, Japan",
+            "Konkokyo Church of Tokiwadai, Tokyo, Japan",
+            "Oomoto, Kyoto, Japan",
+            "Shinnyo-en, Tachikawa, Japan",
+            "Shinshuren (Federation of New Religious Organizations of Japan), Tokyo, Japan",
+            "Brighter Society Movement, Tokyo, Japan",
+            "Development Education Association and Resource Center, Tokyo, Japan",
+            "Japan Association for Refugees, Tokyo, Japan",
+            "Japan Burkina Faso Friendship Association, Shiroi, Japan",
+            "The Peace Studies Association of Japan, Niigata, Japan",
+            "The Africa Society of Japan, Tokyo, Japan",
+            "The Holy See, Vatican",
+            "Corrymeela Community, Ballycastle, UK",
+            "The Sarvodaya Shramadana Movement of Sri Lanka, Moratuwa, Sri Lanka",
+            "Unitarian Universalist Association, Boston, MA, USA",
+            "The National Institute of Social Care and Vocational Training, Beirut, Lebanon"
+        ],
+        "IRD_def":"The organization's dedication to dialogue and cooperation with other religious and nonreligious organizations is a natural corollary of their teachings. The Rissho Kosei-kai has sought to cooperate with other religions and work with the United Nations and a variety of nongovernmental organizations (NGOs).",
+        "country":"Japan",
+        "events":[
+            "2009: German Interfaith Dialogue Group Visits Rissho Kosei-kai, Tokyo, Japan",
+            "2011: Participating in the Symposium on Interfaith Dialogue held by Japan Religions Network Colloquium, Tokyo, Japna",
+            "2014: Senior Officers of Won Buddhism Visit Rissho Kosei-kai Headquarters, Tokyo, Japan",
+            "2014: World Religious Leaders Attend 27th Annual Religious Summit on Mount Hiei, Kyoto, Japan",
+            "2014: Rissho Kosei-kai Leaders Meet Undersecretary of Pontifical Council for Interreligious Dialogue, Tokyo, Japan",
+            "2014: Participating in International Association for Religious Freedom Holds 34th World Congress with the theme was \"Challenges for Religious Freedom in the Digital Age.\", Birmingham, UK"
+        ],
+        "aim":"Develop as bodhisattvas and realise Shakyamuni Buddha's message: all beings are on this Path and to bring peace to our families, communities, countries, and to the world.",
+        "org_type":[
+            "B"
+        ],
+        "publications":[
+            "Dharma World Magazine': for Living Buddhism and Interfaith Dialogue (2014, periodical)",
+            "'Living the Lotus': monthly Newsletter of Rissho Kosei-kai (2014, periodical)",
+            "'Reminiscences of Founder Nikkyo Niwano' (2008)"
+        ],
+        "IRD_def_URL":"http://rk-world.org/peace/coop.aspx",
+        "entry":{
+            "date":"20140709",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Donate-a-Meal Movement",
+                "activity_description":"Since 1974, Rissho Kosei-kai has conducted 'Donate-a-Meal Movement' and the money contributed by its members through the campaign has been accumulated as the Rissho Kosei-kai Donate-a-Meal Fund for Peace and is utilized for its wide variety of activities for world peace;"
+            },
+            {
+                "activity_name":"Niwano Peace Foundation",
+                "activity_description":"In 1978, Rissho Kosei-kai established the Niwano Peace Foundation as one of the commemorative undertakings for the 40th anniversary of the organization's founding. Rissho Kosei-kai hopes that the foundation will contribute to the attainment of world peace through the encouragement of people of religion everywhere to cooperate toward this goal, as well as through the enhancement of cultural and educational activities based on the religious spirit; 4. Since 1980, the foundation has awarded the Niwano Peace Prize to honour remarkable religious leaders or groups that contribute to world peace through interreligious dialogue, protection of human rights, and conflict resolution. The foundation also provides financial assistance for religiously inspired research activities and projects concerning thought, culture, science, education, and related subjects; 5. Carrying out own religious activities (studying the Lotus Sutra and the Buddha's teachings);"
+            },
+            {
+                "activity_name":"Little Bag of Dreams Campaign",
+                "activity_description":"With the cooperation of other nongovernmental organizations, Rissho Kosei-kai launched the Little Bags of Dreams Campaign in 1999, in this annual campaign, conducted from late April through the end of August, elementary and junior high school students fill little cloth bags with stationery items, small daily necessities, toys, and cards containing messages of friendship at home with their parents or in their respective churches with friends and other members;"
+            },
+            {
+                "activity_name":"Sharing Blankets with People in Africa",
+                "activity_description":"Rissho Kosei-kai's participation in the campaign from 1984 is based on the spirit as sharing in suffering, offering prayers, and making donations for the refugees who have suffered from wars or natural disasters in Africa; 8. ARMS DOWN! Campaign which was led by youth from the world's religions work to engage religious leaders and believers around the world to unleash the power of multi-religious cooperation through shared action;"
+            },
+            {
+                "activity_name":"Our Stance on Politics",
+                "activity_description":"Rissho Kosei-kai aims to help build peace and prosperity in the home, the community, the nation, and the world. As a Buddhist organization, Rissho Kosei-kai sometimes takes strong stances on political issues in order to promote social harmony and world peace. Rissho Kosei-kai considers its political activities to be a form of bodhisattva practice and speaks out on political issues to defend freedom of religion and the sanctity of life for the sake of world peace;"
+            }
+        ],
+        "history":"The organization was founded by Nikkyo Niwano and Myoko Naganuma in 1938, guided by the teachings of the Lotus Sutra and the spirit of Shakyamuni Buddh."
+    },
+    {
+        "parent_org":[
+            "Gratefulness.org"
+        ],
+        "contacted":false,
+        "regionfocus":[
+            "World"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":42.440893,
+                "lon":-76.4962498,
+                "normalized":"Ithaca, NY 14851, USA",
+                "address":"A NETWORK FOR GRATEFUL LIVING, P.O. BOX 6748, Ithaca, NY 14851-6748, USA"
+            }
+        },
+        "aim_URL":"http://www.gratefulness.org/a/mission.htm",
+        "staff":[
+            "5 Employees",
+            "26 Helpers & Volunteers"
+        ],
+        "IO_relations":"No information",
+        "religious_affiliation":"No information",
+        "languages":[
+            "English",
+            "German",
+            "Chinese",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "4b",
+            "6.1b",
+            "10b",
+            "4g",
+            "6.1g",
+            "7g",
+            "10g",
+            "4h",
+            "6.1h",
+            "7h",
+            "10h",
+            "6.1j",
+            "10j",
+            "10l"
+        ],
+        "finances":"No information",
+        "website":"http://www.gratefulness.org/index.htm",
+        "foundation":"2000",
+        "acronym":"ANG*L",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"The leader, Brother David who is the representative of the organisation to participate in IRD activities; "
+            },
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Religious Harmony message board: everyone from different religious background can share their views of love, harmony, and beauty based on different religious interpretation;"
+            }
+        ],
+        "name_en":"A Network for Grateful Living",
+        "structure":"16 Board of Directors; 21 Board of Advisors; 3European Coordinating Committee; 1 South American Team Coordinator;",
+        "other_relations":"No information",
+        "IRD_def":"Supporting people and organizations who are interested in learning more about the practice of grateful living as a global ethic and its potential to increase happiness, inspire generosity, and restore Earth's social and ecological fabric through reverence for nature, intergenerational respect, interfaith dialogue, and awareness of opportunities to be of service.",
+        "country":"USA",
+        "events":[
+            "2012: Beyond Religion: Ethics, Values, & Wellbeing, (A Talk by His Holiness the Dalai Lama with Br. David and Fr. Thomas Keating), Boston, MA, USA",
+            "2012: Pathways to Gratefulness, A full-day event with music, poetry and movement, with discussion and discourse from luminaries from around the world, San Francisco, CA, USA",
+            "2013: TEDGlobal: Think Again, Edinburgh, UK"
+        ],
+        "aim":"Provide online and community-based educational programs and practices which inspire and guide a commitment to grateful living, and catalyze the transformative power of personal and societal responsibility.",
+        "org_type":[
+            "E"
+        ],
+        "publications":[
+            "Newsletter' (2014, periodical)",
+            "'A Good Day: A Gift of Gratitude' (2013)",
+            "'99 Blessings: An Invitation to Life' (2013)",
+            "'David Steindl-Rast: Essential Writings (Modern Spiritual Masters)' (2010)",
+            "'Deeper than Words: Living the Apostles' Creed' (2010)",
+            "'Common Sense Spirituality' (2008)",
+            "' Words of Common Sense for Mind, Body, and Soul' (2002)",
+            "'Annual Report' (2014, periodical)"
+        ],
+        "IRD_def_URL":"http://www.gratefulness.org/a/ANG_L.htm",
+        "entry":{
+            "date":"20140722",
+            "author":"CC"
+        },
+        "general_activities":[],
+        "history":"On May 12, 2000, Brother David, Daniel Uvanovic, Terry Pearce and Gary Fiedel met in Portland, Oregon to launch a website whose purpose was \u201cto create a community of gratefulness using the internet as a tool to bring people together.\u201d  The website was officially launched on Thanksgiving Day, 2000."
+    },
+    {
+        "parent_org":[
+            "Principia College"
+        ],
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":38.9491966,
+                "lon":-90.3478718,
+                "normalized":"1 Front Gate Road, Elsah, IL 62028, USA",
+                "address":"Euphrates Institute, Principia College, 1 Maybeck Place, Elsah, IL 62028, USA"
+            }
+        },
+        "aim_URL":"http://euphratesinstitute.org/about/what-is-euphrates/",
+        "staff":"No information",
+        "IO_relations":[
+            "The Center for Ecological Living and Learning, Hope, ME, USA"
+        ],
+        "regionfocus":[
+            "USA",
+            "Northern Africa",
+            "South-Western Asia"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "2.9b",
+            "3b",
+            "6.1b",
+            "1c",
+            "2.9c",
+            "3c",
+            "6.1c",
+            "1e",
+            "2.9e",
+            "1g",
+            "2.9g",
+            "3g",
+            "6.1g",
+            "1h",
+            "2.9h",
+            "3h",
+            "6.1h",
+            "1j",
+            "2.9j",
+            "3j",
+            "6.1j",
+            "1l",
+            "2.9l",
+            "3l",
+            "6.1l"
+        ],
+        "finances":"Donations",
+        "website":"http://euphratesinstitute.org/",
+        "foundation":"2006",
+        "email_gen":"info@euphratesinstitute.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "USA"
+                ],
+                "activity":"Participating in interfaith dialogue groups throughout the community; "
+            },
+            {
+                "region":[
+                    "USA"
+                ],
+                "activity":"Organizing an interfaith event, and engaging with the Principia College community to promote a message of religious compassion and acceptance across the campus;"
+            }
+        ],
+        "name_en":"The Euphrates Institute/ Prepare for Peace",
+        "contact_person":[
+            "Janessa Gans Wilder",
+            "janessa@euphratesinstitute.org"
+        ],
+        "structure":"CEO, Publications Director; Attorney; Chairman of the Board of Directors; Vice President; Chief Financial Office; 3 Board of Directors",
+        "other_relations":[
+            "Educare Learning Institute, Grafton, IL, USA",
+            "Principia College, Elsah, IL, USA"
+        ],
+        "IRD_def":"The interfaith team is engaging a range of activities to promote interfaith work, including researching and blogging weekly about interfaith and religious issues, participating in interfaith dialogue groups throughout the community, organizing an interfaith event, and engaging with the Principia College community to promote a message of religious compassion and acceptance across the campus.",
+        "country":"USA",
+        "events":[
+            "2011: Euphrates Summits, Our World Beyond 9/11, Elsah, IL, USA",
+            "2012: Founder Speaks in London at Humanitarian Dialogue Foundation, London, UK",
+            "2012: Euphrates Fellows Attend Comparative Religion Panel, Godfrey, IL, USA",
+            "2013: Euphrates Celebrates World Interfaith Harmony Week, the Euphrates Fellows dialogued via Skype with an Iraqi Shia Muslim living in London, UK to learn more about Islam, Elsah, IL, USA"
+        ],
+        "aim":"Advance freedom and equality by investing in better relations between the West and Middle East through education, travel, and community engagement. Aiming to to ensure 20 percent of the population in the U.S. are informed about Middle East issues, through IIT\u2014Informing, Inspiring, Transforming.",
+        "org_type":[
+            "E",
+            "j"
+        ],
+        "publications":[
+            "After Egypt uprising Israel can't afford to ignore nonviolent Palestinian protesters' Opinion piece published in the Christian Science Monitor (2011)",
+            "'Why am I for Obama?' Opinion piece published in Arabic for Iraqi leading news magazine (2008)",
+            "'Obama's Opportunity in the Middle East' Opinion piece published in the Christian Science Monitor (2008)",
+            "'Five years in Iraq: Who is the parent and who is the child?' Opinion piece published in Arabic for Iraqi leading news magazine (2008)",
+            "'I Survived Blackwater' Opinion piece published in the Los Angeles Times (2007)"
+        ],
+        "IRD_def_URL":"http://euphratesinstitute.org/2011/09/interfaith-intro-to-the-interfaith-committee/",
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Travel Study",
+                "activity_description":"Euphrates leads trips around the world connecting visionaries and inspiring hope. Through Middle East trip to understand first-hand the underlying causes of conflict and the mind-set that drives them, as well as meet with the inspiring peace builders;"
+            },
+            {
+                "activity_name":"Euphrates Summits",
+                "activity_description":"A gathering for speakers, experts, and thought-leaders to better understand of Middle East-West issues;"
+            },
+            {
+                "activity_name":"Warriors for Peace",
+                "activity_description":"It's a class and a project inviting people from both the Middle East and the United States and from all different backgrounds within those regions to participate the work in healthcare, free trade, technology, interfaith, travel and democracy; 5. Euphrates Lunchtime Discussion;"
+            },
+            {
+                "activity_name":"Co-ordinating or participating in 'J Street National Summit' yearly",
+                "activity_description":"over 500 pro-Israel, pro-peace activists came together with Israeli, Palestinian and American leaders, journalists and thinkers to discuss the current peace initiative, pro-Israel politics in America and more;"
+            },
+            {
+                "activity_name":"'Why the Middle East Matters to Us'",
+                "activity_description":"the founder, Janessa Gans Wilder gives talks around the U.S. to introude this issue to the public."
+            }
+        ],
+        "history":"Founded in 2006"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":42.3413479,
+                "lon":-72.519984,
+                "normalized":"447 West Street, Amherst, MA 01002, USA",
+                "address":"447 West Street\nAmherst, MA 01002, USA"
+            }
+        },
+        "aim_URL":"http://www.karunacenter.org/",
+        "staff":[
+            "4 Employees"
+        ],
+        "IO_relations":[
+            "The Alliance for Peacebuilding, Washington, DC, USA",
+            "AECOM, Los Angeles, CA, USA",
+            "Creative Associates International, Washington, DC, USA",
+            "The Institute for Inclusive Security, Washington, DC, USA",
+            "Men's Resources International, Pelham, MA, USA",
+            "Proof: Media for Social Justice, New York, NY, USA",
+            "The Psychological Services Centre at St. George's University, Grenada, West Indies",
+            "World Education, Boston, MA, USA",
+            "World Learning/SIT Graduate Institute , Washington, DC, USA",
+            "Institute for Conflict Management Peace and Development,  Kathmandu, Nepal",
+            "PAIMAN Alumni Trust, Islamabad, Pakistan",
+            "The Tibetan Centre for Con\ufb02ict Resolution, Dharamsala, India",
+            "Sarvodaya, Madison, WI, USA",
+            "African Consultants International, Dakar, Senegal",
+            "Kigali Memorial Centre, Kigali, Rwanda",
+            "IPCRI, Jerusalem, Israel"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "3b",
+            "4b",
+            "6.9b",
+            "6.1b",
+            "8b",
+            "1c",
+            "3c",
+            "6.9c",
+            "6.1c",
+            "8c",
+            "1e",
+            "1g",
+            "3g",
+            "4g",
+            "6.9g",
+            "6.1g",
+            "1h",
+            "3h",
+            "4h",
+            "6.9h",
+            "6.1h",
+            "8h",
+            "10h",
+            "4i",
+            "1j",
+            "4j",
+            "6.9j",
+            "6.1j",
+            "1k"
+        ],
+        "events":[
+            "2007: Karuna Center for Peacebuilding and the Initiative for Inclusive Security jointly led a six-day multi-sector training seminar, titled Securing Afghanistan: Women's Vital Contributions. The training culminated in a policy forum held at the Afghan Ministry of Foreign Affairs and brought together more than 60 Afghan leaders and 17 international policy makers, Kabul, Kabul, Afghanistan",
+            "2011: Facilitating a three-day 'Green Summit' where fifty environmental activists from across the USA met to seek common ground on the need to price carbon emissions, Amherst, MA, USA",
+            "2012: Dialogue creates relief and a new path forward after Sri Lankan war, with the group of 80 Buddhist, Hindu, Muslim, and Christian religious leaders, Trincomalee, Sri Lanka",
+            "2013: National conference on inter-faith peacebuilding, Colombo, Sri Lanka",
+            "2014: a daylong interfaith children's camp, Trincomalee, Sri Lanka",
+            "2014: Providing local Central African leaders with conflict transformation training with the United States Institute of Peace, Bangui, Central African Republic"
+        ],
+        "website":"E",
+        "foundation":"1994",
+        "IRD_activities":[
+            {
+                "region":[
+                    "USA",
+                    "Sri Lanka"
+                ],
+                "activity":"Inter-religious Cooperation for Community Development and Social Empowerment in Trincomalee and Batticaloa Districts, and Padaviya Division. During this program, they partnered with a Sri Lankan NGO, Sarvodaya, to work intensively with a core group of 80 Hindu, Buddhist, Muslim, and Christian religious leaders and an additional 80 young religious committee members, offering peacebuilding training and intensive interfaith dialogues aimed at promoting mutual understanding and reconciliation; "
+            },
+            {
+                "region":[
+                    "USA"
+                ],
+                "activity":"2014 Bridging Muslim/Non-Muslim Divides Initiative: Six scheduled events comprise this programme. These events fall into three categories: the Muslim World in Transition, Dialogues, and a Symposium event;"
+            }
+        ],
+        "name_en":"Karuna Center for Peacebuilding",
+        "structure":"12 Board of Directors; 23 Peacebuilding Associates; 7 members of International Advisory Board",
+        "other_relations":[
+            "The Centre for Peace-Building & Reconciliation, Kotte, Sri lanka",
+            "PRO-FEMMES/TWESE HAMWE, Kigali, Rwanda"
+        ],
+        "IRD_def":"Pioneering effective, multi-sector training programs and community-based projects that promote genuine dialogue, cooperative problem solving, reconciliation, and non-violent solutions in over 25 conflict-affected countries on 4 continents.",
+        "country":"USA",
+        "finances":"Donations",
+        "aim":"Committed to the development and implementation of innovative, sustainable strategies for conflict transformation and community reconciliation in societies where ethnic, religious, sectarian, or political conflict threatens the possibility of a healthy, inclusive democracy and sustainable development.",
+        "org_type":[
+            "G"
+        ],
+        "publications":[
+            "Newsletter' (2014, periodical)",
+            "'Peacebuilding in Divided Communities': Karuna Center's Approach to Peacebuilding",
+            "'Shaping Community Responses to Catastrophe' (2013)",
+            "'A Trainer's Guide to Interfaith Peacebuilding in Sri Lanka' (2013)",
+            "'The Pivotal Role of Acknowledgement in Social Healing' (2009)",
+            "'An Infusion of Dialogues' (2003)",
+            "'Preparing for Peace: Interethnic Dialogue and Communal Healing in Sri Lanka' (2003)",
+            "'CONTACT: Training a New Generation of Peacebuilders' (2002)",
+            "'Shadows and Light: Encounters in the Holy Land' (2000)"
+        ],
+        "IRD_def_URL":"http://www.karunacenter.org/our-work.html",
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Building Local Capacity",
+                "activity_description":"The programs explore the interweaving of social, political, and economic factors that contribute to conflict, recognizing that conflict transformation requires both individual and systemic change. They engage participants in analyzing the root causes of conflict, identifying strategic opportunities for intervention, and building skills for conflict resolution and prevention by applying the approach fits with local culture and respects the needs of those deeply impacted by violence and trauma;"
+            },
+            {
+                "activity_name":"Conflict Transformation",
+                "activity_description":"Central to the work of Karuna Center is the skilful use of facilitated, structured dialogues. During well-facilitated dialogues participants can come to a profound recognition of the essential humanity of the other, to a sense of mutuality and common purpose, and to a willingness to move forward together;"
+            },
+            {
+                "activity_name":"Dialogue",
+                "activity_description":"The longer term programs include a \"training of trainers\" and mentoring in the design and delivery of peacebuilding projects. Former participants of Karuna Center programs not only bring social healing to their communities, but also facilitate dialogues and teach peacebuilding skills throughout their countries. They are thereby helping to build a critical mass of people committed to promoting peace and justice and preventing future violence;"
+            },
+            {
+                "activity_name":"Sustainable Peace",
+                "activity_description":"Advocating to build consensus around the idea that putting a price on carbon by facilitating the Summit and discussions through local dialogues;"
+            },
+            {
+                "activity_name":"The programme of \"Preventing Climate Conflict",
+                "activity_description":"Promoting and helping women's empowerment in Afghanistan;"
+            }
+        ],
+        "history":"Founded in 1994."
+    },
+    {
+        "parent_org":[
+            "Pax Christi"
+        ],
+        "contacted":false,
+        "regionfocus":[
+            "World"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":50.8503396,
+                "lon":4.3517103,
+                "normalized":"Brussels, Belgium",
+                "address":"Pax Christi International, \nRue du Vieux March\u00e9 aux Grains 21,\nB1000 Brussels, Belgium"
+            },
+            "Address2":{
+                "lat":43.7122716,
+                "lon":11.2194291,
+                "normalized":"Tavarnuzze Florence, Italy",
+                "address":"Pax Christi Italia\nvia Quintole per le Rose 131,\n50029, Tavarnuzze, (Firenze), Italy"
+            },
+            "Address3":{
+                "lat":38.934287,
+                "lon":-76.98988,
+                "normalized":"1225 Otis Street Northeast, Washington, DC 20017, USA",
+                "address":"Pax Christi USA, National Catholic Peace Movement, 1225 Otis Street, NE, Washington, DC 20017, USA"
+            },
+            "Address4":{
+                "lat":-33.8674869,
+                "lon":151.2069902,
+                "normalized":"Sydney NSW, Australia",
+                "address":"Pax Christi Australia\nPO Box A681\nSydney NSW\nAustralia"
+            },
+            "Address5":{
+                "lat":10.2925609,
+                "lon":123.0246518,
+                "normalized":"Negros Occidental, Philippines",
+                "address":"Pax Christi Philippines\nRosal corner Tapulanga Sts. \nEspinos Village Phase II\nBacolod City, 6100\nNegros Occidental, Philippines"
+            }
+        },
+        "aim_URL":"http://www.paxchristi.net/about-us/why-pax-christi",
+        "staff":[
+            "7 full-time, paid",
+            "7 full-time, voluntary"
+        ],
+        "IO_relations":[
+            "Congregazione dei Padri Maristi Italiani, Rome, Italy",
+            "Congregation du Saint Sacrament, Rome, Italy",
+            "Curia Generalizia dell\u2019Ordine di Sant\u2019Agostino, Rome, Italy",
+            "Suore Della Carit\u00e0 Cristiana, Rome, Italy",
+            "Society of the Sacred Heart, Rome, Italy",
+            "Brothers of Charity, Rome, Italy",
+            "Montfort Missionaries, Rome, Italy",
+            "Soeurs de Marie R\u00e9paratrice, Rome, Italy",
+            "Figlie di Nostra Signora delle Missioni, Rome, Italy",
+            "Figlie di Nostra Signora delle Missioni, Rome, Italy",
+            "Suore Missionarie Comboniane, Rome Italy",
+            "Figlie di Maria Ausiliatrice, Rome, Italy",
+            "Suore Francescane, Rome, Italy",
+            "Missionari del Sacro Cuore di Gesu, Rome, Italy",
+            "Istituto delle Suore della Presentazione di Maria, Castelgandolfo, Italy",
+            "Siervas de San Jose, Madrid, Spain",
+            "Maryknoll Office for Global Concerns, Washington, DC, USA",
+            "Missionary Society of St. Columban, Silver Spring, MD, USA",
+            "Sisters of Mercy of the Americas, Silver Spring, MD, USA",
+            "Commission Justice et Paix Episcopale Burundi, Bujumbura, Burundi",
+            "Cercle International pour la Promotion de la Cr\u00e9ation, Bafoussam, Cameroun",
+            "Justice et Paix-ACERAC, Yaounde, Cameroun",
+            "R\u00e9seau Jeunes dans le Monde pour la Paix, Kananga, Democratic Republic of the Congo",
+            "Groupe J\u00e9r\u00e9mie Bukavu, Cyangugu \nDemocratic Republic of Congo",
+            "R\u00e9seau des Femmes pour un D\u00e9veloppement Associatif, Uvira, Democratic Republic of the Congo",
+            "People for Peace in Africa, Nairobi, Kenya",
+            "Peace Tree Network, Nairobi, Kenya",
+            "Amani Communities Africa, Nairobi, Kenya",
+            "Development Education Network, Gbarnga, Liberia",
+            "Denis Hurley Peace Institute, Pretoria, South Africa",
+            "SA Catholic Bishops' Conference Justice and Peace Department, Pretoria, South Africa",
+            "Justice and Peace Commission, Archdiocese of Gulu, Gulu, Uganda",
+            "Servicio Paz y Justicia, Serpaj-Chile, Valpara\u00edso, Chile",
+            "Red Nacional de Iniciativas Ciudadanas por la Paz y contra la Guerra, Bogot\u00e1, Colombia",
+            "Comisi\u00f3n de Justicia, Solidaridad y Paz de la Conferencia de Religiosos Mayores de Colombia, Teusaquillo, Colombia",
+            "Maryknoll Office for Global Concerns, Washington DC, USA",
+            "Missionary Society of St. Columban, Silver Spring, MD, USA",
+            "Sisters of Mercy of the Americas, Silver Spring, MD, USA",
+            "Jesuit Refugee Service Asia Pacific, Bangkok, Thailand",
+            "Centre for Peace, Non-Violence and Human Rights, Osijek, Croatia",
+            "Association of Citizens of the Peace School Udruga Gradjana Skole Mire, Mrkopalj, Croatia",
+            "Centre de Recherche sur la Paix, Paris, France",
+            "Kerry Diocesan Justice, Peace and Creation Committee, Tralee, Ireland",
+            "Life and Peace Institute, Uppsala, Sweden",
+            "PAX Netherlands, Utrecht, Netherlands",
+            "House of Peace and Non-violence, St. Petersburg, Russia",
+            "Library on Wheels for Non-Violence and Peace, Jerusalem, Israel",
+            "Arab Women Media Center, Amman, Jordan",
+            "Arab Educational Institute, Bethlehem, Palestine",
+            "Centre for Conflict Resolution and Reconciliation, Bethlehem, Palestine"
+        ],
+        "religious_affiliation":[
+            "Catholicism"
+        ],
+        "languages":[
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "3b",
+            "4b",
+            "6.1b",
+            "6.3b",
+            "7b",
+            "1c",
+            "2.9c",
+            "2.2c",
+            "2.3c",
+            "3c",
+            "4c",
+            "6.1c",
+            "6.3c",
+            "7c",
+            "9c",
+            "10c",
+            "7d",
+            "8d",
+            "1e",
+            "1g",
+            "3g",
+            "4g",
+            "6.9g",
+            "6.1g",
+            "6.3g",
+            "7g",
+            "8g",
+            "9g",
+            "10g",
+            "1h",
+            "2.9h",
+            "2.2h",
+            "2.3h",
+            "3h",
+            "4h",
+            "6.1h",
+            "6.3h",
+            "7h",
+            "8h",
+            "9h",
+            "1i",
+            "3i",
+            "4i",
+            "1j",
+            "3j",
+            "4j",
+            "6.9j",
+            "6.1j",
+            "6.3j",
+            "7j",
+            "9j",
+            "10j",
+            "1k",
+            "3k",
+            "4k",
+            "6.1k",
+            "9k",
+            "10k",
+            "11m",
+            "12j"
+        ],
+        "finances":"Sections' dues. Other sources: donations, subsidies.",
+        "website":"http://www.paxchristi.net/",
+        "foundation":"1945",
+        "email_gen":"hello@paxchristi.net",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Pax Christi International and its members actively participate in the activities of Inter-religious Dialogue worldwide;"
+            }
+        ],
+        "name_en":"Pax Christi International-The internation Catholic Peace Movement",
+        "structure":"World Assembly (every 5 years); General Meeting (annual). Executive Committee - Board of Directors. International Secretariat, headed by Secretary-General. Continental Networks (Asia and Pacific; Africa; Europe and North America; Latin America); Regional Networks (East Asia; South East Asia; Pacific; Middle East; Greater Horn of Africa; Great Lakes of Africa; West Africa; South East Europe); Pax Christi National Sections; Pax Christi Local Groups; Affiliated organizations; Partner organizations; Strategic Alliances.",
+        "other_relations":[
+            "Centre Jeunes Kamenge, Bujumbura, Burundi",
+            "Nduwamahoro Non-Violent Actif, Bujumbura, Burundi",
+            "National Justice and Peace Commission in Chad, N\u2019Djamena, Chad",
+            "Groupe Justice et Lib\u00e9ration, Kisangani, Democratic Republic of the Congo",
+            "Les Amis de Nelson Mandela pour la D\u00e9fense des Droits Humains, Kinshasa, Democratic Republic of the Congo",
+            "Commission \u00c9piscopale Nationale Justice et Paix du Congo, Kinshasa, Democratic Republic of the Congo",
+            "Centre d'Information et d'Animation Missionnaire, Kinshasa, Democratic Republic of the Congo",
+            "Groupe Lotus, Kisangani, Democratic Republic of the Congo",
+            "Ligue des Femmes pour le D\u00e9veloppement et l'Education \u00e0 la D\u00e9mocratie, Kinshasa, Democratic Republic of the Congo",
+            "Interfaith Peace Building Initiative, Addis Ababa, Ethiopia",
+            "Centre de Recherche et d'Action pour la Paix, Abidjan, Cote d'Ivoire",
+            "Chemchemi Ya Ukweli, Nairobi, Kenya",
+            "Holy Trinity Peace Village Kuron, Nairobi, Kenya",
+            "Kotido Peace Initiative, Kotido, Uganda",
+            "Acholi Religious Leaders' Peace Initiative, Gulu, Uganda",
+            "Comiss\u00e3o Pastoral da Terra, Goi\u00e1s, Brasil",
+            "Centro Dominicano de Asesoria e Investigaciones Legales, Santo Domingo, Dominican Republic",
+            "Grupo de Apoyo Mutuo, Ciudad de Guatemala, Guatemala",
+            "Commission Episcopale Nationale Justice et Paix d'Haiti, Port-au-Prince, Ha\u00efti",
+            "Centro de Derechos Humanos Fray Bartolom\u00e9 de Las Casas, AC., Chiapas, M\u00e9xico",
+            "Bangladesh Inter-Religious Council for Peace and Justice, Dhaka, Bangladesh",
+            "Hotline Human Rights Bangladesh, Dhaka, Bangladesh",
+            "Initiatives in Development, Empowerment and Awareness Society, Tiruvuru, India",
+            "Documentation, Research and Training Centre, Mumbai, India",
+            "National Commission for Justice, Peace and Development of India, New Delhi, India",
+            "Save Green Vasia Movement (Harit Vasai Saurakshan Samiti), Maharashtra, India",
+            "Jarigan Mutra Perempuan, Jakarta, Indonesia",
+            "Forum Masyarakat Katolik Indonesia, Yogyakarta, Indonesia",
+            "Japan Catholic Council for Justice and Peace, Tokyo, Japan",
+            "National Commission for Justice and Peace of Pakistan, Lahore, Pakistan",
+            "Solidarity for Peace And Reunification of Korea, Seoul, Democratic People's Republic of Korea",
+            "Human Rights and Media Resource Centre, Kandy, Sri Lanka",
+            "Justice, Peace and Integrity of Creation Desk \u2013 The Association of Major Religious Superiors in Taiwan, Taipei, Taiwan",
+            "Catholic Commission for Justice and Peace of Thailand, Bangkok, Thailand",
+            "Maronite Youth of Cyprus, Nicosia, Cyprus",
+            "Kerry Diocesan Justice, Peace and Creation Committee, Tralee, Ireland",
+            "Klub Inteligencji Katolickiej Warszawa, Warszawa, Poland",
+            "Interchurch Partnership Apostolic City \u2013 Nevskaya Perspetive, St. Petersburg, Russia",
+            "Regional Civic Initiative \u2013 Right to Life and Human Dignity, Moscow, Russia",
+            "Soldiers' Mothers St. Petersburg, St. Petersburg, Russia",
+            "Coptic Evangelical Organization for Social Services, Cairo, Egypt",
+            "Justice and Mercy Association, Antelias, Lebanon",
+            "Lebanese Association for Civil Rights, Beirut, Lebanon"
+        ],
+        "IRD_def":"Pax Christi International works with Religions for Peace on the role of religions in the promotion of a culture of peace and Dialogue between the different religions is the tool for a better understanding and peaceful co-existence.",
+        "country":"Belgium",
+        "events":[
+            "2004: Pax Christi Australia is actively involved in a yearlong pilot project called \u201cThe Dialogue Project \u2013Promoting Inter-Religious and Inter-Cultural Dialogue in Victoria\u201dMelbourne, Australia",
+            "2006: Promoting Interfaith Dialogue Amongst Youth: Representatives of various European faith-based organizations, working together as part of the European Youth Forum, gathered for a seminar, Barcelona, Spain",
+            "2014: 65th Annual UN DPI/NGO Conference: Pax Christi International delegates in New York will attend the Conference \"2015 and Beyond: Our Action Agenda\" organised by the UN Department of Public Information and the NGO/DPI Executive Committee, New York, NY, USA",
+            "2014: Pax Christi Montr\u00e9al supports a protest against Israeli attacks on Gaza, Montr\u00e9al, QC, Canada",
+            "2014: Pax Christi International co-sponsors panel discussion on \"Sustainability and Nuclear Weapons\", New York, NY, USA",
+            "2014: Pax Christi UK takes part in Peace Walk, London, UK",
+            "2014: Pax Christi Italy workshop on peace education in ecclesiastical contextsce, Florence, Italy"
+        ],
+        "aim":"Based on the gospel and inspired by faith, the organisation aims to transform a world shaken by violence, terrorism, deepening inequalities and global insecurity; to create a culture of peace with religion as an unequivocal force for peace and social justice; to work towards non-violence, demilitarization and disarmament, human security, human rights and the rule of law as the basis of peaceful societies; to bring together people from various backgrounds and cultures.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "Pax Christi International Newsletter' (2014, periodical)",
+            "'Annual Report' (2013, periodical)"
+        ],
+        "IRD_def_URL":"http://www.paxchristi.net/our-work/religion",
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Peace Building",
+                "activity_description":"Pax Christi facilitates and supports reconciliation and peace building processes which help communities to look at the past and develop a path towards lasting peace rooted in truth and justice (Just Peace). Pax Christi promotes peacekeeping skills of dialogue, mediation, and conflict resolution;"
+            },
+            {
+                "activity_name":"Education & Youth Work for Peace",
+                "activity_description":"Pax Christi contributes to a culture of peace by encouraging models of education that use, for example, youth exchanges, alternative peace service, voluntary peace work, and peace weeks;"
+            },
+            {
+                "activity_name":"Nonviolent Social Change",
+                "activity_description":"Pax Christi's dedication to peace is translated into the countless nonviolent actions of its members around the world. This includes organising conferences and debates, defending the rights of conscientious objectors, efforts to heal ethnic or religious divisions, solidarity delegations and missions to areas of conflict, and public witness for peace;"
+            },
+            {
+                "activity_name":"Interfaith and Intercultural Cooperation for Peace",
+                "activity_description":"Pax Christi creates opportunities for inter-faith dialogue and cooperation in order to promote peace and social justice with efforts towards Islam and Muslim communities;"
+            },
+            {
+                "activity_name":"Developing Peace Spirituality and Theology",
+                "activity_description":"By developing a spirituality and theology of peace to insert moral and ethical principles on issues of war and peace into the public and political arenas;"
+            },
+            {
+                "activity_name":"Advocacy and Campaigning",
+                "activity_description":"Through its representative status with international bodies such as the United Nations, UNESCO, the EU, and the Council of Europe, Pax Christi brings the experiences and concerns of its members in the Global Network to the international arena. On a national level, Pax Christi Member Organisations engage in advocacy appropriate to their own unique social and political context;"
+            },
+            {
+                "activity_name":"Networking",
+                "activity_description":"Pax Christi International increases the capacity and effectiveness of the Pax Christi movement and global network. Frequent continental and regional gatherings play a key role in facilitating consultation and exchanges among Pax Christi Member Organisations around the world;"
+            }
+        ],
+        "history":"13 Mar 1945. Reorganized Dec 1950. Officially consecrated as Movement of the Church, 1952. Also referred to as Pax Christi International. Laureate of the UNESCO Peace Prize 1983. Statutes revised Apr 2006. Registered in accordance with Belgian law."
+    },
+    {
+        "parent_org":[
+            "Pillars of Peace"
+        ],
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":38.900936,
+                "lon":-77.041229,
+                "normalized":"1776 I Street Northwest, Washington, DC 20006, USA",
+                "address":"1776 I Street NW, 9th Floor\n Washington DC, 20006 USA"
+            }
+        },
+        "aim_URL":"http://www.peacexpeace.org/",
+        "staff":[
+            "4 Employees"
+        ],
+        "IO_relations":[
+            "Alliance for Peacebuilding, Washington, DC, USA",
+            "Al-Mubadarah, Washington, DC, USA",
+            "Institute for Inclusive Security, Washington, DC, USA",
+            "Institute for Multi-Track Diplomacy, Arlington, VA, USA",
+            "United Nations Association, New York, NY, USA",
+            "Women in International Security, Washington, DC, USA",
+            "Women for Women International, Washington, DC, USA",
+            "Women of Spirit and Faith, New York, NY, USA"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "6.1b",
+            "6.3b",
+            "8b",
+            "1c",
+            "6.1c",
+            "6.3c",
+            "8c",
+            "8d",
+            "1g",
+            "4g",
+            "6.1g",
+            "6.3g",
+            "8g",
+            "1h",
+            "4h",
+            "6.1h",
+            "6.3h",
+            "8h",
+            "8i",
+            "1j",
+            "6.1j",
+            "6.3j",
+            "8j",
+            "1k",
+            "6.3k",
+            "8k",
+            "1l",
+            "8l"
+        ],
+        "finances":"No information",
+        "website":"http://www.peacexpeace.org/",
+        "foundation":"2005",
+        "email_gen":"info@peacexpeace.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"It is a web-based facilitated dialogue opportunity for women  to engage in a cross-cultural learning process, discussing a variety of issues impacting the status of women both in Western societies and in predominantly Arab and Muslim societies; "
+            }
+        ],
+        "name_en":"Peace X Peace",
+        "contact_person":[
+            "Kim Weichel",
+            "kim@peacexpeace.org"
+        ],
+        "structure":"11 members of the Board of Directors",
+        "other_relations":[
+            "American Muslim Voice Foundation, Newark, CA, USA",
+            "United States Institute of Peace, Washington, DC, USA",
+            "W.O.M.E.N., Carson City, NV, USA"
+        ],
+        "IRD_def":"Peace X Peace and its members have identified eight requirements for thriving communities, and\" Interfaith Dialogue\" is one of them",
+        "country":"USA",
+        "events":"No information",
+        "aim":"Peace X Peace is the international organization that lifts and multiplies women\u2019s voices, strengthens women\u2019s capacity to connect across divides, promotes leadership and gender equity, and nurtures a global network of peacebuilders in 120 countries.",
+        "org_type":[
+            "N"
+        ],
+        "publications":[
+            "Connection Point E-Newsletter' (2013, periodical)",
+            "'PeaceTimes' (2013, periodical)"
+        ],
+        "IRD_def_URL":"http://www.peacexpeace.org/about/pillars-of-peace/",
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Engage with UN Commissions and agencies",
+                "activity_description":"The Commission on the Status of Women and UN Women; 4. Offer recommendations to US government agencies on key policies affecting women; 5. Support initiatives to reduce discriminatory practices and policies, including Islamophobia and anti-Semitism, and facilitate cross cultural dialogue for deepened understanding; 6. Provide transformational leadership training to equip women leaders with a range of critical resources and skills to facilitate change, specifically in support of the US National Action Plan for Women, Peace and Security called for under UN SCR 1325;"
+            },
+            {
+                "activity_name":"Peace through Mentorship",
+                "activity_description":"This program is designed to foster a network of professional relationships between young women seeking to build peace and advance through their chosen professions and older women who seek to share their wisdom and experience;"
+            },
+            {
+                "activity_name":"Pillars of Peace",
+                "activity_description":"Peace X Peace and its members have identified eight requirements for thriving communities, which are Conflict Transformation, Cross-cultural Understanding, Economic Empowerment, Education, Environmental Sustainability, Health and Well-being, Interfaith Dialogue and Justice and Good Governance;"
+            },
+            {
+                "activity_name":"Connection Point Dialogues (CP Dialogues)",
+                "activity_description":"Launched its pilot in the fall of 2012. It is a web-based facilitated dialogue opportunity for women  to engage in a cross-cultural learning process, discussing a variety of issues impacting the status of women both in Western societies and in predominantly Arab and Muslim societies;"
+            }
+        ],
+        "history":"Founded in January 2005."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.724779,
+                "lon":12.572262,
+                "normalized":"Strandagervej 24, 2900 Hellerup, Denmark",
+                "address":"Strandagervej 24,\n2900 Hellerup, Denmark"
+            }
+        },
+        "aim_URL":"http://danmission.dk/en/english/about/",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "Egypt",
+            "Tanzania",
+            "India",
+            "Cambodia",
+            "Lebanon",
+            "Syria",
+            "Pakistan",
+            "Madagascar",
+            "Bangladesh",
+            "China",
+            "Myanmar (Burma)",
+            "Denmark"
+        ],
+        "languages":[
+            "English",
+            "Danish"
+        ],
+        "international":true,
+        "subject":[
+            "3b",
+            "6.9b",
+            "6.1b",
+            "6.3b",
+            "7b",
+            "8b",
+            "10b",
+            "11b",
+            "12b",
+            "3g",
+            "6.9g",
+            "6.1g",
+            "6.3g",
+            "7g",
+            "8g",
+            "10g",
+            "11g",
+            "12g",
+            "3h",
+            "6.9h",
+            "6.1h",
+            "6.3h",
+            "7h",
+            "8h",
+            "10h",
+            "11h",
+            "12h",
+            "6.9j",
+            "6.1j",
+            "6.3j",
+            "12j",
+            "10m",
+            "11m",
+            "12m"
+        ],
+        "finances":"No information",
+        "website":"http://danmission.dk/",
+        "foundation":"2000",
+        "email_gen":"danmission@danmission.dk",
+        "IRD_activities":[],
+        "name_en":"Danmission",
+        "contact_person":[
+            "Inga Holseg\u00e5rd Rasmussen",
+            "ihr@danmission.dk"
+        ],
+        "structure":"No information",
+        "other_relations":"No information",
+        "IRD_def":"Their mission is to give people in other countries a possibility to be acquainted with Christian belief as well as improving the conditions under which these people live. Therefore, they help churches to grow and to develop, facilitating dialogue to increase peace and mutual understanding, and striving to fight poverty.",
+        "country":"Denmark",
+        "events":"No information",
+        "aim":"Create an opportunity for everybody to hear the Christian gospel, and to encourage people to live with love for one's neighbour.",
+        "org_type":[
+            "N"
+        ],
+        "publications":"No information",
+        "IRD_def_URL":"http://danmission.dk/en/english/dialogue/dialogue-between-religions/",
+        "old_alias":[
+            "The Danish Missionary Society"
+        ],
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[],
+        "history":"1 Jan 2000, on merger of 'Danish Mission Society', founded 1821, with 'Danish Santal Mission'. Operates within the Danish Lutheran Church."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":33.8886289,
+                "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
+                "address":"Al-Lazarieh Building # 27, 4th floor\nLebanese University Street (Faculty of Arts)\nFurn al-Shuback, Beirut, Lebanon"
+            }
+        },
+        "aim_URL":"http://www.fdcd.org/aboutus.php?Id=1&t=Mission",
+        "staff":[
+            "7 Employees"
+        ],
+        "IO_relations":[
+            "Danmission, Hellerup, Denmark",
+            "The Canadian Catholic Organization for Development and Peace, Montr\u00e9al, QC, Canada",
+            "the Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit (GIZ) GmbH, Bonn, Germany",
+            "Mennonite Central Committee, Akron, PA, USA",
+            "The United Church of Christ, Cleveland, OH, USA"
+        ],
+        "regionfocus":[
+            "Northern Africa",
+            "South-Western Asia"
+        ],
+        "languages":[
+            "English",
+            "Arabic"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "6.9b",
+            "1c",
+            "6.9c",
+            "6.1c",
+            "7c",
+            "8c",
+            "7d",
+            "8d",
+            "1g",
+            "6.9g",
+            "6.1g",
+            "7g",
+            "8g",
+            "1h",
+            "3h",
+            "6.1h",
+            "7h",
+            "8h",
+            "8i",
+            "1j",
+            "6.1j",
+            "7j",
+            "8j",
+            "1k",
+            "6.1k",
+            "7k",
+            "8k"
+        ],
+        "finances":"No information",
+        "website":"http://www.fdcd.org/index.php",
+        "foundation":"2004",
+        "acronym":"FDCD",
+        "email_gen":"info@fdcd.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Lebanon",
+                    "Syria",
+                    "Egypt",
+                    "Jordan"
+                ],
+                "activity":"Women in Dialogue: Empowerment and Consolidation: the project will target 120 women and 40 men from the Middle East and a few from Europe who will be involved in dialogue and active in society in issues related to dialogue, conflict resolution and active citizenship. There will be mainly four workshops to take place in Lebanon, Syria, Egypt and Jordan if possible otherwise in Lebanon; "
+            },
+            {
+                "region":[
+                    "Lebanon"
+                ],
+                "activity":"International Work and Study Camp(Yearly Event): The objective of the camp is to work with youth on the process of Dialogue, mutual understanding and transformation through democracy through workshops, lectures, exercises and field visits. During the event, FDCD also organises visits and meetings with religious and community leaders and organizations, as well as entertaining activities such as intercultural evenings and sightseeing trips;"
+            }
+        ],
+        "name_en":"Forum for Development, Culture and Dialogue",
+        "structure":"7 members of the Board and 7 Staff",
+        "other_relations":"No information",
+        "IRD_def":"The Forum for Development, Culture and Dialogue respects the dignity of every human being, values the diversity of cultures in the Middle East, encourages dialogue and understanding as a means of resolving conflict, and perceives justice as the lasting basis of peace.",
+        "country":"Lebanon",
+        "events":[
+            "2011: EFT, Trauma Healing Workshop: Using Emotional Freedom Technique (EFT) for Healing and training Dialogue Practitioners in Lebanon on TRAUMA, Beirut, Lebanon"
+        ],
+        "aim":"Promote peacebuilding, equal citizenship, and human rights in the Middle East by creating common spaces for dialogue and building the capacity of community and civil society groups to be catalysts for peace, with a focus on women and youth.",
+        "org_type":[
+            "E"
+        ],
+        "publications":[
+            "Newsletter' (2012, periodical)"
+        ],
+        "IRD_def_URL":"http://www.fdcd.org/aboutus.php?Id=3&t=Values",
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Construction of Citizenship in the Arab World",
+                "activity_description":"The training aims to explore the compatibility between Arab culture and religions and Human Rights, and to construct an alternative Arab based understanding of citizenship and Human Rights;"
+            },
+            {
+                "activity_name":"Women's Rights- Changing the Law",
+                "activity_description":"The project proposal is aiming for a more just and equitable society through legal reform and the amendment of the sectarian personal status codes through working with religious leaders and building their capacities in their service provision and enhancing their legal literacy on matters that are affected by personal status laws;"
+            },
+            {
+                "activity_name":"Young Civil Society Leaders",
+                "activity_description":"The objective is to provide a new perspective of peacebuilding and conflict resolution skills and techniques to civil society leaders, in order to widen their horizons and their capabilities on how they can act for peace in their communities. This project aims to gather young civil society leaders coming from different institutions in Lebanon, such as scouts, religious based institutions for youth, youth committees and clubs;"
+            },
+            {
+                "activity_name":"Peacebuilding by Active Citizenship in Iraq",
+                "activity_description":"A 3-year project, gathering 18 representatives of Iraqi NGOs (aged 24-32) and 8 Iraqi University students from various areas in Iraq to promote advocacy and mobilization by empowering Iraqi students and workers in Iraqi NGOs to engage in active citizenship as well as to develop participants' skills in implementing projects and to advocate for peacebuilding;"
+            },
+            {
+                "activity_name":"Towards Peacebuilding in a Lebanese Context",
+                "activity_description":"A 3-year project, gathering students of theological and religious institutions in their final two years of study (new group of participants each year) to enhance bridges between future leaders of different confessional backgrounds and to increase linkages and communication among them as well as to deepen the understanding of students of various confessions in Lebanon for peacebuilding and to exchange their points of view on peacebuildling issues."
+            }
+        ],
+        "history":"Founded in 2004."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":52.50810999999999,
+                "lon":13.35232,
+                "normalized":"Klingelh\u00f6ferstra\u00dfe 23, 10785 Berlin, Germany",
+                "address":"Konrad-Adenauer-Stiftung e.V \nKlingelh\u00f6ferstra\u00dfe 23 \n10785 Berlin \nGermany"
+            },
+            "Address2":{
+                "lat":50.77598,
+                "lon":7.18601,
+                "normalized":"Rathausallee 12, 53757 Sankt Augustin, Germany",
+                "address":"Konrad-Adenauer-Stiftung e.V \nRathausallee 12 \n53757 Sankt Augustin \nGermany"
+            },
+            "Address3":{
+                "lat":38.910607,
+                "lon":-77.045183,
+                "normalized":"2005 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+                "address":"Konrad-Adenauer-Stiftung, \nAuslandsb\u00fcro Washington\n2005 Massachusetts Avenue NW\nWashington, D.C. 20036\nUSA"
+            },
+            "Address4":{
+                "lat":1.2794757,
+                "lon":103.8408522,
+                "normalized":"34 Bukit Pasoh Road, Singapore 089848",
+                "address":"Konrad-Adenauer-Stiftung,\nRegional Programme Political Dialogue Asia/Singapore\n34-36 Bukit Pasoh Rd. \nSingapore 089848"
+            },
+            "Address5":{
+                "lat":6.366667,
+                "lon":2.433333,
+                "normalized":"Cotonou, Benin",
+                "address":"Konrad-Adenauer-Stiftung,\nRegionalprogramm Politischer Dialog Westafrika\nLes Cocotiers \nBP. 01-3304 R.P. \nCotonou \nBenin"
+            }
+        },
+        "aim_URL":"http://www.kas.de/wf/en/71.3628/",
+        "staff":[
+            "About 560 employees are working for the foundation\u2019s ten main departments."
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "German",
+            "French",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "3b",
+            "6.9b",
+            "6.1b",
+            "6.3b",
+            "7b",
+            "8b",
+            "1c",
+            "3c",
+            "4c",
+            "6.9c",
+            "6.1c",
+            "6.3c",
+            "7c",
+            "8c",
+            "8d",
+            "6.9e",
+            "1g",
+            "3g",
+            "6.9g",
+            "6.1g",
+            "6.3g",
+            "8g",
+            "11g",
+            "1h",
+            "2.9h",
+            "3h",
+            "4h",
+            "6.9h",
+            "6.1h",
+            "6.3h",
+            "8h",
+            "1i",
+            "3i",
+            "1j",
+            "3j",
+            "6.9j",
+            "6.1j",
+            "7j",
+            "8j",
+            "1k",
+            "3k",
+            "6.9k",
+            "6.1k",
+            "3l",
+            "6.9l",
+            "6.1l"
+        ],
+        "finances":"96.8% of the Konrad-Adenauer-Stiftung's funds come from public remittances, while 2.7% are derived from admission charges and miscellaneous revenues. Private revenues (income from funds and donations) account for another 0.5%",
+        "website":"http://www.kas.de/wf/en/",
+        "foundation":"1955",
+        "acronym":"KAS",
+        "email_gen":"zentrale-berlin@kas.de",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Africa"
+                ],
+                "activity":"Promotion of the intercultural and interreligious value dialogue in Africa;"
+            }
+        ],
+        "name_en":"Konrad Adenauer Stiftung",
+        "general_activities":[
+            {
+                "activity_name":"European and International Cooperation",
+                "activity_description":"the \"Department for International Cooperation\" of the \"Institute for International Solidarity\"(founded in 1962) is responsible for the international cooperation in 2 types of programmes: the country programs and the regional sector programs;"
+            },
+            {
+                "activity_name":"Civic Education",
+                "activity_description":"Providing background knowledge in politics and economics and promoting the emergence of active citizens in our democracy;"
+            },
+            {
+                "activity_name":"Academy",
+                "activity_description":"The Berlin Academy of the Konrad-Adenauer-Stiftung (KAS) is the national forum of dialogue between the spheres of politics, economy, science, and society;"
+            },
+            {
+                "activity_name":"Archive for Christian-Democratic Policy",
+                "activity_description":"The Archive for Christian-Democratic Policy (ACDP) has the task of documenting and researching Christian Democracy' s historical development;"
+            },
+            {
+                "activity_name":"Scholarships and Cultural Activities",
+                "activity_description":"Awarding scholarships to students and graduates of exceptional academic achievement and outstanding political or social commitment;"
+            },
+            {
+                "activity_name":"EU Russia Dialogue",
+                "activity_description":"Experts discuss current questions on EU Russia relations."
+            }
+        ],
+        "structure":"23 Board of Directors, 56 Members and 22 Board of Trustees; 2 educational centers and 16 training centers.",
+        "other_relations":"No information",
+        "IRD_def":"Promoting inter-religious dialogue in Macedonia through capacity building for media and religious representatives",
+        "country":"Germany",
+        "events":[
+            "2013: Faith is the Fountain of Love, Peace and Understanding: 30 representatives of religious communities in Tanzania convened for a meeting, Dar es Salaam, Tanzania",
+            "2013: KAS Tanzania, organized training workshops for Catholic women of the nationwide Catholic institution WAWATA. Through the education and training of female executives, KAS not only strengthens the role of women within the Christian community, but also contributes to the inter-religious dialogue in Tanzania through the creation of stable religious communities, Dar es Salaam, Tanzania",
+            "2014: First World War Centenary: European and Thai Experiences: The seminar by KAS, Thai-German Society, Chulalongkorn University and CPG Thammasat University, Bangkok, Thailand",
+            "2014: Transitional Justice and Social Integration in Unified Germany: Lessons for the Korean Peninsula, Event Series \"25 Years Peaceful Revolution in Germany\" of KAS Korea, Seoul, South Korea",
+            "2014: KAS in cooperation with the \"Euro-Balkan\" University, and the five religious communities in the country are organizing a summer school with the title \"Religion, Ethnicity and Nationalism\", Skopje, Republic of Macedonia",
+            "2014: Energy Market South East Europe Conference, Pristina, Kosovo",
+            "2014: 7th International Day of Democracy Conference: Promoting democracy and participation through a series of presentations and workshops centered on actual political and international topics, Rio de Janeiro, Brasil",
+            "2014: \"Greece - unknown neighbour?\"Third delegation trip for multipliers and political decision makers from Germany to Athens, Athens, Greece",
+            "2014: 'We want what's ours', Learning from South Africa's Land Restitution Programme, Pretoria, South Africa",
+            "2014: Environmental Values Emerging from Culture and Religions of the ASEAN Region, KAS-ABAC International Conference on the Topic of Climate and Energy, Bangkok, Thailand",
+            "2014: The 2nd Islam and Democracy Forum 2014 was held with the theme, \"Human Rights in Islam\", Quezon City, Philippines",
+            "2014: KAS Jordan in cooperation with RDTF organized a two-day training workshop on \"Promote Knowledge on the Concepts of Human Rights\", Tafilah, Jordan",
+            "2014: Political Dialogue and Conference Programme with the Federal Whip of the Junge Union, New Delhi, India"
+        ],
+        "aim":"Their civic education programs aim at promoting freedom and liberty, peace, and justice. Focusing on consolidating democracy, the unification of Europe and the strengthening of transatlantic relations, as well as on development cooperation.",
+        "org_type":[
+            "E"
+        ],
+        "publications":[
+            "Annual Report' (2013, periodical)",
+            "'KAS International' (2014)",
+            "'International Reports' (2014, periodical)",
+            "'Facts & Findings' (2014)",
+            "'Country Reports' (2014)"
+        ],
+        "IRD_def_URL":"http://www.kas.de/wf/en/71.10442/",
+        "old_alias":[
+            "Society for Christian-Democratic Civic Education"
+        ],
+        "entry":{
+            "date":"20140723",
+            "author":"CC"
+        },
+        "contact_person":[
+            "Matthias Barner",
+            "Matthias.Barner@kas.de"
+        ],
+        "history":"Established in 1955 as \u201cSociety for Christian-Democratic Civic Education\u201d, the Foundation took on the name of the first Federal Chancellor in 1964."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":52.3719182,
+                "lon":9.7339332,
+                "normalized":"Knochenhauerstra\u00dfe 42, 30159 Hanover, Germany",
+                "address":"International Office \nWorld Communion of Reformed Churches (WCRC)\n Knochenhauerstr. 42\n 30159 Hannover\n Germany"
+            },
+            "Address2":{
+                "lat":42.9113063,
+                "lon":-85.6249517,
+                "normalized":"1700 28th Street Southeast, Grand Rapids, MI 49508, USA",
+                "address":"US Office\nWorld Communion of Reformed Churches (WCRC)\n1700 28th Street SE\nGrand Rapids, MI 49508-1407\nUSA"
+            }
+        },
+        "aim_URL":"http://wcrc.ch/our-story/",
+        "staff":[
+            "12 Employees"
+        ],
+        "IO_relations":"No information",
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "German",
+            "French",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "6.1b",
+            "6.2b",
+            "8b",
+            "12b",
+            "1c",
+            "6.1c",
+            "6.2c",
+            "8c",
+            "10c",
+            "12c",
+            "8d",
+            "1g",
+            "4g",
+            "6.1g",
+            "6.2g",
+            "8g",
+            "10g",
+            "12g",
+            "1h",
+            "4h",
+            "6.1h",
+            "6.2h",
+            "8h",
+            "10h",
+            "12h",
+            "1j",
+            "4j",
+            "6.1j",
+            "6.2j",
+            "8j",
+            "12j",
+            "1k",
+            "4k",
+            "6.1k",
+            "6.2k",
+            "8k",
+            "12k",
+            "4m",
+            "12b",
+            "12c",
+            "12d",
+            "12g",
+            "12h",
+            "12j",
+            "12k"
+        ],
+        "finances":"Membership Fees 72%; Donations 22%; Other Income 6%",
+        "website":"http://wcrc.ch/",
+        "foundation":"2010",
+        "acronym":"WCRC",
+        "email_gen":"wcrc@wcrc.eu",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"The Programmes of the Office of Theology and Communion: Dialogues between WCRC and other churches such as the Roman Catholic, Anglican or Lutheran churches and between WCRC and other faiths, such as Islam;"
+            }
+        ],
+        "name_en":"World Communion of Reformed Churches",
+        "structure":"General Council (every 6-7 years). Regional structure includes: Alliance of Presbyterian and Reformed Churches in Latin America (AIPRAL); Alliance of Reformed Churches in Africa (ARCA); WARC Caribbean and North American Area Council (CANAAC); WARC European Area Council; WARC Northeast Asia Area Council (NEAAC)",
+        "other_relations":"No information",
+        "IRD_def":"WCRC has its interfaith dialogue programme located in the \nOffice of Theology, Mission and Communion in the Presbyterian Church of Ghana, a member church of the World Communion of Reformed Churches.",
+        "country":"Germany",
+        "events":[
+            "2011: the first consultation of the WCRC's Global Network of Theologians took place at Theological College in Mangalore: presenting \"theologically relevant\" in their own context as well as the emerging themes such as issues of justice, equality, interfaith dialogue, Reformed identity and ecumenism, Karnataka, India",
+            "2012: Global Ecumenical Conference on a New International Financial and Economic Architecture, Guarulhos, Brazil"
+        ],
+        "aim":"WCRC is composed of 229 churches (denominations) in 108 countries committed to better understanding each other\u2019s theology and to working together on issues of common concern that affect our daily lives: community relations, human rights, economic systems, and climate change.",
+        "org_type":[
+            "B",
+            "y"
+        ],
+        "publications":[
+            "Reformed Communiqu\u00e9' (2014, periodical)",
+            "'WCRC Annual (2013, periodical)"
+        ],
+        "IRD_def_URL":"http://wcrc.ch/wp-content/uploads/2013/08/WCRC_Communiqu%C3%A9-201203-ENJRS.pdf",
+        "entry":{
+            "date":"20140724",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Partnership Fund",
+                "activity_description":"WCRC member churches in the Global South are invited to apply for grants to support small projects in mission, diaconate (social services) and development;"
+            },
+            {
+                "activity_name":"Sylvia Michel Prize",
+                "activity_description":"The Sylvia Michel Prize honours women who help women become leaders within the church;"
+            },
+            {
+                "activity_name":"Theological Education Scholarship Fund for Women in the South",
+                "activity_description":"This Fund was established in 2001 and has proven to be a very effective way to encourage member churches to accept women in the ordained ministry, providing for first degree or diploma studies which are done at a seminary or college in the home country or region of scholarship awardees;"
+            },
+            {
+                "activity_name":"Promoting positive masculinities",
+                "activity_description":"From Hegemony to Partnership;"
+            },
+            {
+                "activity_name":"Support for ordination of women",
+                "activity_description":"Promoting the ordination of women by its member churches and works towards a time when the ordination of women will be binding on membership in the Communion;"
+            },
+            {
+                "activity_name":"Created in God's Image",
+                "activity_description":"From Hierarchy to Partnership \u2013 A Church Manual for Gender Awareness and Leadership Development;"
+            },
+            {
+                "activity_name":"Created in God's Image",
+                "activity_description":"From Hierarchy to Partnership \u2013 Workbook for Participants;"
+            },
+            {
+                "activity_name":"Righting Her-Story",
+                "activity_description":"Caribbean Women Encounter the Bible Story, edited by Patricia Sheerattan-Bisnauth;"
+            }
+        ],
+        "history":"WCRC has its roots in the 16th-century Reformation. In June 2010, by merger of Reformed Ecumenical Council (REC) and World Alliance of Reformed Churches (WARC)."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":46.2289501,
+                "lon":6.1273244,
+                "normalized":"Route de Ferney 150, 1218 Grand-Saconnex, Switzerland",
+                "address":"Ecumenical Centre,\n150 route de Ferney,\n1218 Geneva, Switzerland"
+            },
+            "Address2":{
+                "lat":40.7531228,
+                "lon":-73.9677495,
+                "normalized":"100 United Nation Plaza, 100 United Nations Plaza, Manhattan, NY 10017, USA",
+                "address":"UN Liaison Office for the World Council of Churches,\n777 United Nations Plaza, 9D, 10017, New York, NY, USA"
+            }
+        },
+        "aim_URL":"http://www.oikoumene.org/en/about-us/faq#-br-what-is-the-aim-of-the-wcc-",
+        "staff":[
+            "As of June 2011, WCC staff consists of 143 people, working in 97 full time equivalent positions. 131 of these staff members are based in the WCC offices in Geneva, Switzerland."
+        ],
+        "IO_relations":[
+            "Ecumenical Accompaniment Programme in Palestine and Israel, Jerusalem, Israel",
+            "Ecumenical HIV and AIDS Initiative in Africa, Geneva, Switzerland",
+            "Ecumenical Disability Advocates Network, Nairobi, Kenya"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "German",
+            "French",
+            "Spanish"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "1c",
+            "2.9c",
+            "2.3c",
+            "4c",
+            "6.9c",
+            "6.1c",
+            "6.2c",
+            "8c",
+            "9c",
+            "10c",
+            "11c",
+            "12c",
+            "1g",
+            "12g",
+            "1h",
+            "2.9h",
+            "2.3h",
+            "4h",
+            "6.9h",
+            "6.1h",
+            "6.2h",
+            "8h",
+            "9h",
+            "10h",
+            "11h",
+            "12h",
+            "1i",
+            "1j",
+            "2.3j",
+            "4j",
+            "6.1j",
+            "6.2j",
+            "12j",
+            "1k",
+            "4k",
+            "12k",
+            "2.3l",
+            "12l",
+            "9m",
+            "11m",
+            "12m"
+        ],
+        "events":[
+            "2014: Building an interfaith community: A community of young Christians, Muslims and Jews works for climate justice, Bossey, Switzerland"
+        ],
+        "website":"http://www.oikoumene.org/en",
+        "foundation":"1948",
+        "acronym":"WCC",
+        "IRD_activities":[],
+        "name_en":"World Council of Churches",
+        "structure":"the Assembly which meets approximately once every 8 years; a 150-member Central Committee (elected by the Assembly) meets every 2 years; Executive Committee; General secretary; Presidents and Leadership; Related organizations;",
+        "other_relations":"No information",
+        "IRD_def":"WCC's project of \"Strengthening inter-religious trust and respect\" attempts to strengthen inter-religious trust and respect through bilateral and multilateral dialogues, regional and cross-cultural encounters on topics like religion and violence, perceptions of \"the other\", and the search for identity in pluralistic societies.",
+        "country":"Switzerland",
+        "finances":"Contributions from member churches; funds from church-related organizations, foundations and individuals; income from investments, rental of offices, fees for courses, sale of publications.",
+        "aim":"Pursue the goal of the visible unity of the Church. This involves a process of renewal and change in which member churches pray, worship, discuss and work together.",
+        "org_type":[
+            "B",
+            "y"
+        ],
+        "publications":[
+            "WCC Annual Review'(2013, periodical)"
+        ],
+        "IRD_def_URL":"http://www.oikoumene.org/en/what-we-do/inter-religious-trust-and-respect",
+        "entry":{
+            "date":"20140724",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Spirituality and worship in ecumenical context",
+                "activity_description":"This project encourages churches to explore traditional and newer dimensions of ecumenical spiritual life, continue work on the Week of Prayer for Christian Unity, and collect resources for worship and healing in community;"
+            },
+            {
+                "activity_name":"JWG with the Roman Catholic Church",
+                "activity_description":"Since 1965 a Joint Working Group, co-sponsored by the WCC and the RCC, has met regularly to discuss issues of common interest and promote cooperation;"
+            },
+            {
+                "activity_name":"Joint Consultative Group between the WCC and Pentecostals",
+                "activity_description":"The Joint Consultative Group between the WCC and Pentecostals (JCG) was set up following a decision of the WCC Assembly in Harare 1998;"
+            },
+            {
+                "activity_name":"Ecumenical perspectives on mission and unity",
+                "activity_description":"This project brings the WCC's specific ecumenical perspective and experience to international dialogue and debate on mission and evangelism in the 21st century;"
+            },
+            {
+                "activity_name":"Commission on World Mission and Evangelism",
+                "activity_description":"The CWME offers spaces for sharing reflections, experiences, questions and discoveries on content and methods of Christian witness today;"
+            },
+            {
+                "activity_name":"Commission on Faith and Order",
+                "activity_description":"The Faith and Order Commission promotes visible unity of Christians by dealing with theological questions that divide churches;"
+            },
+            {
+                "activity_name":"The Faith and Order Commission promotes visible unity of Christians by dealing with theological questions that divide churches",
+                "activity_description":"This project accompanies and equips churches for advocacy in countries where religion is being used to fuel conflict;"
+            },
+            {
+                "activity_name":"Care for creation and climate justice",
+                "activity_description":"Care for creation and justice are at the centre of WCC work on climate change;"
+            }
+        ],
+        "history":"The World Council of Churches was formally inaugurated in 1948 at its first Assembly in Amsterdam, the Netherlands."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":33.8886289,
+                "lon":35.4954794,
+                "normalized":"Beirut, Lebanon",
+                "address":"The Middle East Council of Churches, Makhoul Street, Deeb Building  \nP.O.Box5376 Beirut, Lebanon"
+            },
+            "Address2":{
+                "lat":30.0877882,
+                "lon":31.3418872,
+                "normalized":"El-Horeya, Almazah, Heliopolis, Cairo Governorate, Egypt",
+                "address":"The Middle East Council of Churches, P.O.Box   2238\nEl Horriya,  Heliopolis,Cairo, Egypt"
+            },
+            "Address3":{
+                "lat":35.1489362,
+                "lon":33.3741699,
+                "normalized":"Lemesou Avenue, Cyprus",
+                "address":"The Middle East Council of Churches, P.O.Box 54259 \n3722 Limassol, Cyprus"
+            },
+            "Address4":{
+                "lat":33.513,
+                "lon":36.292,
+                "normalized":"Damascus, Syria",
+                "address":"MECC Liaison, P.O.Box 4889\nQuosr Khateeb, Jaddat Kendy, Farah Bldg.\nDamascus, Syria"
+            },
+            "Address5":{
+                "address":"MECC Liaison Office\nP.O.Box 14634 \nJerusalem 91146 Via Israel"
+            }
+        },
+        "aim_URL":"http://mecc.org/content/mecc-message",
+        "staff":"No information",
+        "IO_relations":[
+            "Action by Churches Together, Geneva, Switzerland",
+            "Christian Conference of Asia, Chiangmai, Thailand",
+            "Churches Together in Britain and Ireland, London, UK",
+            "Conference of European Churches, Geneva, Switzerland",
+            "Holy Land Christian Ecumenical Foundation, Bethesda, MD, USA",
+            "Syndesmos, Paris, France",
+            "The All Africa Conference of Churches, Nairobi, Kenya",
+            "The Council of European Churches, Geneva, Switzerland",
+            "The Lutheran World Federation, Geneva, Switzerland",
+            "The World Council of Churches, Geneva, Switzerland",
+            "Worldwide Anglican Communion, London, UK"
+        ],
+        "regionfocus":[
+            "Northern Africa",
+            "South-Western Asia"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "11b",
+            "12b",
+            "1c",
+            "6.1c",
+            "12c",
+            "1g",
+            "6.1g",
+            "7g",
+            "8g",
+            "10g",
+            "11g",
+            "12g",
+            "1h",
+            "6.1h",
+            "11h",
+            "12h",
+            "1j",
+            "6.1j",
+            "11j",
+            "12j",
+            "11l",
+            "12l",
+            "9m",
+            "10m",
+            "11m",
+            "12m"
+        ],
+        "events":[
+            "2012: The General Secretary of the Middle East Council of Churches paid His First visit to Egypt where he met with the Church leaders, Cairo, Egypt",
+            "2014: The General Secretary of the Middle East Council of Churches called the Presidents of the Council to an extraordinary meeting, Amman, Jordan"
+        ],
+        "website":"http://mecc.org/en",
+        "foundation":"1990",
+        "acronym":"MECC",
+        "IRD_activities":[],
+        "name_en":"Middle East Council of Churches",
+        "structure":"General Assembly (every 4 years) comprises 24 members from each of the 4 families of churches: Oriental Orthodox; Eastern Orthodox (Chalcedonian); Evangelical (Protestant); Catholic; Executive Committee, comprises 4 Presidents (one from each family), a further 6 members from each family and the General Secretary. General Secretariat in Beirut (Lebanon) also includes 4 Associate General Secretaries; Administration Departments; Finance Departments; 3 Programme Units;",
+        "other_relations":[
+            "Churches for Middle East Peace, Washington, DC, USA",
+            "National Council of Churches, Washington, DC, USA",
+            "The Canadian Council of Churches, Toronto, ON, Canada",
+            "Vatican, Vatican"
+        ],
+        "IRD_def":"MECC believes that dialogue between religions is a corner-stone of maintaining coexistence, tolerance, and peace between people and nations. Christians and Muslims in the Middle East have a responsibility before God to find ways and means of preserving the dignity of human beings. One of these means is to move the dialogue of religions and life from \"top\" of the pyramid of the society to the grassroots level.",
+        "country":"Lebanon",
+        "finances":"No information",
+        "aim":"Unify the visions and attitudes among the churches, especially in issues related to the Christian Presence and Witness in the Middle East and prominent among these issues is the question of Muslim-Christian dialogue.",
+        "org_type":[
+            "D",
+            "y"
+        ],
+        "publications":[
+            "E-News Brief' (2010, periodical)",
+            "'COURRIER \u0152CUM\u00c9NIQUE' French Magazines(2008)",
+            "Arabic Magazines"
+        ],
+        "IRD_def_URL":"http://mecc.org/content/programs",
+        "entry":{
+            "date":"20140724",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Capacity Building & formation",
+                "activity_description":"Attempting to build awareness about the reality of the Christians in the Middle East region, and raise educational and ecumenical issues and challenges which cannot be blacked out. It requires cooperative efforts from churches together to face it, study it, make research in it, discover common factors for solution and finally assess ecumenical plans to resolve it. This Program targets the Youth, Women, Family Education, Schools related to churches and Human Resource Development;"
+            },
+            {
+                "activity_name":"Justice, Peace and Human Rights Program",
+                "activity_description":"The project works on the topics of 'The Middle Eastern culture derives much of its components from religions'; 'Religious institutions form the nucleus of civil society'; 'People idealize their folk religious traditions and idolize their religious leaders'; 'Human rights messages must work through conditioned of resistance to it, and in order to be heard, it must be clearly phrased, especially where they intersect with religious practices and discourse';"
+            },
+            {
+                "activity_name":"Iraqi Refugees Program in Syria",
+                "activity_description":"Assistance of responding to the need of Iraqi refugees  has been provided in five areas: Vocational training for young adults and students, including training in small enterprise projects; Special programs for Persons With Disabilities; Health Awareness Program for women; Distribution of food and nonfood items; Medical Support;"
+            },
+            {
+                "activity_name":"The Inter-Church Network for Development & Relief in Lebanon",
+                "activity_description":"A national program that symbolizes the work of the Middle East Council of Churches in Lebanon. The nature of the work carried by ICNDR responds to arising needs in the fields of rehabilitation, development and emergency response."
+            }
+        ],
+        "history":"May 1974, Nicosia (Cyprus), by merger of Near East Christian Council (NECC), founded in 1956, and Near East Council of Churches (NECC) -- Conseil des Eglises du Proche-Orient, set up in 1962. Expanded, 1990, by inclusion of seven Catholic churches of the Middle East."
+    },
+    {
+        "parent_org":[
+            "Conference of European Churches"
+        ],
+        "contacted":false,
+        "regionfocus":[
+            "Europe"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":46.22999919999999,
+                "lon":6.1287185,
+                "normalized":"Route de Ferney 150, 1202 Geneva, Switzerland",
+                "address":"Secretariat, Conference of European Churches, \nRoute de Ferney 150\nPO Box 2100\nCH-1211 2, Geneva, Switzerland"
+            }
+        },
+        "aim_URL":"http://cid.ceceurope.org/who-we-are/",
+        "staff":"No information",
+        "IO_relations":[
+            "World Council of Churches, Geneva, Switzerland",
+            "Community of Protestant Churches in Europe, Vienna, Austria",
+            "Council of European Bishops' Conferences, St Gallen, Switzerland",
+            "World Alliance of Reformed Churches, Hannover, Germany",
+            "Lutheran World Federation, Geneva, Switzerland",
+            "Global Christian Forum, Strasbourg, France",
+            "Council for World Mission, Singapore, Singapore",
+            "United Evangelical Mission, Wuppertal, Germany",
+            "mission.de, Hamburg, Germany",
+            "Community of Churches in Mission, Montpellier, France"
+        ],
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "12b",
+            "6.2c",
+            "12c",
+            "6.1g",
+            "6.2g",
+            "6.3g",
+            "12g",
+            "6.1h",
+            "6.2h",
+            "6.3h",
+            "12h",
+            "6.1j",
+            "6.2j",
+            "12j",
+            "6.2k",
+            "12k",
+            "6.2l",
+            "12l"
+        ],
+        "finances":"No information",
+        "website":"http://cid.ceceurope.org/",
+        "foundation":"2013",
+        "acronym":"cec.cid",
+        "IRD_activities":[],
+        "name_en":"Conference of European Churches-Churches in dialogue commission",
+        "structure":"15 Members of the Commission(2009 - 2013);",
+        "other_relations":[
+            "Konfessionskundliches Institut Bensheim, Bensheim, Germany"
+        ],
+        "IRD_def":"The \"Committee for Relations with Muslims in Europe\" (CRME) was jointly set up by the Conference of European Churches (CEC) and the Council of European Bishops' Conferences (CCEE) to help the European churches identify and reflect upon the new challenges for the dialogue between Christians and Muslims in Europe",
+        "country":"Switzerland",
+        "events":[
+            "2008: European Christian-Muslim Conference: \"Being a Citizen of Europe and a Person of Faith. Christians and Muslims as Active Partners in European Societies\", Brussels, Belgium",
+            "2011: Churches in Dialogue Commission Annual Meeting: The Churches in Dialogue Commission of CEC, Budapest, Hungary",
+            "2012: Mission and Unity organised by the Churches in Dialogue Commission of the Conference of European Churches, Turku, Finland",
+            "2012: \"Theology must claim its credibility in the Church, society and the academic community\" was the general understanding of the 45 representatives of theological faculties and institutions at the consultation on \"The future of theology in the changing landscapes of universities in Europe and beyond\", Granavollen, Norway",
+            "2012: Euro-Arab Meeting: Some twenty Muslims and Christians from Europe and the Middle East met at the Ecumenical Institute, Bogis-Bossey, Switzerland"
+        ],
+        "aim":"Make common contribution to the mission of the Church, the safeguarding of life, to renew common life and witness\", and has special responsibility for promoting koinonia (fellowship) within the CEC family.",
+        "org_type":[
+            "E"
+        ],
+        "publications":[
+            "Baptism in the Life of the Churches. Documentation of an orthodox-protestant dialogue in Europa' (2010)",
+            "'The Future of Ecumenical Theological Education in Eastern and Central Europe' (2008)",
+            "'Dialogues between Orthodox and other CEC member churches' (2009)",
+            "'Understanding the Church' (2009)"
+        ],
+        "IRD_def_URL":"http://cid.ceceurope.org/working-priorities/interreligious-dialogue/",
+        "entry":{
+            "date":"20140724",
+            "author":"CC"
+        },
+        "general_activities":[],
+        "history":"Following the vote of a new Constitution for CEC during the 14th CEC Assembly in Budapest in 2013 the Churches in Dialogue Commission ceased to exist as a commission within CEC."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "adresses":{
+            "Address1":{
+                "lat":31.9551425,
+                "lon":35.9305618,
+                "normalized":"Luzmila Hospital, Jordan",
+                "address":"P. O. Box: 811633 Amman 11181 Jordan"
+            }
+        },
+        "aim_URL":"http://www.coexistencejordan.org/en-us/whoweare.aspx",
+        "staff":"No information",
+        "IO_relations":[
+            "Amideast, Washington, DC, USA",
+            "BERKLEY CENTER for Religion, Peace&World Affairs, Georgetown University, Washington, DC, USA",
+            "The Columbia University Middle East Research Center, Amman, Jordan",
+            "The Global Peace Initiative of Women, New York, NY, USA",
+            "Tanenbaum Center for Interreligious Understanding, New York, NY, USA"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "Arabic"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "6.1b",
+            "6.3b",
+            "7b",
+            "8b",
+            "3c",
+            "8d",
+            "1g",
+            "6.1g",
+            "6.2g",
+            "6.3g",
+            "7g",
+            "8g",
+            "1h",
+            "2.3h",
+            "6.1h",
+            "6.2h",
+            "6.3h",
+            "7h",
+            "8h",
+            "10h",
+            "1j",
+            "1l",
+            "6.1l",
+            "6.3l",
+            "7l",
+            "8l"
+        ],
+        "finances":"No information",
+        "website":"http://www.coexistencejordan.org/en-us/home.aspx",
+        "foundation":"2003",
+        "acronym":"JICRC",
+        "email_gen":"frnabil@gmail.com; Info@coexistencejordan.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Amman, Jordan",
+                    "World"
+                ],
+                "activity":"Youth for Coexistence: JICRC provides a venue for Muslim and Christian youth to dialogue and to build relationships of respect and understanding;"
+            }
+        ],
+        "name_en":"Jordanian Interfaith Coexistence Research Center",
+        "structure":"Former Chairman (Co-Founder); Vice Chairman; Executive Director (Founder); 7 Members",
+        "other_relations":[
+            "The Chicago Center for Cultural Connections, Chicago, IL, USA",
+            "The Coexistence Trust, London, UK",
+            "Youth LEAD, Inc., Sharon, MA, USA"
+        ],
+        "IRD_def":"The Jordanian Interfaith Coexistence Research Center was established with the aim of using research, dialogue, and practical initiatives to promote values of peaceful interfaith coexistence.",
+        "country":"Jordan",
+        "events":[
+            "2005: Interfaith Peace Conference, Amman, Jordan",
+            "2005: The Amman Message in Action, Amman, Jordan",
+            "2008: Third International Conference on Coexistence and Peacemaking, Amman, Jordan",
+            "2009: International Common Word Conference, Georgetown University, Washington, DC, USA",
+            "2009: Conference of Bishop's Academy in the Middle East, Amman, Jordan",
+            "2011: World Interfaith Harmony Week, Geneva, Switzerland",
+            "2012: The Arab Awakening and Peace in the Middle East: Muslim and Christian Perspectives, Istanbul, Turkey",
+            "2013: U.N. Alliance of Civilizations 5th Global Forum-Addressing Rising Restrictions on Religion, Law Matters! Vienna, Austria",
+            "2013: Organization for Security and Cooperation in Europe: Promoting tolerance and non-discrimination by strengthening the intercultural/ interfaith dialogue, exchange of good practices, Vienna, Austria",
+            "2013: Communicating at the Speed of Life, Indianapolis, IN, USA"
+        ],
+        "aim":"Develop and implement educational programs geared towards developing the concepts of peace building using the interfaith perspective of human dignity, equality, justice and freedom. These programs tackle issues of: Coexistence, Democracy, Women's Rights and empowerment in the MENA region, Children's Rights and Youth rights, and religious freedom.",
+        "org_type":[
+            "E",
+            "g"
+        ],
+        "publications":[
+            "Religion and Secularism: An Arab Christian Perspective' (n.i.)",
+            "'Reinterpreting Sharia Law under Western Democracy' (n.i.)"
+        ],
+        "IRD_def_URL":"http://www.coexistencejordan.org/en-us/whoweare.aspx",
+        "entry":"CC,04.08.2014",
+        "general_activities":[
+            {
+                "activity_name":"Women for Coexistence",
+                "activity_description":"The program consists of initiatives of workshops, camps and conferences, which provide an open forum for women to interact using the core interfaith values as a foundation for building harmony, religious coexistence, cultural understanding, gender equality, and peace. The ultimate goal of the programme is to transform women into agents of peace in their communities and in the world;"
+            },
+            {
+                "activity_name":"Youth for Coexistence",
+                "activity_description":"JICRC provides a venue for Muslim and Christian youth to dialogue and to build relationships of respect and understanding. Youth who have the passion and the capacity to promote peace and understanding between the faith traditions will become the most effective future spokespersons for the cause of peaceful coexistence. The program includes conferences, camps and workshops;"
+            },
+            {
+                "activity_name":"Internship Program",
+                "activity_description":"JICRC has hosted students for internships since 2004. The center has received interns from the US and Europe, for both short and long term positions;"
+            }
+        ],
+        "history":"Founded in 2003."
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Lutheranism"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":46.22999919999999,
+                "lon":6.1287185,
+                "normalized":"Route de Ferney 150, 1202 Geneva, Switzerland",
+                "address":"The Lutheran World Federation\nRoute de Ferney 150,\n P.O. Box 2100\n CH-1211 Geneva 2\n Switzerland"
+            }
+        },
+        "aim_URL":"http://www.lutheranworld.org/content/about-lwf",
+        "staff":[
+            "Geneva (Switzerland): about 65 of about 20 different nationalities. Also 40 international staff who work alongside 2,700 local staff in regional and country programmes."
+        ],
+        "IO_relations":[
+            "UN Refugee Agency, Geneva, Switzerland",
+            "The UN World Food Programme, Rome, Italy",
+            "UN Children's Fund, New York, NY, USA",
+            "The Food and Agriculture Organization, Rome, Italy",
+            "ACT Alliance, Geneva, Switzerland",
+            "European Commission Directorate-General for Humanitarian Aid and Civil Protection, Brussels, Belgium",
+            "Development and Cooperation\u2013EuropeAid, Brussels, Belgium",
+            "Bureau of Population, Refugees, and Migration, US Department of State, Washington, DC, USA",
+            "Australian Lutheran World Service, Albury, Australia",
+            "Brot f\u00fcr die Welt, Berlin, Germany",
+            "Canadian Lutheran World Relief, Winnipeg, MB, Canada",
+            "Christian Aid, London, UK",
+            "Church of Sweden, Uppsala, Sweden",
+            "DanchurchAid, Copenhagen, Denmark",
+            "Diakonie Katastrophenhilfe, Berlin, Germancy",
+            "Evangelical Lutheran Church of America, Chicago, IL, USA",
+            "FinnchurchAid, Helsinki, Finland",
+            "Finnish Evangelical Lutheran Mission, Helsinki, Finland",
+            "Hungarian Interchurch Aid, Budapest, Hungary",
+            "Icelandic Church Aid, Reykjav\u00edk, Iceland",
+            "Interchurch Organization for Development Cooperation, Utrecht, The Netherlands",
+            "Lutheran World Relief, Baltimore, MD, USA",
+            "Norwegian Church Aid, Oslo, Norway",
+            "Humanitarian Accountability Partnership (HAP) International, Geneva, Switzerland",
+            "International Council of Voluntary Agencies, Geneva, Switzerland",
+            "The Sphere Project, Geneva, Switzerland"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English",
+            "German"
+        ],
+        "international":true,
+        "subject":[
+            "6.1b",
+            "6.2b",
+            "8b",
+            "10b",
+            "11b",
+            "12b",
+            "1c",
+            "6.1c",
+            "6.2c",
+            "8c",
+            "10c",
+            "11c",
+            "12c",
+            "10f",
+            "11f",
+            "1g",
+            "4g",
+            "6.1g",
+            "6.2g",
+            "8g",
+            "10g",
+            "11g",
+            "12g",
+            "1h",
+            "4h",
+            "6.1h",
+            "6.2h",
+            "6.3h",
+            "8h",
+            "10h",
+            "11h",
+            "12h",
+            "1j",
+            "6.1j",
+            "6.2j",
+            "11j",
+            "12j",
+            "1k",
+            "6.2k",
+            "12k",
+            "12l",
+            "10m",
+            "11m"
+        ],
+        "finances":"Member churches' dues. Appropriations from National Committees. Total budget (annual): about US$ 90 million, of which US$ 80 million allotted to projects, programmes and emergencies. LWF Foundation - Endowment Fund: for long-term financial support.",
+        "website":"http://www.lutheranworld.org/",
+        "foundation":"1947",
+        "acronym":"LWF",
+        "email_gen":"info@lutheranworld.org",
+        "IRD_activities":[
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Lutheran Interreligious Network: Developing a network of churches, agencies and projects involved in interfaith work to share about successes and challenges; "
+            },
+            {
+                "region":[
+                    "World"
+                ],
+                "activity":"Religions and Renewal/Interfaith Visions for Change: Inviting people from different faith communities to share their visions for renewal and to develop joint theological understanding;"
+            }
+        ],
+        "name_en":"Lutheran World Federation",
+        "contact_person":[
+            "Ms Karin  Striebel",
+            "kst@lutheranworld.org"
+        ],
+        "structure":"President; 7 Vice-Presidents; Assembly (every 6-7 years); Council; Meeting of Officers; Committee for Advocacy and Public Voice; Finance Committee; Committee for Mission and Development; Sub-Committee for Mission and Development; Committee for Theology and Ecumenical Relations; Committee for World Service; Standing Committee for Communications; Standing Committee for Constitution and Membership; \n\nCommunion Office:\nDepartment for Mission & Development, Department for Planning and Operations, Department for Theology & Public Witness, Department for World Service, Office of the General Secretary",
+        "other_relations":[
+            "Czech Diakonia, Prague, Czech Republic"
+        ],
+        "IRD_def":"The LWF strives to put our faith into action within and beyond the communion. This action takes a variety of forms from theological reflection and dialogue with other churches and faiths, to deepening relationships, sharing about our faith, serving those in need and advocating for a more just, peaceful and reconciled world.",
+        "country":"Switzerland",
+        "events":[
+            "2003: The Tenth Assembly, Winnipeg, Canada",
+            "2010: The Eleventh Assembly, Stuttgart, Germany",
+            "2014: Speaking during two panel discussions at the 28th edition of the international meeting \u201cPeople and Religions\u201d hosted by the Community of Sant' Egidio, Antwerp, Belgium",
+            "2014: Interreligious Symposium Affirms the Values of Dignity, Compassion and Solidarity: 2014: The conference, sponsored by the Lutheran World Federation and the School of Theology and Ministry at Seattle University, engaged thirty Jewish, Christian and Muslim scholars from various traditions in lively and thought-provoking discussions, Seattle, WA, USA"
+        ],
+        "aim":"Build up a communion in Christ living and working together for a just, peaceful, and reconciled world.",
+        "org_type":[
+            "B"
+        ],
+        "publications":[
+            "Lutheran World Information' (2014, periodical)",
+            "'LWF Today' (2014, periodical)",
+            "'LWF Women'",
+            "'LWF Youth'",
+            "'LWF Documentation'"
+        ],
+        "IRD_def_URL":"http://www.lutheranworld.org/content/about-lwf",
+        "entry":{
+            "date":"20140729",
+            "author":"CC"
+        },
+        "general_activities":[
+            {
+                "activity_name":"Sustainable Livelihoods in a Changing Climate",
+                "activity_description":"With our long track record of community-based development, working to help communities lift themselves out of poverty in harmony with creation;"
+            },
+            {
+                "activity_name":"Human rights, protection, and peace",
+                "activity_description":"Working to empower community-led action for human rights, justice, and peace and developing local capacities for leadership and governance and promote access to essential services;"
+            },
+            {
+                "activity_name":"Disaster Risk Reduction & Emergency Preparedness and Response",
+                "activity_description":"Responding to save lives as disasters unfold and continue to assist vulnerable communities through recovery and rehabilitation and helping communities to pro-actively reduce risks and prepare before disasters strike;"
+            },
+            {
+                "activity_name":"Theology of Work/Sub-program",
+                "activity_description":"This annual symposium seeks to provide a platform for theological and inter-disciplinary reflection on the topic of work;"
+            },
+            {
+                "activity_name":"Religion and Development",
+                "activity_description":"Three workshops on rights-based approach principles for church leaders, development workers and theology faculty. Focus is on broad participation of youth, women and persons with diverse skills to strengthen the effectiveness of local churches. Workshops aim to foster a link between church life and the human rights principles for development;"
+            },
+            {
+                "activity_name":"Religion and Development",
+                "activity_description":"Workshops with seminaries to establish curriculum that ensures the inclusion of human rights dimensions in pastoral formation; 9. Lutheran-Anglican Dialogue; 10. Lutheran-Mennonite Dialogue; 11. Lutheran-Orthodox Dialogue; 12. Lutheran-Reformed Dialogue; 13. Lutheran-Roman Catholic Dialogue;"
+            }
+        ],
+        "history":"The LWF was established in 1947 as a Federation of Lutheran churches. Lutherans worldwide wanted to confess, reflect, reconcile, and to respond together to human suffering in the aftermath of the Second World War."
+    }
+]
