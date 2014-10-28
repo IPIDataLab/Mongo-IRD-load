@@ -1,0 +1,680 @@
+[
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Christian"
+        ],
+        "main_names":[
+            "\u0425\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u043a\u0438\u0439 \u041c\u0435\u0436\u043a\u043e\u043d\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u041a\u043e\u043c\u0438\u0442\u0435\u0442"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.71110700000001,
+                "lon":37.6276562,
+                "normalized":"ulitsa Danilovskiy Val, 22, Moscow, Russia, 115191",
+                "address":"Danilovsky Val 22, 113191 Moscow, Russia"
+            }
+        },
+        "aim_URL":"http://www.xmkk.org/2014/02/532",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "Russia",
+            "Ukraine",
+            "Armenia",
+            "Azerbaijan",
+            "Belarus",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Moldova",
+            "Tajikistan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Georgia",
+            "Estonia",
+            "Latvia",
+            "Lithuania"
+        ],
+        "languages":[
+            "Russian, English"
+        ],
+        "international":true,
+        "subject":[
+            "1g",
+            "1b",
+            "1c",
+            "6.1l",
+            "6.1c",
+            "6.1b",
+            "6.9j"
+        ],
+        "finances":"No information",
+        "website":"www.xmkk.org",
+        "foundation":"1993",
+        "acronym":"CIAC",
+        "email_gen":"info@xmkk.org",
+        "IRD_activities":[],
+        "name_en":"Christian Interconfessional Advisory Committee",
+        "structure":"Council consisting of official representatives from its members (three elected co-chairs); Secretariat (Executive Secretary is the Head of the Secretariat)",
+        "other_relations":"No information",
+        "IRD_def":"The Committee is a convenient platform for dialogue and cooperation, which allows for working out a joint approach of christian Churches to the key questions raised by modern times",
+        "country":"",
+        "events":[
+            "2014: IV Plenary Session"
+        ],
+        "aim":"develop cooperation among christians of different confessions in the post-soviet states",
+        "org_type":[
+            "R"
+        ],
+        "publications":"No information",
+        "IRD_def_URL":"http://www.xmkk.org/2009/10/35",
+        "entry":{
+            "date":"20140401",
+            "author":"KK"
+        },
+        "general_activities":[],
+        "history":"Foundation in 1993, work suspended in 2002, started functioning again in 2007"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":[
+            "\u0421\u043e\u044e\u0437 \u041c\u043e\u043b\u043e\u0434\u044b\u0445 \u0423\u0447\u0435\u043d\u044b\u0445 \u0438 \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432 \u0415\u0432\u0440\u0430\u0437\u0438\u0438"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.76257099999999,
+                "lon":37.6821259,
+                "normalized":"ulitsa Radio, 22, Moscow, Russia, 105005",
+                "address":"Radio ul. 22, 117997, Moscow, Russia"
+            },
+            "Address2":{
+                "lat":50.440098,
+                "lon":30.510529,
+                "normalized":"ulitsa Vladimirskaya, 64, Kiev, Kyiv city, Ukraine",
+                "address":"Vladimirskaya ul. 64, 01033, Kiev, Ukraine"
+            },
+            "Address3":{
+                "lat":55.8731067,
+                "lon":49.2225329,
+                "normalized":"Tatarstan, Russia, 420075",
+                "address":"Nauchny gorodok-2, 420075, Kazan, Russia;"
+            },
+            "Address4":{
+                "lat":59.9326239,
+                "lon":30.3829449,
+                "normalized":"Starorusskaya ulitsa, 5/3, Saint Petersburg, Russia, 191144",
+                "address":"Starorusskaya ul. 5/3, 191144, St. Petersburg, Russia"
+            }
+        },
+        "aim_URL":"http://eauyss.org/%d0%bc%d0%b0%d0%bd%d0%b8%d1%84%d0%b5%d1%81%d1%82/",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "Russia",
+            "Ukraine",
+            "Armenia",
+            "Azerbaijan",
+            "Belarus",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Moldova",
+            "Tajikistan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Georgia",
+            "Estonia",
+            "Latvia",
+            "Lithuania"
+        ],
+        "languages":[
+            "Russian"
+        ],
+        "international":true,
+        "subject":[
+            "6.1l",
+            "6.1j",
+            "6.1g",
+            "4b",
+            "4j",
+            "4l",
+            "7b",
+            "7c",
+            "4h",
+            "4g"
+        ],
+        "finances":"No information",
+        "website":"http://eauyss.org",
+        "foundation":"2012",
+        "acronym":"EAUYSS",
+        "email_gen":"shkaev@gmail.com",
+        "IRD_activities":[],
+        "name_en":"Union of Young Scientists and Specialists of Eurasia",
+        "general_activities":[],
+        "structure":"Supervisory Board, Board of Directors, Executive Directorate, regional directorates, offices, official representatives",
+        "other_relations":[
+            "educational and scientific institutions of the Commonwealth of Independent States"
+        ],
+        "IRD_def":"No information",
+        "country":"",
+        "events":[
+            "2013: Ecological convention"
+        ],
+        "aim":"unite young scientists and specialists of Eurasia not through organizational and formal steps, but inviting them to united project teams to work together on  real scientific projects, not organization by itself.",
+        "org_type":[
+            "F"
+        ],
+        "publications":[
+            "\"Young Scientists in Modern Russia\"",
+            "quarterly journal \"Credo New\""
+        ],
+        "IRD_def_URL":"No information",
+        "entry":{
+            "date":"20140425",
+            "author":"KK"
+        },
+        "contact_person":[
+            "Sergey Melnik",
+            "sermel05@mail.ru"
+        ],
+        "history":"Founded in 2012"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":[
+            "Centro dell'Uomo  Associazione Non-Profit di Utilit\u00e0 Sociale"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":43.46328390000001,
+                "lon":11.8796336,
+                "normalized":"52100 Arezzo Arezzo, Italy",
+                "address":"Monastero di Sargiano, 52100 Arezzo, Italy"
+            }
+        },
+        "aim_URL":"http://www.centrodelluomo.org/Pages/Inglese/Presentation.htm",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "Nurnberg",
+            "Germany",
+            "Erlangen",
+            "Germany",
+            "Munchen",
+            "Germany",
+            "Friburg",
+            "Germany",
+            "Bruxelles",
+            "Belgium",
+            "London",
+            "United Kingdom",
+            "Paris",
+            "France",
+            "Corenc",
+            "France",
+            "Madrid",
+            "Spain",
+            "Lugano",
+            "Switzerland",
+            "Moscow",
+            "Russia",
+            "St. Petersburg",
+            "Russia",
+            "Dubna",
+            "Russia",
+            "Cluj-Napoca",
+            "Rumania",
+            "Kishinev",
+            "Moldova",
+            "Lija",
+            "Malta",
+            "California",
+            "USA",
+            "Florida",
+            "USA",
+            "Georgia",
+            "USA",
+            "North Carolina",
+            "USA",
+            "South Carolina",
+            "USA",
+            "Massachusetts",
+            "USA",
+            "Santaf\u00e9 de Bogot\u00e0",
+            "Colombia",
+            "Cali",
+            "Colombia",
+            "Santa Marta",
+            "Colombia",
+            "Medellin",
+            "Colombia",
+            "Puerto Plata",
+            "Dominican Republic",
+            "Dakar",
+            "Senegal",
+            "Gurgaon",
+            "India",
+            "Odessa",
+            "Ukraine",
+            "Richmond Hill",
+            "Canada",
+            "Jau",
+            "Brasil",
+            "Melbourne",
+            "Australia"
+        ],
+        "languages":[
+            "Italian, Russian, English, Spanish, French, German"
+        ],
+        "international":true,
+        "subject":[
+            "6.1l",
+            "6.1c",
+            "11m",
+            "11f",
+            "11b",
+            "10b",
+            "4b",
+            "4f"
+        ],
+        "finances":"No information",
+        "website":"http://www.centrodelluomo.org/",
+        "foundation":"No information",
+        "acronym":"ONLUS",
+        "email_gen":"No information",
+        "IRD_activities":[
+            {
+                "region":[
+                    "Russia"
+                ],
+                "activity":"translate and circulate publications of high ecumenical character; "
+            },
+            {
+                "region":[
+                    "Moldova"
+                ],
+                "activity":"perform comparative study of the great religions and philosophies"
+            }
+        ],
+        "name_en":"Man Center",
+        "general_activities":[],
+        "structure":"No information",
+        "other_relations":"No information",
+        "IRD_def":"The dialogue offers all the people infinite possibilities for moral and spiritual improvement without having to give up one\u2019s original traditions but actually confirming and illuminating them with a universal light.",
+        "country":"Italy",
+        "events":[
+            "Multiple conferences and Visits/ tours"
+        ],
+        "aim":"promote harmony between different cultures, nationalities and religions, man service, earth service, dialogue among cultures and religions, all this supported by an inner spiritual rebirth of the human being.",
+        "org_type":[
+            "E",
+            "c"
+        ],
+        "publications":"No information",
+        "IRD_def_URL":"http://www.centrodelluomo.org/Pages/Inglese/Ecumenism.htm",
+        "entry":{
+            "date":"20140507",
+            "author":"KK"
+        },
+        "contact_person":[
+            "Pier Franco Marcenaro",
+            "n.i"
+        ],
+        "history":"No information"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":[
+            "\u041e\u0431\u0449\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0421\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0417\u0430\u0449\u0438\u0442\u0435 \u0421\u0432\u043e\u0431\u043e\u0434\u044b \u0421\u043e\u0432\u0435\u0441\u0442\u0438"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.83474409999999,
+                "lon":37.8399058,
+                "normalized":"Russia, 107589",
+                "address":"Krasnoyarskaya ul, bld. 3, Moscow,  107589  Russia"
+            },
+            "Address2":{
+                "lat":39.0612335,
+                "lon":-76.9657546,
+                "normalized":"12501 Old Columbia Pike, Silver Spring, MD 20904, USA",
+                "address":"12501 Old Columbia Pike, Silver Spring, MD 20904 USA"
+            }
+        },
+        "aim_URL":"http://www.irla.org/mission-purpose-and-principles",
+        "staff":"No information",
+        "IO_relations":[
+            "1. Associa\u03c2\u00e3o Brasileira de Liberdade Religiosa e Cidadania (ABLIRC)",
+            "2. Association Internationale pour la D\u00e9fense de la Libert\u00e9 Religieuse (AIDLR)",
+            "3. Caribbean Religious Liberty Association (CARLA)",
+            "4. Chilean Association for Religious liberty (CARL)",
+            "5. North American Religious Liberty Association (NARLA)"
+        ],
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "subject":[
+            "2.3b",
+            "2.3c",
+            "2.3d",
+            "2.3g",
+            "2.3i",
+            "2.3j",
+            "2.3k"
+        ],
+        "finances":"donations, \"Funding for IRLA operations comes from organizations supportive of the association's purpose\"",
+        "website":"www.irla.org",
+        "foundation":"1893",
+        "acronym":"IRFA",
+        "email_gen":"goncharovoleg70@yandex.ru   Info@irla.org",
+        "IRD_activities":[],
+        "name_en":"International Religious Liberty Assosiation",
+        "structure":"Board of directors, panel of experts, advisory directors",
+        "IRD_def":"No information",
+        "country":"",
+        "events":[
+            "congresses, regional conferences, national symposiums, and local meetings (http://www.irla.org/event-archives)"
+        ],
+        "aim":"ensure that religious freedom has the highest possible visibility on the world scene",
+        "org_type":[
+            "B"
+        ],
+        "publications":[
+            "\"Fides et Libertas\" journal, other publications"
+        ],
+        "IRD_def_URL":"http://www.irla.org/280",
+        "old_alias":[
+            "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0435\u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041c\u0410\u0420\u0421"
+        ],
+        "entry":{
+            "date":"20140404",
+            "author":"KK"
+        },
+        "general_activities":[],
+        "history":"Chartered in 1893"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":[
+            "Jewish"
+        ],
+        "main_names":[
+            "\u0415\u0432\u0440\u043e\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0438\u0439 \u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.71842600000001,
+                "lon":37.581368,
+                "normalized":"Frunzenskaya naberezhnaya, 46, Moscow, Russia, 119270",
+                "address":"46 Frunzenskaya naberezhnaya, 119270, Moscow, Russia"
+            },
+            "Address2":{
+                "lat":50.4501,
+                "lon":30.5234,
+                "normalized":"Kiev, Kyiv city, Ukraine",
+                "address":"8/5 Voloshsky Str., 04070, Kiev,  Ukraine"
+            },
+            "Address3":{
+                "lat":43.2672724,
+                "lon":76.94867339999999,
+                "normalized":"Kunaev Street 56, Almaty, Kazakhstan",
+                "address":"56 Kunaev Str., 050002, Almaty, Republic of Kazakhstan"
+            }
+        },
+        "aim_URL":"http://eajc.org/page78",
+        "staff":"No information",
+        "IO_relations":[
+            "1. World Jewish Congress",
+            "2. European Jewish Congress",
+            "3. American Jewish Congress",
+            "4.  JAFI",
+            "5. NSCJ",
+            "(http://eajc.org/page171)"
+        ],
+        "regionfocus":[
+            "Ukraine",
+            "Russia",
+            "Moldova",
+            "Azerbaijan",
+            "Armenia",
+            "Belarus",
+            "Bulgaria",
+            "Georgia",
+            "India",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Macedonia",
+            "Mongolia",
+            "Union of Myanmar",
+            "New Zealand",
+            "Poland",
+            "Republic of Singapore",
+            "Slovenia",
+            "Turkmenistan",
+            "Uzbekistan",
+            "Phillipines",
+            "Japan",
+            "Tajikistan",
+            "Australia",
+            "Finland",
+            "Estonia",
+            "Czech Republic",
+            "Montenegro",
+            "Croatia",
+            "Turkey",
+            "Serbia",
+            "Slovak Republic",
+            "Romania",
+            "Lithuania",
+            "Latvia",
+            "Hungary",
+            "Bosnia and Herzegovina"
+        ],
+        "languages":[
+            "Russian, English"
+        ],
+        "international":true,
+        "subject":[
+            "1b",
+            "5b",
+            "6.1b",
+            "6.3b",
+            "12b",
+            "12g",
+            "12j",
+            "12m",
+            "12f"
+        ],
+        "finances":"donations, financial endowments and full support of the Jewish business elite",
+        "website":"www.eajc.org",
+        "foundation":"2002",
+        "acronym":"EAJC",
+        "email_gen":"eajc@mail.ru",
+        "IRD_activities":[],
+        "name_en":"Euro-Asian Jewish Congress",
+        "general_activities":[],
+        "structure":"Governing Bodies\nThe General Assembly, Presidium, General Council, Secretariat, Directorate, Inspection Commission, Council of Directors\nhttp://eajc.org/page79",
+        "other_relations":[
+            "various jewish organizations of Eurasia"
+        ],
+        "IRD_def":"EAJC believes that dialogue between civilizations, which occurs on all levels and in different forms in different regions of the world, is one of the most effective ways to lower the grade of inter-ethnic and interfaith tension",
+        "country":"",
+        "events":"No information",
+        "aim":"1. defend the rights and legitimate interests of the Jewish people; 2. promote and satisfy  community needs and interests; 3. represent Jewish communities of the Euro-Asian region in the governments of a given region countries and in international organizations, in cooperation with the organizations and associations of Jewish communities of individual states.",
+        "org_type":[
+            "B"
+        ],
+        "publications":[
+            "Yearbooks, \"Jews of Eurasia\" Journal,"
+        ],
+        "IRD_def_URL":"http://eajc.org/page338",
+        "entry":{
+            "date":"20140507",
+            "author":"KK"
+        },
+        "contact_person":[
+            "Natasha Schmidt",
+            "natasha_schmidt@yahoo.com"
+        ],
+        "history":"Founded in 2002"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":[
+            "\u041c\u0435\u0436\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0439 \u0421\u043e\u0432\u0435\u0442 \u0421\u041d\u0413"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.755826,
+                "lon":37.6173,
+                "normalized":"Moscow, Russia",
+                "address":"Novovagankovski per. 7, Moscow, Russia"
+            }
+        },
+        "aim_URL":"http://www.interreligious.ru/istoriya/",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "Russia",
+            "Kazakhstan",
+            "Belorussia",
+            "Ukraine",
+            "Tajikistan",
+            "Uzbekistan",
+            "Armenia",
+            "Azerbaijan"
+        ],
+        "languages":[
+            "Russian"
+        ],
+        "international":true,
+        "subject":[
+            "2.3c",
+            "6.1c",
+            "6.3c",
+            "1i",
+            "2.3i",
+            "6.1i",
+            "6.3i",
+            "7b",
+            "6.1b",
+            "6.3b",
+            "7m",
+            "6.3m"
+        ],
+        "finances":"No information",
+        "website":"http://www.interreligious.ru",
+        "foundation":"2004",
+        "acronym":"IBCIS",
+        "email_gen":"sermel05@mail.ru; svoo@ovco.org;   msrofice@gmail.com",
+        "IRD_activities":[
+            "No information"
+        ],
+        "name_en":"Interreligious Board of CIS",
+        "general_activities":[],
+        "structure":"Presidium, Secretariat",
+        "other_relations":"No information",
+        "IRD_def":"No information",
+        "country":"Russia",
+        "events":"No information",
+        "aim":"harmonize interreligious and interethnic dialogue",
+        "org_type":[
+            "D",
+            "g"
+        ],
+        "publications":[
+            "\"Eurasia\" monthly journal"
+        ],
+        "IRD_def_URL":"No information",
+        "entry":{
+            "date":"20140404",
+            "author":"KK"
+        },
+        "contact_person":[
+            "Sergey Melnik",
+            null
+        ],
+        "history":"Foundation 2004"
+    },
+    {
+        "contacted":false,
+        "religious_affiliation":"No information",
+        "main_names":[
+            "\u041c\u041e\u0424 \"\u0414\u0438\u0430\u043b\u043e\u0433 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0439\""
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":48.21042800000001,
+                "lon":16.3822238,
+                "normalized":"Stubenring 4, 1010 Vienna, Austria",
+                "address":"4/11 Stubenring\n 1010, Vienna, Austria"
+            },
+            "Address2":{
+                "lat":55.75880480000001,
+                "lon":37.6408076,
+                "normalized":"ulitsa Pokrovka, 5, Moscow, Russia, 101000",
+                "address":"42/5 Pokrovka\n105062, Moscow, Russia"
+            }
+        },
+        "aim_URL":"http://wpfdc.org/about-us/about",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "regionfocus":[
+            "World"
+        ],
+        "languages":[
+            "English, Russian"
+        ],
+        "international":true,
+        "subject":[
+            "6.3c",
+            "6.3j",
+            "6.3g"
+        ],
+        "finances":"No information",
+        "website":"http://www.wpfdc.org",
+        "foundation":"2002",
+        "acronym":"MPFDC",
+        "email_gen":"office@wpfdc.at   info@wpfdc.org",
+        "IRD_activities":[],
+        "name_en":"The World Public Forum \"Dialogue of Civilizations\"",
+        "structure":"International Coordination Committee is the Forum\u2019s consultative body. The head of the ICC is former Secretary-General of the Council of Europe and WPF Co-Chairman Walter Schwimmer. Among the ICC\u2019s members are the President of the International Progress Organization Hans Koechler (Austria), Director of Research Emeritus at the Centre National de la Recherche Scientifique of France Henri Favre, among many other prominent scholars and researchers of the current \u201cdialogue of civilizations\u201d agenda.",
+        "other_relations":[
+            "1. International Movement for A just world (http://www.just-international.org/about-us/)",
+            "2. Fondacion Arias para la Paz y il Progresso Humano (http://arias.or.cr/)"
+        ],
+        "IRD_def":"inter-confessional dialogue that brings together representatives of world religions to face the global challenges of extremism and terrorism.",
+        "country":"Austria",
+        "events":[
+            "annual Rhodes Forum,  international conferences"
+        ],
+        "aim":"1. unite the efforts of the global community to protect the spiritual and cultural values of humankind; 2. create a space for constructive dialogue among the major civilizations of the modern world;  3. define, develop and promote dialogue, and introduce the spirit of cooperation and understanding into everyday life.",
+        "org_type":[
+            "E",
+            "c"
+        ],
+        "publications":[
+            "\"Towards a Postsecular International Politics\" (2014)",
+            "\u201cRussia: The Challenges of Transformation\u201d (2011)",
+            "\"Strategies of Economic Development\" (2011)",
+            "\u201cDialogistics as a science of the destiny of the mankind  and the world in the context of the global changes\u201d (2011)",
+            "\"Possible futures\" (2011)",
+            "\u201cSome Global Rays of Hope: Voices from Rhodes 2011.\u201d (2011)",
+            "\"22 Ideas to Fix the World: Conversations with the World's Foremost Thinkers\" (2013)"
+        ],
+        "IRD_def_URL":"http://wpfdc.org/about-us/about",
+        "entry":{
+            "date":"20140414",
+            "author":"KK"
+        },
+        "general_activities":[],
+        "history":"Founded in 2002"
+    }
+]

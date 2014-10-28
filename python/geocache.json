@@ -89,6 +89,11 @@
         "lon": -0.2070274, 
         "normalized": "Saint Annes & Saint Andrews Church, 125 Salusbury Road, London NW6 6RG, UK"
     }, 
+    "12501 Old Columbia Pike, Silver Spring, MD 20904 USA": {
+        "lat": 39.0612335, 
+        "lon": -76.9657546, 
+        "normalized": "12501 Old Columbia Pike, Silver Spring, MD 20904, USA"
+    }, 
     "13-15 Bryan St, Launceston, TAS 7248, Australia": {
         "lat": -41.420767, 
         "lon": 147.137179, 
@@ -299,6 +304,11 @@
         "lon": -1.9308809, 
         "normalized": "4 Vicarage Road, Birmingham, West Midlands B15 3EZ, UK"
     }, 
+    "4/11 Stubenring\n 1010, Vienna, Austria": {
+        "lat": 48.21042800000001, 
+        "lon": 16.3822238, 
+        "normalized": "Stubenring 4, 1010 Vienna, Austria"
+    }, 
     "402 Holloway Road, London N7 6PZ, UK": {
         "lat": 51.5568483, 
         "lon": -0.1176467, 
@@ -319,6 +329,11 @@
         "lon": -73.922322, 
         "normalized": "42-09 47th Avenue #4k, Sunnyside, NY 11104, USA"
     }, 
+    "42/5 Pokrovka\n105062, Moscow, Russia": {
+        "lat": 55.75880480000001, 
+        "lon": 37.6408076, 
+        "normalized": "ulitsa Pokrovka, 5, Moscow, Russia, 101000"
+    }, 
     "4245 East Avenue, Rochester, NY 14618, USA": {
         "lat": 43.1014561, 
         "lon": -77.51657809999999, 
@@ -338,6 +353,11 @@
         "lat": 42.3413479, 
         "lon": -72.519984, 
         "normalized": "447 West Street, Amherst, MA 01002, USA"
+    }, 
+    "46 Frunzenskaya naberezhnaya, 119270, Moscow, Russia": {
+        "lat": 55.71842600000001, 
+        "lon": 37.581368, 
+        "normalized": "Frunzenskaya naberezhnaya, 46, Moscow, Russia, 119270"
     }, 
     "46-60 156th Street, Flushing, NY 11355, USA": {
         "lat": 40.7524793, 
@@ -393,6 +413,11 @@
         "lat": 48.8671079, 
         "lon": 2.2902397, 
         "normalized": "55 Avenue Kl\u00e9ber, 75116 Paris, France"
+    }, 
+    "56 Kunaev Str., 050002, Almaty, Republic of Kazakhstan": {
+        "lat": 43.2672724, 
+        "lon": 76.94867339999999, 
+        "normalized": "Kunaev Street 56, Almaty, Kazakhstan"
     }, 
     "6 Bloomsbury Square, London WC1A 2LP, London": {
         "lat": 51.5183531, 
@@ -473,6 +498,11 @@
         "lat": 40.7501387, 
         "lon": -73.96924980000001, 
         "normalized": "777 United Nations Plaza #3e, New York, NY 10017, USA"
+    }, 
+    "8/5 Voloshsky Str., 04070, Kiev,  Ukraine": {
+        "lat": 50.4501, 
+        "lon": 30.5234, 
+        "normalized": "Kiev, Kyiv city, Ukraine"
     }, 
     "866 UN Plaza, Ste. 307, New York, NY 10017, USA": {
         "lat": 40.7531486, 
@@ -628,6 +658,11 @@
         "lat": -1.2920659, 
         "lon": 36.8219462, 
         "normalized": "Nairobi, Kenya"
+    }, 
+    "Danilovsky Val 22, 113191 Moscow, Russia": {
+        "lat": 55.71110700000001, 
+        "lon": 37.6276562, 
+        "normalized": "ulitsa Danilovskiy Val, 22, Moscow, Russia, 115191"
     }, 
     "Dharmaram Vidya Kshetram, Pontifical Athenaeum of Philosophy, Theology and Canon Law, Bangalore, India": {
         "lat": 12.9715987, 
@@ -809,6 +844,11 @@
         "lon": -77.045183, 
         "normalized": "2005 Massachusetts Avenue Northwest, Washington, DC 20036, USA"
     }, 
+    "Krasnoyarskaya ul, bld. 3, Moscow,  107589  Russia": {
+        "lat": 55.83474409999999, 
+        "lon": 37.8399058, 
+        "normalized": "Russia, 107589"
+    }, 
     "Leipziger Platz 15, Mosse Palais, 10117 Berlin, Germany": {
         "lat": 52.5155098, 
         "lon": 13.3847539, 
@@ -844,6 +884,11 @@
         "lon": 9.994919999999999, 
         "normalized": "Mittelweg 177, 20148 Hamburg, Germany"
     }, 
+    "Monastero di Sargiano, 52100 Arezzo, Italy": {
+        "lat": 43.46328390000001, 
+        "lon": 11.8796336, 
+        "normalized": "52100 Arezzo Arezzo, Italy"
+    }, 
     "Mothers Trust Ashram Retreat,\nLakeshore Interfaith Community,\nRamakrishna Sarada Universal Temple,  6676 122nd Avenue\nFennville, Ganges, MI  49408, USA": {
         "lat": 42.5769709, 
         "lon": -86.210313, 
@@ -859,6 +904,11 @@
         "lon": 72.81609759999999, 
         "normalized": "Rajasthan 307510, India"
     }, 
+    "Nauchny gorodok-2, 420075, Kazan, Russia;": {
+        "lat": 55.8731067, 
+        "lon": 49.2225329, 
+        "normalized": "Tatarstan, Russia, 420075"
+    }, 
     "New Bond House, Bond Street, Bristol, BS2 9AG, UK": {
         "lat": 51.4600601, 
         "lon": -2.5845198, 
@@ -873,6 +923,11 @@
         "lat": 25.0178293, 
         "lon": 121.9131761, 
         "normalized": "Gongliao District, New Taipei City, Taiwan 228"
+    }, 
+    "Novovagankovski per. 7, Moscow, Russia": {
+        "lat": 55.755826, 
+        "lon": 37.6173, 
+        "normalized": "Moscow, Russia"
     }, 
     "Obala Kulina Bana 39, 71000 Sarajevo, Bosnia and Herzegovina": {
         "lat": 43.8591029, 
@@ -1124,6 +1179,11 @@
         "lon": -38.5235419, 
         "normalized": "Gra\u00e7a, Salvador - State of Bahia, 40150-360, Brazil"
     }, 
+    "Radio ul. 22, 117997, Moscow, Russia": {
+        "lat": 55.76257099999999, 
+        "lon": 37.6821259, 
+        "normalized": "ulitsa Radio, 22, Moscow, Russia, 105005"
+    }, 
     "Raiffeisenstra\u00dfe 4/18, 6850 Dornbirn, Austria": {
         "lat": 47.4076506, 
         "lon": 9.7288562, 
@@ -1324,6 +1384,11 @@
         "lon": -0.1483709, 
         "normalized": "Star House, 104 Grafton Road, Lower Belsize Park, London NW5 4BA, UK"
     }, 
+    "Starorusskaya ul. 5/3, 191144, St. Petersburg, Russia": {
+        "lat": 59.9326239, 
+        "lon": 30.3829449, 
+        "normalized": "Starorusskaya ulitsa, 5/3, Saint Petersburg, Russia, 191144"
+    }, 
     "Strandagervej 24,\n2900 Hellerup, Denmark": {
         "lat": 55.724779, 
         "lon": 12.572262, 
@@ -1448,6 +1513,11 @@
         "lat": 6.4390202, 
         "lon": 3.4344459, 
         "normalized": "1004 Flats, Lagos, Nigeria"
+    }, 
+    "Vladimirskaya ul. 64, 01033, Kiev, Ukraine": {
+        "lat": 50.440098, 
+        "lon": 30.510529, 
+        "normalized": "ulitsa Vladimirskaya, 64, Kiev, Kyiv city, Ukraine"
     }, 
     "Waaggasse, 1040 Vienna": {
         "lat": 48.1951683, 
