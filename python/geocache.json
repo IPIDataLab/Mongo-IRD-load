@@ -344,6 +344,11 @@
         "lon": 35.2182388, 
         "normalized": "Emek Refa'im Street 43, Jerusalem, Israel"
     }, 
+    "4444  Houston St., Tulsa, OK 74012, USA": {
+        "lat": 36.046898, 
+        "lon": -95.84554899999999, 
+        "normalized": "4444 West Houston Street, Broken Arrow, OK 74012, USA"
+    }, 
     "4444 W.Houston St., Tulsa, OK 74012, USA": {
         "lat": 36.046898, 
         "lon": -95.84554899999999, 
@@ -674,6 +679,11 @@
         "lon": 77.60517899999999, 
         "normalized": "Dharmaram Vidya Kshetram, DVK Road, Bhavani Nagar, Bhavani Nagar, Sadduguntepalya, Bengaluru, Karnataka 560029, India"
     }, 
+    "Diego de Leon 20-2Izq, 28006 Madrid, Spain": {
+        "lat": 40.4351996, 
+        "lon": -3.68134, 
+        "normalized": "28006 Madrid, Madrid, Spain"
+    }, 
     "EWU University, 1027 Cedar Street, Room 104, Cheney, WA 99004, USA": {
         "lat": 47.4937874, 
         "lon": -117.5821534, 
@@ -989,6 +999,11 @@
         "lon": 31.3418872, 
         "normalized": "El-Horeya, Almazah, Heliopolis, Cairo Governorate, Egypt"
     }, 
+    "PO Box 23955, San Jose, CA 95153, USA": {
+        "lat": 37.25, 
+        "lon": -121.85, 
+        "normalized": "San Jose, CA 95153, USA"
+    }, 
     "PO Box 24 01 41, 53154 Bonn, Germany": {
         "lat": 50.7357667, 
         "lon": 7.1010988, 
@@ -1060,6 +1075,11 @@
         "normalized": "North Grosvenor Dale, Thompson, CT 06255, USA"
     }, 
     "PO Box 4889, Quosr Khateeb, Jaddat Kendy, Farah Bldg., Damascus, Syria": {
+        "lat": 33.513, 
+        "lon": 36.292, 
+        "normalized": "Damascus, Syria"
+    }, 
+    "PO Box 4889, Quosr Khateeb, Jaddat Kendy, Farah Bldg., Damascus, Syrian Arab Republic": {
         "lat": 33.513, 
         "lon": 36.292, 
         "normalized": "Damascus, Syria"
