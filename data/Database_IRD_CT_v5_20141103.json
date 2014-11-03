@@ -1,5 +1,6 @@
 [
     {
+        "uid":"KAICIID",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -103,9 +104,8 @@
             }
         ],
         "name_en":"King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue",
-        "contact_person":[
-            "Dr. Jana Vobeck\u00e1",
-            "jana.vobecka@kaiciid.org"
+        "general_activities":[
+            "See IRDActivities"
         ],
         "structure":"Council of Parties (Three founding states Austria; Saudi Arabia; Spain); Board of Directors (high-level representatives of the major world religions: Judaism, Christianity, Islam, Hinduism and Buddhism); Advisory Forum; Secretariat (Secretary General is the head of the organization)",
         "other_relations":"No information",
@@ -133,8 +133,9 @@
         ],
         "IRD_def_URL":"http://www.kaiciid.org/cms/upload/pressarea/documents/About_KAICIID_30052014_FINAL_LOW_RES.pdf",
         "entry":"JV, 28.3.2014; CT, 22.10.2014",
-        "general_activities":[
-            "See IRDActivities"
+        "contact_person":[
+            "Dr. Jana Vobeck\u00e1",
+            "jana.vobecka@kaiciid.org"
         ],
         "history":"Foundation Declaration signed, 13 Oct 2011, Vienna (Austria), by Kingdom of Saudi Arabia, Republic of Austria and Kingdom of Spain. Inauguration ceremony, 26 Nov 2012, Vienna (Austria)."
     },
@@ -142,8 +143,11 @@
         "parent_org":[
             "United Nations"
         ],
+        "uid":"UNAOC",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "adresses":{
             "Address1":{
                 "lat":40.7516525,
@@ -179,9 +183,7 @@
             "World Organization of United Cities and Local Governments, Barcelona, Spain",
             "World Tourism Organization, Madrid, Spain"
         ],
-        "regionfocus":[
-            "World"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "Chinese",
@@ -322,8 +324,11 @@
         "history":"Foundation in 2005. Appointment of 1st High Representative in April 2007."
     },
     {
+        "uid":"CPWR",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "main_names":[
             "Congr\u00e8s international des religions"
         ],
@@ -380,9 +385,7 @@
             "World Fellowship of Interreligious Councils, Mumbai, India",
             "Youth In Action, Toronto, ON, Canada"
         ],
-        "regionfocus":[
-            "World"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -577,6 +580,7 @@
         "history":"Foundation in September 1893, Chicago, IL, USA. Following 1st World's Parliament of Religions, 11 Sep 1893, Chicago, IL, USA. Reactivated June 1988. 1993 centennial of first Parliament."
     },
     {
+        "uid":"EII",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -751,6 +755,7 @@
         "history":"Foundation in 1997 (The Elijah School for the Study of Wisdom in World Religions). Revision of Elijah in 2000 (The Elijah Interfaith Institute)"
     },
     {
+        "uid":"EPIL",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -803,9 +808,8 @@
         "email_gen":"info@epil.ch",
         "IRD_activities":[],
         "name_en":"European Project for Interreligious Learning",
-        "contact_person":[
-            "Teny Pirri-Simonian",
-            "pirrisim@bluewin.ch"
+        "general_activities":[
+            "See IRDActivities"
         ],
         "structure":"President; International Board",
         "other_relations":[
@@ -830,12 +834,14 @@
             "date":"20140407",
             "author":"CT"
         },
-        "general_activities":[
-            "See IRDActivities"
+        "contact_person":[
+            "Teny Pirri-Simonian",
+            "pirrisim@bluewin.ch"
         ],
         "history":"Foundation in 2002. It is an international association under Swiss law that grew out of cooperation between the World Council of Churches and the Protestant Academy Boldern, Zurich, Switzerland."
     },
     {
+        "uid":"IEA",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -941,9 +947,11 @@
             }
         ],
         "name_en":"Interfaith Encounter Association",
-        "contact_person":[
-            "Dr. Yehuda Alter Stolov",
-            "yehuda@interfaith-encounter.org"
+        "general_activities":[
+            {
+                "activity_name":"Operation Chametz",
+                "activity_description":"Since 2006, the IEA has been organizing the collecting of Chametz (leavened food that is forbidden to be eaten by Jews during Pesach) from Jewish families and then distributing it to Christian and Muslim families in East Jerusalem who are in need"
+            }
         ],
         "structure":"Director; Assistant Director; Board Members; Audit Committee; International Advisory Council; Friends of IEA; Founding Board Members",
         "other_relations":[
@@ -980,34 +988,15 @@
             "date":"20140408",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Operation Chametz",
-                "activity_description":"Since 2006, the IEA has been organizing the collecting of Chametz (leavened food that is forbidden to be eaten by Jews during Pesach) from Jewish families and then distributing it to Christian and Muslim families in East Jerusalem who are in need"
-            }
+        "contact_person":[
+            "Dr. Yehuda Alter Stolov",
+            "yehuda@interfaith-encounter.org"
         ],
         "history":"Interfaith dialogue was established in Israel in the late 1950\u2019s by a small group of visionaries (which included Martin Buber). Despite decades of commendable interfaith activities in the country, only an extremely limited circle of individuals have recognized that religious faith and commitment without dialogue threatens the stability of society. In light of the above, a group of concerned longtime interfaith activists formed the Interfaith Encounter Association in 2001."
     },
     {
+        "uid":"ICCJ",
         "contacted":true,
-        "religious_affiliation":[
-            "Christianity",
-            "Judaism"
-        ],
-        "adresses":{
-            "Address1":{
-                "lat":49.6403,
-                "lon":8.64481,
-                "normalized":"Martin-Buber-Schule, Graeff Street 2, 64646 Heppenheim, Germany",
-                "address":"Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany"
-            }
-        },
-        "aim_URL":"http://www.iccj.org/About-us.2.0.html",
-        "staff":"No information",
-        "IO_relations":[
-            "Commonwealth Jewish Council, London, UK",
-            "International Martin Buber Society, Heppenheim, Germany"
-        ],
         "regionfocus":[
             "Argentina",
             "Australia",
@@ -1041,6 +1030,24 @@
             "USA",
             "Uruguay",
             "Venezuela (Bolivarian Republic of)"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":49.6403,
+                "lon":8.64481,
+                "normalized":"Martin-Buber-Schule, Graeff Street 2, 64646 Heppenheim, Germany",
+                "address":"Martin Buber House, PO Box 1129, 64629 Heppenheim, Germany"
+            }
+        },
+        "aim_URL":"http://www.iccj.org/About-us.2.0.html",
+        "staff":"No information",
+        "IO_relations":[
+            "Commonwealth Jewish Council, London, UK",
+            "International Martin Buber Society, Heppenheim, Germany"
+        ],
+        "religious_affiliation":[
+            "Christianity",
+            "Judaism"
         ],
         "languages":[
             "English",
@@ -1148,6 +1155,7 @@
         "history":"Foundation in May 1955, Saarbruecken, Germany as a 'Liaison Centre'. Name changed to Liaison Committee of Secretaries of Organizations for Christian-Jewish Cooperation -- Comit\u00e9 de liaison des secr\u00e9taires des groupes d'amiti\u00e9 jud\u00e9o-chr\u00e9tiennes in January 1958, Paris, France. Subsequently, in December 1960, London, UK, name changed to International Consultative Committee of Organizations for Christian - Jewish Cooperation -- Comit\u00e9 de liaison international des groupes d'amiti\u00e9 jud\u00e9o-chr\u00e9tienne. Present name adopted in 1974."
     },
     {
+        "uid":"NAIN",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1311,6 +1319,7 @@
         "history":"As the result of a meeting of international interfaith organizations convened by the World Congress of Faiths in 1983 at Ammerdown, England, the Temple of Understanding was charged with a task to identify and support interfaith activity in North America. Temple of Understanding hosted meetings during 1985 through 1987 to discuss the formation of a network of interfaith councils in North America. It was with a great deal of donated energy, insight and prayerful envisioning that NAIN was born. Foundation in Wichita, Kansas, in 1988."
     },
     {
+        "uid":"3FF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1436,6 +1445,7 @@
         "history":"Foundation in 1997 by Sir Sigmund Sternberg, the late Sheikh Dr Zaki Badawi and Revd Dr Marcus Braybrooke. It was originally a forum where religious and community leaders could meet."
     },
     {
+        "uid":"RIIFS",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1538,10 +1548,7 @@
             }
         ],
         "name_en":"Royal Institute for Inter-Faith Studies",
-        "contact_person":[
-            "His Excellency Ambassador Kamel Abu Jaber",
-            "riifs@riifs.org"
-        ],
+        "general_activities":[],
         "structure":"Board of Trustees; Director",
         "other_relations":[
             "Ministry of Awqaf and Islamic Affairs, Amman, Jordan",
@@ -1572,13 +1579,17 @@
         ],
         "IRD_def_URL":"http://www.riifs.org/interfaith-facts.html",
         "entry":"CT, 13.04,2014",
-        "general_activities":[],
+        "contact_person":[
+            "His Excellency Ambassador Kamel Abu Jaber",
+            "riifs@riifs.org"
+        ],
         "history":"The Royal Institute for Inter-Faith Studies (RIIFS) was established in 1994 in Amman, Jordan, under the patronage of His Royal Highness Prince El Hassan bin Talal."
     },
     {
         "parent_org":[
             "Hommes de Parole Foundation"
         ],
+        "uid":"WCIRP",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -1681,6 +1692,7 @@
         "history":"The first congress has been held in 2005, Brussels, Belgium."
     },
     {
+        "uid":"GPW",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1716,7 +1728,7 @@
             "11f",
             "11m"
         ],
-        "events":"No information",
+        "finances":"Application fees from volunteers",
         "website":"http://www.globalpeaceworks.org",
         "foundation":"2003",
         "email_gen":"globalteam@globalpeaceworks.org",
@@ -1732,7 +1744,7 @@
         ],
         "IRD_def":"We create opportunities for people of diverse faiths and spiritual traditions to live together, perform charitable service and explore spirituality. Living as an international, interfaith family, we perform service, focus on interfaith dialogue and visit sacred sites. We support existing interfaith dialogue and interfaith conferences with a real-world expression of peace-building through action.",
         "country":"USA",
-        "finances":"Application fees from volunteers",
+        "events":"No information",
         "aim":"Bring people of diverse spiritual traditions together for cooperative, charitable service projects.",
         "org_type":[
             "F"
@@ -1749,54 +1761,8 @@
         "history":"Our team has worked in interfaith service projects and peace building training since the 1980s. We created Global PeaceWorks in 2003 to provide a unique experience for peacemakers and volunteers of all faiths."
     },
     {
+        "uid":"RfP",
         "contacted":true,
-        "religious_affiliation":"No information",
-        "adresses":{
-            "Address1":{
-                "lat":40.7501387,
-                "lon":-73.96924980000001,
-                "normalized":"777 United Nations Plaza, New York, NY 10017, USA",
-                "address":"777 United Nations Plaza, 9th Floor, New York, NY, USA"
-            },
-            "Address2":{
-                "lat":51.656489,
-                "lon":-0.39032,
-                "normalized":"Watford, Hertfordshire, UK",
-                "address":"7 Grange Road, Bushey, WD2 2LQ, Watford, UK"
-            }
-        },
-        "aim_URL":"http://www.rfp.org/vision-history/vision/",
-        "staff":"No information",
-        "IO_relations":[
-            "Arigatou Foundation, Tokyo, Japan",
-            "CARE International, Geneva, Switzerland",
-            "Catholic Relief Services, Baltimore, MD, USA",
-            "Christian Aid, London, UK",
-            "Church World Service, New York, NY, USA",
-            "Coexist Foundation, Washington, DC, USA",
-            "Diane Goldin Institute, Chicago, IL, USA",
-            "Doha International Center for Interfaith Dialogue, Doha, Qatar",
-            "Ecumenical Advocacy Alliance, Geneva, Switzerland",
-            "Fetzer Institute, Kalamazoo, MI, USA",
-            "Finn Church Aid, Helsinki, Finland",
-            "Finnish Evangelical Lutheran Mission, Helsinki, Finland",
-            "Ford Foundation, New York, NY, USA",
-            "Global Campaign for Climate Action, Quebec, Canada",
-            "Guerrand-Herm\u00e8s Foundation for Peace, Brighton, UK",
-            "Hindu Council of Africa, Nairobi, Kenya",
-            "Islamic Relief International, Birmingham, UK",
-            "Lutheran World Relief, Baltimore, MD, USA",
-            "Maryknoll Fathers and Brothers, Maryknoll, NY, USA",
-            "The Marafie Foundation, Kuwait City, Kuwait",
-            "Norwegian Church Aid, Oslo, Norway",
-            "Pan American Health Organization, Washington, DC, USA",
-            "Plan International, Surrey, UK",
-            "Rishho Kosei-kai, Tokyo, Japan",
-            "Won Buddhism International, New York, NY, USA",
-            "World Islamic Call Society, Tripoli, Libya",
-            "World Justice Forum, Seattle, WA, USA",
-            "World Vision, Federal Way, WA, USA"
-        ],
         "regionfocus":[
             "Benin",
             "Botswana",
@@ -1894,6 +1860,53 @@
             "USA",
             "Israel"
         ],
+        "adresses":{
+            "Address1":{
+                "lat":40.7501387,
+                "lon":-73.96924980000001,
+                "normalized":"777 United Nations Plaza, New York, NY 10017, USA",
+                "address":"777 United Nations Plaza, 9th Floor, New York, NY, USA"
+            },
+            "Address2":{
+                "lat":51.656489,
+                "lon":-0.39032,
+                "normalized":"Watford, Hertfordshire, UK",
+                "address":"7 Grange Road, Bushey, WD2 2LQ, Watford, UK"
+            }
+        },
+        "aim_URL":"http://www.rfp.org/vision-history/vision/",
+        "staff":"No information",
+        "IO_relations":[
+            "Arigatou Foundation, Tokyo, Japan",
+            "CARE International, Geneva, Switzerland",
+            "Catholic Relief Services, Baltimore, MD, USA",
+            "Christian Aid, London, UK",
+            "Church World Service, New York, NY, USA",
+            "Coexist Foundation, Washington, DC, USA",
+            "Diane Goldin Institute, Chicago, IL, USA",
+            "Doha International Center for Interfaith Dialogue, Doha, Qatar",
+            "Ecumenical Advocacy Alliance, Geneva, Switzerland",
+            "Fetzer Institute, Kalamazoo, MI, USA",
+            "Finn Church Aid, Helsinki, Finland",
+            "Finnish Evangelical Lutheran Mission, Helsinki, Finland",
+            "Ford Foundation, New York, NY, USA",
+            "Global Campaign for Climate Action, Quebec, Canada",
+            "Guerrand-Herm\u00e8s Foundation for Peace, Brighton, UK",
+            "Hindu Council of Africa, Nairobi, Kenya",
+            "Islamic Relief International, Birmingham, UK",
+            "Lutheran World Relief, Baltimore, MD, USA",
+            "Maryknoll Fathers and Brothers, Maryknoll, NY, USA",
+            "The Marafie Foundation, Kuwait City, Kuwait",
+            "Norwegian Church Aid, Oslo, Norway",
+            "Pan American Health Organization, Washington, DC, USA",
+            "Plan International, Surrey, UK",
+            "Rishho Kosei-kai, Tokyo, Japan",
+            "Won Buddhism International, New York, NY, USA",
+            "World Islamic Call Society, Tripoli, Libya",
+            "World Justice Forum, Seattle, WA, USA",
+            "World Vision, Federal Way, WA, USA"
+        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "Chinese",
@@ -2108,6 +2121,7 @@
         "history":"The origins of Religions for Peace date to 1961, when a handful of senior leaders from the world's major faith traditions began to explore the possibility of organizing a \"religious summit.\" They felt the urgent need for believers around the world to take action toward achieving world peace. The World Conference of Religions for Peace convened for the first time in Kyoto, Japan, on 16-21 October 1970."
     },
     {
+        "uid":"Iintl",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -2161,7 +2175,7 @@
             "10m",
             "11c"
         ],
-        "events":"No information",
+        "finances":"Funded by partner organizations.",
         "website":"http://www.intersectionsinternational.org",
         "foundation":"2007",
         "email_gen":"info@intersections.org",
@@ -2190,7 +2204,7 @@
         ],
         "IRD_def":"Intersections International uses face-to-face dialogue, social media and the arts to work across lines of difference with communities in conflict.",
         "country":"USA",
-        "finances":"Funded by partner organizations.",
+        "events":"No information",
         "aim":"Build respectful relationships among diverse individuals and communities to forge common ground and develop strategies that promote justice, reconciliation, and peace.",
         "org_type":[
             "N"
@@ -2220,60 +2234,8 @@
         "history":"Collegiate Church decided the create a new ministry that should be a global initiative dedicated to promoting justice, reconciliation and peace. Intersections was founded in September 2007, its name symbolically representing its work: to bring together diverse groups to forge a common ground for global social justice."
     },
     {
+        "uid":"URI",
         "contacted":true,
-        "religious_affiliation":"No information",
-        "adresses":{
-            "Address1":{
-                "lat":37.8005478,
-                "lon":-122.4513073,
-                "normalized":"1009 General Kennedy Avenue, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
-                "address":"1009 General Kennedy Ave., San Francisco, CA 94129, USA"
-            },
-            "Address2":{
-                "lat":37.793323,
-                "lon":-122.4665384,
-                "normalized":"San Francisco, CA 94129, USA",
-                "address":"PO Box 29242, San Francisco, CA 94129, USA"
-            }
-        },
-        "aim_URL":"http://www.uri.org/about_uri",
-        "staff":[
-            "32 employees"
-        ],
-        "IO_relations":[
-            "Christian-Muslim Forum, London, UK",
-            "Euphrates Institute, Elsah, IL, USA",
-            "No Hate Speech Movement, Strasbourg, France",
-            "Peace Alliance, Washington, DC, USA",
-            "The Surat Initiative, New York, NY, USA",
-            "Three Faiths Forum, London, UK",
-            "Tony Blair Faith Foundation, London, UK",
-            "Unity Productions Foundation, Potomac Falls, VA, USA",
-            "United Nations Educational, Scientific and Cultural Organization, Paris, France",
-            "United Nations Children\u2019s Fund, New York, NY, USA",
-            "African Centres for Peace Education and Training, Lagos City, Nigeria",
-            "Center for Restorative Justice and Peacemaking, Saint Paul, MN, USA",
-            "The School for International Training, Brattleboro, VT, USA",
-            "Hague Appeal for Peace, New York, NY, USA",
-            "International Peace Research Association, Bristol, UK",
-            "Just Vision, Washington, DC, USA",
-            "Karuna Center for Peacebuilding, Amherst, MA, USA",
-            "Life and Peace Institute, Uppsala, Sweden",
-            "The Listening Center, Long Beach, CA, USA",
-            "Nairobi Peace Initiative, Nairobi, Kenya",
-            "The National Peace Academy, New York, NY, USA",
-            "Pathways to Peace, Larkspur, CA, USA",
-            "Pax Christi International, Brussels, Belgium",
-            "Peace Brigades International, London, UK",
-            "Peace X Peace, Washington, DC, USA",
-            "Peacebuild: The Canadian Peacebuilding Network, Ottawa, ON, Canada",
-            "The Peres Center for Peace, Tel Aviv, Israel",
-            "Poems for Peace, Austin, TX, USA",
-            "Religions for Peace, New York, NY, USA",
-            "West Africa Network for Peace, Accra, Ghana",
-            "World Congress of Faiths, London, UK",
-            "Catholic Relief Services, Baltimore, MD, USA"
-        ],
         "regionfocus":[
             "Canada",
             "USA",
@@ -2348,6 +2310,59 @@
             "New Zealand",
             "Algeria"
         ],
+        "adresses":{
+            "Address1":{
+                "lat":37.8005478,
+                "lon":-122.4513073,
+                "normalized":"1009 General Kennedy Avenue, Golden Gate National Recreation Area, San Francisco, CA 94129, USA",
+                "address":"1009 General Kennedy Ave., San Francisco, CA 94129, USA"
+            },
+            "Address2":{
+                "lat":37.793323,
+                "lon":-122.4665384,
+                "normalized":"San Francisco, CA 94129, USA",
+                "address":"PO Box 29242, San Francisco, CA 94129, USA"
+            }
+        },
+        "aim_URL":"http://www.uri.org/about_uri",
+        "staff":[
+            "32 employees"
+        ],
+        "IO_relations":[
+            "Christian-Muslim Forum, London, UK",
+            "Euphrates Institute, Elsah, IL, USA",
+            "No Hate Speech Movement, Strasbourg, France",
+            "Peace Alliance, Washington, DC, USA",
+            "The Surat Initiative, New York, NY, USA",
+            "Three Faiths Forum, London, UK",
+            "Tony Blair Faith Foundation, London, UK",
+            "Unity Productions Foundation, Potomac Falls, VA, USA",
+            "United Nations Educational, Scientific and Cultural Organization, Paris, France",
+            "United Nations Children\u2019s Fund, New York, NY, USA",
+            "African Centres for Peace Education and Training, Lagos City, Nigeria",
+            "Center for Restorative Justice and Peacemaking, Saint Paul, MN, USA",
+            "The School for International Training, Brattleboro, VT, USA",
+            "Hague Appeal for Peace, New York, NY, USA",
+            "International Peace Research Association, Bristol, UK",
+            "Just Vision, Washington, DC, USA",
+            "Karuna Center for Peacebuilding, Amherst, MA, USA",
+            "Life and Peace Institute, Uppsala, Sweden",
+            "The Listening Center, Long Beach, CA, USA",
+            "Nairobi Peace Initiative, Nairobi, Kenya",
+            "The National Peace Academy, New York, NY, USA",
+            "Pathways to Peace, Larkspur, CA, USA",
+            "Pax Christi International, Brussels, Belgium",
+            "Peace Brigades International, London, UK",
+            "Peace X Peace, Washington, DC, USA",
+            "Peacebuild: The Canadian Peacebuilding Network, Ottawa, ON, Canada",
+            "The Peres Center for Peace, Tel Aviv, Israel",
+            "Poems for Peace, Austin, TX, USA",
+            "Religions for Peace, New York, NY, USA",
+            "West Africa Network for Peace, Accra, Ghana",
+            "World Congress of Faiths, London, UK",
+            "Catholic Relief Services, Baltimore, MD, USA"
+        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "Chinese",
@@ -2563,6 +2578,7 @@
         "history":"The idea for URI came to California Episcopal Bishop William Swing in 1993, after an invitation by the United Nations to host a large interfaith service in San Francisco, marking the 50th anniversary of the signing of the UN Charter. Bishop Swing hired a small staff in San Francisco and launched a four-year organizational design process that included meetings among hundreds of stakeholders of diverse religions, cultures and disciplines all over the world. What emerged was a group of committed founders who formed the heart of URI\u2019s global community, and a highly regarded, inclusive Charter that provides a unique, grassroots-based structure and a set of principles for action on behalf of the common good. With the signing of this Charter, the global URI organization was born on June 26, 2000."
     },
     {
+        "uid":"CBB",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -2650,6 +2666,7 @@
         "history":"Foundation in 2010, Frederick, MA, USA."
     },
     {
+        "uid":"IGE",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2782,6 +2799,7 @@
         "history":"In 2000, Bob and Margaret Ann Seiple\u2014known as the \"godparents\" at IGE\u2014felt called as Christians to steward a lifetime of experiences and relationships from all over the world. The Seiples were concerned that religious freedom was something everyone talked about but no one really knew how to operationalize, and that Christians were too often part of the problem. They founded IGE to address these issues, making Christ visible and Christians relevant as a result."
     },
     {
+        "uid":"WNC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2895,6 +2913,7 @@
         "history":"Since the celebrated moment in 1907 when workmen laid the foundation stone of Washington National Cathedral, the majestic structure has played a vital role in our nation\u2019s history. The Cathedral has long served as a grand spiritual center where Americans unite to worship and pray, mourn the passing of world leaders, and confront the pressing moral and social issues of the day."
     },
     {
+        "uid":"CoF",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -3037,6 +3056,7 @@
         "history":"Foundation in 2006."
     },
     {
+        "uid":"AdF",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -3228,6 +3248,7 @@
         "history":"Adyan Foundation was founded on 6 August 2006 by members from Christian and Muslim denominations."
     },
     {
+        "uid":"AfSV",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -3343,6 +3364,7 @@
         "history":"Foundation in 2012."
     },
     {
+        "uid":"WFDD",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -3435,42 +3457,6 @@
             }
         ],
         "name_en":"World Faiths Development Dialogue",
-        "contact_person":[
-            "Prof. Katherine Marshall",
-            "km398@georgetown.edu"
-        ],
-        "structure":"Board of Trustees; Executive Director",
-        "other_relations":[
-            "Georgetown University, Washington, DC, USA",
-            "Pact Cambodia, Phnom Penh, Cambodia"
-        ],
-        "IRD_def":"A process of exchange involving leaders of the major world religions, and international development organizations. The aim of the dialogue is to better the quality of development work both through enhanced mutual understanding and specific insights into poverty and equity challenges.",
-        "country":"USA",
-        "events":[
-            "2010: An Exchange on Women's Roles for Peace: Is Religion a Source of Strength or an Obstacle?, Washington, DC, USA",
-            "2011: An International Interfaith Dialogue on a Shared Response to the Environmental Crisis (Online), Virtual",
-            "2012: Women's Religious Peacebuilding Symposium, Washington, DC, USA"
-        ],
-        "aim":"Bridge between the worlds of faith and secular development; support dialogue and conferences; foster communities of practice; collect case-studies on faith-based organizations; promote understanding on religion and development.",
-        "org_type":[
-            "F",
-            "j"
-        ],
-        "publications":[
-            "Tokomb\u00e9r\u00e9: A Project for Human Development Founded on Faith' (2003)",
-            "'Faith and Agriculture in Ghana: Implications for Development Programming' (2011)",
-            "'Global Development and Faith-Inspired Organizations in South and Central Asia - Meeting Report' (2011)",
-            "'Faith Roles in Water and Sanitation Challenges: Meeting Report' (2011)",
-            "'WFDD Newsletter' (2014, periodical)",
-            "Reports",
-            "Policy Briefs",
-            "Scholar Books"
-        ],
-        "IRD_def_URL":"http://berkleycenter.georgetown.edu/wfdd/about",
-        "entry":{
-            "date":"20140430",
-            "author":"CT"
-        },
         "general_activities":[
             {
                 "activity_name":"Faith and Global Development Consultation and Policy Briefs",
@@ -3505,14 +3491,53 @@
                 "activity_description":"Project publications and associated events track the engagement of faith-inspired organizations around a set of core policy challenges, with an emphasis on common problems, ethical commitments, and best practices"
             }
         ],
+        "structure":"Board of Trustees; Executive Director",
+        "other_relations":[
+            "Georgetown University, Washington, DC, USA",
+            "Pact Cambodia, Phnom Penh, Cambodia"
+        ],
+        "IRD_def":"A process of exchange involving leaders of the major world religions, and international development organizations. The aim of the dialogue is to better the quality of development work both through enhanced mutual understanding and specific insights into poverty and equity challenges.",
+        "country":"USA",
+        "events":[
+            "2010: An Exchange on Women's Roles for Peace: Is Religion a Source of Strength or an Obstacle?, Washington, DC, USA",
+            "2011: An International Interfaith Dialogue on a Shared Response to the Environmental Crisis (Online), Virtual",
+            "2012: Women's Religious Peacebuilding Symposium, Washington, DC, USA"
+        ],
+        "aim":"Bridge between the worlds of faith and secular development; support dialogue and conferences; foster communities of practice; collect case-studies on faith-based organizations; promote understanding on religion and development.",
+        "org_type":[
+            "F",
+            "j"
+        ],
+        "publications":[
+            "Tokomb\u00e9r\u00e9: A Project for Human Development Founded on Faith' (2003)",
+            "'Faith and Agriculture in Ghana: Implications for Development Programming' (2011)",
+            "'Global Development and Faith-Inspired Organizations in South and Central Asia - Meeting Report' (2011)",
+            "'Faith Roles in Water and Sanitation Challenges: Meeting Report' (2011)",
+            "'WFDD Newsletter' (2014, periodical)",
+            "Reports",
+            "Policy Briefs",
+            "Scholar Books"
+        ],
+        "IRD_def_URL":"http://berkleycenter.georgetown.edu/wfdd/about",
+        "entry":{
+            "date":"20140430",
+            "author":"CT"
+        },
+        "contact_person":[
+            "Prof. Katherine Marshall",
+            "km398@georgetown.edu"
+        ],
         "history":"Established in 1998 by James D. Wolfensohn, then President of the World Bank, and Lord George Carey, then Archbishop of Canterbury, The World Faiths Development Dialogue(WFDD) bridges between the worlds of faith and secular development."
     },
     {
         "parent_org":[
             "Georgetown University"
         ],
+        "uid":"BCRPWA",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "adresses":{
             "Address1":{
                 "lat":38.9156487,
@@ -3638,9 +3663,7 @@
             "Rumi Forum, Washington, DC, USA",
             "Interreligious Coordinating Council in Israel, Jerusalem, Israel"
         ],
-        "regionfocus":[
-            "World"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -3891,6 +3914,7 @@
         "parent_org":[
             "University of Hamburg"
         ],
+        "uid":"AWR",
         "contacted":false,
         "regionfocus":[
             "Eastern Europe",
@@ -4056,6 +4080,7 @@
         "history":"In the late 1990s, a working group of scientists and representatives of different religious communities came together in Hamburg and developed the vision of a Academy of World Religions. In 2006, the Interdisciplinary Centre for World Religions in Dialogue was founded at the University of Hamburg. In 2010, with the support of the University and the Bureau of the Hamburg Senate, the Academy of World Religions at the University of Hamburg has been established."
     },
     {
+        "uid":"BerF",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -4239,6 +4264,7 @@
         "history":"Since being launched in 1977, the Bertelsmann Stiftung has invested 1,05 billion of euros in over 800 projects. Today, it is one of the largest foundations in Germany."
     },
     {
+        "uid":"IARF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -4461,6 +4487,7 @@
         "history":"The International Association for Religious Freedom, or IARF, is the oldest international interfaith organization. Its history spans the 20th century and reflects many of the difficult issues that confronted religious leaders and scholars during that tumultuous period, particularly in Europe and in the United States. The IARF began in 1900 on May 25th in Boston, Massachusetts at the 75th anniversary meeting of the American Unitarian Association."
     },
     {
+        "uid":"IALRW",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -4552,6 +4579,7 @@
         "history":"The International Association of Liberal Religious Women is one of the oldest international women\u2019s organizations in the world. It was convened in Berlin in 1910 and since that time has provided a link between liberal religious women throughout the world."
     },
     {
+        "uid":"K4P",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -4606,7 +4634,7 @@
             "7j",
             "10h"
         ],
-        "events":"No information",
+        "finances":"K4P relies on a large network of individuals, congregations, community groups and private foundations for financial support. Annual budget of $650.000 comes primarily from gifts of $500 \u2013 $5,000.",
         "website":"http://www.k4p.org/",
         "foundation":"2001",
         "acronym":"K4P",
@@ -4625,7 +4653,7 @@
         "other_relations":"No information",
         "IRD_def":"Interfaith dialogue with the mission to build interfaith communities that embody a culture of peace and empower a movement for change.",
         "country":"Jerusalem",
-        "finances":"K4P relies on a large network of individuals, congregations, community groups and private foundations for financial support. Annual budget of $650.000 comes primarily from gifts of $500 \u2013 $5,000.",
+        "events":"No information",
         "aim":"End conflict and inspire hope in Jerusalem and other divided societies around the world; build interfaith communities that embody a culture of peace and empower a movement for change; encourage children of different cultures and faith traditions to explore their differences and similarities, and to learn understanding, tolerance and respect, while fostering sustainable friendships across the lines of conflict.",
         "org_type":[
             "D"
@@ -4642,6 +4670,7 @@
         "history":"Kids4Peace was launched in 2001, in response to concerns about the future of children in Israel and Palestine, especially in light of escalating tensions between the two peoples in the Holy Land following the collapse of the Oslo Peace Initiative."
     },
     {
+        "uid":"TOU",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -4722,9 +4751,23 @@
             }
         ],
         "name_en":"The Temple of Understanding",
-        "contact_person":[
-            "Dr. Konsumita P. Pedersen",
-            "info@interfaithcenter.org"
+        "general_activities":[
+            {
+                "activity_name":"Biennial Film Screenings",
+                "activity_description":"In co-sponsorship with Hartley Film Foundation, screenings of films on religion, culture, ecology and spirituality are offered to the public;"
+            },
+            {
+                "activity_name":"Science, Ecology and Faith Series",
+                "activity_description":"Hosted by ICEC, a series of speaker or panel events has been held monthly in partnership with other NGO\u2019s and UN Agencies focusing on climate change and sustainable development and the important role of the interfaith community as a catalyst for change;"
+            },
+            {
+                "activity_name":"UN Summer Intensive Internship Program",
+                "activity_description":"This intensive six week summer immersion program at the UN is facilitated by trained educators, NGO representatives and distinguished guests. Students, ages 16 to 21, have access to General Assembly and Security Council meetings, interviews with UN Agency staff and engage in peer dialogues on global issues. They are required to research and present a report on a chosen issue related to the Millennium Development Goals;"
+            },
+            {
+                "activity_name":"The Gandhi, King, Chavez Season for Nonviolence at the United Nations",
+                "activity_description":"This event brings more than 500 junior high and high school students from the tri-state area together to learn more about these three leaders of nonviolence. Educators are given suggestions for classroom learning that can be used throughout the year, and which is aimed at inspiring students to make their local and global communities more peaceful"
+            }
         ],
         "structure":"Board of Trustees; Council of Trustees; International Chapters; Founding Friends; Professional Staff",
         "other_relations":[
@@ -4760,23 +4803,9 @@
             "date":"20140507",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Biennial Film Screenings",
-                "activity_description":"In co-sponsorship with Hartley Film Foundation, screenings of films on religion, culture, ecology and spirituality are offered to the public;"
-            },
-            {
-                "activity_name":"Science, Ecology and Faith Series",
-                "activity_description":"Hosted by ICEC, a series of speaker or panel events has been held monthly in partnership with other NGO\u2019s and UN Agencies focusing on climate change and sustainable development and the important role of the interfaith community as a catalyst for change;"
-            },
-            {
-                "activity_name":"UN Summer Intensive Internship Program",
-                "activity_description":"This intensive six week summer immersion program at the UN is facilitated by trained educators, NGO representatives and distinguished guests. Students, ages 16 to 21, have access to General Assembly and Security Council meetings, interviews with UN Agency staff and engage in peer dialogues on global issues. They are required to research and present a report on a chosen issue related to the Millennium Development Goals;"
-            },
-            {
-                "activity_name":"The Gandhi, King, Chavez Season for Nonviolence at the United Nations",
-                "activity_description":"This event brings more than 500 junior high and high school students from the tri-state area together to learn more about these three leaders of nonviolence. Educators are given suggestions for classroom learning that can be used throughout the year, and which is aimed at inspiring students to make their local and global communities more peaceful"
-            }
+        "contact_person":[
+            "Dr. Konsumita P. Pedersen",
+            "info@interfaithcenter.org"
         ],
         "history":"In 1960 Juliet Hollister (1916-2000) created the Temple of Understanding after a realization that the world was in grave danger unless the gifts, wisdom, and insights of religious traditions could be recognized and cultivated to promote positive social change."
     },
@@ -4784,6 +4813,7 @@
         "parent_org":[
             "The Office of the High Commissioner for Human Rights"
         ],
+        "uid":"TanP",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -4876,6 +4906,7 @@
         "history":"A non-profit, non-governmental organization established in 1986 to build understanding and respect for diversity of religion or belief, and prevent discrimination in matters relating to freedom of religion or belief."
     },
     {
+        "uid":"IRPP",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -4929,14 +4960,7 @@
             "9h",
             "9l"
         ],
-        "events":[
-            "2003: The Interparliamentary Conference on Human Rights and Religious Freedom, Brussels, Belgium",
-            "2004: The Interparliamentary Conference on Human Rights and Religious Freedom, Brussels, Belgium",
-            "2005: The Interparliamentary Conference on Human Rights and Religious Freedom, Washington, DC, USA",
-            "2006: The Interparliamentary Conference on Human Rights and Religious Freedom, Rome, Italy",
-            "2008: The Interparliamentary Conference on Human Rights and Religious Freedom, Scranton, PA, USA",
-            "2012: 'Religious Pluralism in the Middle East: Will the Arab Spring Break the Cycle of Religious Persecution?', Washington, DC, USA"
-        ],
+        "finances":"No information",
         "website":"http://www.religionandpolicy.org",
         "foundation":"1999",
         "email_gen":"sarah@religionandpolicy.org",
@@ -4946,7 +4970,14 @@
         "other_relations":"No information",
         "IRD_def":"The institute\u2019s Interfaith Dialogue Program brings people of different religious and spiritual backgrounds together in order to find common ground. In doing so, the institute helps to enhance religious tolerance and promote peaceful coexistence.",
         "country":"USA",
-        "finances":"No information",
+        "events":[
+            "2003: The Interparliamentary Conference on Human Rights and Religious Freedom, Brussels, Belgium",
+            "2004: The Interparliamentary Conference on Human Rights and Religious Freedom, Brussels, Belgium",
+            "2005: The Interparliamentary Conference on Human Rights and Religious Freedom, Washington, DC, USA",
+            "2006: The Interparliamentary Conference on Human Rights and Religious Freedom, Rome, Italy",
+            "2008: The Interparliamentary Conference on Human Rights and Religious Freedom, Scranton, PA, USA",
+            "2012: 'Religious Pluralism in the Middle East: Will the Arab Spring Break the Cycle of Religious Persecution?', Washington, DC, USA"
+        ],
         "aim":"Engage every segment of society to protect humankind\u2019s most basic fundamental right: freedom of religion and belief.",
         "org_type":[
             "G"
@@ -4977,6 +5008,7 @@
         "history":"Foundation in 1999."
     },
     {
+        "uid":"CRIHL",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -5081,6 +5113,7 @@
         "history":"The Council of the Religious Institutions of the Holy Land was established in 2005. It is the first ever consultative body representing the highest official religious authorities in the Holy Land encompassing two peoples and three religions."
     },
     {
+        "uid":"SFCG",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -5596,6 +5629,7 @@
         "history":"Founded in 1982, Search for Common Ground works to transform the way the world deals with conflict - away from adversarial approaches and towards collaborative problem solving."
     },
     {
+        "uid":"DISW",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -5738,6 +5772,7 @@
         "history":"Dialogue Institute of the Southwest (formerly known as the Institute of Interfaith Dialog) grew out of the need to address the question, \"How can citizens of the world live in peace and harmony?\" The Institute was established in 2002 as a 501-c-3 non-profit educational organization by Turkish-Americans and their friends."
     },
     {
+        "uid":"DICID",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -5803,9 +5838,15 @@
             }
         ],
         "name_en":"Doha International Center for Interfaith Dialogue",
-        "contact_person":[
-            "Prof. Dr. Hamed Abdulaziz H A Al-Marwani",
-            "hamed@qu.edu.qa"
+        "general_activities":[
+            {
+                "activity_name":"Researches & Studies",
+                "activity_description":"The center sets researches and studies in numerous and various fields such as the common denominators among faiths and field studies of priority issues and indicator analysis of the Center performance;"
+            },
+            {
+                "activity_name":"Translation Services",
+                "activity_description":"The center will do translation services on articles and research studies relevant to the dialogue between religions in addition to the interpretation of conferences and symposia organized by the Centre"
+            }
         ],
         "structure":"Board of Directors; International Advisory Board; Staff",
         "other_relations":"No information",
@@ -5837,19 +5878,14 @@
             "date":"20140512",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Researches & Studies",
-                "activity_description":"The center sets researches and studies in numerous and various fields such as the common denominators among faiths and field studies of priority issues and indicator analysis of the Center performance;"
-            },
-            {
-                "activity_name":"Translation Services",
-                "activity_description":"The center will do translation services on articles and research studies relevant to the dialogue between religions in addition to the interpretation of conferences and symposia organized by the Centre"
-            }
+        "contact_person":[
+            "Prof. Dr. Hamed Abdulaziz H A Al-Marwani",
+            "hamed@qu.edu.qa"
         ],
         "history":"Doha International Center for Interfaith Dialogue was established as a result of a recommendation of the Fifth Doha Interfaith Conference on May 2007 in Doha. The center was opened officially in May 2008."
     },
     {
+        "uid":"GHFP",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -5937,9 +5973,35 @@
             }
         ],
         "name_en":"Guerrand-Herm\u00e8s Foundation for Peace",
-        "contact_person":[
-            "Simon Xavier Guerrand Hermes",
-            "info@ghfp.org"
+        "general_activities":[
+            {
+                "activity_name":"The Garden of Forgiveness",
+                "activity_description":"The garden in Beirut (Hadiqat As-Samah) is envisioned as a place of calm reflection, sheltered from the bustle of the city and expressing themes of understanding, forgiveness and unity;"
+            },
+            {
+                "activity_name":"'Healing the Wounds of History'",
+                "activity_description":"These programmes aim to create space so that people can feel, experientially, the ideas underpinning the concept of forgiveness and become more consciously aware of where and how memory of trauma is held and how the grievances are passed down from one generation to another;"
+            },
+            {
+                "activity_name":"Charter for Forgiveness and Reconciliation",
+                "activity_description":"It is envisaged to be a peace process in itself and aims to promote fundamental values underpinning the notion forgiveness. The Charter will draw inspirations through stories and examples from a wide-range of sources, including sacred texts in different spiritual traditions, religious/spiritual communities, and the lives of outstanding individuals; 5. Nuestra Se\u00f1ora de Fatimah: It aims to nurture the sense of well-being in the children by helping them to connect with and admire the beauty of the surrounding natural environment, as well as their inner world;"
+            },
+            {
+                "activity_name":"Colegio Amor",
+                "activity_description":"The 'School of Love' offers a unique human-centred educational model to children from deprived communities in Bogota, Colombia. Apart from providing a holistic education to children and young people, it also offers various educational and vocational training and services to adults within the community;"
+            },
+            {
+                "activity_name":"Ara Pacis Initiative",
+                "activity_description":"'Council for Dignity, Forgiveness, Justice and Reconciliation'. Its members are 'witnesses' themselves of suffering or tragedy yet choose the path of forgiveness;"
+            },
+            {
+                "activity_name":"Bina Cita Utama",
+                "activity_description":"The school offers an education in both English and Indonesian language. It aims to serve the academic, physical, social, and emotional needs of its pupils using both Indonesian and international curricula. BCU is the first and only bilingual school in the province;"
+            },
+            {
+                "activity_name":"Bukit Batu",
+                "activity_description":"A governance strengthening project in Central Kalimantan, Indonesia. Its' objective is to have a well functioning society where local people are actively engaged in processes that shape how development takes place in their immediate environment;"
+            }
         ],
         "structure":"Trustees; Staff",
         "other_relations":[
@@ -5973,39 +6035,14 @@
             "date":"20140512",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"The Garden of Forgiveness",
-                "activity_description":"The garden in Beirut (Hadiqat As-Samah) is envisioned as a place of calm reflection, sheltered from the bustle of the city and expressing themes of understanding, forgiveness and unity;"
-            },
-            {
-                "activity_name":"'Healing the Wounds of History'",
-                "activity_description":"These programmes aim to create space so that people can feel, experientially, the ideas underpinning the concept of forgiveness and become more consciously aware of where and how memory of trauma is held and how the grievances are passed down from one generation to another;"
-            },
-            {
-                "activity_name":"Charter for Forgiveness and Reconciliation",
-                "activity_description":"It is envisaged to be a peace process in itself and aims to promote fundamental values underpinning the notion forgiveness. The Charter will draw inspirations through stories and examples from a wide-range of sources, including sacred texts in different spiritual traditions, religious/spiritual communities, and the lives of outstanding individuals; 5. Nuestra Se\u00f1ora de Fatimah: It aims to nurture the sense of well-being in the children by helping them to connect with and admire the beauty of the surrounding natural environment, as well as their inner world;"
-            },
-            {
-                "activity_name":"Colegio Amor",
-                "activity_description":"The 'School of Love' offers a unique human-centred educational model to children from deprived communities in Bogota, Colombia. Apart from providing a holistic education to children and young people, it also offers various educational and vocational training and services to adults within the community;"
-            },
-            {
-                "activity_name":"Ara Pacis Initiative",
-                "activity_description":"'Council for Dignity, Forgiveness, Justice and Reconciliation'. Its members are 'witnesses' themselves of suffering or tragedy yet choose the path of forgiveness;"
-            },
-            {
-                "activity_name":"Bina Cita Utama",
-                "activity_description":"The school offers an education in both English and Indonesian language. It aims to serve the academic, physical, social, and emotional needs of its pupils using both Indonesian and international curricula. BCU is the first and only bilingual school in the province;"
-            },
-            {
-                "activity_name":"Bukit Batu",
-                "activity_description":"A governance strengthening project in Central Kalimantan, Indonesia. Its' objective is to have a well functioning society where local people are actively engaged in processes that shape how development takes place in their immediate environment;"
-            }
+        "contact_person":[
+            "Simon Xavier Guerrand Hermes",
+            "info@ghfp.org"
         ],
         "history":"The GHFP was established in 1995 by Simon Xavier Guerrand-Herm\u00e8s and Sharif Istvan Horthy. The founders believe that to effect enduring positive change and transformation in the world, the individual ought to start from a deeper connection with his/her inner life and spirituality."
     },
     {
+        "uid":"IIC",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -6132,6 +6169,7 @@
         "history":"The International Interfaith Centre was inaugurated in Oxford, UK on 6 December 1993, at the end of the 1993 Year of Interreligious Understanding and Cooperation."
     },
     {
+        "uid":"IIFD",
         "contacted":false,
         "religious_affiliation":[
             "Islam"
@@ -6266,6 +6304,7 @@
         "history":"Founded in 1994, as International Islamic Committee for Dialogue (IICD) by decision of International Islamic Council for Dawah and Relief."
     },
     {
+        "uid":"JUST",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -6320,9 +6359,19 @@
         "email_gen":"just@just-international.org",
         "IRD_activities":[],
         "name_en":"International Movement for A Just World",
-        "contact_person":[
-            "Dr. Chandra Muzaffar",
-            "just@just-international.org"
+        "general_activities":[
+            {
+                "activity_name":"Awareness",
+                "activity_description":"To create a better understanding, at the popular level, of how control and domination of the global system by a privileged minority challenges human dignity and social justice everywhere;"
+            },
+            {
+                "activity_name":"Books",
+                "activity_description":"Produce and distribute books, monographs and pamphlets, audio and video tape, educational films and documentaries;"
+            },
+            {
+                "activity_name":"Cooperation",
+                "activity_description":"Cooperate actively with other organisations which are committed to similar objectives in different parts of the world"
+            }
         ],
         "structure":"Executive Committee: President, Vice-President, Secretary General, Assistant Secretary General, Treasurer, Committee Members; Auditors & Trustees; International Advisory Panel; Staff",
         "other_relations":[
@@ -6357,23 +6406,14 @@
             "date":"20140513",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Awareness",
-                "activity_description":"To create a better understanding, at the popular level, of how control and domination of the global system by a privileged minority challenges human dignity and social justice everywhere;"
-            },
-            {
-                "activity_name":"Books",
-                "activity_description":"Produce and distribute books, monographs and pamphlets, audio and video tape, educational films and documentaries;"
-            },
-            {
-                "activity_name":"Cooperation",
-                "activity_description":"Cooperate actively with other organisations which are committed to similar objectives in different parts of the world"
-            }
+        "contact_person":[
+            "Dr. Chandra Muzaffar",
+            "just@just-international.org"
         ],
         "history":"Founded in 2005, as Just World Trust. Registered in accordance with Malaysian law: 6140/97."
     },
     {
+        "uid":"IRFWP",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -6474,6 +6514,7 @@
         "history":"The Inter Religious Federation for World Peace (IRFWP) was founded in 1991 by Sun Myung Moon of Korea to bring under a single administration 14 years of global efforts for peace through interreligious dialogue, in a far reaching array of organizations, projects, and initiatives."
     },
     {
+        "uid":"LGWPF",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -6599,6 +6640,7 @@
         "history":"Founded 7 July 1992."
     },
     {
+        "uid":"MECC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -6770,6 +6812,7 @@
         "history":"Foundation in 1974 by merger of Near East Christian Council and Near East Council of Churches. Expanded, 1990, by inclusion of seven Catholic churches of the Middle East."
     },
     {
+        "uid":"DIMMID",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -6929,6 +6972,7 @@
         "parent_org":[
             "Anglican Communion"
         ],
+        "uid":"NIFCON",
         "contacted":false,
         "regionfocus":[
             "United Arab Emirates",
@@ -7252,6 +7296,7 @@
         "history":"NIFCON was founded in 1993, with discussions taking place from 23rd January 1992 onwards. Its beginnings are very much related to Lambeth 1988, when the Inter Faith area was present for the first time in a substantive if limited way."
     },
     {
+        "uid":"OHR",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -7304,17 +7349,7 @@
             "8j",
             "10h"
         ],
-        "events":[
-            "2008: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
-            "2009: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
-            "2010: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
-            "2010: Day of the Child, Ramle, Israel",
-            "2011: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
-            "2011: Day of the Child, Ramle, Israel",
-            "2011: Music in Common, Ramle, Israel",
-            "2012: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
-            "2013: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel"
-        ],
+        "finances":"No information",
         "website":"http://www.friendsofopenhouse.co.il/",
         "foundation":"1991",
         "email_gen":"Contact form: http://www.friendsofopenhouse.co.il/contact-us/",
@@ -7353,7 +7388,17 @@
         "other_relations":"No information",
         "IRD_def":"Create a safe, neutral space for dialogue between Jewish and Arab people using religion and culture as the subject material and springboard for deeper conversation. In our case, dialogue has two main subjects \u2013 use of core religious stories and narratives for each religion as an introduction to interfaith conversation; and use of religious narrative to discuss the Israeli-Palestinian conflict.",
         "country":"Israel",
-        "finances":"No information",
+        "events":[
+            "2008: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
+            "2009: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
+            "2010: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
+            "2010: Day of the Child, Ramle, Israel",
+            "2011: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
+            "2011: Day of the Child, Ramle, Israel",
+            "2011: Music in Common, Ramle, Israel",
+            "2012: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel",
+            "2013: Summer Peace Camp, Neve Shalom/Wahat as-Salam, Israel"
+        ],
         "aim":"Provide educational and social opportunities to Arab children and their families through the Center for the Development of the Arab Child; be a place of encounter and cooperation between Jews and Arabs in the Ramle-Lod area through the Center for Jewish-Arab Coexistence.",
         "org_type":[
             "F"
@@ -7405,6 +7450,7 @@
         "history":"OPEN HOUSE Center in Ramle was founded in 1991 to further peace and coexistence among Israeli Arabs and Jews in this mixed city of 75,000 residents, 22% of which are Arabs."
     },
     {
+        "uid":"ICPC",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -7485,9 +7531,35 @@
             }
         ],
         "name_en":"International Committee for the Peace Council",
-        "contact_person":[
-            "Rev. Gonzalo Bernabe Ituarte Verduzco O.P.",
-            "fraygonzaloiv@gmail.com"
+        "general_activities":[
+            {
+                "activity_name":"Cambodia",
+                "activity_description":"Support and participation in the Dhammayietra. This is an annual peace walk by Buddhist monks and nuns through heavily-mined combat zones;"
+            },
+            {
+                "activity_name":"Chiapas, Mexico",
+                "activity_description":"Meetings of the Council to strengthen the peace process there. Follow-up interventions for peace and human rights workers in Chiapas. The establishment in seven Mexican villages in Chiapas of community-based market gardening initiatives, women's bread-baking cooperatives, and revolving loan funds. The Peace Council also provided funds to create grain milling and weaving cooperatives in refugee camps in the highlands, and will provide equipment for indigenous health workers and local clinics;"
+            },
+            {
+                "activity_name":"North Korea",
+                "activity_description":"Support for high-level dialogue between representatives of the Democratic Peoples Republic of Korea and other Pacific Rim nations. Provision of emergency and humanitarian medical supplies to the Women's and Children's Hospital in Pyongyang, North Korea;"
+            },
+            {
+                "activity_name":"Kosovo",
+                "activity_description":"This project's aim was to organize an international appeal by Muslim organizations to returning Kosovar refugees to respect Christian shrines and places of worship in Kosovo. The appeal was disseminated to Balkan news media and to governments, military units, and civil society in the region;"
+            },
+            {
+                "activity_name":"Sudan/Kenya",
+                "activity_description":"Contributed to the work of Sudanese Women's Voice for Peace and the Maryknoll Contemplative Community in Nairobi, Kenya to rehabilitate former child-soldiers, victims of the long civil war in the Sudan;"
+            },
+            {
+                "activity_name":"Chiang Mai Declaration",
+                "activity_description":"In collaboration with the Center for Health and Social Policy, organized the first ever conversation between religious leaders and leaders of international women's organizations, to promote religious support for women's human rights. The Chiang Mai Declaration that resulted from this dialogue has been widely cited and is intended to serve as a catalyst for regional and national dialogue between women's non-governmental organizations and religious groups;"
+            },
+            {
+                "activity_name":"Israel/State of Palestine",
+                "activity_description":"The project's aim was to support efforts by moderate Palestinians and Israelis to promote alternative agendas for a peaceful resolution to Israeli-Palestinian violenc"
+            }
         ],
         "structure":"Volunteer Board of Trustees (International Committee for the Peace Council); Peace Councilors; Professional Staff",
         "other_relations":[
@@ -7527,35 +7599,9 @@
             "date":"20140527",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Cambodia",
-                "activity_description":"Support and participation in the Dhammayietra. This is an annual peace walk by Buddhist monks and nuns through heavily-mined combat zones;"
-            },
-            {
-                "activity_name":"Chiapas, Mexico",
-                "activity_description":"Meetings of the Council to strengthen the peace process there. Follow-up interventions for peace and human rights workers in Chiapas. The establishment in seven Mexican villages in Chiapas of community-based market gardening initiatives, women's bread-baking cooperatives, and revolving loan funds. The Peace Council also provided funds to create grain milling and weaving cooperatives in refugee camps in the highlands, and will provide equipment for indigenous health workers and local clinics;"
-            },
-            {
-                "activity_name":"North Korea",
-                "activity_description":"Support for high-level dialogue between representatives of the Democratic Peoples Republic of Korea and other Pacific Rim nations. Provision of emergency and humanitarian medical supplies to the Women's and Children's Hospital in Pyongyang, North Korea;"
-            },
-            {
-                "activity_name":"Kosovo",
-                "activity_description":"This project's aim was to organize an international appeal by Muslim organizations to returning Kosovar refugees to respect Christian shrines and places of worship in Kosovo. The appeal was disseminated to Balkan news media and to governments, military units, and civil society in the region;"
-            },
-            {
-                "activity_name":"Sudan/Kenya",
-                "activity_description":"Contributed to the work of Sudanese Women's Voice for Peace and the Maryknoll Contemplative Community in Nairobi, Kenya to rehabilitate former child-soldiers, victims of the long civil war in the Sudan;"
-            },
-            {
-                "activity_name":"Chiang Mai Declaration",
-                "activity_description":"In collaboration with the Center for Health and Social Policy, organized the first ever conversation between religious leaders and leaders of international women's organizations, to promote religious support for women's human rights. The Chiang Mai Declaration that resulted from this dialogue has been widely cited and is intended to serve as a catalyst for regional and national dialogue between women's non-governmental organizations and religious groups;"
-            },
-            {
-                "activity_name":"Israel/State of Palestine",
-                "activity_description":"The project's aim was to support efforts by moderate Palestinians and Israelis to promote alternative agendas for a peaceful resolution to Israeli-Palestinian violenc"
-            }
+        "contact_person":[
+            "Rev. Gonzalo Bernabe Ituarte Verduzco O.P.",
+            "fraygonzaloiv@gmail.com"
         ],
         "history":"The Peace Councilors met for the first time in November, 1995. They agreed on a statement of purpose and commitment. From many faiths, they had a common concern with their responsibilities face-to-face with suffering."
     },
@@ -7563,6 +7609,7 @@
         "parent_org":[
             "The Holy See"
         ],
+        "uid":"PCID",
         "contacted":true,
         "regionfocus":[
             "World"
@@ -7677,6 +7724,7 @@
         "history":"Foundation in 1964, known as the Secretariat for Non-Christians, but in 1988 the name was changed to the Pontifical Council for Interreligious Dialogue."
     },
     {
+        "uid":"RF",
         "contacted":true,
         "religious_affiliation":[
             "Islam"
@@ -7792,9 +7840,31 @@
             }
         ],
         "name_en":"Rumi Forum",
-        "contact_person":[
-            "Fethullah Gulen",
-            "emre@rumiforum.org"
+        "general_activities":[
+            {
+                "activity_name":"Conferences and Seminars",
+                "activity_description":"A major part of Rumi Forum's work is to organize/host conferences and seminars on the topics of pluralism, peace building and conflict resolution, intercultural and interfaith dialogue, social harmony and justice, civil rights and community cohesion;"
+            },
+            {
+                "activity_name":"Hizmet Series",
+                "activity_description":"Within these events, worldwide activities of Gulen/Hizmet Movement are discussed;"
+            },
+            {
+                "activity_name":"Luncheon Speaker Series",
+                "activity_description":"Rumi Forum regularly invites speakers on different topics to the Luncheon Speaker Series;"
+            },
+            {
+                "activity_name":"Iftars",
+                "activity_description":"Rumi Forum organizes dialogue and dinner nights on the occasion of Ramadan;"
+            },
+            {
+                "activity_name":"Friendship and Dialogue Dinners",
+                "activity_description":"Rumi Forum organizes annual Friendship and Dialogue Dinners with speakers from politics, religion, public policy etc.;"
+            },
+            {
+                "activity_name":"Rumi Peace and Dialogue Awards",
+                "activity_description":"Rumi Awards gala honors extraordinary individuals and organizations who have greatly contributed their time, energy, leadership and dedication to the cause of dialogue, peace, community service and understanding"
+            }
         ],
         "structure":"Board of Directors; Advisory Board; Office Staff",
         "other_relations":[
@@ -7838,35 +7908,14 @@
             "date":"20140528",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Conferences and Seminars",
-                "activity_description":"A major part of Rumi Forum's work is to organize/host conferences and seminars on the topics of pluralism, peace building and conflict resolution, intercultural and interfaith dialogue, social harmony and justice, civil rights and community cohesion;"
-            },
-            {
-                "activity_name":"Hizmet Series",
-                "activity_description":"Within these events, worldwide activities of Gulen/Hizmet Movement are discussed;"
-            },
-            {
-                "activity_name":"Luncheon Speaker Series",
-                "activity_description":"Rumi Forum regularly invites speakers on different topics to the Luncheon Speaker Series;"
-            },
-            {
-                "activity_name":"Iftars",
-                "activity_description":"Rumi Forum organizes dialogue and dinner nights on the occasion of Ramadan;"
-            },
-            {
-                "activity_name":"Friendship and Dialogue Dinners",
-                "activity_description":"Rumi Forum organizes annual Friendship and Dialogue Dinners with speakers from politics, religion, public policy etc.;"
-            },
-            {
-                "activity_name":"Rumi Peace and Dialogue Awards",
-                "activity_description":"Rumi Awards gala honors extraordinary individuals and organizations who have greatly contributed their time, energy, leadership and dedication to the cause of dialogue, peace, community service and understanding"
-            }
+        "contact_person":[
+            "Fethullah Gulen",
+            "emre@rumiforum.org"
         ],
         "history":"RF was founded in 1999 by the Turkish Hizmet Movement, also known as the Gulen Movement, named after the Turkish Islamic scholar, author, poet and advocate of education Fethullah Gulen (b. 1941)."
     },
     {
+        "uid":"GEFIIRREE",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -8032,6 +8081,7 @@
         "parent_org":[
             "Nazareth College"
         ],
+        "uid":"CISD",
         "contacted":true,
         "regionfocus":[
             "USA",
@@ -8051,17 +8101,6 @@
             }
         },
         "aim_URL":"http://www.naz.edu/interfaith-studies-and-dialogue",
-        "staff":"No information",
-        "IO_relations":[
-            "Council for Parliament on the World's Religions, Chicago, IL, USA",
-            "Commission on Jewish Christian Relations, Rochester, NY, USA"
-        ],
-        "religious_affiliation":"No information",
-        "languages":[
-            "Arabic",
-            "English"
-        ],
-        "international":true,
         "subject":[
             "1b",
             "1h",
@@ -8076,6 +8115,17 @@
             "7j",
             "10h"
         ],
+        "IO_relations":[
+            "Council for Parliament on the World's Religions, Chicago, IL, USA",
+            "Commission on Jewish Christian Relations, Rochester, NY, USA"
+        ],
+        "religious_affiliation":"No information",
+        "languages":[
+            "Arabic",
+            "English"
+        ],
+        "international":true,
+        "staff":"No information",
         "finances":"Major funds from Brian and Jean Hickey and the International Institute of Islamic Thought. Private donations.",
         "website":"http://www.naz.edu/interfaith-studies-and-dialogue",
         "foundation":"2005",
@@ -8183,6 +8233,7 @@
         "history":"Foundation of the Center for Interfaith Studies and Dialogue in 2005, renamed into The Brian and Jean Hickey Center for Interfaith Studies and Dialogue in 2011."
     },
     {
+        "uid":"ICCI",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -8300,9 +8351,11 @@
             }
         ],
         "name_en":"The Interreligious Coordinating Council in Israel",
-        "contact_person":[
-            "Rabbi Dr. Ronald Kronish",
-            "rkronish@icci.org.il"
+        "general_activities":[
+            {
+                "activity_name":"Speaking Tour in the US with Qadi Zahalka",
+                "activity_description":"Qadi Iyad Zahalka, the Qadi (judge) of the Jerusalem Muslim Sharia Court of the State of Israel, and Rabbi Dr. Ron Kronish, Director of ICCI, presented their ideas about the other peace process to Jewish, Christian, Muslim and interreligious audiences in several cities in the USA;"
+            }
         ],
         "structure":"Board of Directors; Members; Staff",
         "other_relations":[
@@ -8357,11 +8410,9 @@
             "date":"20140529",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Speaking Tour in the US with Qadi Zahalka",
-                "activity_description":"Qadi Iyad Zahalka, the Qadi (judge) of the Jerusalem Muslim Sharia Court of the State of Israel, and Rabbi Dr. Ron Kronish, Director of ICCI, presented their ideas about the other peace process to Jewish, Christian, Muslim and interreligious audiences in several cities in the USA;"
-            }
+        "contact_person":[
+            "Rabbi Dr. Ronald Kronish",
+            "rkronish@icci.org.il"
         ],
         "history":"Founded in January 1991, ICCI is now Israel\u2019s best-known and most-respected inter-religious organization."
     },
@@ -8370,6 +8421,7 @@
             "Coexister",
             "Sparknews"
         ],
+        "uid":"IntT",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -8474,9 +8526,8 @@
         "email_gen":"contact@interfaithtour.com",
         "IRD_activities":[],
         "name_en":"Interfaith Tour",
-        "contact_person":[
-            "Samuel Grzybowski",
-            "samuel.grzybowski@coexister.fr"
+        "general_activities":[
+            "See IRDActivities"
         ],
         "structure":"No information",
         "other_relations":[
@@ -8512,8 +8563,9 @@
             "date":"20140529",
             "author":"CT"
         },
-        "general_activities":[
-            "See IRDActivities"
+        "contact_person":[
+            "Samuel Grzybowski",
+            "samuel.grzybowski@coexister.fr"
         ],
         "history":"Between July 2013 and June 2014, French young students decided to undertake a journey for interfaith initiatives. Sparknews (Impact Journalism) and Coexister (French interfaith youth movement) have built up this project together, at a time when religions are more and more subject to fundamentalism and used to pursue political objectives."
     },
@@ -8521,6 +8573,7 @@
         "parent_org":[
             "Harvard University"
         ],
+        "uid":"PP",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -8660,6 +8713,7 @@
         "history":"Launch of the project: 1991. In 2005, four research initiatives were launched: the interfaith initiative, the civic Initiative, the Women's Initiative, and the International Initiative."
     },
     {
+        "uid":"TBFF",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -8773,10 +8827,7 @@
             }
         ],
         "name_en":"Tony Blair Faith Foundation",
-        "contact_person":[
-            "Charlotte Clementine Keenan",
-            "charlotte.keenan@tonyblairfaithfoundation.org"
-        ],
+        "general_activities":[],
         "structure":"Trustees; Religious Advisory Council; Professional Staff",
         "other_relations":[
             "Tony Blair Sports Foundation, Newcastle upon Tyne, UK"
@@ -8805,10 +8856,14 @@
             "date":"20140601",
             "author":"CT"
         },
-        "general_activities":[],
+        "contact_person":[
+            "Charlotte Clementine Keenan",
+            "charlotte.keenan@tonyblairfaithfoundation.org"
+        ],
         "history":"The Rt. Hon. Tony Blair established the Tony Blair Faith Foundation in 2008 because he believed that religious ideology and its impact on the world would be the biggest challenge facing the 21st Century."
     },
     {
+        "uid":"TWI",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -8863,9 +8918,27 @@
         "email_gen":"enquiries@woolf.cam.ac.uk",
         "IRD_activities":[],
         "name_en":"The Woolf Institute",
-        "contact_person":[
-            "Dr. Lars Fischer",
-            "lars.fischer@woolf.cam.ac.uk"
+        "general_activities":[
+            {
+                "activity_name":"End of Life Care",
+                "activity_description":"The Woolf Institute offers bespoke courses for nurses, doctors, chaplains, volunteers and other professionals that address issues of religious and spiritual diversity in end of life care;"
+            },
+            {
+                "activity_name":"Teaching our Own and Other Faiths in Schools - International Issues in Religious Education",
+                "activity_description":"The project aims to identify principles for teaching and learning about other faiths, in the UK and USA, which are both culturally sensitive and theologically aware;"
+            },
+            {
+                "activity_name":"Faith in Social Action",
+                "activity_description":"Including facilitated conversations with national and local government, faith and belief groups as well as the business and voluntary sectors, the workshop addresses how organisations could sustain themselves with limited funding and increasing demand;"
+            },
+            {
+                "activity_name":"Commission on Religion and Belief in British Public Life",
+                "activity_description":"The aim of this project is to consider the place and role of religion and belief in contemporary Britain, and the significance of emerging trends and identities, to examine how ideas of Britishness and national identity may be inclusive of a range of religions and beliefs, and may in turn influence peoples self-understanding, to explore how shared understandings of the common good may contribute to greater levels of mutual trust and collective action, and to a more harmonious society, and to make recommendations for public life and policy;"
+            },
+            {
+                "activity_name":"Study",
+                "activity_description":"The Woolf Institute in collaboration with the University of Cambridge offers a range of educational opportunities such as online short courses, bridging the great divide 'The Jewish-Muslim Encounter', Jews, Christians and Muslims in Europe 'Modern Challenges', PhDs, professional doctorates"
+            }
         ],
         "structure":"Patrons; Trustees; Visiting Fellows; Professional Staff; Interns",
         "other_relations":[
@@ -8903,31 +8976,14 @@
             "date":"20140601",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"End of Life Care",
-                "activity_description":"The Woolf Institute offers bespoke courses for nurses, doctors, chaplains, volunteers and other professionals that address issues of religious and spiritual diversity in end of life care;"
-            },
-            {
-                "activity_name":"Teaching our Own and Other Faiths in Schools - International Issues in Religious Education",
-                "activity_description":"The project aims to identify principles for teaching and learning about other faiths, in the UK and USA, which are both culturally sensitive and theologically aware;"
-            },
-            {
-                "activity_name":"Faith in Social Action",
-                "activity_description":"Including facilitated conversations with national and local government, faith and belief groups as well as the business and voluntary sectors, the workshop addresses how organisations could sustain themselves with limited funding and increasing demand;"
-            },
-            {
-                "activity_name":"Commission on Religion and Belief in British Public Life",
-                "activity_description":"The aim of this project is to consider the place and role of religion and belief in contemporary Britain, and the significance of emerging trends and identities, to examine how ideas of Britishness and national identity may be inclusive of a range of religions and beliefs, and may in turn influence peoples self-understanding, to explore how shared understandings of the common good may contribute to greater levels of mutual trust and collective action, and to a more harmonious society, and to make recommendations for public life and policy;"
-            },
-            {
-                "activity_name":"Study",
-                "activity_description":"The Woolf Institute in collaboration with the University of Cambridge offers a range of educational opportunities such as online short courses, bridging the great divide 'The Jewish-Muslim Encounter', Jews, Christians and Muslims in Europe 'Modern Challenges', PhDs, professional doctorates"
-            }
+        "contact_person":[
+            "Dr. Lars Fischer",
+            "lars.fischer@woolf.cam.ac.uk"
         ],
         "history":"The Woolf Institute opened its doors in 1998. Its founders, Rev Prof Martin Forward and Dr Edward Kessler, who had both been involved in the study and practice of interfaith dialogue for many years, realised that despite the importance of Jewish-Christian dialogue in Europe, few seminaries or universities were able to offer courses on the insights of the encounter between Judaism and Christianity."
     },
     {
+        "uid":"WCF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -9060,40 +9116,8 @@
         "history":"Foundation in 1936, London (UK), by Sir Francis Younghusband. Registered in UK. Has also been referred to as Interfaith Fellowship - World Congress of Faiths."
     },
     {
+        "uid":"UPF",
         "contacted":true,
-        "religious_affiliation":"No information",
-        "adresses":{
-            "Address1":{
-                "lat":41.0762077,
-                "lon":-73.85874609999999,
-                "normalized":"Tarrytown, NY, USA",
-                "address":"200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA"
-            },
-            "Address2":{
-                "lat":40.7524048,
-                "lon":-73.9660299,
-                "normalized":"866 United Nations Plaza #529, New York, NY 10017, USA",
-                "address":"866 United Nations Plaza, Suite 529 , New York, NY 10017, USA"
-            },
-            "Address3":{
-                "lat":38.9170185,
-                "lon":-76.95500779999999,
-                "normalized":"3600 New York Avenue Northeast, Washington, DC 20002, USA",
-                "address":"3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA"
-            },
-            "Address4":{
-                "lat":36.031661,
-                "lon":-115.183855,
-                "normalized":"3225 West Ford Avenue, Las Vegas, NV 89139, USA",
-                "address":"3225 West Ford Avenue, Las Vegas, NV 89139, USA"
-            }
-        },
-        "aim_URL":"http://www.upf.org/about",
-        "staff":[
-            "8 full-time, paid",
-            "thousands of volunteers worldwide"
-        ],
-        "IO_relations":"No information",
         "regionfocus":[
             "Afghanistan",
             "Albania",
@@ -9254,6 +9278,39 @@
             "Zambia",
             "Zimbabwe"
         ],
+        "adresses":{
+            "Address1":{
+                "lat":41.0762077,
+                "lon":-73.85874609999999,
+                "normalized":"Tarrytown, NY, USA",
+                "address":"200 White Plains Rd, FL 1, Tarrytown, NY 10591, USA"
+            },
+            "Address2":{
+                "lat":40.7524048,
+                "lon":-73.9660299,
+                "normalized":"866 United Nations Plaza #529, New York, NY 10017, USA",
+                "address":"866 United Nations Plaza, Suite 529 , New York, NY 10017, USA"
+            },
+            "Address3":{
+                "lat":38.9170185,
+                "lon":-76.95500779999999,
+                "normalized":"3600 New York Avenue Northeast, Washington, DC 20002, USA",
+                "address":"3600 New York Ave., NE, 3rd floor, Washington, DC 20002, USA"
+            },
+            "Address4":{
+                "lat":36.031661,
+                "lon":-115.183855,
+                "normalized":"3225 West Ford Avenue, Las Vegas, NV 89139, USA",
+                "address":"3225 West Ford Avenue, Las Vegas, NV 89139, USA"
+            }
+        },
+        "aim_URL":"http://www.upf.org/about",
+        "staff":[
+            "8 full-time, paid",
+            "thousands of volunteers worldwide"
+        ],
+        "IO_relations":"No information",
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "Chinese",
@@ -9487,6 +9544,7 @@
         "history":"Foundation in 1999, Seoul, Republic of Korea. Previously referred to as Interreligious and International Federation for World Peace. Current title adopted in 2005."
     },
     {
+        "uid":"AAi",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -9599,6 +9657,7 @@
         "parent_org":[
             "World Bank"
         ],
+        "uid":"DDVE",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -9707,6 +9766,7 @@
         "history":"Founded in 2000, DDVE has traditionally served as the World Bank\u2019s focal point on the intersection of faith and development."
     },
     {
+        "uid":"CI",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -9797,6 +9857,7 @@
         "history":"Founded in 2004, the name Cordoba was chosen to symbolize the time in history when Muslims, Jews and Christians lived together in peace and harmony and created a prosperous center of intellectual, spiritual, cultural and commercial life in the city of Cordoba in Southern Spain."
     },
     {
+        "uid":"FOR",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -10024,6 +10085,7 @@
         "history":"In 1914, an ecumenical conference was held in Switzerland by Christians seeking to prevent the outbreak of war in Europe. Before the conference ended, however, World War I had started and those present had to return to their respective countries. At a railroad station in Germany, two of the participants, Henry Hodgkin, an English Quaker, and Friedrich Siegmund-Schultze, a German Lutheran, pledged to find a way of working for peace even though their countries were at war. Out of this pledge Christians gathered in Cambridge, England in December 1914 to found the Fellowship of Reconciliation. The US FOR was founded one year later, in November 1915, at a conference in Garden City, Long Island, New York."
     },
     {
+        "uid":"ISNA",
         "contacted":true,
         "religious_affiliation":[
             "Islam"
@@ -10173,9 +10235,35 @@
             }
         ],
         "name_en":"Islamic Society of North America",
-        "contact_person":[
-            "Dr. Sayyid Mohammad Syeed",
-            "ssyeed@isna.net"
+        "general_activities":[
+            {
+                "activity_name":"Teacher Workshops",
+                "activity_description":"A series of lectures and workshops targeting teachers aiming to improve communications between school staff and students;"
+            },
+            {
+                "activity_name":"MYNA camps",
+                "activity_description":"The camps and programs are run by youth, ages 12-18, guided and supported by a selected group of trusted adults who are chosen for their experience and track record in youth work;"
+            },
+            {
+                "activity_name":"Chaplaincy Services",
+                "activity_description":"The initiative is dedicated to building leadership capacity among American Muslims by setting standards for leadership excellence, conducting educational and training programs to help community leaders meet those standards, and preparing and publishing guides, manuals, handbooks, and other material for enhancing leadership awareness and performance;"
+            },
+            {
+                "activity_name":"ISNA Online Matrimonial Service",
+                "activity_description":"It is a web-based matrimonial service that provides networking opportunities for Muslims seeking a spouse;"
+            },
+            {
+                "activity_name":"ISNA matrimonial banquets",
+                "activity_description":"Those banquets provide a platform for single Muslims to network and find the right choices;"
+            },
+            {
+                "activity_name":"Masjid Development Network",
+                "activity_description":"ISNA\u2019s Masjid Development Committee is dedicated to working with masjid leaders and Muslim experts to help grow and strengthen masjids by providing practical solutions for the issues facing masjids;"
+            },
+            {
+                "activity_name":"Civic Engagement",
+                "activity_description":"ISNA fosters strong relationships with US congressional staff and federal government officials, serving as an outreach resource to the American Muslim community and promoting a positive image of Islam and Muslims to the nation\u2019s political leaders"
+            }
         ],
         "structure":"Board of Directors; Executive Council; Staff",
         "other_relations":[
@@ -10224,39 +10312,14 @@
             "date":"20140604",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Teacher Workshops",
-                "activity_description":"A series of lectures and workshops targeting teachers aiming to improve communications between school staff and students;"
-            },
-            {
-                "activity_name":"MYNA camps",
-                "activity_description":"The camps and programs are run by youth, ages 12-18, guided and supported by a selected group of trusted adults who are chosen for their experience and track record in youth work;"
-            },
-            {
-                "activity_name":"Chaplaincy Services",
-                "activity_description":"The initiative is dedicated to building leadership capacity among American Muslims by setting standards for leadership excellence, conducting educational and training programs to help community leaders meet those standards, and preparing and publishing guides, manuals, handbooks, and other material for enhancing leadership awareness and performance;"
-            },
-            {
-                "activity_name":"ISNA Online Matrimonial Service",
-                "activity_description":"It is a web-based matrimonial service that provides networking opportunities for Muslims seeking a spouse;"
-            },
-            {
-                "activity_name":"ISNA matrimonial banquets",
-                "activity_description":"Those banquets provide a platform for single Muslims to network and find the right choices;"
-            },
-            {
-                "activity_name":"Masjid Development Network",
-                "activity_description":"ISNA\u2019s Masjid Development Committee is dedicated to working with masjid leaders and Muslim experts to help grow and strengthen masjids by providing practical solutions for the issues facing masjids;"
-            },
-            {
-                "activity_name":"Civic Engagement",
-                "activity_description":"ISNA fosters strong relationships with US congressional staff and federal government officials, serving as an outreach resource to the American Muslim community and promoting a positive image of Islam and Muslims to the nation\u2019s political leaders"
-            }
+        "contact_person":[
+            "Dr. Sayyid Mohammad Syeed",
+            "ssyeed@isna.net"
         ],
         "history":"Present-day ISNA was founded in 1982 through a joint effort of four organizations: The Muslim Students Association of the US and Canada, Islamic Medical Association, the Association of Muslim Social Scientists, and the Association of Muslim Scientists and Engineers - to create a community-oriented organization due to the changing nature of the growing Muslim community."
     },
     {
+        "uid":"USIP",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -10382,9 +10445,39 @@
         "email_gen":"info@usip.org",
         "IRD_activities":[],
         "name_en":"United States Institute of Peace",
-        "contact_person":[
-            "Prof. Dr. Qamar-ul Huda",
-            "qhuda@usip.org"
+        "general_activities":[
+            {
+                "activity_name":"Education",
+                "activity_description":"Through the Global Peacebuilding Center, the Academy for International Conflict Management and Peacebuilding and other venues, USIP provides a variety of educational resources to people around the world;"
+            },
+            {
+                "activity_name":"Gender and Peacebuilding",
+                "activity_description":"The Institute focuses on building capacity among international women leaders in conflict settings, preventing sexual violence and rape as a weapon of war, and developing teaching and training materials to engage practitioners and policymakers on related issues;"
+            },
+            {
+                "activity_name":"Media Conflict and Peacebuilding",
+                "activity_description":"USIP also puts major efforts to better harness the power of media for peacebuilding;"
+            },
+            {
+                "activity_name":"Mediation and Facilitation",
+                "activity_description":"Mediation and facilitation are two broad categories of tools used in conflict management, resolution and prevention. For example, a neutral third party can mediate between warring factions and help facilitate meaningful and productive conversations to manage, resolve or prevent conflict from becoming violent;"
+            },
+            {
+                "activity_name":"Post Conflict Reconstruction",
+                "activity_description":"Countries that are emerging out of conflict face multiple challenges \u2013 ranging from transitional justice issues, building civil society, writing new constitutions, creating new rule of law systems and security forces as well as rebuilding the domestic economy;"
+            },
+            {
+                "activity_name":"Rule of Law",
+                "activity_description":"USIP\u2019s engagement is vital to strengthen the rule of law and provide people access to justice in the newly transitional countries of North Africa and the Middle East;"
+            },
+            {
+                "activity_name":"Science Technology and Peacebuilding",
+                "activity_description":"The unprecedented pace of scientific and technical innovation has provided conflict managers with a range of new tools and opportunities. USIP focuses on harnessing these technologies to prevent conflict;"
+            },
+            {
+                "activity_name":"Security Sector Governance",
+                "activity_description":"USIP helps to build professional, sustainable, and locally supported security institutions that promote democracy and the rule of law by assisting US and foreign governments in reforming security sector institutions and developing a cadre of experts through education and training;"
+            }
         ],
         "structure":"Board of Directors; Experts; Key Contacts; Program Staff",
         "other_relations":[
@@ -10422,43 +10515,14 @@
             "date":"20140609",
             "author":"CT"
         },
-        "general_activities":[
-            {
-                "activity_name":"Education",
-                "activity_description":"Through the Global Peacebuilding Center, the Academy for International Conflict Management and Peacebuilding and other venues, USIP provides a variety of educational resources to people around the world;"
-            },
-            {
-                "activity_name":"Gender and Peacebuilding",
-                "activity_description":"The Institute focuses on building capacity among international women leaders in conflict settings, preventing sexual violence and rape as a weapon of war, and developing teaching and training materials to engage practitioners and policymakers on related issues;"
-            },
-            {
-                "activity_name":"Media Conflict and Peacebuilding",
-                "activity_description":"USIP also puts major efforts to better harness the power of media for peacebuilding;"
-            },
-            {
-                "activity_name":"Mediation and Facilitation",
-                "activity_description":"Mediation and facilitation are two broad categories of tools used in conflict management, resolution and prevention. For example, a neutral third party can mediate between warring factions and help facilitate meaningful and productive conversations to manage, resolve or prevent conflict from becoming violent;"
-            },
-            {
-                "activity_name":"Post Conflict Reconstruction",
-                "activity_description":"Countries that are emerging out of conflict face multiple challenges \u2013 ranging from transitional justice issues, building civil society, writing new constitutions, creating new rule of law systems and security forces as well as rebuilding the domestic economy;"
-            },
-            {
-                "activity_name":"Rule of Law",
-                "activity_description":"USIP\u2019s engagement is vital to strengthen the rule of law and provide people access to justice in the newly transitional countries of North Africa and the Middle East;"
-            },
-            {
-                "activity_name":"Science Technology and Peacebuilding",
-                "activity_description":"The unprecedented pace of scientific and technical innovation has provided conflict managers with a range of new tools and opportunities. USIP focuses on harnessing these technologies to prevent conflict;"
-            },
-            {
-                "activity_name":"Security Sector Governance",
-                "activity_description":"USIP helps to build professional, sustainable, and locally supported security institutions that promote democracy and the rule of law by assisting US and foreign governments in reforming security sector institutions and developing a cadre of experts through education and training;"
-            }
+        "contact_person":[
+            "Prof. Dr. Qamar-ul Huda",
+            "qhuda@usip.org"
         ],
         "history":"The United States Institute of Peace Act, passed by the Congress and signed into law in 1984, established the Institute as a publicly funded national institution. The campaign to establish an Institute had begun a decade earlier, when the idea of a national peace academy was first brought to the Senate floor following recommendations by a commission appointed by President Jimmy Carter and chaired by Senator Spark Matsunaga. The legislation establishing the United States Institute of Peace was formally signed in 1984 by President Ronald Reagan."
     },
     {
+        "uid":"WF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -10564,6 +10628,7 @@
         "history":"World Faith was founded in 2008."
     },
     {
+        "uid":"AFDD",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -10655,6 +10720,7 @@
         "history":"The Asia Faiths Development Dialogue (AFDD) was set up in December 2006 with the launching and convening of the 2006 AFDD Forum on \u201cBuilding Peace and Harmony in Asia Through Inter-Faiths Dialogue and Development.\u201d"
     },
     {
+        "uid":"GFLP",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -10779,6 +10845,7 @@
         "history":"GFLP has promoted Interfaith and Peace work since its inception in 2002, especially also through its continuous series of Buddhist-Muslim Dialogues around the world, one of which was held at Peking University in 2006."
     },
     {
+        "uid":"AJC",
         "contacted":false,
         "religious_affiliation":[
             "Judaism"
@@ -11015,6 +11082,7 @@
         "history":"Founded in 1906, AJC seeks to enhance the well-being of the Jewish people and Israel and to advance human rights and democratic values in the United States and around the world."
     },
     {
+        "uid":"KAF",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -11301,8 +11369,57 @@
         "history":"Established in 1955 as \u201cSociety for Christian-Democratic Civic Education\u201d, the Foundation took on the name of the first Federal Chancellor in 1964."
     },
     {
+        "uid":"CE",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "Italy",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Republic of Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russian Federation",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "The former Yugoslav Republic of Macedonia",
+            "Turkey",
+            "Ukraine",
+            "UK"
+        ],
         "main_names":[
             "Conseil de l'Europe",
             "Consejo de Europa",
@@ -11807,55 +11924,7 @@
             "Youth Express Network, Strasbourg, France",
             "Zonta International, Oak Brook, IL, USA"
         ],
-        "regionfocus":[
-            "Albania",
-            "Andorra",
-            "Armenia",
-            "Austria",
-            "Azerbaijan",
-            "Belgium",
-            "Bosnia and Herzegovina",
-            "Bulgaria",
-            "Croatia",
-            "Cyprus",
-            "Czech Republic",
-            "Denmark",
-            "Estonia",
-            "Finland",
-            "France",
-            "Georgia",
-            "Germany",
-            "Greece",
-            "Hungary",
-            "Iceland",
-            "Ireland",
-            "Italy",
-            "Latvia",
-            "Liechtenstein",
-            "Lithuania",
-            "Luxembourg",
-            "Malta",
-            "Republic of Moldova",
-            "Monaco",
-            "Montenegro",
-            "Netherlands",
-            "Norway",
-            "Poland",
-            "Portugal",
-            "Romania",
-            "Russian Federation",
-            "San Marino",
-            "Serbia",
-            "Slovakia",
-            "Slovenia",
-            "Spain",
-            "Sweden",
-            "Switzerland",
-            "The former Yugoslav Republic of Macedonia",
-            "Turkey",
-            "Ukraine",
-            "UK"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English",
             "French",
@@ -12015,8 +12084,52 @@
         "history":"Foundation in 1949 in London (UK) on signature of Statute of the Council of Europe by government representatives of Belgium, Denmark, France, Ireland, Italy, Luxembourg, Netherlands, Norway, Sweden and the United Kingdom."
     },
     {
+        "uid":"ALF",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Albania",
+            "Algeria",
+            "Austria",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Egypt",
+            "Estonia",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jordan",
+            "Latvia",
+            "Lebanon",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Mauritania",
+            "Monaco",
+            "Montenegro",
+            "Morocco",
+            "Netherlands",
+            "State of Palestine",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Tunisia",
+            "Turkey",
+            "UK"
+        ],
         "main_names":[
             "Fondation euro-m\u00e9diterran\u00e9enne Anna Lindh pour le dialogue entre les cultures",
             "Anna Lindh Foundation"
@@ -12070,50 +12183,7 @@
             "Literature Across Frontiers, Aberystwyth, UK",
             "RESPECT Refugiados, Barcelona, Spain"
         ],
-        "regionfocus":[
-            "Albania",
-            "Algeria",
-            "Austria",
-            "Belgium",
-            "Bosnia and Herzegovina",
-            "Bulgaria",
-            "Croatia",
-            "Cyprus",
-            "Czech Republic",
-            "Denmark",
-            "Egypt",
-            "Estonia",
-            "Finland",
-            "France",
-            "Germany",
-            "Greece",
-            "Hungary",
-            "Ireland",
-            "Israel",
-            "Italy",
-            "Jordan",
-            "Latvia",
-            "Lebanon",
-            "Lithuania",
-            "Luxembourg",
-            "Malta",
-            "Mauritania",
-            "Monaco",
-            "Montenegro",
-            "Morocco",
-            "Netherlands",
-            "State of Palestine",
-            "Poland",
-            "Portugal",
-            "Romania",
-            "Slovakia",
-            "Slovenia",
-            "Spain",
-            "Sweden",
-            "Tunisia",
-            "Turkey",
-            "UK"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "English",
@@ -12275,9 +12345,62 @@
         "history":"Founded in 2004, The Hague (Netherlands), by Union for the Mediterranean. Named after former Swedish Foreign Minister Anna Lindh (1957-2003). Launched in April 2005."
     },
     {
+        "uid":"ISESCO",
         "contacted":true,
-        "religious_affiliation":[
-            "Islam"
+        "regionfocus":[
+            "Azerbaijan",
+            "Jordan",
+            "Afghanistan",
+            "United Arab Emirates",
+            "Indonesia",
+            "Uganda",
+            "Iran (Islamic Republic of)",
+            "Pakistan",
+            "Bahrain",
+            "Brunei Darussalam",
+            "Bangladesh",
+            "Benin",
+            "Burkina Faso",
+            "Tajikistan",
+            "Chad",
+            "Togo",
+            "Tunisia",
+            "Algeria",
+            "Djibouti",
+            "Saudi Arabia",
+            "Sudan",
+            "Suriname",
+            "Syrian Arab Republic",
+            "Sierra Leone",
+            "Senegal",
+            "Somalia",
+            "Iraq",
+            "Oman",
+            "Gabon",
+            "Gambia",
+            "Guyana",
+            "Guinea",
+            "Guinea-Bissau",
+            "State of Palestine",
+            "Kazakhstan",
+            "Qatar",
+            "Comoros",
+            "Kyrgyzstan",
+            "Cameroon",
+            "Cote d'Ivoire",
+            "Kuwait",
+            "Lebanon",
+            "Libya",
+            "Maldives",
+            "Mali",
+            "Malaysia",
+            "Egypt",
+            "Morocco",
+            "Mauritania",
+            "Niger",
+            "Nigeria",
+            "Yemen",
+            "France"
         ],
         "main_names":[
             "\u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0644\u0644\u062a\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u0629\u200e"
@@ -12383,60 +12506,8 @@
             "Islamic Society of North America, Plainfield, IN, USA",
             "Religions for Peace, New York, NY, USA"
         ],
-        "regionfocus":[
-            "Azerbaijan",
-            "Jordan",
-            "Afghanistan",
-            "United Arab Emirates",
-            "Indonesia",
-            "Uganda",
-            "Iran (Islamic Republic of)",
-            "Pakistan",
-            "Bahrain",
-            "Brunei Darussalam",
-            "Bangladesh",
-            "Benin",
-            "Burkina Faso",
-            "Tajikistan",
-            "Chad",
-            "Togo",
-            "Tunisia",
-            "Algeria",
-            "Djibouti",
-            "Saudi Arabia",
-            "Sudan",
-            "Suriname",
-            "Syrian Arab Republic",
-            "Sierra Leone",
-            "Senegal",
-            "Somalia",
-            "Iraq",
-            "Oman",
-            "Gabon",
-            "Gambia",
-            "Guyana",
-            "Guinea",
-            "Guinea-Bissau",
-            "State of Palestine",
-            "Kazakhstan",
-            "Qatar",
-            "Comoros",
-            "Kyrgyzstan",
-            "Cameroon",
-            "Cote d'Ivoire",
-            "Kuwait",
-            "Lebanon",
-            "Libya",
-            "Maldives",
-            "Mali",
-            "Malaysia",
-            "Egypt",
-            "Morocco",
-            "Mauritania",
-            "Niger",
-            "Nigeria",
-            "Yemen",
-            "France"
+        "religious_affiliation":[
+            "Islam"
         ],
         "languages":[
             "Arabic",
@@ -12694,55 +12765,8 @@
         "history":"On 3 May 1982, the Islamic Educational, Scientific and Cultural Organization (ISESCO) held its founding conference in Fez, the cultural capital of the Kingdom of Morocco, and elected His Excellency Professor Abdelhadi Boutaleb as its Director General."
     },
     {
+        "uid":"OSCE",
         "contacted":true,
-        "religious_affiliation":"No information",
-        "main_names":[
-            "Organisation de la s\u00e9curit\u00e9 et la coop\u00e9ration en Europe",
-            "Organisation fuer Sicherheit und Zusammenarbeit in Europa"
-        ],
-        "adresses":{
-            "Address1":{
-                "lat":48.2100495,
-                "lon":16.3669631,
-                "normalized":"Wallnerstra\u00dfe 6-6A, 1010 Vienna, Austria",
-                "address":"Wallnerstrasse 6, 1010, Vienna, Austria"
-            }
-        },
-        "aim_URL":"http://www.osce.org/who",
-        "staff":[
-            "Secretariat and Institutions - about 550. Field Operations - about 2,330."
-        ],
-        "IO_relations":[
-            "United Nations, New York, NY, USA",
-            "European Union, Brussels, Belgium",
-            "Council of Europe, Strasbourg, France",
-            "North Atlantic Treaty Organization, Brussels, Belgium",
-            "United Nations Economic Commission for Europe, Geneva, Switzerland",
-            "European Bank for Reconstruction and Development, London, UK",
-            "International Organization for Migration, Geneva, Switzerland",
-            "United Nations Development Programme, New York, NY, USA",
-            "United Nations Environment Programme, Nairobi, Kenya",
-            "World Bank, Washington, DC, USA",
-            "World Trade Organization, Geneva, Switzerland",
-            "Organisation for Economic Co-operation and Development, Paris, France",
-            "International Monetary Fund, Washington, DC, USA",
-            "Food and Agriculture Organization, Rome, Italy",
-            "Central European Initiative, Trieste, Italy",
-            "Commonwealth of Independent States, Minsk, Belarus",
-            "Council of the Baltic Sea States, Stockholm, Sweden",
-            "Collective Security Treaty Organization, Moscow, Russian Federation",
-            "GUAM Organization for Democracy and Economic Development, Kiev, Ukraine",
-            "Organization of the Black Sea Economic Co-operation, Istanbul, Turkey",
-            "Southeast European Co-operative Initiative, Vienna, Austria",
-            "South-Eastern European Co-operation Process, Romania, Bucharest (rotating)",
-            "Stability Pact for South-Eastern Europe, Brussels, Belgium",
-            "Shanghai Co-operation Organization, Beijing, China",
-            "Conference on Interaction and Confidence-Building Measures in Asia, Almaty, Kazakhstan",
-            "Organization of the Islamic Conference, Jeddah, Saudi Arabia",
-            "League of Arab States, Cairo, Egypt",
-            "African Union, Addis Ababa, Ethiopia",
-            "International Committee of the Red Cross, Geneva, Switzerland"
-        ],
         "regionfocus":[
             "Albania",
             "Austria",
@@ -12802,6 +12826,54 @@
             "Turkey",
             "UK"
         ],
+        "main_names":[
+            "Organisation de la s\u00e9curit\u00e9 et la coop\u00e9ration en Europe",
+            "Organisation fuer Sicherheit und Zusammenarbeit in Europa"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":48.2100495,
+                "lon":16.3669631,
+                "normalized":"Wallnerstra\u00dfe 6-6A, 1010 Vienna, Austria",
+                "address":"Wallnerstrasse 6, 1010, Vienna, Austria"
+            }
+        },
+        "aim_URL":"http://www.osce.org/who",
+        "staff":[
+            "Secretariat and Institutions - about 550. Field Operations - about 2,330."
+        ],
+        "IO_relations":[
+            "United Nations, New York, NY, USA",
+            "European Union, Brussels, Belgium",
+            "Council of Europe, Strasbourg, France",
+            "North Atlantic Treaty Organization, Brussels, Belgium",
+            "United Nations Economic Commission for Europe, Geneva, Switzerland",
+            "European Bank for Reconstruction and Development, London, UK",
+            "International Organization for Migration, Geneva, Switzerland",
+            "United Nations Development Programme, New York, NY, USA",
+            "United Nations Environment Programme, Nairobi, Kenya",
+            "World Bank, Washington, DC, USA",
+            "World Trade Organization, Geneva, Switzerland",
+            "Organisation for Economic Co-operation and Development, Paris, France",
+            "International Monetary Fund, Washington, DC, USA",
+            "Food and Agriculture Organization, Rome, Italy",
+            "Central European Initiative, Trieste, Italy",
+            "Commonwealth of Independent States, Minsk, Belarus",
+            "Council of the Baltic Sea States, Stockholm, Sweden",
+            "Collective Security Treaty Organization, Moscow, Russian Federation",
+            "GUAM Organization for Democracy and Economic Development, Kiev, Ukraine",
+            "Organization of the Black Sea Economic Co-operation, Istanbul, Turkey",
+            "Southeast European Co-operative Initiative, Vienna, Austria",
+            "South-Eastern European Co-operation Process, Romania, Bucharest (rotating)",
+            "Stability Pact for South-Eastern Europe, Brussels, Belgium",
+            "Shanghai Co-operation Organization, Beijing, China",
+            "Conference on Interaction and Confidence-Building Measures in Asia, Almaty, Kazakhstan",
+            "Organization of the Islamic Conference, Jeddah, Saudi Arabia",
+            "League of Arab States, Cairo, Egypt",
+            "African Union, Addis Ababa, Ethiopia",
+            "International Committee of the Red Cross, Geneva, Switzerland"
+        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English",
             "French",
@@ -13002,6 +13074,7 @@
         "history":"Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1 August 1975."
     },
     {
+        "uid":"MJC",
         "contacted":true,
         "religious_affiliation":[
             "Islam",
@@ -13068,9 +13141,8 @@
             }
         ],
         "name_en":"Muslim Jewish Conference",
-        "contact_person":[
-            "Dr. Ilja Sichrovsky",
-            "ilja.sichrovsky@mjconference.org"
+        "general_activities":[
+            "See IRDActivities"
         ],
         "structure":"Global grassroots based group; Secretary General; Board of Advisors; Patrons; Honorary Committee; Friends of MJC. (All communication, interaction, and production within team members) exclusively takes place through telecommunication tools, email, or online social media. The central activity of the organization is its annual travelling conference.",
         "other_relations":[
@@ -13109,12 +13181,14 @@
             "date":"20140618",
             "author":"CT"
         },
-        "general_activities":[
-            "See IRDActivities"
+        "contact_person":[
+            "Dr. Ilja Sichrovsky",
+            "ilja.sichrovsky@mjconference.org"
         ],
         "history":"MJC started with its inaugural conference in Vienna in 2010. Since then, conferences have been held across Europe."
     },
     {
+        "uid":"IRCICA",
         "contacted":false,
         "religious_affiliation":[
             "Islam"
@@ -13340,8 +13414,205 @@
         "history":"The Centre started its activities in 1980, after its first work program and first budget proposal, prepared and submitted by the Centre's newly appointed Director General Dr. Ekmeleddin Ihsanoglu, were adopted by Resolution no. 11/11-C of the Eleventh Islamic Conference of Foreign Ministers (Islamabad, Pakistan, 1980)."
     },
     {
+        "uid":"UNESCO",
         "contacted":true,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin",
+            "Bhutan",
+            "Bolivia (Plurinational State of)",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Brazil",
+            "Brunei Darussalam",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "China",
+            "Colombia",
+            "Comoros",
+            "Congo",
+            "Cook Islands",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czech Republic",
+            "Democratic People's Republic of Korea",
+            "Democratic Republic of the Congo",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Estonia",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France",
+            "Gabon",
+            "Gambia",
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran (Islamic Republic of)",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya",
+            "Kiribati",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Lao People's Democratic Republic",
+            "Latvia",
+            "Lebanon",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Lithuania",
+            "Luxembourg",
+            "Madagascar",
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Mauritius",
+            "Mexico",
+            "Micronesia (Federated States of)",
+            "Monaco",
+            "Mongolia",
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Myanmar",
+            "Namibia",
+            "Nauru",
+            "Nepal",
+            "Netherlands",
+            "New Zealand",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "Niue",
+            "Norway",
+            "Oman",
+            "Pakistan",
+            "Palau",
+            "State of Palestine",
+            "Panama",
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Qatar",
+            "Republic of Korea",
+            "Republic of Moldova",
+            "Romania",
+            "Russian Federation",
+            "Rwanda",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Samoa",
+            "San Marino",
+            "Sao Tome and Principe",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia",
+            "Seychelles",
+            "Sierra Leone",
+            "Singapore",
+            "Slovakia",
+            "Slovenia",
+            "Solomon Islands",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Spain",
+            "Sri Lanka",
+            "Sudan",
+            "Suriname",
+            "Swaziland",
+            "Sweden",
+            "Switzerland",
+            "Syrian Arab Republic",
+            "Tajikistan",
+            "Thailand",
+            "The former Yugoslav Republic of Macedonia",
+            "Timor-Leste",
+            "Togo",
+            "Tonga",
+            "Trinidad and Tobago",
+            "Tunisia",
+            "Turkey",
+            "Turkmenistan",
+            "Tuvalu",
+            "Uganda",
+            "Ukraine",
+            "United Arab Emirates",
+            "UK",
+            "United Republic of Tanzania",
+            "USA",
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela (Bolivarian Republic of)",
+            "Viet Nam",
+            "Yemen",
+            "Zambia",
+            "Zimbabwe"
+        ],
         "main_names":[
             "Organisation des Nations Unies pour l'\u00e9ducation, la science et la culture",
             "Organizaci\u00f3n de las Naciones Unidas para la Educaci\u00f3n, la Ciencia y la Cultura"
@@ -13835,203 +14106,7 @@
             "World Foundation for AIDS Research and Prevention, Paris, France",
             "World Monuments Fund, New York, NY, USA"
         ],
-        "regionfocus":[
-            "Afghanistan",
-            "Albania",
-            "Algeria",
-            "Andorra",
-            "Angola",
-            "Antigua and Barbuda",
-            "Argentina",
-            "Armenia",
-            "Australia",
-            "Austria",
-            "Azerbaijan",
-            "Bahamas",
-            "Bahrain",
-            "Bangladesh",
-            "Barbados",
-            "Belarus",
-            "Belgium",
-            "Belize",
-            "Benin",
-            "Bhutan",
-            "Bolivia (Plurinational State of)",
-            "Bosnia and Herzegovina",
-            "Botswana",
-            "Brazil",
-            "Brunei Darussalam",
-            "Bulgaria",
-            "Burkina Faso",
-            "Burundi",
-            "Cabo Verde",
-            "Cambodia",
-            "Cameroon",
-            "Canada",
-            "Central African Republic",
-            "Chad",
-            "Chile",
-            "China",
-            "Colombia",
-            "Comoros",
-            "Congo",
-            "Cook Islands",
-            "Costa Rica",
-            "Cote d'Ivoire",
-            "Croatia",
-            "Cuba",
-            "Cyprus",
-            "Czech Republic",
-            "Democratic People's Republic of Korea",
-            "Democratic Republic of the Congo",
-            "Denmark",
-            "Djibouti",
-            "Dominica",
-            "Dominican Republic",
-            "Ecuador",
-            "Egypt",
-            "El Salvador",
-            "Equatorial Guinea",
-            "Eritrea",
-            "Estonia",
-            "Ethiopia",
-            "Fiji",
-            "Finland",
-            "France",
-            "Gabon",
-            "Gambia",
-            "Georgia",
-            "Germany",
-            "Ghana",
-            "Greece",
-            "Grenada",
-            "Guatemala",
-            "Guinea",
-            "Guinea-Bissau",
-            "Guyana",
-            "Haiti",
-            "Honduras",
-            "Hungary",
-            "Iceland",
-            "India",
-            "Indonesia",
-            "Iran (Islamic Republic of)",
-            "Iraq",
-            "Ireland",
-            "Israel",
-            "Italy",
-            "Jamaica",
-            "Japan",
-            "Jordan",
-            "Kazakhstan",
-            "Kenya",
-            "Kiribati",
-            "Kuwait",
-            "Kyrgyzstan",
-            "Lao People's Democratic Republic",
-            "Latvia",
-            "Lebanon",
-            "Lesotho",
-            "Liberia",
-            "Libya",
-            "Lithuania",
-            "Luxembourg",
-            "Madagascar",
-            "Malawi",
-            "Malaysia",
-            "Maldives",
-            "Mali",
-            "Malta",
-            "Marshall Islands",
-            "Mauritania",
-            "Mauritius",
-            "Mexico",
-            "Micronesia (Federated States of)",
-            "Monaco",
-            "Mongolia",
-            "Montenegro",
-            "Morocco",
-            "Mozambique",
-            "Myanmar",
-            "Namibia",
-            "Nauru",
-            "Nepal",
-            "Netherlands",
-            "New Zealand",
-            "Nicaragua",
-            "Niger",
-            "Nigeria",
-            "Niue",
-            "Norway",
-            "Oman",
-            "Pakistan",
-            "Palau",
-            "State of Palestine",
-            "Panama",
-            "Papua New Guinea",
-            "Paraguay",
-            "Peru",
-            "Philippines",
-            "Poland",
-            "Portugal",
-            "Qatar",
-            "Republic of Korea",
-            "Republic of Moldova",
-            "Romania",
-            "Russian Federation",
-            "Rwanda",
-            "Saint Kitts and Nevis",
-            "Saint Lucia",
-            "Saint Vincent and the Grenadines",
-            "Samoa",
-            "San Marino",
-            "Sao Tome and Principe",
-            "Saudi Arabia",
-            "Senegal",
-            "Serbia",
-            "Seychelles",
-            "Sierra Leone",
-            "Singapore",
-            "Slovakia",
-            "Slovenia",
-            "Solomon Islands",
-            "Somalia",
-            "South Africa",
-            "South Sudan",
-            "Spain",
-            "Sri Lanka",
-            "Sudan",
-            "Suriname",
-            "Swaziland",
-            "Sweden",
-            "Switzerland",
-            "Syrian Arab Republic",
-            "Tajikistan",
-            "Thailand",
-            "The former Yugoslav Republic of Macedonia",
-            "Timor-Leste",
-            "Togo",
-            "Tonga",
-            "Trinidad and Tobago",
-            "Tunisia",
-            "Turkey",
-            "Turkmenistan",
-            "Tuvalu",
-            "Uganda",
-            "Ukraine",
-            "United Arab Emirates",
-            "UK",
-            "United Republic of Tanzania",
-            "USA",
-            "Uruguay",
-            "Uzbekistan",
-            "Vanuatu",
-            "Venezuela (Bolivarian Republic of)",
-            "Viet Nam",
-            "Yemen",
-            "Zambia",
-            "Zimbabwe"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "Chinese",
@@ -14387,6 +14462,7 @@
         "history":"In 1945, UNESCO was created in order to respond to the firm belief of nations, forged by two world wars in less than a generation, that political and economic agreements are not enough to build a lasting peace."
     },
     {
+        "uid":"BKWSU",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -14666,6 +14742,7 @@
         "parent_org":[
             "Wellesley College"
         ],
+        "uid":"EduT",
         "contacted":false,
         "regionfocus":[
             "USA",
@@ -14773,6 +14850,7 @@
         "history":"On September 27 and 28, 1998, over 800 representatives (including presidents, faculty, administrators, students, religious life professionals and trustees) from more than 250 colleges and universities gathered at Wellesley College for a National Gathering to explore issues of religious pluralism and spirituality in higher education. This was the inaugural event of the EDUCATION as Transformation Project."
     },
     {
+        "uid":"LJMBS",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -14850,7 +14928,7 @@
             "12h",
             "12j"
         ],
-        "events":"No information",
+        "finances":"No information",
         "website":"http://www.093ljm.org",
         "foundation":"1984",
         "email_gen":"webadmin@ljm.org.tw",
@@ -14878,7 +14956,7 @@
         "other_relations":"No information",
         "IRD_def":"Ever since coming out of retreat in 1985 Master Hsin Tao has been actively engaging in dialogues with other religious leaders in an effort to promote world peace and a global ethic. The Museum of World Religions is Ling Jiou Mountain\u2019s practical contribution to peace. With the advent of globalization people need to promote world peace for the sake of the well being of humanity and the whole planet. But peace is not something which can be brought about by one individual. The seeds of peace are sown through religion and dialogue, and sustained through education. People need to appeal to the followers of all religions to come together and realize the ideal of a 'global family of love and peace'. Interfaith dialogues and exchanges are hosted to increase mutual understanding and friendly interaction amongst various religions.",
         "country":"Taiwan",
-        "finances":"No information",
+        "events":"No information",
         "aim":"Propagate the Dharma and help relieve suffering in the world, at the same time advancing the cause of world peace through interreligious dialogue.",
         "org_type":[
             "E"
@@ -14923,6 +15001,7 @@
         "parent_org":[
             "Universal Peace Federation"
         ],
+        "uid":"RYS",
         "contacted":false,
         "regionfocus":[
             "Republic of Moldova",
@@ -15133,6 +15212,7 @@
         "history":"The Religious Youth Service is a nonprofit organization founded in 1986 to give opportunities to young religious people to live and work together as a community."
     },
     {
+        "uid":"IKETH",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -15236,30 +15316,8 @@
         "parent_org":[
             "The Royal Islamic Strategic Studies Centre"
         ],
+        "uid":"WIHW",
         "contacted":true,
-        "religious_affiliation":"No information",
-        "adresses":{
-            "Address1":{
-                "lat":31.9565783,
-                "lon":35.9456951,
-                "normalized":"Amman, Jordan",
-                "address":"Amman, Jordan"
-            }
-        },
-        "aim_URL":"http://worldinterfaithharmonyweek.com/about-us/our-aims-objectives/",
-        "staff":"No information",
-        "IO_relations":[
-            "Royal Islamic Strategic Studies Centre, Amman, Jordan",
-            "Royal Aal al-Bayt Institute for Islamic Thought, Amman, Jordan",
-            "Alliance for Conflict Transformation, Alexandria, VA, USA",
-            "Cambodian Muslim Youth Coordination Center, Phnom Penh, Cambodia",
-            "Cambodian Student Christian Mission, Phnom Penh, Cambodia",
-            "Interfaith Cooperation Forum, Phnom Penh, Cambodia",
-            "Peace Bridges Organization, Phnom Penh, Cambodia",
-            "Danmission, Hellerup, Denmark",
-            "Brot fuer die Welt, Berlin, Germany",
-            "United Nations, New York, NY, USA"
-        ],
         "regionfocus":[
             "Albania",
             "Antigua and Barbuda",
@@ -15349,6 +15407,29 @@
             "Uzbekistan",
             "Venezuela (Bolivarian Republic of)"
         ],
+        "adresses":{
+            "Address1":{
+                "lat":31.9565783,
+                "lon":35.9456951,
+                "normalized":"Amman, Jordan",
+                "address":"Amman, Jordan"
+            }
+        },
+        "aim_URL":"http://worldinterfaithharmonyweek.com/about-us/our-aims-objectives/",
+        "staff":"No information",
+        "IO_relations":[
+            "Royal Islamic Strategic Studies Centre, Amman, Jordan",
+            "Royal Aal al-Bayt Institute for Islamic Thought, Amman, Jordan",
+            "Alliance for Conflict Transformation, Alexandria, VA, USA",
+            "Cambodian Muslim Youth Coordination Center, Phnom Penh, Cambodia",
+            "Cambodian Student Christian Mission, Phnom Penh, Cambodia",
+            "Interfaith Cooperation Forum, Phnom Penh, Cambodia",
+            "Peace Bridges Organization, Phnom Penh, Cambodia",
+            "Danmission, Hellerup, Denmark",
+            "Brot fuer die Welt, Berlin, Germany",
+            "United Nations, New York, NY, USA"
+        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Arabic",
             "English"
@@ -15418,6 +15499,7 @@
         "history":"Foundation in 2010. HM King Abdullah II addressed the 65th UN General Assembly and proposed the idea for a \u2018World Interfaith Harmony Week\u2019 to further broaden his goals of faith-driven world harmony by extending his call beyond the Muslim and Christian community to include people of all beliefs, those with no set religious beliefs as well."
     },
     {
+        "uid":"CCJR",
         "contacted":false,
         "religious_affiliation":[
             "Christianity",
@@ -15564,6 +15646,7 @@
         "history":"Foundation in 2001."
     },
     {
+        "uid":"SFM",
         "contacted":true,
         "regionfocus":[
             "Bahamas",
@@ -15591,24 +15674,6 @@
             }
         },
         "aim_URL":"https://www.scarboromissions.ca/Learn_about_us/mission_values_vision.php",
-        "staff":"No information",
-        "IO_relations":[
-            "Religions for Peace, New York, NY, USA",
-            "Global Ethic Foundation, Tuebingen, Germany",
-            "International Association for Religious Freedom, London, UK",
-            "Temple of Understanding, New York, NY, USA",
-            "United Religions Initiative, San Francisco, CA, USA",
-            "Monastic Interreligious Dialogue, Lisle, IL, USA",
-            "Ontario Coalition for Religious Tolerance, Kingston, ON, Canada",
-            "North American Interfaith Network, Wichita, KA, USA"
-        ],
-        "religious_affiliation":[
-            "Christianity"
-        ],
-        "languages":[
-            "English"
-        ],
-        "international":true,
         "subject":[
             "1c",
             "1h",
@@ -15645,6 +15710,24 @@
             "12h",
             "12j"
         ],
+        "IO_relations":[
+            "Religions for Peace, New York, NY, USA",
+            "Global Ethic Foundation, Tuebingen, Germany",
+            "International Association for Religious Freedom, London, UK",
+            "Temple of Understanding, New York, NY, USA",
+            "United Religions Initiative, San Francisco, CA, USA",
+            "Monastic Interreligious Dialogue, Lisle, IL, USA",
+            "Ontario Coalition for Religious Tolerance, Kingston, ON, Canada",
+            "North American Interfaith Network, Wichita, KA, USA"
+        ],
+        "religious_affiliation":[
+            "Christianity"
+        ],
+        "languages":[
+            "English"
+        ],
+        "international":true,
+        "staff":"No information",
         "finances":"No information",
         "website":"https://www.scarboromissions.ca/index.php",
         "foundation":"1918",
@@ -15714,9 +15797,13 @@
         "history":"Founded in 1918 by Fr. John Fraser, a priest of the Archdiocese of Toronto, Scarboro Missions' initial purpose was to train and send missionary priests to China. In those early days, Scarboro Missions was known as the China Mission Seminary."
     },
     {
+        "uid":"CEJI",
         "contacted":true,
-        "religious_affiliation":[
-            "Judaism"
+        "regionfocus":[
+            "Eastern Europe",
+            "Southern Europe",
+            "Western Europe",
+            "Northern Europe"
         ],
         "adresses":{
             "Address1":{
@@ -15807,11 +15894,8 @@
             "Pears Foundation, London, UK",
             "The Rothschild Foundation Europe, London, UK"
         ],
-        "regionfocus":[
-            "Eastern Europe",
-            "Southern Europe",
-            "Western Europe",
-            "Northern Europe"
+        "religious_affiliation":[
+            "Judaism"
         ],
         "languages":[
             "English",
@@ -15958,6 +16042,7 @@
         "history":"An international non-profit organisation established in 1991, CEJI stands with individuals and organisations of all religions, cultures and backgrounds to promote a diverse and inclusive Europe."
     },
     {
+        "uid":"BOD",
         "contacted":true,
         "religious_affiliation":[
             "Judaism"
@@ -16021,31 +16106,6 @@
         "email_gen":"info@bod.org.uk",
         "IRD_activities":[],
         "name_en":"Board of Deputies of British Jews",
-        "contact_person":[
-            "Rabbi Natan Levy",
-            "nzlevy@googlemail.com"
-        ],
-        "structure":"Deputies: elected by Synagogue congregations and communal organisations; Observers; Honorary Officers: President, Senior Vice President, 2 Vice Presidents and Treasurer; Professional Staff",
-        "other_relations":"No information",
-        "IRD_def":"Dialogue: Events at which members of different communities discuss their beliefs and identities, as well as issues that unite and divide them. The term \u2018inter faith\u2019 is often partnered with the word \u2018dialogue\u2019. The goal of our interfaith dialogue is to create more local opportunities both for face to face dialogue which supports a greater understanding of shared values as well as an appreciation of distinctiveness; and for side by side collaborative social action where people come together and share their time, energy and skills to improve their local neighbourhood.",
-        "country":"UK",
-        "events":"No information",
-        "aim":"Promote and defend the religious and civil liberties of British Jewry.",
-        "org_type":[
-            "G",
-            "v"
-        ],
-        "publications":[
-            "Annual Review' (2010, periodical)",
-            "'Community Statistics' (2012, periodical)",
-            "'Pikuach Report' (2011, periodical)",
-            "'Community Briefing' (2014, periodical)"
-        ],
-        "IRD_def_URL":"http://www.bod.org.uk/content/CommunitiesInConversation.pdf",
-        "entry":{
-            "date":"20140704",
-            "author":"CT"
-        },
         "general_activities":[
             {
                 "activity_name":"Education",
@@ -16080,9 +16140,35 @@
                 "activity_description":"The freedoms enjoyed by the Jewish community today can be seen in the number of communal institutions, schools, places of worship and facilities available to young and old. Many operate as charities, and the Board monitors and responds to policy and legislative changes to ensure that there is a political and legal framework that is conducive to their ability to provide services freely and efficiently to our community;"
             }
         ],
+        "structure":"Deputies: elected by Synagogue congregations and communal organisations; Observers; Honorary Officers: President, Senior Vice President, 2 Vice Presidents and Treasurer; Professional Staff",
+        "other_relations":"No information",
+        "IRD_def":"Dialogue: Events at which members of different communities discuss their beliefs and identities, as well as issues that unite and divide them. The term \u2018inter faith\u2019 is often partnered with the word \u2018dialogue\u2019. The goal of our interfaith dialogue is to create more local opportunities both for face to face dialogue which supports a greater understanding of shared values as well as an appreciation of distinctiveness; and for side by side collaborative social action where people come together and share their time, energy and skills to improve their local neighbourhood.",
+        "country":"UK",
+        "events":"No information",
+        "aim":"Promote and defend the religious and civil liberties of British Jewry.",
+        "org_type":[
+            "G",
+            "v"
+        ],
+        "publications":[
+            "Annual Review' (2010, periodical)",
+            "'Community Statistics' (2012, periodical)",
+            "'Pikuach Report' (2011, periodical)",
+            "'Community Briefing' (2014, periodical)"
+        ],
+        "IRD_def_URL":"http://www.bod.org.uk/content/CommunitiesInConversation.pdf",
+        "entry":{
+            "date":"20140704",
+            "author":"CT"
+        },
+        "contact_person":[
+            "Rabbi Natan Levy",
+            "nzlevy@googlemail.com"
+        ],
         "history":"The Board was formally established in 1760."
     },
     {
+        "uid":"AriI",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -16491,94 +16577,8 @@
         "history":"Foundation in 1990, Japan, as Arigatou Foundation. Registered as a General incorporated foundation in Japan, 25 Dec 2012, when current title was adopted."
     },
     {
+        "uid":"CRS",
         "contacted":true,
-        "religious_affiliation":[
-            "Christianity"
-        ],
-        "adresses":{
-            "Address1":{
-                "lat":39.291933,
-                "lon":-76.619162,
-                "normalized":"228 West Lexington Street, Baltimore, MD 21201, USA",
-                "address":"228 W Lexington Street, Baltimore, MD 21201-3413, USA"
-            },
-            "Address2":{
-                "lat":46.2078875,
-                "lon":6.142183699999999,
-                "normalized":"Rue de Cornavin 11, 1201 Geneva, Switzerland",
-                "address":"11 rue de Cornavin, CH-1201, Geneva, Switzerland"
-            }
-        },
-        "aim_URL":"http://crs.org/about/mission-statement/",
-        "staff":"No information",
-        "IO_relations":[
-            "International Fund for Agricultural Development, Rome, Italy",
-            "International Organization for Migration, Geneva, Switzerland",
-            "United Nations High Commissioner for Refugees, Geneva, Switzerland",
-            "International Crops Research Institute for the Semi-Arid Tropics, Andhra Pradesh, India",
-            "Food and Agriculture Organization, Rome, Italy",
-            "Global Information and Early Warning System on Food and Agriculture, Rome, Italy",
-            "International Development Research Centre, Ottawa, ON, Canada",
-            "United Nations Development Programme, New York, NY, USA",
-            "World Health Organization, Geneva, Switzerland",
-            "World Food Programme, Rome, Italy",
-            "European Community, Brussels, Belgium",
-            "International Catholic Migration Commission, Geneva, Switzerland",
-            "Advocacy Network for Africa, New York, NY, USA",
-            "Alliance to End Hunger, Washington, DC, USA",
-            "American Council for Voluntary International Action, Washington, DC, USA",
-            "Basic Education Coalition, Washington, DC, USA",
-            "Caritas Internationalis, Rome, Italy",
-            "Christian Relief and Development Association, Addis Ababa, Ethiopia",
-            "CORE Group, Washington, DC, USA",
-            "Council of Non-Governmental Organizations for Development Support, Dakar, Senegal",
-            "Ecumenical Advocacy Alliance, Geneva, Switzerland",
-            "Federation of Semi-Official and Private International Institutions established in Geneva, Geneva, Switzerland",
-            "Global Partnership for the Prevention of Armed Conflict, The Hague, Netherlands",
-            "Inter-African Committee on Traditional Practices Affecting the Health of Women and Children, Addis Ababa, Ethiopia",
-            "NetHope, McLean, VA, USA",
-            "NGO Forum on Cambodia, Phnom Phen, Cambodia",
-            "NGO Forum for Health, Geneva, Switzerland",
-            "Non-Governmental Organizations Committee on UNICEF, New York, NY, USA",
-            "West Africa Network for Peacebuilding, Accra, Ghana",
-            "Inter-Agency Network for Education in Emergencies, New York, NY, USA",
-            "Child and Youth Finance International, Amsterdam, Netherlands",
-            "Pontifical Council 'Cor Unum', Rome, Italy",
-            "Publish What You Pay Coalition, London, UK",
-            "Africare, Washington, DC, USA",
-            "Global Network for Good Governance, Limbe, Cameroon",
-            "International Institute of Tropical Agriculture, Ibadan, Nigeria",
-            "Southern African Network of AIDS Service Organizations, Harare, Zimbabwe",
-            "World Education, Boston, MA, USA",
-            "Global Health Cluster, Geneva, Switzerland",
-            "Helen Keller International, New York, NY, USA",
-            "Catholic Peacebuilding Network, Notre Dame, IN, USA",
-            "FHI 360, Durham, NC, USA",
-            "Adventist Development and Relief Agency International, Silver Spring, MD, USA",
-            "Africa Faith and Justice Network, Washington, DC, USA",
-            "African Office for Development and Cooperation, Dakar, Senegal",
-            "Arab Council for Childhood and Development, Cairo, Egypt",
-            "Asian Centre for Organisation Research and Development, New Delhi, India",
-            "Bread for the World Institute, Washington, DC, USA",
-            "Catholic Near East Welfare Association, New York, NY, USA",
-            "Catholic Office for Emergency Relief and Refugees, Bangkok, Thailand",
-            "Centre for Research on the Epidemiology of Disasters, Brussels, Belgium",
-            "Conference of European Justice and Peace Commissions, Berlin, Germany",
-            "Cooperation Committee for Cambodia, Phnom Penh, Cambodia",
-            "International Blue Crescent, Istanbul, Turkey",
-            "International Catholic Organizations Information Center, New York, NY, USA",
-            "International Committee of the Red Cross, Geneva, Switzerland",
-            "International Federation of Red Cross and Red Crescent Societies, Geneva, Switzerland",
-            "International Food Policy Research Institute, Washington, DC, USA",
-            "International Red Cross and Red Crescent Movement, Geneva, Switzerland",
-            "International Secretariat for Water, Montreal, QC, Canada",
-            "McKnight Foundation, Minneapolis, MN, USA",
-            "Mercy-USA for Aid and Development, Plymouth, MI, USA",
-            "Near East Foundation, New York, NY, USA",
-            "Assembly of Organizations for Aid to the Eastern Churches, Rome, Italy",
-            "Visions in Action, Washington, DC, USA",
-            "YouthBuild International, Somerville, MA, USA"
-        ],
         "regionfocus":[
             "Angola",
             "Benin",
@@ -16664,6 +16664,93 @@
             "Jordan",
             "Lebanon",
             "USA"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":39.291933,
+                "lon":-76.619162,
+                "normalized":"228 West Lexington Street, Baltimore, MD 21201, USA",
+                "address":"228 W Lexington Street, Baltimore, MD 21201-3413, USA"
+            },
+            "Address2":{
+                "lat":46.2078875,
+                "lon":6.142183699999999,
+                "normalized":"Rue de Cornavin 11, 1201 Geneva, Switzerland",
+                "address":"11 rue de Cornavin, CH-1201, Geneva, Switzerland"
+            }
+        },
+        "aim_URL":"http://crs.org/about/mission-statement/",
+        "staff":"No information",
+        "IO_relations":[
+            "International Fund for Agricultural Development, Rome, Italy",
+            "International Organization for Migration, Geneva, Switzerland",
+            "United Nations High Commissioner for Refugees, Geneva, Switzerland",
+            "International Crops Research Institute for the Semi-Arid Tropics, Andhra Pradesh, India",
+            "Food and Agriculture Organization, Rome, Italy",
+            "Global Information and Early Warning System on Food and Agriculture, Rome, Italy",
+            "International Development Research Centre, Ottawa, ON, Canada",
+            "United Nations Development Programme, New York, NY, USA",
+            "World Health Organization, Geneva, Switzerland",
+            "World Food Programme, Rome, Italy",
+            "European Community, Brussels, Belgium",
+            "International Catholic Migration Commission, Geneva, Switzerland",
+            "Advocacy Network for Africa, New York, NY, USA",
+            "Alliance to End Hunger, Washington, DC, USA",
+            "American Council for Voluntary International Action, Washington, DC, USA",
+            "Basic Education Coalition, Washington, DC, USA",
+            "Caritas Internationalis, Rome, Italy",
+            "Christian Relief and Development Association, Addis Ababa, Ethiopia",
+            "CORE Group, Washington, DC, USA",
+            "Council of Non-Governmental Organizations for Development Support, Dakar, Senegal",
+            "Ecumenical Advocacy Alliance, Geneva, Switzerland",
+            "Federation of Semi-Official and Private International Institutions established in Geneva, Geneva, Switzerland",
+            "Global Partnership for the Prevention of Armed Conflict, The Hague, Netherlands",
+            "Inter-African Committee on Traditional Practices Affecting the Health of Women and Children, Addis Ababa, Ethiopia",
+            "NetHope, McLean, VA, USA",
+            "NGO Forum on Cambodia, Phnom Phen, Cambodia",
+            "NGO Forum for Health, Geneva, Switzerland",
+            "Non-Governmental Organizations Committee on UNICEF, New York, NY, USA",
+            "West Africa Network for Peacebuilding, Accra, Ghana",
+            "Inter-Agency Network for Education in Emergencies, New York, NY, USA",
+            "Child and Youth Finance International, Amsterdam, Netherlands",
+            "Pontifical Council 'Cor Unum', Rome, Italy",
+            "Publish What You Pay Coalition, London, UK",
+            "Africare, Washington, DC, USA",
+            "Global Network for Good Governance, Limbe, Cameroon",
+            "International Institute of Tropical Agriculture, Ibadan, Nigeria",
+            "Southern African Network of AIDS Service Organizations, Harare, Zimbabwe",
+            "World Education, Boston, MA, USA",
+            "Global Health Cluster, Geneva, Switzerland",
+            "Helen Keller International, New York, NY, USA",
+            "Catholic Peacebuilding Network, Notre Dame, IN, USA",
+            "FHI 360, Durham, NC, USA",
+            "Adventist Development and Relief Agency International, Silver Spring, MD, USA",
+            "Africa Faith and Justice Network, Washington, DC, USA",
+            "African Office for Development and Cooperation, Dakar, Senegal",
+            "Arab Council for Childhood and Development, Cairo, Egypt",
+            "Asian Centre for Organisation Research and Development, New Delhi, India",
+            "Bread for the World Institute, Washington, DC, USA",
+            "Catholic Near East Welfare Association, New York, NY, USA",
+            "Catholic Office for Emergency Relief and Refugees, Bangkok, Thailand",
+            "Centre for Research on the Epidemiology of Disasters, Brussels, Belgium",
+            "Conference of European Justice and Peace Commissions, Berlin, Germany",
+            "Cooperation Committee for Cambodia, Phnom Penh, Cambodia",
+            "International Blue Crescent, Istanbul, Turkey",
+            "International Catholic Organizations Information Center, New York, NY, USA",
+            "International Committee of the Red Cross, Geneva, Switzerland",
+            "International Federation of Red Cross and Red Crescent Societies, Geneva, Switzerland",
+            "International Food Policy Research Institute, Washington, DC, USA",
+            "International Red Cross and Red Crescent Movement, Geneva, Switzerland",
+            "International Secretariat for Water, Montreal, QC, Canada",
+            "McKnight Foundation, Minneapolis, MN, USA",
+            "Mercy-USA for Aid and Development, Plymouth, MI, USA",
+            "Near East Foundation, New York, NY, USA",
+            "Assembly of Organizations for Aid to the Eastern Churches, Rome, Italy",
+            "Visions in Action, Washington, DC, USA",
+            "YouthBuild International, Somerville, MA, USA"
+        ],
+        "religious_affiliation":[
+            "Christianity"
         ],
         "languages":[
             "English"
@@ -16793,6 +16880,7 @@
         "history":"In 1943, during World War II, Catholic Relief Services (CRS) first began its work focused on the resettlement of war refugees in Europe. The Roman Catholic Bishops of the United States established CRS to help war-torn Europe and its refugees recover from this great conflict."
     },
     {
+        "uid":"ZdK",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -16932,6 +17020,7 @@
         "history":"Foundation in 1848 as 'Katholikentage', Name changed to Zentralkomitee der deutschen Katholiken' in 1952."
     },
     {
+        "uid":"EBS",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -16976,16 +17065,7 @@
             "12h",
             "12j"
         ],
-        "events":[
-            "2008: Eugen-Biser-Stiftung Award Ceremony, Munich, Germany",
-            "2011: Picture and Message, Munich, Germany",
-            "2012: Picture and Message, Munich, Germany",
-            "2012: A Common Word Between Us and You, Munich, Germany",
-            "2012: Church: Idea and Reality, Munich, Germany",
-            "2013: Picture and Message, Munich, Germany",
-            "2013: Church: Idea and Reality, Munich, Germany",
-            "2014: Picture and Message, Munich, Germany"
-        ],
+        "finances":"No information",
         "website":"http://eugen-biser-stiftung.de/Startseite.1+B6Jkw9MQ__.0.html",
         "foundation":"2002",
         "email_gen":"kontakt@eugen-biser-stiftung.de",
@@ -17028,7 +17108,16 @@
         "other_relations":"No information",
         "IRD_def":"The intention of the Eugen-Biser-Stiftung is to contribute to the understanding between Christianity and Islam on a scientific level. Then the dialog can be extended to other problem areas. The guiding criteria of their activities is human dignity which is enshrined in the German constitution.",
         "country":"Germany",
-        "finances":"No information",
+        "events":[
+            "2008: Eugen-Biser-Stiftung Award Ceremony, Munich, Germany",
+            "2011: Picture and Message, Munich, Germany",
+            "2012: Picture and Message, Munich, Germany",
+            "2012: A Common Word Between Us and You, Munich, Germany",
+            "2012: Church: Idea and Reality, Munich, Germany",
+            "2013: Picture and Message, Munich, Germany",
+            "2013: Church: Idea and Reality, Munich, Germany",
+            "2014: Picture and Message, Munich, Germany"
+        ],
         "aim":"Promote dialogue and understanding with other faiths, ideologies and cultures, and the interests of freedom, tolerance and peace; intensify inter-religious and inter-cultural dialogue with the other monotheistic religions, ideologies and cultures; contribute to the development of a common basis for the tolerant, peaceful co-existence of all religions and nations, both at national and supra-national levels; preserve, develop, perpetuate and disseminate Eugen Biser\u2019s theological and philosophical works and related themes, by means of scholarly studies, lectures, seminars and publications; disseminate Christianity\u2019s core values and impulses; encourage inter-Christian reconciliation and ecumenism; analyse spiritual and religious developments in all aspects of the human experience; organize lectures, symposia and seminars on themes relating to the Foundation, in co-operation with high-schools, academies and other educational and cultural organisations, as well as in industry; grant the Eugen Biser Award; increase access to the library of philosophical, theological and scholarly religious sources and reference-works assembled by Biser, alongside his archive of scholarly works.",
         "org_type":[
             "E",
@@ -17067,6 +17156,7 @@
         "history":"Established in 2002, working from a Christian view of the world and values, the independent, non-profit foundation focuses on all areas of human existence, with the aim of promoting dialogue for the future development of Christianity and on behalf of understanding with other world religions, worldviews and cultures."
     },
     {
+        "uid":"WFB",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -17109,7 +17199,7 @@
             "12h",
             "12m"
         ],
-        "events":"No information",
+        "finances":"No information",
         "website":"http://frohbotinnen.at/",
         "foundation":"1947",
         "email_gen":"info@frohbotinnen.at",
@@ -17119,7 +17209,7 @@
         "other_relations":"No information",
         "IRD_def":"On the theological level, the Werk der Frohbotschaft Batschuns seeks to deepen mutual understanding through information and reflection. Understanding for each other increases through various events, which represent possibilities to meet the 'other'. There are already a lot of initiatives in the area of dialogue; the Werk der Frohbotschaft Batschuns intends to - in addition to introducing their own skills - contribute to the networks and cooperations of various institutions, groups and interested people.",
         "country":"Austria",
-        "finances":"No information",
+        "events":"No information",
         "aim":"Every 'Frohbotin' (Member of the 'Werk der Frohbotschaft Batschuns') tries to orient her life on behalf of Jesus: to bring the disadvantaged people good news and to work with them for a more just world.",
         "org_type":[
             "G"
@@ -17145,6 +17235,7 @@
         "history":"Foundation in 1947, in Batschuns as 'Weltliches Institut' (secular institute)."
     },
     {
+        "uid":"Shinnyo",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -17251,14 +17342,7 @@
             "12j",
             "12m"
         ],
-        "events":[
-            "2011: Symposium on Religious Globalization and Pluralism, Kyoto, Japan",
-            "2012: Shinnyo-en Members\u2019 Worldwide Annual Training, World",
-            "2013: Shinnyo-en Members\u2019 Worldwide Annual Training, World",
-            "2013: Interfaith Clergy Dialogue, New York, NY, USA",
-            "2013: Global Dialogue among Interfaith Religious Leaders: 'Awakening Buddha Nature \u2013 Realizing the Higher Self', Kyoto, Japan",
-            "2014: Shinnyo-en Members' Worldwide Annual Training, World"
-        ],
+        "finances":"No information",
         "website":"http://www.shinnyoen.org/index.html",
         "foundation":"1936",
         "email_gen":"No information",
@@ -17306,7 +17390,14 @@
         ],
         "IRD_def":"Shinso Ito has repeatedly taught that the goal of interfaith dialogue must be for different faiths to learn from one another. The various religious traditions provide evidence for how spiritual practices provide relief and motivate compassionate action. Shinnyo-en believes that people of faith need to explore together how their practices empower, individually and together, to transform this world of suffering toward a world of harmony and understanding.",
         "country":"Japan",
-        "finances":"No information",
+        "events":[
+            "2011: Symposium on Religious Globalization and Pluralism, Kyoto, Japan",
+            "2012: Shinnyo-en Members\u2019 Worldwide Annual Training, World",
+            "2013: Shinnyo-en Members\u2019 Worldwide Annual Training, World",
+            "2013: Interfaith Clergy Dialogue, New York, NY, USA",
+            "2013: Global Dialogue among Interfaith Religious Leaders: 'Awakening Buddha Nature \u2013 Realizing the Higher Self', Kyoto, Japan",
+            "2014: Shinnyo-en Members' Worldwide Annual Training, World"
+        ],
         "aim":"Promote the values of peaceful coexistence and cooperation through the works of philanthropic foundations, and places great value on the contributions that each individual can make toward life on our planet.",
         "org_type":[
             "R"
@@ -17350,6 +17441,7 @@
         "history":"Foundation in 1936 by Shinjo It\u014d. In 1989, Shinso becomes the head of Shinnyo-en after Shinjo's passing."
     },
     {
+        "uid":"GDF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -17491,6 +17583,7 @@
         "history":"Founded in 2008 by Dr Vasko M Najdovski. Registered in accordance with Australian law."
     },
     {
+        "uid":"AIS",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -17601,6 +17694,7 @@
         "history":"The Australian Intercultural Society (AIS) is a not for profit organisation that has been operating in Melbourne since 2000."
     },
     {
+        "uid":"DiaS",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -17675,11 +17769,7 @@
             "6.3j",
             "10h"
         ],
-        "events":[
-            "2006: Necessity of Interfaith Dialogue in Preventing another 7/7, London, UK",
-            "2007: Muslim World in Transition: Contributions of the Gulen Movement, London, UK",
-            "2007: Community Conference - Essentials of Peace: Truthfulness & Trustworthiness of Prophets, London, UK"
-        ],
+        "finances":"Private donations, fund-raising activities.",
         "website":"http://www.dialoguesociety.org",
         "foundation":"1999",
         "email_gen":"Contact form: http://www.dialoguesociety.org/contact.html",
@@ -17723,7 +17813,11 @@
         ],
         "IRD_def":"At the Dialogue Society, dialogue is understood to consist of meaningful interaction and exchange between people of different groups (social, cultural, political and religious) and individuals who come together through various kinds of conversations or activities with a view to increased understanding.",
         "country":"UK",
-        "finances":"Private donations, fund-raising activities.",
+        "events":[
+            "2006: Necessity of Interfaith Dialogue in Preventing another 7/7, London, UK",
+            "2007: Muslim World in Transition: Contributions of the Gulen Movement, London, UK",
+            "2007: Community Conference - Essentials of Peace: Truthfulness & Trustworthiness of Prophets, London, UK"
+        ],
         "aim":"Advance social cohesion by connecting communities through dialogue; empower people to engage; contribute to the development of ideas on dialogue and community building; facilitate dialogue on a whole range of social issues, regardless of any particular faith or religion.",
         "org_type":[
             "E"
@@ -17749,6 +17843,7 @@
         "history":"The Dialogue Society is a registered charity, established in London in 1999, with the aim of advancing social cohesion by connecting communities, empowering people to engage and contributing to the development of ideas on dialogue and community building."
     },
     {
+        "uid":"FaiM",
         "contacted":true,
         "religious_affiliation":"No information",
         "adresses":{
@@ -17919,6 +18014,7 @@
         "history":"Faith Matters was established in 2005 by Fiyaz Mughal OBE to provide inter-faith and conflict resolution programmes for the benefit of faith communities."
     },
     {
+        "uid":"FID",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -18000,6 +18096,7 @@
         "history":"The Foundation for Inter-Cultural Dialogue (FID) is an independent and non-profit organization established in 2004 by a group of Turkish Arizonans."
     },
     {
+        "uid":"IDI",
         "contacted":false,
         "adresses":{
             "Address1":{
@@ -18039,11 +18136,7 @@
             "7j",
             "10h"
         ],
-        "events":[
-            "2009: Dreaming for a Better World Conference, Ottawa, ON, Canada",
-            "2011: Award Ceremony Essay Contest 'Language of Art and Art of Living Together', Ottawa, ON, Canada",
-            "2012: Award Ceremony Arts and Essay Contest 'Language of Art and Art of Living Together', Ajax, ON, Canada"
-        ],
+        "finances":"No information",
         "website":"http://www.interculturaldialog.com",
         "foundation":"2010",
         "acronym":"IDI",
@@ -18067,7 +18160,11 @@
         "other_relations":"No information",
         "IRD_def":"We believe knowing is the first step to harmony and love, and, in this regard, \u201cInterfaith Dialogue\u201d is crucial to discover the \u2018other\u2019 and in finding possible ways for cooperation. Interfaith dialogue is a cooperative, constructive and positive interaction between people of different religious traditions at both the individual and institutional levels. In order to facilitate these communications, the Interfaith Platform provides a common ground of dialogue for every faith and non-faith tradition to discuss, explore and understand each other, and offer suggestions for the common problems of humanity.",
         "country":"Canada",
-        "finances":"No information",
+        "events":[
+            "2009: Dreaming for a Better World Conference, Ottawa, ON, Canada",
+            "2011: Award Ceremony Essay Contest 'Language of Art and Art of Living Together', Ottawa, ON, Canada",
+            "2012: Award Ceremony Arts and Essay Contest 'Language of Art and Art of Living Together', Ajax, ON, Canada"
+        ],
         "aim":"Advance social cohesion via personal interaction by promoting respect and mutual understanding among people of all cultures and faiths through dialogue and partnership; promote enduring interfaith and intercultural cooperation, tolerance and dialogue by sharing our differences and similarities in an effort to enhance civil society; promote the development of human values; advance diversity and multiculturalism in the society; eliminate or reduce false stereotypes, prejudices and unjustified fears through direct human communication; contribute to improvement of diversity, pluralism and multiculturalism throughout Canada.",
         "org_type":[
             "E"
@@ -18099,6 +18196,7 @@
         "history":"IDI was formed in 2010 as a joint effort of several organizations and currently have 11 chapters and regional office in major cities of five Canadian province."
     },
     {
+        "uid":"ASEF",
         "contacted":true,
         "adresses":{
             "Address1":{
@@ -18740,6 +18838,7 @@
         "history":"In March 1996, the leaders of twenty-five European and East Asian countries, together with the European Commission, convened in Bangkok, Thailand, for the inaugural Asia-Europe Meeting (ASEM). This historic summit paved the way for the establishment of the Asia-Europe Foundation (ASEF) one year later in 1997."
     },
     {
+        "uid":"AWF",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -18850,6 +18949,7 @@
         "history":"Established in 2005 as a non-profit organization, the Arab-West Foundation is registered in the Netherlands as Stichting Arab-West Foundation."
     },
     {
+        "uid":"SPC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -18978,6 +19078,7 @@
         "history":"The Centre\u2019s history was born out of the 2001 disturbances, the 2001 census findings, 9/11 and 7/7 events. A new idea in 2004, became a task group in 2005, which formally became the St Philip\u2019s Centre at the beginning of 2006."
     },
     {
+        "uid":"MCCTME",
         "contacted":true,
         "religious_affiliation":[
             "Judaism"
@@ -19042,9 +19143,8 @@
             }
         ],
         "name_en":"Mosaica Center for Conflict Transformation in the Middle East",
-        "contact_person":[
-            "Rabbi Michael Melchior",
-            "rabbi@melchioroffice.org"
+        "general_activities":[
+            "See IRDActivities"
         ],
         "structure":"Board of Directors; Professional Staff",
         "other_relations":[
@@ -19075,12 +19175,14 @@
             "date":"20140928",
             "author":"CT"
         },
-        "general_activities":[
-            "See IRDActivities"
+        "contact_person":[
+            "Rabbi Michael Melchior",
+            "rabbi@melchioroffice.org"
         ],
         "history":"Mosaica's Center for Religious Conflict Transformation in the Middle East is a non-profit organization founded in 2002 by Rabbi Michael Melchior, Professor Elie Wiesel and Professor Aviad HaCohen."
     },
     {
+        "uid":"MarB",
         "contacted":false,
         "religious_affiliation":[
             "Judaism"
@@ -19217,6 +19319,7 @@
         "history":"Marom Budapest was founded in 2001. It started as a Jewish student group and by 2005 had become Budapest\u00b4s major Jewish cultural organisation for young adults, organising festivals, concerts, lectures, round table discussions, workshops and more."
     },
     {
+        "uid":"IMIC",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[
@@ -19407,6 +19510,7 @@
         "history":"IMIC was founded on 10th of December, 1991, for the Anniversary of UN Declaration of Human Rights, as non-governmental organization under civil law, in premises of Jewish community in Sarajevo."
     },
     {
+        "uid":"GCPR",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -19463,7 +19567,7 @@
             "7j",
             "10h"
         ],
-        "events":"No information",
+        "finances":"In 2007: Budget of EUR 1,218,800",
         "website":"http://www.glencree.ie/",
         "foundation":"1974",
         "email_gen":"info@glencree.ie",
@@ -19513,7 +19617,7 @@
         ],
         "IRD_def":"To build sustainable relationships between people who otherwise might not have opportunities to engage.",
         "country":"Ireland",
-        "finances":"In 2007: Budget of EUR 1,218,800",
+        "events":"No information",
         "aim":"Help deepen reconciliation within and between communities on the island of Ireland and in selected contexts internationally.",
         "org_type":[
             "G"
@@ -19560,6 +19664,7 @@
         "history":"Since 1974, Glencree has engaged in practical peacebuilding and reconciliation in Ireland, north and south, and more recently, internationally."
     },
     {
+        "uid":"F2000F",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -19629,6 +19734,30 @@
             "9c",
             "9j"
         ],
+        "finances":"Grants, donations provided by individual donors and institutions, in-kind donations - services and products necessary for the forum's functioning.",
+        "website":"http://www.forum2000.cz/",
+        "foundation":"1996",
+        "email_gen":"secretariat@forum2000.cz",
+        "IRD_activities":[],
+        "name_en":"Forum 2000 Foundation",
+        "structure":"International Advisory Board; Board of Directors; Supervisory Board; Program Council; Corporate Council; Professional Staff; Volunteers; Interns",
+        "other_relations":[
+            "Jyllands-Posten, Aarhus-Viby, Denmark",
+            "Karel Jane\u010dek, Prague, Czech Republic",
+            "Economia, Prague, Czech Republic",
+            "Ministry of Foreign Affairs, Prague, Czech Republic",
+            "Embassy of the United States of America, Prague, Czech Republic",
+            "European Commission Representation in the Czech Republic, Prague, Czech Republic",
+            "City of Prague, Prague, Czech Republic",
+            "Dagmar and V\u00e1clav Havel Foundation VIZE 97, Prague, Czech Republic",
+            "British Embassy, Prague, Czech Republic",
+            "Embassy of Germany, Prague, Czech Republic",
+            "Embassy of France, Prague, Czech Republic",
+            "Embassy of Austria, Prague, Czech Republic",
+            "Euroffice Praha - Brusel, Prague, Czech Republic"
+        ],
+        "IRD_def":"Through frank dialogue, participants work for better collective understanding of global issues, explore the role of religion today and search for ways to increase mutual cooperation and understanding.",
+        "country":"Czech Republic",
         "events":[
             "2000: 4th Forum 2000 Conference, Prague, Czech Republic",
             "2000: NGO Market 2000, Prague, Czech Republic",
@@ -19661,30 +19790,6 @@
             "2014: 18th Forum 2000 Conference: Democracy and Its Discontents, Prague, Czech Republic",
             "2014: NGO Market 2014, Prague, Czech Republic"
         ],
-        "website":"http://www.forum2000.cz/",
-        "foundation":"1996",
-        "email_gen":"secretariat@forum2000.cz",
-        "IRD_activities":[],
-        "name_en":"Forum 2000 Foundation",
-        "structure":"International Advisory Board; Board of Directors; Supervisory Board; Program Council; Corporate Council; Professional Staff; Volunteers; Interns",
-        "other_relations":[
-            "Jyllands-Posten, Aarhus-Viby, Denmark",
-            "Karel Jane\u010dek, Prague, Czech Republic",
-            "Economia, Prague, Czech Republic",
-            "Ministry of Foreign Affairs, Prague, Czech Republic",
-            "Embassy of the United States of America, Prague, Czech Republic",
-            "European Commission Representation in the Czech Republic, Prague, Czech Republic",
-            "City of Prague, Prague, Czech Republic",
-            "Dagmar and V\u00e1clav Havel Foundation VIZE 97, Prague, Czech Republic",
-            "British Embassy, Prague, Czech Republic",
-            "Embassy of Germany, Prague, Czech Republic",
-            "Embassy of France, Prague, Czech Republic",
-            "Embassy of Austria, Prague, Czech Republic",
-            "Euroffice Praha - Brusel, Prague, Czech Republic"
-        ],
-        "IRD_def":"Through frank dialogue, participants work for better collective understanding of global issues, explore the role of religion today and search for ways to increase mutual cooperation and understanding.",
-        "country":"Czech Republic",
-        "finances":"Grants, donations provided by individual donors and institutions, in-kind donations - services and products necessary for the forum's functioning.",
         "aim":"Support the values of democracy and respect human rights, assist the development of civil society, and encourage religious, cultural and ethnic tolerance.",
         "org_type":[
             "F",
@@ -19726,6 +19831,7 @@
         "history":"Foundation in 1996 as a joint initiative of the late Czech President V\u00e1clav Havel, Japanese philanthropist Yohei Sasakawa, and Nobel Peace Prize Laureate Elie Wiesel."
     },
     {
+        "uid":"ASHA",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -19898,10 +20004,16 @@
         "history":"After three years of development work, ASHA was ready to be officially opened in 2006."
     },
     {
+        "uid":"AGMCD",
         "contacted":true,
-        "religious_affiliation":[
-            "Christianity",
-            "Islam"
+        "regionfocus":[
+            "Egypt",
+            "Jordan",
+            "Lebanon",
+            "State of Palestine",
+            "Sudan",
+            "Syrian Arab Republic",
+            "United Arab Emirates"
         ],
         "main_names":[
             "\u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0631\u0628\u064a \u0644\u0644\u062d\u0648\u0627\u0631 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a-\u0627\u0644\u0645\u0633\u064a\u062d\u064a"
@@ -19923,14 +20035,9 @@
             "National Council of Churches of Christ in the USA, Washington, DC, USA",
             "Royal Institute for Inter-Faith Studies, Amman, Jordan"
         ],
-        "regionfocus":[
-            "Egypt",
-            "Jordan",
-            "Lebanon",
-            "State of Palestine",
-            "Sudan",
-            "Syrian Arab Republic",
-            "United Arab Emirates"
+        "religious_affiliation":[
+            "Christianity",
+            "Islam"
         ],
         "languages":[
             "Arabic",

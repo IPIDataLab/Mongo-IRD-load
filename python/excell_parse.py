@@ -38,6 +38,12 @@ def parse(sheet, data):
 		###
 		data[-1]['name_en'] = a
 
+
+		# UID
+		a = get_cell(sheet,'UID',row_index,lkey)
+		if a:
+			data[-1]['uid'] = a
+
 		# acronym
 		a = get_cell(sheet,'Acronym',row_index,lkey)
 		if a:

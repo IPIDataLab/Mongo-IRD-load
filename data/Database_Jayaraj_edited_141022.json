@@ -1,5 +1,6 @@
 [
     {
+        "uid":"RMRM",
         "contacted":false,
         "religious_affiliation":[
             "Hinduism"
@@ -83,7 +84,7 @@
             "12c",
             "12h"
         ],
-        "events":"No information",
+        "finances":"Voluntary donations, government grants, income from running schools, hospitals, etc.",
         "website":"http://www.belurmath.org/index.htm",
         "foundation":"1901",
         "email_gen":"mail@belurmath.org",
@@ -100,7 +101,7 @@
         "other_relations":"No information",
         "IRD_def":"Inspired by the idea of the harmony of all faiths, the centers encourage adherents of different faiths to meet in a spirit of friendship and mutual appreciation, and to learn from one another without having to give up one's own faith.",
         "country":"India",
-        "finances":"Voluntary donations, government grants, income from running schools, hospitals, etc.",
+        "events":"No information",
         "aim":"Spread the idea of the potential divinity of every being and how to manifest it through every action and thought; spread the idea of harmony of religions based on Sri Ramakrishna's experience that all religions lead to the realization of the same Reality known by different names in different religions; honour and revere the founders of all world religions such as Buddha, Christ and Mohammed; treat all work as worship, and service to man as service to God; make all possible attempts to alleviate human suffering by spreading education, rendering medical service, extending help to villagers through rural development centres, etc.; work for the all-round welfare of humanity, especially for the uplift of the poor and the downtrodden; develop harmonious personalities by the combined practice of Jnana, Bhakti, Yoga and Karma.",
         "org_type":[
             "R",
@@ -146,6 +147,7 @@
         "history":"Brought into existence by Sri Ramakrishna (1836-1886), a 19th century saint from Bengal and his chief disciple, Swami Vivekananda (1863-1902). The Math and Mission together comprises the Ramakrishna Movement which is also referred to as the Vedanta Movement. Registered in 1901. 1"
     },
     {
+        "uid":"IHRF",
         "contacted":true,
         "religious_affiliation":[
             "Hinduism"
@@ -213,36 +215,6 @@
         "email_gen":"ihrf@ihrf.com",
         "IRD_activities":[],
         "name_en":"India Heritage Research Foundation",
-        "contact_person":[
-            "Ms. Nandini Tripati",
-            "swamiji@parmarth.com"
-        ],
-        "structure":"Charismatic personality Swami Chidanand Saraswati is the founder of IHRF; organisation is assisted by lay devotees and numerous people volunteering for the projects and programmes",
-        "other_relations":"No information",
-        "IRD_def":"The key to having world-wide cultural awareness and inter-ethnic sensitivity is by having events meant for Inter-Faith harmony--like conferences, gatherings and youth summer camps",
-        "country":"India",
-        "events":[
-            "2013: Release of International Edition of Encyclopedia of Hinduism, Columbia, SC, USA",
-            "2013: Kumbh Mela, Allahabad, India",
-            "2013: Environmental Protection for World Peace, Rishikesh, India"
-        ],
-        "aim":"Aim that the richness of this ancient yet timeless culture and heritage should be made available to the entire world, in a way that is authentic, academic, comprehensive and illuminating.",
-        "org_type":[
-            "E",
-            "f"
-        ],
-        "publications":[
-            "Encyclopedia of Hinduism' (2013)",
-            "'By God's Grace: The Life and Teachings of Pujya Swami Chidanand Saraswati' (2012)",
-            "'Peace: For Ourselves, Our Families, Our Communities & Our World' (2013)",
-            "'Parmarth News Magazine' (2014, periodical)",
-            "Books",
-            "Videos",
-            "Photos",
-            "Songs"
-        ],
-        "IRD_def_URL":"http://www.ihrf.com/projects/projects-interfaithHarmony.html",
-        "entry":"JM, 17.07.2014; CT, 19.10.2014",
         "general_activities":[
             {
                 "activity_name":"Encyclopedia of Hinduism",
@@ -277,9 +249,40 @@
                 "activity_description":"India Heritage Research Foundation has purchased a new piece of land, on the holy banks of Mother Ganga, approximately 5 km from Parmarth Niketan, in a village of Rishikesh called Veerpur. The following are components of the rural development program: water facilities, tree plantation program, construction of a proper road in the village, organic gardening program, gaushala (cow shelter), women\u2019s vocational training program, sewage control and sanitation programs, spirituality and culture, orphanage"
             }
         ],
+        "structure":"Charismatic personality Swami Chidanand Saraswati is the founder of IHRF; organisation is assisted by lay devotees and numerous people volunteering for the projects and programmes",
+        "other_relations":"No information",
+        "IRD_def":"The key to having world-wide cultural awareness and inter-ethnic sensitivity is by having events meant for Inter-Faith harmony--like conferences, gatherings and youth summer camps",
+        "country":"India",
+        "events":[
+            "2013: Release of International Edition of Encyclopedia of Hinduism, Columbia, SC, USA",
+            "2013: Kumbh Mela, Allahabad, India",
+            "2013: Environmental Protection for World Peace, Rishikesh, India"
+        ],
+        "aim":"Aim that the richness of this ancient yet timeless culture and heritage should be made available to the entire world, in a way that is authentic, academic, comprehensive and illuminating.",
+        "org_type":[
+            "E",
+            "f"
+        ],
+        "publications":[
+            "Encyclopedia of Hinduism' (2013)",
+            "'By God's Grace: The Life and Teachings of Pujya Swami Chidanand Saraswati' (2012)",
+            "'Peace: For Ourselves, Our Families, Our Communities & Our World' (2013)",
+            "'Parmarth News Magazine' (2014, periodical)",
+            "Books",
+            "Videos",
+            "Photos",
+            "Songs"
+        ],
+        "IRD_def_URL":"http://www.ihrf.com/projects/projects-interfaithHarmony.html",
+        "entry":"JM, 17.07.2014; CT, 19.10.2014",
+        "contact_person":[
+            "Ms. Nandini Tripati",
+            "swamiji@parmarth.com"
+        ],
         "history":"Founded in 1987, IHRF is committed to preserving the timeless wisdom and ageless grandeur of Indian culture."
     },
     {
+        "uid":"UCF",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -352,6 +355,7 @@
         "parent_org":[
             "The Earthville Network"
         ],
+        "uid":"GAIA",
         "contacted":false,
         "regionfocus":[
             "India",
@@ -427,6 +431,7 @@
         "history":"The seed for GAIA was planted during a series of interfaith exchanges and educational programs in Dharamshala, India, the exile home of H.H. the Dalai Lama of Tibet, from 1997 to 2001, and a meeting with Rabbi Zalman Schachter-Shalomi in Boulder, Colorado, addressing some of the same topics. Founded informally in 1997 in India; incorporated in California in 2000 as a 501(c)(3) public charity (tax exemption for donations)"
     },
     {
+        "uid":"JCSA",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -535,6 +540,7 @@
         "parent_org":[
             "n.a"
         ],
+        "uid":"AOLF",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -711,6 +717,7 @@
         "history":"Founded in 1981 by Sri Sri Ravi Shankar, a charismatic religious leader in India. Globally, the organisation operates as The Art of Living Foundation formed in 1989 in the United States of America and in Germany. Since then, local centres have been established across the world."
     },
     {
+        "uid":"SraA",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -768,7 +775,7 @@
             "12h",
             "12j"
         ],
-        "events":"No information",
+        "finances":"Voluntary donations; offerings from devotees",
         "website":"http://www.sravastiabbey.com/index.html",
         "foundation":"2003",
         "email_gen":"office.sravasti@gmail.com",
@@ -778,7 +785,7 @@
         "other_relations":"No information",
         "IRD_def":"Interreligious dialogue helps us to approach people of different faiths\u2014or no particular faith\u2014with an open mind, respect, and willingness to learn. Through such conversations, we become more open-minded and our abilities to investigate and examine our own beliefs and ourselves sharpen. While there are philosophical differences between religions, we can recognize those and still appreciate the similarities. All spiritually-oriented people admire the qualities of love, compassion, wisdom, generosity, and ethical behavior that is based on non-harmfulness. When we meet each other in the spirit of these shared values, we increase understanding, encourage harmony among the followers of various faiths, and contribute to creating peace throughout our chaotic world.",
         "country":"USA",
-        "finances":"Voluntary donations; offerings from devotees",
+        "events":"No information",
         "aim":"Nurture a flourishing monastic community in the US, where learning and practicing Buddha's ancient teachings cultivate peace in the hearts of the residents and visitors and, by extension, in the world.",
         "org_type":[
             "R",
@@ -827,6 +834,7 @@
         "history":"Fulfilling a lifelong vision to support Western sangha, Bhikshuni Thubten Chodron founded Sravasti Abbey in Newport, Washington in 2003 and serves as Abbess."
     },
     {
+        "uid":"ICP",
         "contacted":false,
         "religious_affiliation":[
             "Secular"
@@ -949,6 +957,7 @@
         "history":"No information"
     },
     {
+        "uid":"ICF",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1063,6 +1072,7 @@
         "parent_org":[
             "Sera Jey Monastic University"
         ],
+        "uid":"SJBCC",
         "contacted":false,
         "regionfocus":[
             "USA",
@@ -1159,6 +1169,7 @@
         "history":"In October 2006, Khensur Rinpoche Geshe Lobsang Palden, former Abbot of Sera Jey Monastic University visited New York City along with representatives of Sera Jey administration. Khensur Rinpoche met with members of Sera Jey residing in New York area and suggested starting a project to establish Sera Jey Center in the USA. Officially, the Center started in October 2009. Incorporated in 2009 in New York State and received a tax-exempt status on 2011."
     },
     {
+        "uid":"KasA",
         "contacted":false,
         "religious_affiliation":[
             "Hinduism"
@@ -1261,6 +1272,7 @@
         "history":"An interfaith spiritual community founded in 1976 by the charismatic spiritual teacher, Brooklyn-born Ma Jaya Sati Bhagvati."
     },
     {
+        "uid":"MTA",
         "contacted":false,
         "religious_affiliation":[
             "Hinduism (Vedanta)"
@@ -1303,7 +1315,7 @@
             "10h",
             "12h"
         ],
-        "events":"No information",
+        "finances":"No information",
         "website":"www.motherstrust.org",
         "foundation":"1990",
         "email_gen":"tapas@motherstrust.org",
@@ -1326,7 +1338,7 @@
         "other_relations":"No information",
         "IRD_def":"As a way to promote understanding between the World's Great Wisdom Traditions, to experience the Oneness of the Spirit. People of all faiths and spiritualities are waking up to the urgency to work together in the service of human kind. Interfaith does not seek to blend all religions; yet honors the sacredness and uniqueness of each faith, and then creates new ways for many paths to meet on common ground. Differences need not separate, but enrich our lives and deepen our capacity to love \"the spirit in all\".",
         "country":"USA",
-        "finances":"No information",
+        "events":"No information",
         "aim":"Dedicate to interfaith study and dialogue as a way to promote understanding and peaceful relationships among people of differing beliefs in the community and in the world; support people of all faith traditions working together in the service of humankind and the sustainability of the earth; dedicate to honor and explore the meaning of the Motherhood of God, the feminine.",
         "org_type":[
             "R",
@@ -1350,6 +1362,7 @@
         "history":"Mother's Trust began as an idea long before 1991, the year it was incorporated. In 1973, a young Eva Schroeder (later to become Gauribrata Puri Devi, head sannyasini of Mother's Trust / Mother's Place, Sri Sri Sarada Mata Ashram) met Swami Bhashyananda in Chicago. From the first, the Swami saw something in the earnest newcomer; he felt and clearly expressed his belief that she would dedicate her life to spirituality and the service of women."
     },
     {
+        "uid":"Ijai",
         "contacted":false,
         "religious_affiliation":[
             "Jainism"
@@ -1408,13 +1421,7 @@
             "12h",
             "12m"
         ],
-        "events":[
-            "2009: Bridging The Gap Convention, Kids Convention & Little Jains, Edgware, UK",
-            "2009: Soul 2 Soul \u2013 an event with Pujya Rasikbhai Shah, Stanmore, UK",
-            "2009: Young Jains UK 7th Convention, Edgware, UK",
-            "2009: CSAS Conference Tellings, Not Texts Singing, Story-Telling and Performance, London, UK",
-            "2010: 12th Annual Jaina Studies Workshop, London, UK"
-        ],
+        "finances":"No information",
         "website":"http://www.jainology.org/",
         "foundation":"1983",
         "email_gen":"info@jainology.org",
@@ -1428,7 +1435,13 @@
         ],
         "IRD_def":"Promote interfaith relationships to create a better understanding of the Jain faith and to acquaint the Jain community with other faiths.",
         "country":"UK",
-        "finances":"No information",
+        "events":[
+            "2009: Bridging The Gap Convention, Kids Convention & Little Jains, Edgware, UK",
+            "2009: Soul 2 Soul \u2013 an event with Pujya Rasikbhai Shah, Stanmore, UK",
+            "2009: Young Jains UK 7th Convention, Edgware, UK",
+            "2009: CSAS Conference Tellings, Not Texts Singing, Story-Telling and Performance, London, UK",
+            "2010: 12th Annual Jaina Studies Workshop, London, UK"
+        ],
         "aim":"Provide a platform for interaction between different Jain communities and organisations, where all sectarian traditions jointly promote the faith and engage in discussions amongst themselves, encouraging Jain unity; promote interfaith relationships to create a better understanding of the Jain faith and to acquaint the Jain community with other faiths; create an awareness of the history, art, philosophy, and practices of Jain faith, including its relevance to today\u2019s world, particularly with regard to the respect for all living beings and environment; provide opportunities for study of the faith, both at the community level and at institutions of higher learning; facilitate scholarly research on Jainism through the establishment of scholarships; undertake the cataloguing and digitisation of Jain manuscripts and artifacts.",
         "org_type":[
             "R",
@@ -1468,6 +1481,7 @@
         "history":"Institute of Jainology (IoJ) was established following the first International Jain Conference held in London in 1983, when the need for an organisation to coordinate Jain affairs internationally was recognised. This body was registered as a Charitable Trust in 1986"
     },
     {
+        "uid":"SatI",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1507,10 +1521,7 @@
             "10b",
             "10h"
         ],
-        "events":[
-            "2014: Women/Men: The Next Conversation, Rhinebeck, NY, USA",
-            "2014: Gender Reconciliation 5-Day Introductory Workshop with Breathwork, Rhinebeck, NY, USA"
-        ],
+        "finances":"Support from trusts and individuals",
         "website":"http://www.satyana.org/index.html",
         "foundation":"1996",
         "email_gen":"cynthia@satyana.org",
@@ -1524,7 +1535,10 @@
         ],
         "IRD_def":"Interfaith mysticism that underlies it provide not only a unitive vision of the world's highest wisdom, but also have practical implications. When practitioners from different religions draw from the deep mystical roots within their own respective traditions, they can then embark upon substantive collaborative work across traditions\u2014thereby cultivating true inter--faith consciousness in the highest alignment and service. This is the calling for interfaith mystical work, something far beyond mere dialogue among disparate theologies, but a creative confluence of diverse streams of mystical consciousness that together can give birth to altogether new forms of divine expression and service in the world. Deep commitment to this kind of mystical synergy across traditions is the essence of interfaith collaboration and service, so urgently needed in our time. \"Where two or more traditions are gathered,\" there the unfathomable divine shall be also, in ever more intensified form and presence.",
         "country":"USA",
-        "finances":"Support from trusts and individuals",
+        "events":[
+            "2014: Women/Men: The Next Conversation, Rhinebeck, NY, USA",
+            "2014: Gender Reconciliation 5-Day Introductory Workshop with Breathwork, Rhinebeck, NY, USA"
+        ],
         "aim":"Support individuals, communities, and organizations to combine inner work of the heart with outer service in the world.",
         "org_type":[
             "G",
@@ -1549,6 +1563,7 @@
         "parent_org":[
             "Carmelites of Mary Immaculate"
         ],
+        "uid":"CIIS",
         "contacted":false,
         "regionfocus":[
             "Italy",

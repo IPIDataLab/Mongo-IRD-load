@@ -1,5 +1,6 @@
 [
     {
+        "uid":"CIAC",
         "contacted":false,
         "religious_affiliation":[
             "Christian"
@@ -76,8 +77,25 @@
         "history":"Foundation in 1993, work suspended in 2002, started functioning again in 2007"
     },
     {
+        "uid":"EAUYSS",
         "contacted":false,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Russia",
+            "Ukraine",
+            "Armenia",
+            "Azerbaijan",
+            "Belarus",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Moldova",
+            "Tajikistan",
+            "Uzbekistan",
+            "Turkmenistan",
+            "Georgia",
+            "Estonia",
+            "Latvia",
+            "Lithuania"
+        ],
         "main_names":[
             "\u0421\u043e\u044e\u0437 \u041c\u043e\u043b\u043e\u0434\u044b\u0445 \u0423\u0447\u0435\u043d\u044b\u0445 \u0438 \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432 \u0415\u0432\u0440\u0430\u0437\u0438\u0438"
         ],
@@ -110,23 +128,7 @@
         "aim_URL":"http://eauyss.org/%d0%bc%d0%b0%d0%bd%d0%b8%d1%84%d0%b5%d1%81%d1%82/",
         "staff":"No information",
         "IO_relations":"No information",
-        "regionfocus":[
-            "Russia",
-            "Ukraine",
-            "Armenia",
-            "Azerbaijan",
-            "Belarus",
-            "Kazakhstan",
-            "Kyrgyzstan",
-            "Moldova",
-            "Tajikistan",
-            "Uzbekistan",
-            "Turkmenistan",
-            "Georgia",
-            "Estonia",
-            "Latvia",
-            "Lithuania"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Russian"
         ],
@@ -180,22 +182,8 @@
         "history":"Founded in 2012"
     },
     {
+        "uid":"ONLUS",
         "contacted":false,
-        "religious_affiliation":"No information",
-        "main_names":[
-            "Centro dell'Uomo  Associazione Non-Profit di Utilit\u00e0 Sociale"
-        ],
-        "adresses":{
-            "Address1":{
-                "lat":43.46328390000001,
-                "lon":11.8796336,
-                "normalized":"52100 Arezzo Arezzo, Italy",
-                "address":"Monastero di Sargiano, 52100 Arezzo, Italy"
-            }
-        },
-        "aim_URL":"http://www.centrodelluomo.org/Pages/Inglese/Presentation.htm",
-        "staff":"No information",
-        "IO_relations":"No information",
         "regionfocus":[
             "Nurnberg",
             "Germany",
@@ -264,6 +252,21 @@
             "Melbourne",
             "Australia"
         ],
+        "main_names":[
+            "Centro dell'Uomo  Associazione Non-Profit di Utilit\u00e0 Sociale"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":43.46328390000001,
+                "lon":11.8796336,
+                "normalized":"52100 Arezzo Arezzo, Italy",
+                "address":"Monastero di Sargiano, 52100 Arezzo, Italy"
+            }
+        },
+        "aim_URL":"http://www.centrodelluomo.org/Pages/Inglese/Presentation.htm",
+        "staff":"No information",
+        "IO_relations":"No information",
+        "religious_affiliation":"No information",
         "languages":[
             "Italian, Russian, English, Spanish, French, German"
         ],
@@ -324,8 +327,11 @@
         "history":"No information"
     },
     {
+        "uid":"IRFA",
         "contacted":false,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "main_names":[
             "\u041e\u0431\u0449\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0421\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0417\u0430\u0449\u0438\u0442\u0435 \u0421\u0432\u043e\u0431\u043e\u0434\u044b \u0421\u043e\u0432\u0435\u0441\u0442\u0438"
         ],
@@ -352,9 +358,7 @@
             "4. Chilean Association for Religious liberty (CARL)",
             "5. North American Religious Liberty Association (NARLA)"
         ],
-        "regionfocus":[
-            "World"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English"
         ],
@@ -400,43 +404,8 @@
         "history":"Chartered in 1893"
     },
     {
+        "uid":"EAJC",
         "contacted":false,
-        "religious_affiliation":[
-            "Jewish"
-        ],
-        "main_names":[
-            "\u0415\u0432\u0440\u043e\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0438\u0439 \u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441"
-        ],
-        "adresses":{
-            "Address1":{
-                "lat":55.71842600000001,
-                "lon":37.581368,
-                "normalized":"Frunzenskaya naberezhnaya, 46, Moscow, Russia, 119270",
-                "address":"46 Frunzenskaya naberezhnaya, 119270, Moscow, Russia"
-            },
-            "Address2":{
-                "lat":50.4501,
-                "lon":30.5234,
-                "normalized":"Kiev, Kyiv city, Ukraine",
-                "address":"8/5 Voloshsky Str., 04070, Kiev,  Ukraine"
-            },
-            "Address3":{
-                "lat":43.2672724,
-                "lon":76.94867339999999,
-                "normalized":"Kunaev Street 56, Almaty, Kazakhstan",
-                "address":"56 Kunaev Str., 050002, Almaty, Republic of Kazakhstan"
-            }
-        },
-        "aim_URL":"http://eajc.org/page78",
-        "staff":"No information",
-        "IO_relations":[
-            "1. World Jewish Congress",
-            "2. European Jewish Congress",
-            "3. American Jewish Congress",
-            "4.  JAFI",
-            "5. NSCJ",
-            "(http://eajc.org/page171)"
-        ],
         "regionfocus":[
             "Ukraine",
             "Russia",
@@ -475,6 +444,42 @@
             "Latvia",
             "Hungary",
             "Bosnia and Herzegovina"
+        ],
+        "main_names":[
+            "\u0415\u0432\u0440\u043e\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0438\u0439 \u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441"
+        ],
+        "adresses":{
+            "Address1":{
+                "lat":55.71842600000001,
+                "lon":37.581368,
+                "normalized":"Frunzenskaya naberezhnaya, 46, Moscow, Russia, 119270",
+                "address":"46 Frunzenskaya naberezhnaya, 119270, Moscow, Russia"
+            },
+            "Address2":{
+                "lat":50.4501,
+                "lon":30.5234,
+                "normalized":"Kiev, Kyiv city, Ukraine",
+                "address":"8/5 Voloshsky Str., 04070, Kiev,  Ukraine"
+            },
+            "Address3":{
+                "lat":43.2672724,
+                "lon":76.94867339999999,
+                "normalized":"Kunaev Street 56, Almaty, Kazakhstan",
+                "address":"56 Kunaev Str., 050002, Almaty, Republic of Kazakhstan"
+            }
+        },
+        "aim_URL":"http://eajc.org/page78",
+        "staff":"No information",
+        "IO_relations":[
+            "1. World Jewish Congress",
+            "2. European Jewish Congress",
+            "3. American Jewish Congress",
+            "4.  JAFI",
+            "5. NSCJ",
+            "(http://eajc.org/page171)"
+        ],
+        "religious_affiliation":[
+            "Jewish"
         ],
         "languages":[
             "Russian, English"
@@ -525,8 +530,18 @@
         "history":"Founded in 2002"
     },
     {
+        "uid":"IBCIS",
         "contacted":false,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "Russia",
+            "Kazakhstan",
+            "Belorussia",
+            "Ukraine",
+            "Tajikistan",
+            "Uzbekistan",
+            "Armenia",
+            "Azerbaijan"
+        ],
         "main_names":[
             "\u041c\u0435\u0436\u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0439 \u0421\u043e\u0432\u0435\u0442 \u0421\u041d\u0413"
         ],
@@ -541,16 +556,7 @@
         "aim_URL":"http://www.interreligious.ru/istoriya/",
         "staff":"No information",
         "IO_relations":"No information",
-        "regionfocus":[
-            "Russia",
-            "Kazakhstan",
-            "Belorussia",
-            "Ukraine",
-            "Tajikistan",
-            "Uzbekistan",
-            "Armenia",
-            "Azerbaijan"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "Russian"
         ],
@@ -604,6 +610,7 @@
         "history":"Foundation 2004"
     },
     {
+        "uid":"MPFDC",
         "contacted":false,
         "religious_affiliation":"No information",
         "main_names":[

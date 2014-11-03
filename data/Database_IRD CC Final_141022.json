@@ -3,6 +3,7 @@
         "parent_org":[
             "Minzu University of China (MUC)"
         ],
+        "uid":"ICS",
         "contacted":false,
         "regionfocus":[
             "China"
@@ -79,6 +80,7 @@
         "history":"Founded in 2011."
     },
     {
+        "uid":"ISCS",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -199,6 +201,7 @@
         "parent_org":[
             "Palpung monastery"
         ],
+        "uid":"PWC",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -320,6 +323,7 @@
         "history":"The 8th Kenting Tai Situpa Chokyi Jugne founded the great Palpung monastery in 1727."
     },
     {
+        "uid":"SGI",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism",
@@ -523,6 +527,7 @@
         "history":"The SGI was founded on January 26, 1975, but the movement has its roots in 1930s Japan."
     },
     {
+        "uid":"Focolare",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -616,9 +621,11 @@
             }
         ],
         "name_en":"Focolare Movement",
-        "contact_person":[
-            "Benjamim Ferreira; Victoria G\u00f3mez",
-            null
+        "general_activities":[
+            {
+                "activity_name":"New Families Movement, arising from the married Focolarini, for the unity of the family, with a particular care for those who are suffering or in difficulty. Activities include",
+                "activity_description":"10. New Humanity Movement, arising from the Volunteers section, for the renewal of society, through the various worlds:"
+            }
         ],
         "structure":"General Council, consisting of woman President, general counsellors, persons in charge of sections and central activities and representatives of the Movement in the various countries. Sections: (i) Focolarini - individual lay people living in small communities of men or women, known as 'Focolare', joined by married people living in their own homes but part of the communities, known as 'Married Focolarini'; the Focolare are the basic structure of the Movement. (ii) 'Volunteers' - men and women living in their own homes but totally sharing the spirituality of the Focolare and committed to live this spirituality in the various environments in which they work in order to bring about a renewal of society. (iii) 'Priests' - who have taken the Focolare spirituality as their own and with it animate their pastoral and ecclesial life. (iv) Movement of Religious Men and Women - Movement of men or women belonging to different congregations, sharing the spirituality of Focolare. (v) 'Gen' - young people (boys and girls) who commit themselves in a total way to live the Focolare spirituality and work with the other sections to bring about unity in the world.",
         "other_relations":"No information",
@@ -653,15 +660,14 @@
             "date":"20140626",
             "author":"CC"
         },
-        "general_activities":[
-            {
-                "activity_name":"New Families Movement, arising from the married Focolarini, for the unity of the family, with a particular care for those who are suffering or in difficulty. Activities include",
-                "activity_description":"10. New Humanity Movement, arising from the Volunteers section, for the renewal of society, through the various worlds:"
-            }
+        "contact_person":[
+            "Benjamim Ferreira; Victoria G\u00f3mez",
+            null
         ],
         "history":"Founded in 1944"
     },
     {
+        "uid":"NCA",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -772,9 +778,15 @@
         "email_gen":"nca-oslo@nca.no",
         "IRD_activities":[],
         "name_en":"Norwegian Church Aid",
-        "contact_person":[
-            "Anne-Marie N. Helland",
-            "nca-gs@nca.no"
+        "general_activities":[
+            {
+                "activity_name":"Changing lives",
+                "activity_description":"Norwegian Church Aid engages in long-term commitments to provide aid to poor and oppressed groups, to strengthen the ability of people to cope with their life situation, and to contribute to changes in the structures that cause oppression and poverty;"
+            },
+            {
+                "activity_name":"Changing the world",
+                "activity_description":"Norwegian Church Aid seeks to influence the decisions made by authorities and businesses with regard to issues that affect the political, economic and social rights of the poor; 4. 892,000 people received access to clean water and good sanitation in 2013; 5. 7,865 people affected by HIV and AIDS received care and support; 6. 1,239,043 people gained a better understanding of women\u2019s rights; 7. 77,020 people's vulnerability was reduced by climate change adaptation work in 2013; 8. 598,312 people were reached by healthcare programmes in 2013; 9. 41,395 people organised themselves in groups to improve their own and each other's livelihood;"
+            }
         ],
         "structure":"General Secretary; Department for International Programmes; Department for Development Policy; HR Department; Finance Department; Department for Communication; Marketing Department",
         "other_relations":"No information",
@@ -806,19 +818,14 @@
             "date":"20140707",
             "author":"CC"
         },
-        "general_activities":[
-            {
-                "activity_name":"Changing lives",
-                "activity_description":"Norwegian Church Aid engages in long-term commitments to provide aid to poor and oppressed groups, to strengthen the ability of people to cope with their life situation, and to contribute to changes in the structures that cause oppression and poverty;"
-            },
-            {
-                "activity_name":"Changing the world",
-                "activity_description":"Norwegian Church Aid seeks to influence the decisions made by authorities and businesses with regard to issues that affect the political, economic and social rights of the poor; 4. 892,000 people received access to clean water and good sanitation in 2013; 5. 7,865 people affected by HIV and AIDS received care and support; 6. 1,239,043 people gained a better understanding of women\u2019s rights; 7. 77,020 people's vulnerability was reduced by climate change adaptation work in 2013; 8. 598,312 people were reached by healthcare programmes in 2013; 9. 41,395 people organised themselves in groups to improve their own and each other's livelihood;"
-            }
+        "contact_person":[
+            "Anne-Marie N. Helland",
+            "nca-gs@nca.no"
         ],
         "history":"Norwegian Church Aid began in 1947 as a small fundraising drive by Norwegian churches. Today, NCA is one of the Nordic countries\u2019 largest aid organisations."
     },
     {
+        "uid":"ASMA",
         "contacted":false,
         "religious_affiliation":[
             "Islam"
@@ -886,17 +893,7 @@
             "12j",
             "12k"
         ],
-        "events":[
-            "2012: Interfaith Story Feast, New York, NY, USA",
-            "2013: Jewish and Muslim Women's Twinnings, New York, NY, USA",
-            "2013: Interfaith Comedy Feast, New York, NY, USA",
-            "2013: First Convocation of First Ladies of Africa, Asia, Latin America and the Caribbean: Building Bridges, Sharing Experiences, Bridging the Gaps at United Nations, New York, NY, USA",
-            "2013: Interfaith Dialogue, Religious Freedom, and Combatting Violent Extremism, Washington, DC, USA",
-            "2013: Interfaith Dialogue Dinner: Commemorating the 10th Anniversary of the Congress of Leaders of World and Traditional Religions, New York, NY, USA",
-            "2013 : 10th Doha Interfaith Conference: (Best Practices in Interfaith Dialogue), Doha, Qatar",
-            "2013: The Modern Muslim Woman: Balancing Western Freedoms and Islamic Culture, Albany, NY, USA",
-            "2013: Building Bridges - Creating Harmonious Communities, Singapore"
-        ],
+        "finances":"No information",
         "website":"http://www.asmasociety.org/home/index.html",
         "foundation":"1997",
         "acronym":"ASMA",
@@ -914,7 +911,17 @@
         ],
         "IRD_def":"Collaborating with other faith-based organizations to build relationships of trust through dialogue and education, honoring the diversity of faiths, sharing commonalities, and celebrating differences.",
         "country":"USA",
-        "finances":"No information",
+        "events":[
+            "2012: Interfaith Story Feast, New York, NY, USA",
+            "2013: Jewish and Muslim Women's Twinnings, New York, NY, USA",
+            "2013: Interfaith Comedy Feast, New York, NY, USA",
+            "2013: First Convocation of First Ladies of Africa, Asia, Latin America and the Caribbean: Building Bridges, Sharing Experiences, Bridging the Gaps at United Nations, New York, NY, USA",
+            "2013: Interfaith Dialogue, Religious Freedom, and Combatting Violent Extremism, Washington, DC, USA",
+            "2013: Interfaith Dialogue Dinner: Commemorating the 10th Anniversary of the Congress of Leaders of World and Traditional Religions, New York, NY, USA",
+            "2013 : 10th Doha Interfaith Conference: (Best Practices in Interfaith Dialogue), Doha, Qatar",
+            "2013: The Modern Muslim Woman: Balancing Western Freedoms and Islamic Culture, Albany, NY, USA",
+            "2013: Building Bridges - Creating Harmonious Communities, Singapore"
+        ],
         "aim":"Strengthen an authentic expression of Islam based on cultural and religious harmony through interfaith collaboration, youth and women\u2019s empowerment, and arts and cultural exchange.",
         "org_type":[
             "F"
@@ -957,6 +964,7 @@
         "history":"Founded in 1997"
     },
     {
+        "uid":"RKK",
         "contacted":false,
         "religious_affiliation":[
             "Buddhism"
@@ -1184,6 +1192,7 @@
         "parent_org":[
             "Gratefulness.org"
         ],
+        "uid":"ANG*L",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -1563,6 +1572,7 @@
         "parent_org":[
             "Pax Christi"
         ],
+        "uid":"PaxC",
         "contacted":false,
         "regionfocus":[
             "World"
@@ -1847,6 +1857,7 @@
         "parent_org":[
             "Pillars of Peace"
         ],
+        "uid":"PXP",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -1922,9 +1933,23 @@
             }
         ],
         "name_en":"Peace X Peace",
-        "contact_person":[
-            "Kim Weichel",
-            "kim@peacexpeace.org"
+        "general_activities":[
+            {
+                "activity_name":"Engage with UN Commissions and agencies",
+                "activity_description":"The Commission on the Status of Women and UN Women; 4. Offer recommendations to US government agencies on key policies affecting women; 5. Support initiatives to reduce discriminatory practices and policies, including Islamophobia and anti-Semitism, and facilitate cross cultural dialogue for deepened understanding; 6. Provide transformational leadership training to equip women leaders with a range of critical resources and skills to facilitate change, specifically in support of the US National Action Plan for Women, Peace and Security called for under UN SCR 1325;"
+            },
+            {
+                "activity_name":"Peace through Mentorship",
+                "activity_description":"This program is designed to foster a network of professional relationships between young women seeking to build peace and advance through their chosen professions and older women who seek to share their wisdom and experience;"
+            },
+            {
+                "activity_name":"Pillars of Peace",
+                "activity_description":"Peace X Peace and its members have identified eight requirements for thriving communities, which are Conflict Transformation, Cross-cultural Understanding, Economic Empowerment, Education, Environmental Sustainability, Health and Well-being, Interfaith Dialogue and Justice and Good Governance;"
+            },
+            {
+                "activity_name":"Connection Point Dialogues (CP Dialogues)",
+                "activity_description":"Launched its pilot in the fall of 2012. It is a web-based facilitated dialogue opportunity for women  to engage in a cross-cultural learning process, discussing a variety of issues impacting the status of women both in Western societies and in predominantly Arab and Muslim societies;"
+            }
         ],
         "structure":"11 members of the Board of Directors",
         "other_relations":[
@@ -1948,27 +1973,14 @@
             "date":"20140723",
             "author":"CC"
         },
-        "general_activities":[
-            {
-                "activity_name":"Engage with UN Commissions and agencies",
-                "activity_description":"The Commission on the Status of Women and UN Women; 4. Offer recommendations to US government agencies on key policies affecting women; 5. Support initiatives to reduce discriminatory practices and policies, including Islamophobia and anti-Semitism, and facilitate cross cultural dialogue for deepened understanding; 6. Provide transformational leadership training to equip women leaders with a range of critical resources and skills to facilitate change, specifically in support of the US National Action Plan for Women, Peace and Security called for under UN SCR 1325;"
-            },
-            {
-                "activity_name":"Peace through Mentorship",
-                "activity_description":"This program is designed to foster a network of professional relationships between young women seeking to build peace and advance through their chosen professions and older women who seek to share their wisdom and experience;"
-            },
-            {
-                "activity_name":"Pillars of Peace",
-                "activity_description":"Peace X Peace and its members have identified eight requirements for thriving communities, which are Conflict Transformation, Cross-cultural Understanding, Economic Empowerment, Education, Environmental Sustainability, Health and Well-being, Interfaith Dialogue and Justice and Good Governance;"
-            },
-            {
-                "activity_name":"Connection Point Dialogues (CP Dialogues)",
-                "activity_description":"Launched its pilot in the fall of 2012. It is a web-based facilitated dialogue opportunity for women  to engage in a cross-cultural learning process, discussing a variety of issues impacting the status of women both in Western societies and in predominantly Arab and Muslim societies;"
-            }
+        "contact_person":[
+            "Kim Weichel",
+            "kim@peacexpeace.org"
         ],
         "history":"Founded in January 2005."
     },
     {
+        "uid":"Dan",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2045,10 +2057,7 @@
         "email_gen":"danmission@danmission.dk",
         "IRD_activities":[],
         "name_en":"Danmission",
-        "contact_person":[
-            "Inga Holseg\u00e5rd Rasmussen",
-            "ihr@danmission.dk"
-        ],
+        "general_activities":[],
         "structure":"No information",
         "other_relations":"No information",
         "IRD_def":"Their mission is to give people in other countries a possibility to be acquainted with Christian belief as well as improving the conditions under which these people live. Therefore, they help churches to grow and to develop, facilitating dialogue to increase peace and mutual understanding, and striving to fight poverty.",
@@ -2067,10 +2076,14 @@
             "date":"20140723",
             "author":"CC"
         },
-        "general_activities":[],
+        "contact_person":[
+            "Inga Holseg\u00e5rd Rasmussen",
+            "ihr@danmission.dk"
+        ],
         "history":"1 Jan 2000, on merger of 'Danish Mission Society', founded 1821, with 'Danish Santal Mission'. Operates within the Danish Lutheran Church."
     },
     {
+        "uid":"FDCD",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -2198,8 +2211,11 @@
         "history":"Founded in 2004."
     },
     {
+        "uid":"KAS",
         "contacted":false,
-        "religious_affiliation":"No information",
+        "regionfocus":[
+            "World"
+        ],
         "adresses":{
             "Address1":{
                 "lat":52.50810999999999,
@@ -2237,9 +2253,7 @@
             "About 560 employees are working for the foundation\u2019s ten main departments."
         ],
         "IO_relations":"No information",
-        "regionfocus":[
-            "World"
-        ],
+        "religious_affiliation":"No information",
         "languages":[
             "English",
             "German",
@@ -2380,6 +2394,7 @@
         "history":"Established in 1955 as \u201cSociety for Christian-Democratic Civic Education\u201d, the Foundation took on the name of the first Federal Chancellor in 1964."
     },
     {
+        "uid":"WCRC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2533,6 +2548,7 @@
         "history":"WCRC has its roots in the 16th-century Reformation. In June 2010, by merger of Reformed Ecumenical Council (REC) and World Alliance of Reformed Churches (WARC)."
     },
     {
+        "uid":"WCC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2614,9 +2630,7 @@
             "11m",
             "12m"
         ],
-        "events":[
-            "2014: Building an interfaith community: A community of young Christians, Muslims and Jews works for climate justice, Bossey, Switzerland"
-        ],
+        "finances":"Contributions from member churches; funds from church-related organizations, foundations and individuals; income from investments, rental of offices, fees for courses, sale of publications.",
         "website":"http://www.oikoumene.org/en",
         "foundation":"1948",
         "acronym":"WCC",
@@ -2626,7 +2640,9 @@
         "other_relations":"No information",
         "IRD_def":"WCC's project of \"Strengthening inter-religious trust and respect\" attempts to strengthen inter-religious trust and respect through bilateral and multilateral dialogues, regional and cross-cultural encounters on topics like religion and violence, perceptions of \"the other\", and the search for identity in pluralistic societies.",
         "country":"Switzerland",
-        "finances":"Contributions from member churches; funds from church-related organizations, foundations and individuals; income from investments, rental of offices, fees for courses, sale of publications.",
+        "events":[
+            "2014: Building an interfaith community: A community of young Christians, Muslims and Jews works for climate justice, Bossey, Switzerland"
+        ],
         "aim":"Pursue the goal of the visible unity of the Church. This involves a process of renewal and change in which member churches pray, worship, discuss and work together.",
         "org_type":[
             "B",
@@ -2677,6 +2693,7 @@
         "history":"The World Council of Churches was formally inaugurated in 1948 at its first Assembly in Amsterdam, the Netherlands."
     },
     {
+        "uid":"MECC",
         "contacted":false,
         "religious_affiliation":[
             "Christianity"
@@ -2761,10 +2778,7 @@
             "11m",
             "12m"
         ],
-        "events":[
-            "2012: The General Secretary of the Middle East Council of Churches paid His First visit to Egypt where he met with the Church leaders, Cairo, Egypt",
-            "2014: The General Secretary of the Middle East Council of Churches called the Presidents of the Council to an extraordinary meeting, Amman, Jordan"
-        ],
+        "finances":"No information",
         "website":"http://mecc.org/en",
         "foundation":"1990",
         "acronym":"MECC",
@@ -2779,7 +2793,10 @@
         ],
         "IRD_def":"MECC believes that dialogue between religions is a corner-stone of maintaining coexistence, tolerance, and peace between people and nations. Christians and Muslims in the Middle East have a responsibility before God to find ways and means of preserving the dignity of human beings. One of these means is to move the dialogue of religions and life from \"top\" of the pyramid of the society to the grassroots level.",
         "country":"Lebanon",
-        "finances":"No information",
+        "events":[
+            "2012: The General Secretary of the Middle East Council of Churches paid His First visit to Egypt where he met with the Church leaders, Cairo, Egypt",
+            "2014: The General Secretary of the Middle East Council of Churches called the Presidents of the Council to an extraordinary meeting, Amman, Jordan"
+        ],
         "aim":"Unify the visions and attitudes among the churches, especially in issues related to the Christian Presence and Witness in the Middle East and prominent among these issues is the question of Muslim-Christian dialogue.",
         "org_type":[
             "D",
@@ -2819,6 +2836,7 @@
         "parent_org":[
             "Conference of European Churches"
         ],
+        "uid":"cec.cid",
         "contacted":false,
         "regionfocus":[
             "Europe"
@@ -2910,6 +2928,7 @@
         "history":"Following the vote of a new Constitution for CEC during the 14th CEC Assembly in Budapest in 2013 the Churches in Dialogue Commission ceased to exist as a commission within CEC."
     },
     {
+        "uid":"JICRC",
         "contacted":false,
         "religious_affiliation":"No information",
         "adresses":{
@@ -3029,6 +3048,7 @@
         "history":"Founded in 2003."
     },
     {
+        "uid":"LWF",
         "contacted":false,
         "religious_affiliation":[
             "Lutheranism"
@@ -3146,9 +3166,31 @@
             }
         ],
         "name_en":"Lutheran World Federation",
-        "contact_person":[
-            "Ms Karin  Striebel",
-            "kst@lutheranworld.org"
+        "general_activities":[
+            {
+                "activity_name":"Sustainable Livelihoods in a Changing Climate",
+                "activity_description":"With our long track record of community-based development, working to help communities lift themselves out of poverty in harmony with creation;"
+            },
+            {
+                "activity_name":"Human rights, protection, and peace",
+                "activity_description":"Working to empower community-led action for human rights, justice, and peace and developing local capacities for leadership and governance and promote access to essential services;"
+            },
+            {
+                "activity_name":"Disaster Risk Reduction & Emergency Preparedness and Response",
+                "activity_description":"Responding to save lives as disasters unfold and continue to assist vulnerable communities through recovery and rehabilitation and helping communities to pro-actively reduce risks and prepare before disasters strike;"
+            },
+            {
+                "activity_name":"Theology of Work/Sub-program",
+                "activity_description":"This annual symposium seeks to provide a platform for theological and inter-disciplinary reflection on the topic of work;"
+            },
+            {
+                "activity_name":"Religion and Development",
+                "activity_description":"Three workshops on rights-based approach principles for church leaders, development workers and theology faculty. Focus is on broad participation of youth, women and persons with diverse skills to strengthen the effectiveness of local churches. Workshops aim to foster a link between church life and the human rights principles for development;"
+            },
+            {
+                "activity_name":"Religion and Development",
+                "activity_description":"Workshops with seminaries to establish curriculum that ensures the inclusion of human rights dimensions in pastoral formation; 9. Lutheran-Anglican Dialogue; 10. Lutheran-Mennonite Dialogue; 11. Lutheran-Orthodox Dialogue; 12. Lutheran-Reformed Dialogue; 13. Lutheran-Roman Catholic Dialogue;"
+            }
         ],
         "structure":"President; 7 Vice-Presidents; Assembly (every 6-7 years); Council; Meeting of Officers; Committee for Advocacy and Public Voice; Finance Committee; Committee for Mission and Development; Sub-Committee for Mission and Development; Committee for Theology and Ecumenical Relations; Committee for World Service; Standing Committee for Communications; Standing Committee for Constitution and Membership; \n\nCommunion Office:\nDepartment for Mission & Development, Department for Planning and Operations, Department for Theology & Public Witness, Department for World Service, Office of the General Secretary",
         "other_relations":[
@@ -3178,31 +3220,9 @@
             "date":"20140729",
             "author":"CC"
         },
-        "general_activities":[
-            {
-                "activity_name":"Sustainable Livelihoods in a Changing Climate",
-                "activity_description":"With our long track record of community-based development, working to help communities lift themselves out of poverty in harmony with creation;"
-            },
-            {
-                "activity_name":"Human rights, protection, and peace",
-                "activity_description":"Working to empower community-led action for human rights, justice, and peace and developing local capacities for leadership and governance and promote access to essential services;"
-            },
-            {
-                "activity_name":"Disaster Risk Reduction & Emergency Preparedness and Response",
-                "activity_description":"Responding to save lives as disasters unfold and continue to assist vulnerable communities through recovery and rehabilitation and helping communities to pro-actively reduce risks and prepare before disasters strike;"
-            },
-            {
-                "activity_name":"Theology of Work/Sub-program",
-                "activity_description":"This annual symposium seeks to provide a platform for theological and inter-disciplinary reflection on the topic of work;"
-            },
-            {
-                "activity_name":"Religion and Development",
-                "activity_description":"Three workshops on rights-based approach principles for church leaders, development workers and theology faculty. Focus is on broad participation of youth, women and persons with diverse skills to strengthen the effectiveness of local churches. Workshops aim to foster a link between church life and the human rights principles for development;"
-            },
-            {
-                "activity_name":"Religion and Development",
-                "activity_description":"Workshops with seminaries to establish curriculum that ensures the inclusion of human rights dimensions in pastoral formation; 9. Lutheran-Anglican Dialogue; 10. Lutheran-Mennonite Dialogue; 11. Lutheran-Orthodox Dialogue; 12. Lutheran-Reformed Dialogue; 13. Lutheran-Roman Catholic Dialogue;"
-            }
+        "contact_person":[
+            "Ms Karin  Striebel",
+            "kst@lutheranworld.org"
         ],
         "history":"The LWF was established in 1947 as a Federation of Lutheran churches. Lutherans worldwide wanted to confess, reflect, reconcile, and to respond together to human suffering in the aftermath of the Second World War."
     }
